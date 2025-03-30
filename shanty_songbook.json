@@ -1,0 +1,49 @@
+[
+  {
+    "title": "White Bear's Manitou Park Farewell",
+    "tone": "bittersweet",
+    "lyrics": "We set sail from the park of bear,\nUnder the moon's soft glow...\nA crew once strong, now scattered wide,\nSailing on the tide of time.\n\n'Hoist the mainsail, trim the yard!\nLet's remember days of yore.\nThrough storm and calm, we stood our ground,\nOn White Bear's Manitou shore.\n",
+    "theme": "departure",
+    "structure": "verse-chorus",
+    "tags": [
+      "crew",
+      "ai",
+      "generated",
+      "ocean",
+      "farewell"
+    ],
+    "context": "We're setting out from White Bear's Manitou Park.",
+    "lines": "We set sail from the park of bear,\nUnder the moon's soft glow...\nA crew once strong, now scattered wide,\nSailing on the tide of time.\n\n'Hoist the mainsail, trim the yard!\nLet's remember days of yore.\nThrough storm and calm, we stood our ground,\nOn White Bear's Manitou shore.",
+    "human_rating": 5,
+    "ai_rating": "None",
+    "reviewed_by": "None",
+    "review_notes": "",
+    "source": "ai_generated",
+    "model": "mistral",
+    "created_at": "2025-03-30T12:09:02.085514",
+    "approved_for_future_inspiration": true
+  },
+  {
+    "title": "The White Bear's Manitou March",
+    "tone": "joyful",
+    "theme": "departure",
+    "structure": "verse-chorus",
+    "tags": [
+      "ai",
+      "adventure",
+      "ocean",
+      "generated",
+      "crew"
+    ],
+    "context": "We're setting out from White Bear's Manitou Park.",
+    "lines": "From the heart of White Bear's park we set our sail\nUnderneath the moonlight, spirits high and hale\nSailor's cheer echoes through the dark,\n'Til the dawn breaks on this adventure stark.\n\nChant the rhythm of a sailor's call,\nRaise your glass and answer Manitou's tall!",
+    "human_rating": "None",
+    "ai_rating": "None",
+    "reviewed_by": "None",
+    "review_notes": "None",
+    "source": "ai_generated",
+    "model": "mistral",
+    "created_at": "2025-03-30T12:13:26.324387",
+    "approved_for_future_inspiration": "None"
+  }
+]
