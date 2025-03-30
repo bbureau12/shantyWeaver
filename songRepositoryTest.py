@@ -5,7 +5,7 @@ repo = ShantyRepository("shanties.json")
 print("\n🔍 Searching by prompt:")
 results = repo.search_by_prompt(
     text="calm seas and a weary crew under twilight",
-    tone="bittersweet",
+    tone="sad",
     k=2,
     add_random=True
 )
