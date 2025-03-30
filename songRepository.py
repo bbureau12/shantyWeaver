@@ -2,6 +2,8 @@ import json
 import faiss
 import random
 from sentence_transformers import SentenceTransformer
+from sklearn.metrics.pairwise import cosine_similarity
+import numpy as np
 
 class ShantyRepository:
     def __init__(self, json_path="shanties.json"):
@@ -12,61 +14,103 @@ class ShantyRepository:
         self.index = faiss.IndexFlatL2(self.embeddings[0].shape[0])
         self.index.add(self.embeddings)
 
-    def search_by_prompt(
-        self,
-        text: str,
-        k: int = 3,
-        tone: str = None,
-        theme: str = None,
-        structure: str = None,
-        add_random: bool = False
-    ):
-        # Filter songs based on optional metadata
-        filtered_songs = self.songs
-        if tone:
-            filtered_songs = [s for s in filtered_songs if s.get("tone", "").lower() == tone.lower()]
-        if theme:
-            filtered_songs = [s for s in filtered_songs if s.get("theme", "").lower() == theme.lower()]
-        if structure:
-            filtered_songs = [s for s in filtered_songs if s.get("structure", "").lower() == structure.lower()]
+        # Build vocabulary from metadata
+        self.vocab = self.build_vocab()
+        self.vocab_embeddings = self.model.encode(self.vocab, normalize_embeddings=True)
 
+    def build_vocab(self):
+        vocab = set()
+        for song in self.songs:
+            for key in ["tone", "tags", "theme", "structure"]:
+                val = song.get(key)
+                if isinstance(val, str):
+                    vocab.add(val.lower())
+                elif isinstance(val, list):
+                    vocab.update(v.lower() for v in val if isinstance(v, str))
+        return list(vocab)
+
+    def expand_semantically(self, term, top_k=5, threshold=0.5):
+        query_embedding = self.model.encode([term], normalize_embeddings=True)
+        similarities = cosine_similarity(query_embedding, self.vocab_embeddings)[0]
+
+        results = [
+            self.vocab[i]
+            for i, score in enumerate(similarities)
+            if score >= threshold and self.vocab[i] != term
+        ]
+        return results[:top_k]
+
+    def search_by_prompt(self, text, k=3, tone=None, theme=None, structure=None, add_random=True, threshold=0.8):
+        filtered_songs = self.search_by_any_match(self.songs, tone=tone, theme=theme, structure=structure)
         if not filtered_songs:
-            filtered_songs =  random.choices(self.songs, k)
+            filtered_songs = random.choices(self.songs, k=k)
 
-        # Prepare documents to embed from filtered list
         docs = [s["title"] + ": " + s["lines"] for s in filtered_songs]
         embeddings = self.model.encode(docs)
-        
-        # Build temporary FAISS index for filtered data
         dim = embeddings[0].shape[0]
         temp_index = faiss.IndexFlatL2(dim)
         temp_index.add(embeddings)
 
         query_vec = self.model.encode([text])
         _, idxs = temp_index.search(query_vec, min(k, len(filtered_songs)))
-
-        # Gather top results
         top_results = [filtered_songs[i] for i in idxs[0]]
 
-# Determine how many random songs to add
         random_count = k - len(top_results) if len(top_results) < k else 1
-
-        # Add random non-duplicate(s) from filtered set, fallback to full set if needed
         if add_random:
-            candidates = [s for s in filtered_songs if s not in top_results]
-            if len(candidates) < random_count:
-                # Fallback to all songs
-                candidates = [s for s in self.songs if s not in top_results]
-
+            candidates = [s for s in self.songs if s not in top_results]
             if candidates:
                 extras = random.sample(candidates, k=min(random_count, len(candidates)))
                 top_results.extend(extras)
 
         return top_results
 
-    def get_random_songs(self, times: int = 1):
+    def search_by_any_match(self, songs, tone=None, theme=None, structure=None):
+        tone_matches = self.fuzzy_filter(songs, "tone", tone) if tone else []
+        tag_matches = self.fuzzy_filter(songs, "tags", tone) if tone else []
+        theme_matches = self.fuzzy_filter(songs, "theme", theme) if theme else []
+        structure_matches = self.fuzzy_filter(songs, "structure", structure) if structure else []
+
+        combined_results = tone_matches + tag_matches + theme_matches + structure_matches
+        return self.dedup(combined_results) if combined_results else songs
+
+    def fuzzy_filter(self, songs, key, values):
+        if not values:
+            return songs
+
+        raw_terms = [v.strip().lower() for v in values.split(",")]
+        terms = set()
+        for term in raw_terms:
+            terms.add(term)
+            terms.update(self.expand_semantically(term))
+
+        filtered = []
+        for song in songs:
+            field = song.get(key, "")
+            if isinstance(field, str):
+                if any(term in field.lower() for term in terms):
+                    filtered.append(song)
+            elif isinstance(field, list):
+                if any(term in str(item).lower() for term in terms for item in field):
+                    filtered.append(song)
+        return filtered
+
+    def dedup(self, songs):
+        seen = set()
+        unique = []
+        for song in songs:
+            # Convert all values to tuples if they are lists
+            hashable_items = tuple(
+                (k, tuple(v) if isinstance(v, list) else v)
+                for k, v in sorted(song.items())
+            )
+            if hashable_items not in seen:
+                seen.add(hashable_items)
+                unique.append(song)
+        return unique
+
+    def get_random_songs(self, times=1):
         return random.choices(self.songs, k=times)
-    
+
     def _load_json(self, path):
-        with open(path, 'r') as f:
+        with open(path, 'r', encoding="utf-8") as f:
             return json.load(f)["songs"]

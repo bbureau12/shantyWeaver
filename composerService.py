@@ -1,3 +1,4 @@
+import datetime
 import json
 import os
 import ollama
@@ -55,6 +56,7 @@ class ShantyComposerService:
             "source": "ai_generated",
             "model": model,
             "tags": ["ai", "generated"],
+            "created_at": datetime.now().isoformat(),
             "approved_for_future_inspiration": rating >= 4
         }
 
