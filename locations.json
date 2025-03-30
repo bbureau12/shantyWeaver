@@ -1,0 +1,61 @@
+[
+    {
+        "name":"White Bear Lake",
+        "type":"Lake and Town",
+        "parent_location": "Minnesota",
+        "size": "8 sq mile",
+        "description": "White Bear Lake is a city in Ramsey County in the state of Minnesota, United States. A small portion of the city also extends into Washington County. The population was 24,883 at the 2020 census.[3] The city is located on White Bear Lake, one of the largest lakes in the Minneapolis–Saint Paul metropolitan area. The lake is a large lake that is home to many different species of fish including largemouth bass, smallmouth bass, northern pike, and a variety of other species.",
+        "lore":" is said that a Sioux maiden fell in love with a Chippewa brave. She, the daughter of the Chief, on learning that her father planned war against the Chippewa, ran to her lover and warned him. The brave went alone into the Sioux village to ask for peace and the hand of the maiden. Before the Chief would agree, the Chippewa would have to do a brave deed.  The lovers usually met on Manitou Island. One day, as the brave approached the Island, anticipating a meeting with his beloved, he saw, to his horror, a great white bear attacking her. He dashed to her rescue. Freed, she ran to get help from her father and the other Sioux. Returning, they saw the brave sink his knife into the bear. But too late, they both fell to the ground dead. Slowly, as they watched, the spirits of the brave and the bear rose from their prone bodies. It is said that even today, as night falls, the spirits of the bear and the brave wander the Island eternally in search of each other."
+    },
+    {
+        "name":"Mahtoska Park",
+        "type":"Harbor and Boat Launch",
+        "parent_location": "White Bear Lake",
+        "description": "Mahtoska Park is a medium-sized park along the Lake Avenue walking trail on the North Western side of White Bear Lake.  It has a boat launch and a two-story white gazebo that can be seen from the beach.  Many sailboats are moored there and it is the best launch on White Bear Lake."
+    },
+    {
+        "name":"Manitou Island",
+        "type":"Landmark",
+        "parent_location": "White Bear Lake",
+        "description": "A nominal island (the channel between it and the shore is very shallow) on the mid-western part of White Bear Lake.  The private road to Manitou Island goes through Mahtoska Park.  The island itself is private and home to many high-end houses and mansions."
+    },
+    {
+        "name":"The Channel",
+        "type":"Landmark",
+        "parent_location": "White Bear Lake",
+        "description": "The channel between Manitou Island and The Peninsula is shallow and full of rocks; a treacherous place for sailboats with a deep keel.  As there are trees on both sides, this often means little wind.",
+        "lore": "The Springtide, Beau and Amanda's sloop, had a swinging keel (a retractable weight to balance the wind) she'd have to raise when crossing.  When the lake is in drought, few sailboats with a deep draft will cross this."
+    },
+    {
+        "name":"The Peninsula",
+        "type":"Landmark",
+        "parent_location": "White Bear Lake",
+        "description": "The spit of land opposite Manitou Island on the mid-Eastern portion of White Bear, a nice spot with several homes.",
+        "lore":"the Floating White Bear (a wire light-up bear on a pontoon) was often seen docked here."
+    },
+    {
+        "name":"The Docks",
+        "type":"Harbor and Boat Launch",
+        "parent_location": "White Bear Lake",
+        "description": "A large, shared area with many docks and points of commerce in the South-Western part of White Bear Lake.  It has two restaurants; the Admiral and Tally's.",
+        "lore": "bells from the local bank ding hourly in this part of the bay."
+    },
+    {
+        "name":"Sea of Reeds",
+        "type":"Bay",
+        "parent_location": "White Bear Lake",
+        "description": "A small bay, filled with reeds just below Manitou Island and along Mahtoska park's southern shore.  It is often filled with herons, egrets, geese and ducks, though is too shallow for anything but fishing vessels."
+    },
+    {
+        "name":"Northern Bay",
+        "type":"Bay",
+        "parent_location": "White Bear Lake",
+        "description": "The stretch of lake above the Peninsula and Manitou Island, often filled with the calls of loons in the spring and summer.  There's not much to block the wind here, making it great for sailing.  Sailing regattas are held in the summer."
+    },
+    {
+        "name":"Southern Bay",
+        "type":"Bay",
+        "parent_location": "White Bear Lake",
+        "description": "The stretch of lake below the Peninsula and Manitou Island.  This part of the lke is a bit narrower, meaning the trees are closer and there's often less wind. It's also a bit more crowded, particularly in the summer."
+    }
+]
