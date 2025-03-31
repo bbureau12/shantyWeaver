@@ -1,0 +1,289 @@
+[
+    {
+    "name": "Amanda Bureau",
+    "aliases": ["Amanda Hunter"],
+    "type": "Human",
+    "description": "Navigator, helmsman, and co-owner of the Springtide. Curvy woman of average height and copper-red hair.",
+    "ships": [ "Springtide", "Amanda Louise"],
+    "roles": ["Navigator", "Helmsman", "Co-owner"],
+    "relationships": [
+        { "name": "Beau Bureau", "type": "spouse" },
+        { "name": "Robert Bureau", "type": "father-in-law" },
+        { "name": "Theresa Bureau", "type": "mother-in-law" },
+        { "name": "Young Sierra", "type": "friend" },
+        { "name": "Mickey Slitts", "type": "friend" },
+        { "name": "Brian Anderzon", "type": "friend" },
+        { "name": "Rachel Crary", "type": "friend" }
+    ],
+    "lore": [
+        "Was married to Beau Bureau on Oct 2, 2004 aboard the paddleboat Jubilee II wearing her great-grandmother's wedding gown.",
+        "Has been on several book covers.",
+        "Cosplays Victorian outfits.",
+        "Taught basic sailing to many new sailors, including Young Sierra and Rachel Crary.",
+        "Helmed the Springtide on most voyages.",
+        "Possesses excellent knowledge of weather; could predict storms or high winds hours ahead."
+    ],
+    "events": [
+        {
+            "type": "first meeting",
+            "date": "2002-09-01",
+            "location": "Met Beau Bureau in British Literature Class at Century College",
+        },
+        {
+            "type": "wedding",
+            "date": "2004-10-02",
+            "location": "aboard the paddleboat Jubilee II",
+            "details": "Wore her great-grandmother's wedding gown."
+        },
+        {
+            "type": "book appearance",
+            "date": "2018-10-11",
+            "location": "Online",
+            "details": "Victorian photoshoot appeared on the cover of 'Thomas Jefferson's Daughters; Two White and One Black.'"
+        }
+    ]
+    },
+    {
+        "name": "Beau Bureau",
+        "type": "Human",
+        "description": "Scion of the Bureau clan.  A tech engineer, sailor, and mentor.",
+        "ships": [ "Springtide", "Amanda Louise", "Unicorn"],
+        "roles": ["Photographer", "Carpenter", "Co-owner"],
+        "relationships": [
+            { "name": "Beau Bureau", "type": "spouse" },
+            { "name": "Robert Bureau", "type": "father" },
+            { "name": "Theresa Bureau", "type": "mother" },
+            { "name": "Young Sierra", "type": "student" },
+            { "name": "Young Samantha", "type": "student" },
+            { "name": "Mickey Slitts", "type": "friend" },
+            { "name": "Brian Anderzon", "type": "friend" },
+            { "name": "Rachel Crary", "type": "friend" }
+        ],
+        "lore": [
+            "Was married to Amanda Bureau on Oct 2, 2004 aboard the paddleboat Jubilee II wearing her great-grandmother's wedding gown.",
+            "Has an amazing collection of hats.",
+            "Owns a suit of armor from the Ukraine.",
+            "Took a paycut to save his junior developers from layoffs.",
+            "Rigged a 20' pole to get better video of the Springtide.",
+            "Repaired the Springtide, built the Amanda Louise and Unicorn",
+            "Established the Binary Order and its code to do good through technology"
+        ],
+        "events": [
+            {
+                "type": "first meeting",
+                "date": "2002-09-01",
+                "location": "Century College",
+                "details": "Met Amanda Hunter in British Literature Class"
+            },
+            {
+                "type": "apprenticeship",
+                "date": "2003-09-15",
+                "location": "Roseville",
+                "details": "Apprenticed under his father as an IT Manager/Developer."
+            },
+            {
+                "type": "wedding",
+                "date": "2004-10-02",
+                "location": "aboard the paddleboat Jubilee II",
+                "details": "carried a sword"
+            },
+            {
+                "type": "new job",
+                "date": "2005-09-15",
+                "location": "Circle Pines",
+                "details": "hired as Lead Developer and IT Director."
+            },
+            {
+                "type": "first meeting",
+                "date": "2008-06-15",
+                "location": "Circle Pines",
+                "details": "first hired Young Sierra.  Famously asked her why she'd ever want to join IT.  She replies 'my mother told me to, Sir.'"
+            },
+            {           
+                "type": "boat purchase",
+                "date": "2009-10-15",
+                "location": "White Bear Lake",
+                "details": "Purchased the Springtide."
+            },
+            {           
+                "type": "boat construction",
+                "date": "2015-10-15",
+                "location": "Nisswa",
+                "details": "Finished construction on the Amanda Louise, a 10' cat-rigged sailboat."
+            },
+            {
+                "type": "first meeting",
+                "date": "2019-10-15",
+                "location": "first hired Young Samantha as a coder",
+                "details": "Hired Young Samantha. Demanded she be hired over other candidates as she was like him.  She solved a complex question regarding callibrating a weather station to a sailboat."
+            },
+            {
+                "type": "promotion",
+                "date": "2022-11-04",
+                "location": "promoted Young Samantha to mid-level coder and knight of the ",
+                "details": "Has her take The Oath."
+            }
+        ]
+    },
+    {
+        "name": "Mickey Slitts",
+        "type": "Human",
+        "description": "Philosopher and poi-juggler aboard the Springtide",
+        "ships": [ "Springtide"],
+        "roles": ["Philosopher", "Helmsman", "Poi-juggler"],
+        "relationships": [
+            { "name": "Beau Bureau", "type": "friend" },
+            { "name": "Amanda Bureau", "type": "friend" },
+            { "name": "Young Sierra", "type": "friend" },
+            { "name": "Mickey Slitts", "type": "friend" },
+            { "name": "Brian Anderzon", "type": "friend" },
+            { "name": "Rachel Crary", "type": "friend" }
+        ],
+        "lore": [
+            "Got a bachelor's with a dual major in chemistry and philosophy.",
+            "Created an AI that played Super Mario Bros.",
+            "Wore awesome leisure suits.",
+            "Often juggled poi balls on the bow of the Springtide, sometimes LED-lit balls during night sails.",
+            "Often took the tiller in high winds, loved the feel of the boat heeling."
+        ],
+        "events": [
+            {
+                "type": "first meeting",
+                "date": "20012-09-01",
+                "location": "Roseville",
+                "details": "Met Beau Bureau at work; first sailed aboard the Springtide."
+            }
+        ]
+    },
+    {
+        "name": "Brian Anderzon",
+        "type": "Human",
+        "description": "Philosopher and poi-juggler aboard the Springtide",
+        "ships": [ "Springtide"],
+        "roles": ["Musician", "Bosun"],
+        "relationships": [
+            { "name": "Beau Bureau", "type": "friend" },
+            { "name": "Amanda Bureau", "type": "friend" },
+            { "name": "Mickey Slitts", "type": "friend" },
+            { "name": "Rachel Crary", "type": "friend" }
+        ],
+        "lore": [
+            "Played numerous instruments, including the hurdy gurdy and jaw harp.",
+            "Composed the Ballad of the Springtide, since lost to time.",
+            "Famously helmed the boat when, caught in a regatta, the Springtide flew around one of its bouys in an admirable fashion.",
+            "Spoke of an enormous snapping turtle he named Old Bruce"
+        ],
+        "events": [
+            {
+                "type": "first meeting",
+                "date": "1996-09-01",
+                "location": "Century College",
+                "details": "First met Beau Bureau."
+            }
+        ]
+    },
+    {
+        "name": "Young Sierra",
+        "type": "Human",
+        "aliases": ["Sierra Markl"],
+        "description": "First Mate aboard the Springtide.  Solidly built woman with red hair.",
+        "ships": [ "Springtide"],
+        "roles": ["First Mate"],
+        "relationships": [
+            { "name": "Beau Bureau", "type": "friend" },
+            { "name": "Amanda Bureau", "type": "friend" },
+            { "name": "Mickey Slitts", "type": "friend" },
+            { "name": "Brian Anderzon", "type": "friend" },
+            { "name": "Rachel Crary", "type": "friend" },
+            { "name": "Nick Markl", "type": "spouse" },
+            { "name": "Karver Markl", "type": "child" }
+        ],
+        "lore": [
+            "Allegedly dragged Atlantis from White Bear as a show of strength.",
+            "Often insisted on cleaning Beau's office, regardless of anything he said.",
+            "Went to college on a soccer scholarship."
+        ],
+        "events": [
+            {
+                "type": "first meeting",
+                "date": "2008-06-15",
+                "location": "Circle Pines",
+                "details": "first worked for Beau Bureau as an IT intern.  He famously asked her why she'd ever want to join IT.  She replies 'my mother told me to, Sir.'"
+            },
+            {
+                "type": "marriarge",
+                "date": "2023-10-14",
+                "location": "South Dakota",
+                "details": "Married Nick."
+            },
+            {
+                "type": "motherhood",
+                "date": "2024-12-15",
+                "location": "South Dakota",
+                "details": "Bore a daughter she named Karver."
+            }
+        ]
+    },
+    {
+        "name": "Robert Bureau",
+        "type": "Human",
+        "aliases": ["Bongo", "The Deck King"],
+        "description": "Co-owner of the Springtide, builder of the Amanda Louise and Bureau Manor.  An elderly man with grey hair.",
+        "ships": [ "Springtide"],
+        "roles": ["First Mate"],
+        "relationships": [
+            { "name": "Beau Bureau", "type": "son" },
+            { "name": "Amanda Bureau", "type": "daughter-in-law" },
+            { "name": "Theresa Bureau", "type": "spouse" }
+        ],
+        "lore": [
+            "Caught in a storm on Lake Superior as a child.  Jumped into the raging waters to rescue another boat.  Saw the propeller of his boat rise out of the water and slam down in front of him.",
+            "Tried in vain to save a friend who had been shot in a hunting accident; rowing him miles across the water to get help.",
+            "Built Bureau Manor from the foundation; a sprawling estate of 5,000 sq ft with 4 total decks, porches and balconies.",
+            "Taught his children to code from a young age.",
+            "Not fond of cats.",
+            "Argued with various conservatives senators on the topic of gay rights, providing them with evidence that homosexuals make equally good parents."
+        ]
+    },
+    {
+        "name": "Springtide",
+        "type": "Boat",
+        "length_ft": 19.9,
+        "keel_type": "swinging",
+        "mast_count": 1,
+        "sail_count": 2,
+        "aliases": ["Le Li Lo Ju"],
+        "description": "A 20' O'Day Daysailer",
+        "relationships": [
+            { "name": "Beau Bureau", "type": "captain" },
+            { "name": "Amanda Bureau", "type": "navigator" },
+            { "name": "Mickey Slitts", "type": "philosopher" },
+            { "name": "Brian Anderzon", "type": "bosun" },
+            { "name": "Rachel Crary", "type": "topman" },
+            { "name": "Sierra Hogan", "type": "first mate" }
+        ],
+        "lore": [
+            "Built in the 1980s by the O'Day Corporation.",
+            "Originally owned by an elderly couple in Duluth.",
+            "Purchased by Beau and Amanda Bureau in the 2000s",
+            "Renamed the Springtide for the tide that lifted boats off reefs."
+        ]
+    },
+    {
+        "name": "Amanda Louise",
+        "type": "Boat",
+        "length_ft": 9.9,
+        "keel_type": "daggerboard",
+        "mast_count": 1,
+        "sail_count": 1,
+        "description": "A 10' Nutshell Pram Sailer",
+        "relationships": [
+            { "name": "Beau Bureau", "type": "captain" },
+            { "name": "Amanda Bureau", "type": "vice captain" }
+        ],
+        "lore": [
+            "Built in 2016 by Beau and Bob Bureau",
+            "Named for Vice Captain Amanda Louise"
+        ]
+    }
+]

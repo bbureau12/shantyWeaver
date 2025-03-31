@@ -1,0 +1,69 @@
+hybrid_philosopher_pseudocode = """
+# --- Hybrid Philosopher: LLM + TensorFlow-Based Evaluation ---
+
+class HybridPhilosopher:
+    def __init__(self, llm_model, tf_vocab_model, structure_rules):
+        self.llm_model = llm_model
+        self.tf_vocab_model = tf_vocab_model
+        self.structure_rules = structure_rules  # custom logic
+
+    def evaluate_structure(self, shanty):
+        # Example: Check line length consistency, repetition, chorus placement
+        lines = shanty.split('\\n')
+        avg_line_length = sum(len(line.split()) for line in lines) / len(lines)
+        chorus_repeats = count_repeating_lines(lines)
+        score = 10 if chorus_repeats >= 2 else 6
+        return {'structure_score': score, 'details': f'Chorus repeated {chorus_repeats} times'}
+
+    def evaluate_vocabulary(self, shanty):
+        # Use TF model to evaluate nautical vocabulary richness
+        prob = self.tf_vocab_model.predict([shanty])[0]
+        score = round(prob * 10)
+        return {'vocab_score': score, 'details': f'Nautical vocab match probability: {prob:.2f}'}
+
+    def evaluate_with_llm(self, shanty):
+        # Send prompt to LLM and extract evaluation
+        prompt = f\"\"\"
+You are the Philosopher, a poetic and knowledgeable sea shanty critic.
+
+Judge the following shanty using these criteria (1–10):
+- Poetic rhythm and pacing
+- Emotional or narrative cohesion
+- Singability and tone
+
+Provide a JSON object like:
+{{
+    "rhythm_score": <1-10>,
+    "emotion_score": <1-10>,
+    "singability_score": <1-10>,
+    "feedback": "Your overall thoughts and suggestions."
+}}
+
+Shanty:
+\"\"\"
+{shanty}
+\"\"\"
+        \"\"\"
+        response = self.llm_model(prompt)
+        return json.loads(response)
+
+    def review_shanty(self, shanty):
+        structure_result = self.evaluate_structure(shanty)
+        vocab_result = self.evaluate_vocabulary(shanty)
+        llm_result = self.evaluate_with_llm(shanty)
+
+        final_score = (structure_result['structure_score'] +
+                       vocab_result['vocab_score'] +
+                       llm_result['rhythm_score'] +
+                       llm_result['emotion_score'] +
+                       llm_result['singability_score']) / 5
+
+        return {
+            'final_score': round(final_score, 2),
+            'structure': structure_result,
+            'vocab': vocab_result,
+            'llm': llm_result
+        }
+"""
+
+print(hybrid_philosopher_pseudocode)
