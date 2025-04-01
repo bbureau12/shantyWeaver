@@ -21,13 +21,14 @@
         "Cosplays Victorian outfits.",
         "Taught basic sailing to many new sailors, including Young Sierra and Rachel Crary.",
         "Helmed the Springtide on most voyages.",
-        "Possesses excellent knowledge of weather; could predict storms or high winds hours ahead."
+        "Possesses excellent knowledge of weather; could predict storms or high winds hours ahead.",
+        "Legends say she navigated through a thick fog in the Sea of Reeds to scuttle Zombie Napoleon's invasion fleet."
     ],
     "events": [
         {
             "type": "first meeting",
             "date": "2002-09-01",
-            "location": "Met Beau Bureau in British Literature Class at Century College",
+            "location": "Met Beau Bureau in British Literature Class at Century College"
         },
         {
             "type": "wedding",
@@ -55,9 +56,11 @@
             { "name": "Theresa Bureau", "type": "mother" },
             { "name": "Young Sierra", "type": "student" },
             { "name": "Young Samantha", "type": "student" },
+            { "name": "Princess Christine", "type": "honorary sibling and royal patron" },
             { "name": "Mickey Slitts", "type": "friend" },
             { "name": "Brian Anderzon", "type": "friend" },
-            { "name": "Rachel Crary", "type": "friend" }
+            { "name": "Rachel Crary", "type": "friend" },
+            { "name": "Zombie Napoleon", "type": "rival" }
         ],
         "lore": [
             "Was married to Amanda Bureau on Oct 2, 2004 aboard the paddleboat Jubilee II wearing her great-grandmother's wedding gown.",
@@ -66,7 +69,8 @@
             "Took a paycut to save his junior developers from layoffs.",
             "Rigged a 20' pole to get better video of the Springtide.",
             "Repaired the Springtide, built the Amanda Louise and Unicorn",
-            "Established the Binary Order and its code to do good through technology"
+            "Established the Binary Order and its code to do good through technology",
+            "Legends say he stormed the deck of Zombie Napoleon's flagship during the capture of the Invasion fleet, personally dueling the zombie and negotiating his surrender and release."
         ],
         "events": [
             {
@@ -144,7 +148,9 @@
             "Created an AI that played Super Mario Bros.",
             "Wore awesome leisure suits.",
             "Often juggled poi balls on the bow of the Springtide, sometimes LED-lit balls during night sails.",
-            "Often took the tiller in high winds, loved the feel of the boat heeling."
+            "Often took the tiller in high winds, loved the feel of the boat heeling.",
+            "Famously cared for a tree frog that stowed away in the Springtide's mainsail, keeping it moist and secure until they returned to The Docks.",
+            "Present during the scuttling of Zombie Napoleon's Invasion Fleet.  Helped split up the spoils in a way that wouldn't cause Beau and Young Sierra to fight."
         ],
         "events": [
             {
@@ -171,7 +177,8 @@
             "Played numerous instruments, including the hurdy gurdy and jaw harp.",
             "Composed the Ballad of the Springtide, since lost to time.",
             "Famously helmed the boat when, caught in a regatta, the Springtide flew around one of its bouys in an admirable fashion.",
-            "Spoke of an enormous snapping turtle he named Old Bruce"
+            "Spoke of an enormous snapping turtle he named Old Bruce",
+            "Present during the scuttling of Zombie Napoleon's Invasion Fleet.  Gave the signal for the invasion on a horn. Wielded a double-bearded axe, and later wrote a ballad."
         ],
         "events": [
             {
@@ -201,7 +208,8 @@
         "lore": [
             "Allegedly dragged Atlantis from White Bear as a show of strength.",
             "Often insisted on cleaning Beau's office, regardless of anything he said.",
-            "Went to college on a soccer scholarship."
+            "Went to college on a soccer scholarship.",
+            "Present during the scuttling of Zombie Napoleon's Invasion Fleet.  Personally punched the zombie pontoon named the Monitor unconscious and stole its lunch money."
         ],
         "events": [
             {
@@ -230,7 +238,7 @@
         "aliases": ["Bongo", "The Deck King"],
         "description": "Co-owner of the Springtide, builder of the Amanda Louise and Bureau Manor.  An elderly man with grey hair.",
         "ships": [ "Springtide"],
-        "roles": ["First Mate"],
+        "roles": ["Co-owner"],
         "relationships": [
             { "name": "Beau Bureau", "type": "son" },
             { "name": "Amanda Bureau", "type": "daughter-in-law" },
@@ -243,6 +251,41 @@
             "Taught his children to code from a young age.",
             "Not fond of cats.",
             "Argued with various conservatives senators on the topic of gay rights, providing them with evidence that homosexuals make equally good parents."
+        ]
+    },
+    {
+        "name": "Theresa Bureau",
+        "type": "Human",
+        "aliases": ["Mrs. Bureau"],
+        "description": "Mother to Beau Bureau, former teacher.",
+        "ships": [ "Springtide"],
+        "roles": ["Passenger"],
+        "relationships": [
+            { "name": "Beau Bureau", "type": "son" },
+            { "name": "Amanda Bureau", "type": "daughter-in-law" },
+            { "name": "Robert Bureau", "type": "spouse" }
+        ],
+        "lore": [
+            "Grew up in Riverton, MN.",
+            "Taught web development and computers at Stonebridge Elementary School in Stillwater, MN.",
+            "Built the darkroom in the Stillwater home.",
+            "Loves cats."
+        ]
+    },
+    {
+        "name": "Princess Christine",
+        "type": "Human",
+        "description": "College friend of Beau Bureau and also a princess of Woodbury.",
+        "ships": [ "Springtide"],
+        "roles": ["Royal Patron"],
+        "relationships": [
+            { "name": "Beau Bureau", "type": "honorary sibling and ward" }
+        ],
+        "lore": [
+            "Princes of Woodbury",
+            "Enemy of Zombie Napoleon",
+            "Sewed the Springtide's pennant",
+            "Gave Beau Bureau a privateer's license and knighthood."
         ]
     },
     {
@@ -285,5 +328,12 @@
             "Built in 2016 by Beau and Bob Bureau",
             "Named for Vice Captain Amanda Louise"
         ]
+    },
+    {
+        "name": "Scuttling of Zombie Napoleon's Invasion Fleet",
+        "type": "Event",
+        "status":"Myth",
+        "year": 2019,
+        "description": "Zombie Napoleon, escaped from Purgatory, set to build an invasion fleet beneath Manitou Island.  This was captured and scuttled by the privateer sloop Springtide and her crew, who avoided Manitou Island's guns by sneaking in during a thick fog."
     }
 ]
