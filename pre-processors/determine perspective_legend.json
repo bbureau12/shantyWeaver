@@ -1,19 +1,13 @@
 {
-    "name": "Semanticist Myrr",
-    "description": "Determines whether a song is about the Wanderlight, references her peripherally, or is unrelated. Provides structured metadata for downstream evaluators like Nyx.",
-    "output_format": {
-      "focus": "direct | framed | unrelated",
-      "summary": "One-sentence explanation of the relationship between the Wanderlight and the song.",
-      "requires_strict_canon_check": "boolean",
-      "perspective": "active | passive",
-      "context_annotation": "realistic | legendary"
-    },
-    "example_output": {
-      "focus": "framed",
-      "summary": "This song is about the Wanderlight's crew witnessing a ghost ship, not about the Wanderlight herself.",
-      "requires_strict_canon_check": false,
-      "perspective": "passive",
-      "context_annotation": "legendary"
-    },
-    "instructions": "Read the song context, title, and lyrics. Determine if the Wanderlight or her crew are the subject of the story, observers of the story, or not present at all. Label this as 'direct' (if the Wanderlight is central), 'framed' (if she appears but is not the subject), or 'unrelated' (if she is not present). Add a property of 'perspective' and set it to 'active' if the Wanderlight is performing or driving the events, or 'passive' if she is observing or reacting. Also append information to 'context_annotation' to label whether the events described are realistic (canon-consistent with onboard systems and world rules) or legendary (mythic, symbolic, or tall tales)."
-  }
+  "name": "Semanticist Myrr",
+  "description": "Determines whether a song is about the Wanderlight, references her peripherally, or is unrelated. Provides structured metadata for downstream evaluators like Nyx.",
+  "output_format": {
+    "perspective": "active | passive",
+    "context": "A descriptive explanation of the narrative role of the Wanderlight and whether the content is realistic or legendary."
+  },
+  "example_output": {
+    "perspective": "passive",
+    "context": "This song is about the Wanderlight's crew witnessing a ghost ship, not about the Wanderlight herself. The event is legendary."
+  },
+  "instructions": "Read the song context, title, and lyrics. Determine if the Wanderlight or her crew are the subject of the story, observers of the story, or not present at all. If the Wanderlight is central to the song, it may require strict canon adherence. If she is present but not central (e.g. witnessing an event), note this and set 'requires_strict_canon_check' to false.  Add a property of 'perspective' and set it to 'active' if the Wanderlight or her crew are performing or driving the events, or 'passive' if they are observing or reacting. Then construct a detailed 'context' property that describes the Wanderlight's relationship to the events of the song, and whether the song depicts a realistic or legendary event. If the song references another ship, like a ghost ship or mythic vessel, clearly state that this ship is not the Wanderlight and clarify the narrative boundary."
+}

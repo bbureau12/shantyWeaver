@@ -16,7 +16,8 @@ def run_test():
     song = load_first_song()
 
     # Evaluate it
-    service.preprocess_song(song)
+    result = service.preprocess_song(song)
+    print('result:', result)
 
 if __name__ == "__main__":
     run_test()
