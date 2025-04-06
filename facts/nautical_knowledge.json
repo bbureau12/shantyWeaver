@@ -18,7 +18,7 @@
       { "name": "Brig", "masts": 2, "rig": "Square", "traits": ["Fast", "Poor upwind"] },
       { "name": "Barque", "masts": 3, "rig": "Square fore and main, fore-and-aft mizzen", "traits": ["Good cargo hauler", "Complex rig"] },
       { "name": "Cutter", "masts": 1, "rig": "Multiple foresails", "traits": ["Agile", "Fast", "Great for solo sailing"] },
-      { "name": "Clipper", "masts": 3+, "rig": "Full square", "traits": ["Very fast", "Long, narrow hull"] }
+      { "name": "Clipper", "masts": 3, "rig": "Full square", "traits": ["Very fast", "Long, narrow hull"] }
     ],
     "points_of_sail": [
       { "name": "Close-hauled", "angle": "~45°", "description": "Sailing into the wind; most upwind point of sail." },

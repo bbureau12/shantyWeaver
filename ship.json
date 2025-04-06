@@ -204,6 +204,7 @@
         },
       {
         "device": "Raspberry Pi (shipboard core)",
+        "description": "an open-source micro processor",
         "purpose": "Orchestrates all hardware components and interfaces with the ship's AI crew",
         "location": "central cabin"
       },

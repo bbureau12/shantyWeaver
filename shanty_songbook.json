@@ -1,5 +1,29 @@
 [
   {
+    "title": "The Ghost Ship's Lament",
+    "tone": "melancholic",
+    "theme": "ghost ship",
+    "structure": "verse-chorus",
+    "tags": [
+      "ghost",
+      "ai",
+      "spirit",
+      "ocean",
+      "mystery",
+      "generated"
+    ],
+    "context": "As the Wanderlight sails through the dense fog, each crew member seems lost in thought, their hearts echoing with the rhythm of a forgotten melody.",
+    "lines": "In the fog we sail, our spirits pale\nThrough forgotten seas we roam...\nEach heart a ghost, in shadows tossed,\nA crew of spirits, doomed to float.\n'Tis the Ghost Ship, lost and drifting free,\nThrough the mists we silently move.\nThe winds they whisper, stories of thee,\nOur hearts echo, your melody.\nIn the haze we sail, our spirits pale,\nA ship of ghosts, forever roam...",
+    "human_rating": "None",
+    "ai_rating": "None",
+    "reviewed_by": "None",
+    "review_notes": "None",
+    "source": "ai_generated",
+    "model": "mistral",
+    "created_at": "2025-04-02T14:20:26.581677",
+    "approved_for_future_inspiration": "None"
+  },
+  {
     "title": "White Bear's Manitou Park Farewell",
     "tone": "bittersweet",
     "lyrics": "We set sail from the park of bear,\nUnder the moon's soft glow...\nA crew once strong, now scattered wide,\nSailing on the tide of time.\n\n'Hoist the mainsail, trim the yard!\nLet's remember days of yore.\nThrough storm and calm, we stood our ground,\nOn White Bear's Manitou shore.\n",
@@ -67,30 +91,6 @@
     "source": "ai_generated",
     "model": "mistral",
     "created_at": "2025-04-02T14:15:37.937346",
-    "approved_for_future_inspiration": "None"
-  },
-  {
-    "title": "The Ghost Ship's Lament",
-    "tone": "melancholic",
-    "theme": "ghost ship",
-    "structure": "verse-chorus",
-    "tags": [
-      "ghost",
-      "ai",
-      "spirit",
-      "ocean",
-      "mystery",
-      "generated"
-    ],
-    "context": "As the Wanderlight sails through the dense fog, each crew member seems lost in thought, their hearts echoing with the rhythm of a forgotten melody.",
-    "lines": "In the fog we sail, our spirits pale\nThrough forgotten seas we roam...\nEach heart a ghost, in shadows tossed,\nA crew of spirits, doomed to float.\n'Tis the Ghost Ship, lost and drifting free,\nThrough the mists we silently move.\nThe winds they whisper, stories of thee,\nOur hearts echo, your melody.\nIn the haze we sail, our spirits pale,\nA ship of ghosts, forever roam...",
-    "human_rating": "None",
-    "ai_rating": "None",
-    "reviewed_by": "None",
-    "review_notes": "None",
-    "source": "ai_generated",
-    "model": "mistral",
-    "created_at": "2025-04-02T14:20:26.581677",
     "approved_for_future_inspiration": "None"
   },
   {
