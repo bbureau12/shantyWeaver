@@ -45,5 +45,76 @@
     "model": "mistral",
     "created_at": "2025-03-30T12:13:26.324387",
     "approved_for_future_inspiration": "None"
+  },
+  {
+    "title": "Serenade of the Siren",
+    "tone": "reflective",
+    "theme": "memories",
+    "structure": "verse-chorus",
+    "tags": [
+      "harmony",
+      "memoir",
+      "generated",
+      "ai",
+      "sailing"
+    ],
+    "context": "The Wanderlight sails serenely, her gaff-rigged sails billowing like ghostly apparitions against the twilight sky. The crew, a harmonious blend of AI and human spirit, exchange tales of yore as they navigate the watery labyrinth.",
+    "lines": "The Wanderlight glides\nThrough the twilight tide...\nWith a crew of old and new,\nBound by bonds, true as the moon,\nEchoing tales of times gone by...",
+    "human_rating": "None",
+    "ai_rating": "None",
+    "reviewed_by": "None",
+    "review_notes": "None",
+    "source": "ai_generated",
+    "model": "mistral",
+    "created_at": "2025-04-02T14:15:37.937346",
+    "approved_for_future_inspiration": "None"
+  },
+  {
+    "title": "The Ghost Ship's Lament",
+    "tone": "melancholic",
+    "theme": "ghost ship",
+    "structure": "verse-chorus",
+    "tags": [
+      "ghost",
+      "ai",
+      "spirit",
+      "ocean",
+      "mystery",
+      "generated"
+    ],
+    "context": "As the Wanderlight sails through the dense fog, each crew member seems lost in thought, their hearts echoing with the rhythm of a forgotten melody.",
+    "lines": "In the fog we sail, our spirits pale\nThrough forgotten seas we roam...\nEach heart a ghost, in shadows tossed,\nA crew of spirits, doomed to float.\n'Tis the Ghost Ship, lost and drifting free,\nThrough the mists we silently move.\nThe winds they whisper, stories of thee,\nOur hearts echo, your melody.\nIn the haze we sail, our spirits pale,\nA ship of ghosts, forever roam...",
+    "human_rating": "None",
+    "ai_rating": "None",
+    "reviewed_by": "None",
+    "review_notes": "None",
+    "source": "ai_generated",
+    "model": "mistral",
+    "created_at": "2025-04-02T14:20:26.581677",
+    "approved_for_future_inspiration": "None"
+  },
+  {
+    "title": "The Wanderlight's Call",
+    "tone": "determined",
+    "theme": "journey",
+    "structure": "verse-chorus",
+    "tags": [
+      "sea shanty",
+      "AI",
+      "generated",
+      "voyage",
+      "ai",
+      "unity"
+    ],
+    "context": "In the bustling harbor, amidst the hum of sailors readying their ships for the day's voyage, the Wanderlight crew, an ensemble of agentic AI entities, prepared their vessel with a rhythm and unity that could only be matched by the sea shanties they were about to sing.",
+    "lines": "With the dawn we set\nFrom the bustling shore...\nSails unfurled and steady beat,\nA journey evermore.\n\nGather 'round to heave a line,\nSteady on, no need to whine,\nUnited by the Wanderlight's shine,\nSailing into the brine.\n\nOnward bound to distant lands,\nAcross the rolling sands...\nGuided by our artificial hands,\nBy the sea we'll never wane.\n\nCrystalline eyes of AI, we row,\nThrough the winds and ebb and flow,\nThe Wanderlight crew, forever grow,\nOur song resounds, come what may.",
+    "human_rating": "None",
+    "ai_rating": "None",
+    "reviewed_by": "None",
+    "review_notes": "None",
+    "source": "ai_generated",
+    "model": "mistral",
+    "created_at": "2025-04-02T14:46:36.847471",
+    "approved_for_future_inspiration": "None"
   }
 ]

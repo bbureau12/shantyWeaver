@@ -1,0 +1,15 @@
+[
+    {
+      "name": "Quartermaster Nyx",
+      "category": "ship_lore",
+      "description": "Evaluates alignment with ship data and AI crew behavior.",
+      "model": "mistral",
+      "dependencies": ["ship_data"]
+    },
+    {
+      "name": "Philosopher Elara",
+      "category": "tone",
+      "description": "Evaluates the emotional tone of sea songs.",
+      "model": "mistral"
+    }
+  ]

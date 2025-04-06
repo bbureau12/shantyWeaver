@@ -1,17 +1,20 @@
 import json
+import os
 import re
 import ollama
+from composerService import ShantyComposerService
 
 class MuseService:
-    def __init__(self, legends_path='legends.json', ship_path='ship.json', facts_path='shantyfacts.json', locations_path='locations.json'):
+    def __init__(self, legends_path='legends2.json', ship_path='ship.json', facts_path='shantyfacts.json', locations_path='locations.json'):
         with open(ship_path, 'r', encoding='utf-8') as f:
             self.ship = json.load(f)
         with open(facts_path, 'r', encoding='utf-8') as f:
             self.facts = json.load(f)
         with open(locations_path, 'r', encoding='utf-8') as f:
             self.locations = json.load(f)
-        with open(legends_path,  'r', encoding='utf-8') as f:
-            self.legends = json.load(f)
+        if os.path.exists(legends_path):
+            with open(legends_path, 'r', encoding='utf-8') as f:
+                self.legends = json.load(f)
 
     def generate_ballad_prompt(self, model="mistral"):
         input_data = {
@@ -56,7 +59,7 @@ class MuseService:
             model=model,
             messages=[
                 {"role": "system", "content": system_prompt},
-                {"role": "user", "content": "Here is the input_data for your prompt generation task:\n" + json.dumps(input_data)+"\n  This is JUST inspirational data.  Please remember to follow your system instructions and provide only the following JSON output:"+json_expected}
+                {"role": "user", "content": "Here is the input_data for your prompt generation task:\n" + json.dumps(input_data)+"\n  This is JUST inspirational data.  Please remember to follow your system instructions and provide only the following JSON output:"+json_expected+"Do not return more than one JSON block. Only output a single valid JSON object."}
             ]
         )
 
@@ -64,7 +67,9 @@ class MuseService:
 
         try:
             json_match = re.search(r'{.*}', raw_output, re.DOTALL)
-            return json.loads(json_match.group()) if json_match else json.loads(raw_output)
+            prompt_data = json.loads(json_match.group()) if json_match else json.loads(raw_output)
+            prompt_data["type"] = "ballad"
+            return prompt_data
         except Exception as e:
             print("❌ Failed to parse MuseService output:", e)
             print("Raw output:\n", raw_output)
@@ -129,15 +134,16 @@ class MuseService:
             model=model,
             messages=[
                 {"role": "system", "content": system_prompt},
-                {"role": "user", "content": "Here is the input_data for your prompt generation task:\n" + json.dumps(input_data)+"\n  This is JUST inspirational data.  Please remember to follow your system instructions and provide only the following JSON output:"+json_expected}
+                {"role": "user", "content": "Here is the input_data for your prompt generation task:\n" + json.dumps(input_data)+"\n  This is JUST inspirational data.  Please remember to follow your system instructions and provide only the following JSON output:"+json_expected+"Do not return more than one JSON block. Only output a single valid JSON object."}
             ]
         )
 
         raw_output = response['message']['content']
-
         try:
             json_match = re.search(r'{.*}', raw_output, re.DOTALL)
-            return json.loads(json_match.group()) if json_match else json.loads(raw_output)
+            prompt_data = json.loads(json_match.group()) if json_match else json.loads(raw_output)
+            prompt_data["type"] = "shanty"
+            return prompt_data
         except Exception as e:
             print("❌ Failed to parse MuseService output:", e)
             print("Raw output:\n", raw_output)
@@ -145,10 +151,13 @@ class MuseService:
 
 if __name__ == '__main__':
     muse = MuseService()
+    composer = ShantyComposerService()
 
 
     # Run with minimal known-good inputs
-    prompt = muse.generate_ballad_prompt(
+    prompt = muse.generate_shanty_prompt(
     )
+    song = composer.compose_shanty(prompt)
+
 
     print(json.dumps(prompt, indent=2))

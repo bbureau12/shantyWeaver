@@ -1,0 +1,53 @@
+{
+    "ropes": [
+      { "name": "Sheet", "purpose": "Controls the angle of a sail relative to the wind." },
+      { "name": "Halyard", "purpose": "Used to hoist or lower sails." },
+      { "name": "Stay", "purpose": "Fore-and-aft support lines for the mast." },
+      { "name": "Shroud", "purpose": "Side-to-side support lines for the mast." },
+      { "name": "Topping lift", "purpose": "Raises or supports the boom when the sail is down." },
+      { "name": "Downhaul", "purpose": "Pulls the sail downward on the mast." },
+      { "name": "Outhaul", "purpose": "Tensions the sail along the boom." },
+      { "name": "Painter", "purpose": "Line tied to the bow, used to tow or secure a small boat." },
+      { "name": "Lazy jacks", "purpose": "Guide the sail as it’s lowered; used in some gaff rigs." }
+    ],
+    "vessels": [
+      { "name": "Sloop", "masts": 1, "rig": "Bermuda", "best_points_of_sail": ["Close-hauled", "Beam reach"] },
+      { "name": "Ketch", "masts": 2, "rig": "Fore-and-aft", "description": "Mizzen forward of rudder post", "traits": ["Balanced", "Versatile"] },
+      { "name": "Yawl", "masts": 2, "rig": "Fore-and-aft", "description": "Mizzen aft of rudder post", "traits": ["Good for heavy weather", "Classic cruising rig"] },
+      { "name": "Schooner", "masts": 2, "rig": "Fore-and-aft", "description": "Aft mast taller than foremast", "best_points_of_sail": ["Beam reach", "Broad reach"] },
+      { "name": "Brig", "masts": 2, "rig": "Square", "traits": ["Fast", "Poor upwind"] },
+      { "name": "Barque", "masts": 3, "rig": "Square fore and main, fore-and-aft mizzen", "traits": ["Good cargo hauler", "Complex rig"] },
+      { "name": "Cutter", "masts": 1, "rig": "Multiple foresails", "traits": ["Agile", "Fast", "Great for solo sailing"] },
+      { "name": "Clipper", "masts": 3+, "rig": "Full square", "traits": ["Very fast", "Long, narrow hull"] }
+    ],
+    "points_of_sail": [
+      { "name": "Close-hauled", "angle": "~45°", "description": "Sailing into the wind; most upwind point of sail." },
+      { "name": "Beam reach", "angle": "90°", "description": "Wind from the side; usually the fastest point of sail." },
+      { "name": "Broad reach", "angle": "~135°", "description": "Wind from behind and to the side; stable and fast." },
+      { "name": "Running", "angle": "180°", "description": "Wind directly behind; slower and less stable." },
+      { "name": "In irons", "angle": "0°", "description": "Pointed directly into the wind; boat stalls." },
+      { "name": "Tacking", "description": "Zig-zag motion to sail upwind by alternating sides." },
+      { "name": "Jibing", "description": "Changing tack with the wind from behind." }
+    ],
+    "schooner_parts": [
+      { "name": "Foremast", "description": "Forward mast, typically shorter than mainmast." },
+      { "name": "Mainmast", "description": "Rear mast, tallest on a schooner." },
+      { "name": "Gaff", "description": "Diagonal spar that holds the top of a fore-and-aft sail." },
+      { "name": "Boom", "description": "Horizontal spar at the foot of a sail." },
+      { "name": "Winch", "description": "Mechanical tool to tension ropes." },
+      { "name": "Wheel", "description": "Used to steer the ship; controls rudder via chains or hydraulics." },
+      { "name": "Capstan", "description": "Rotating winch for lifting anchors or heavy loads." },
+      { "name": "Companionway", "description": "Staircase or hatch leading belowdeck." },
+      { "name": "Bilge", "description": "Lowest point in the hull where water collects." },
+      { "name": "Galley", "description": "The ship's kitchen." }
+    ],
+    "shanty_themes": [
+      { "theme": "Call-and-response", "description": "Leader sings a line, crew responds; coordinates effort." },
+      { "theme": "Work songs", "description": "Sung during labor, such as raising sails or turning the capstan." },
+      { "theme": "Homesickness", "description": "Songs of longing for land and loved ones." },
+      { "theme": "Drinking and rowdy life", "description": "Songs of liberty, port mischief, and escape." },
+      { "theme": "Whaling and fishing", "description": "Songs about the danger and reward of the sea trades." },
+      { "theme": "Storms and disaster", "description": "Prayers, laments, and ballads of loss at sea." }
+    ]
+  }
+  

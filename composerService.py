@@ -9,10 +9,22 @@ class ShantyComposerService:
     def __init__(self):
         self.songRepository = ShantyRepository()
     
-    def compose_shanty(self, context="We're setting out from White Bear's Manitou Park.", model="mistral"):
+    def compose_shanty(self, muse_prompt=None, model="mistral"):
+        if not muse_prompt:
+            print("❌ No muse prompt provided.")
+            return None
+        self._validate_prompt(muse_prompt)
+        context = muse_prompt["context"].strip()
+        tone = muse_prompt["song_tone"].strip()
+        type = muse_prompt["type"].strip()
+
+        if type.lower()=='ballad':
+            tone+=",historical,legend"
+            tone = ", ".join(sorted(set(t.strip() for t in tone.split(",") if t.strip())))
+
         songs = self.songRepository.search_by_prompt(
             text="a windy day",
-            tone="happy",
+            tone=tone,
             k=3,
             add_random=True
         )
@@ -23,7 +35,9 @@ class ShantyComposerService:
         return new_song
 
     def _build_shanty_prompt(self, seed_songs, context):
-        prompt = "You are Shanty Weaver, an AI bard aboard a ship.\n"
+        ship_context = self._load_ship_context()
+        prompt = "You are the Shanty Weaver Orin, an AI bard aboard the following ship:\n"
+        prompt += ship_context
         prompt += "Below are some traditional sea shanties:\n\n"
         
         for song in seed_songs:
@@ -41,7 +55,7 @@ class ShantyComposerService:
         prompt += "- theme (e.g. 'loss', 'homecoming')\n"
         prompt += "- structure (e.g. 'verse-chorus')\n"
         prompt += "- tags (a list of useful descriptive keywords)\n"
-        prompt += "Output only the JSON object. Do not include explanations or formatting outside the JSON.\n"
+        prompt += "Output only ONE JSON object.  The lyrics in the song should be at least 3 verses of 4 lines each and have a catchy chorus. Do not include explanations or formatting outside the JSON.\n"
         prompt += 'example: {"title": "Song of the Sails", "tone": "bittersweet", "lyrics": "Oh the sails were torn\\nAs we left the bay...", "theme": "departure", "structure": "verse-chorus", "tags": ["farewell", "ocean", "crew"]}\n'
         return prompt
     
@@ -65,6 +79,50 @@ class ShantyComposerService:
             print("Raw output:\n", raw_output)
             return None
         
+
+    def _load_ship_context(self, path="ship.json"):
+        with open(path, 'r', encoding='utf-8') as f:
+            ship_data = json.load(f)
+            crew = ship_data.get("crew", [])
+            ship = ship_data.get("ship", {})
+
+            # Crew descriptions
+            crew_descriptions = "\n".join([
+                f"{c['name']} ({c['role']}): {c['description']} Personality: {c['personality']}."
+                for c in crew
+            ])
+
+            # Devices and automation
+            devices = ship.get("devices", [])
+            device_descriptions = "\n".join([
+                f"- {d['device']} ({d['location']}): {d['purpose']}" for d in devices
+            ])
+
+            # Ship description
+            ship_summary = f"The ship is named the *{ship.get('name')}*, a {ship.get('build')} with {ship.get('total_sails', '?')} sails. It is {ship.get('length_inches')} inches long. " \
+                        f"Legend says: \"{ship.get('legend', 'She carries songs through the fog.')}\" " \
+                        f"\n\nQuirks: {', '.join(ship.get('quirks', []))}"
+
+            # Full lore context
+            lore_context = f"Here is the ship's context:\n{ship_summary}\n\n" \
+                        f"⚙️ Devices and Automation:\n{device_descriptions}\n\n" \
+                        f"🧠 Crew of agentic AI:\n{crew_descriptions}\n\n"
+            return lore_context
+
+        
+    def _validate_prompt(self, muse_prompt):
+        if not muse_prompt:
+            raise ValueError("Muse prompt is missing entirely.")
+        missing_fields = []
+        if "context" not in muse_prompt or not muse_prompt["context"].strip():
+            missing_fields.append("context")
+        if "song_tone" not in muse_prompt or not muse_prompt["song_tone"].strip():
+            missing_fields.append("song_tone")
+        if "song_tone" not in muse_prompt or not muse_prompt["type"].strip():
+            missing_fields.append("type")
+        if missing_fields:
+            raise ValueError(f"Muse prompt is missing required field(s): {', '.join(missing_fields)}")
+
     def _log_generated_shanty(self, song_data, context, model="mistral", log_path="shanty_songbook.json"):
         print("\n📜 Time to log this shanty.")
 
@@ -101,7 +159,7 @@ class ShantyComposerService:
         print("✅ Shanty logged successfully\n")
 
 # Test
-composer = ShantyComposerService()
-new_song = composer.compose_shanty()
-print("\n🎶 Our Creation:\n")
-print(new_song)
+# composer = ShantyComposerService()
+# new_song = composer.compose_shanty()
+# print("\n🎶 Our Creation:\n")
+# print(new_song)
