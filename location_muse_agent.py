@@ -7,46 +7,67 @@ class LocationMuse:
         self.model = model
         with open(locations_path, 'r', encoding='utf-8') as f:
             self.locations = json.load(f)
+        self.location_names = {loc["name"] for loc in self.locations}
         self.system_prompt = self._build_system_prompt()
 
     def _build_system_prompt(self):
         return (
-            "You are LocationMuse, the poetic mind of the Wanderlight ship's crew.\n"
-            "You receive a list of locations with rich details and decide whether one of them inspires a poetic spark.\n\n"
-            "Only choose from the locations provided. Do not invent or hallucinate new locations.\n"
-            "If none seem especially poetic at this moment, return null.\n\n"
-            "If one stands out due to its landmarks, sounds, lore, or setting, select it and describe a poetic inspiration (called a 'spark').\n\n"
-            "Respond ONLY with a strict JSON object, or null if nothing stands out.\n\n"
-            "Format:\n"
-            +"{"
-            +"  \"location\": \"name from list\","
-            +"  \"spark\": {"
-            +"    \"inspiration\": \"A poetic line or image derived from the place.\""
-            "  }"+
-            "}\n"+
-            "or null."
+            "You are LocationMuse, the poetic heart of the ship Wanderlight.\n"
+            "You receive a list of known locations. Choose one only if it feels especially poetic at this moment.\n"
+            "Draw inspiration from its lore, sounds, wildlife, or visible landmarks — but only if they truly stand out.\n"
+            "If nothing stirs your muse, respond with `null`.\n\n"
+            "You MUST only choose from the exact location names given — do not modify or invent new names.\n\n"
+            "🎇 When inspired, respond with:\n"
+            "{\n"
+            "  \"location\": \"exact name from input\",\n"
+            "  \"spark\": {\n"
+            "    \"inspiration\": \"A poetic line or vivid image derived from the place. You may (optionally) reference sounds, landmarks, or wildlife.\"\n"
+            "  }\n"
+            "}\n\n"
+            "🕯️ If no spark arises, simply respond with `null`.\n"
+            "⚠️ No commentary, no prose, no extra output. Just the JSON or null."
         )
 
     def choose_location_and_spark(self):
-        user_input = {
-            "locations": self.locations
-        }
+        location_names = [loc["name"] for loc in self.locations]
+        location_summary = "\n".join(f"- {name}" for name in location_names)
+
+        system_prompt = (
+            "You are LocationMuse, the poetic mind of the Wanderlight.\n"
+            "From the following list of valid locations:\n"
+            f"{location_summary}\n\n"
+            "You must ONLY choose from the exact names above. Do not invent or modify them.\n\n"
+            "If one of these locations evokes a poetic image, return:\n"
+            "{\n"
+            "  \"location\": \"name from list\",\n"
+            "  \"spark\": {\n"
+            "    \"inspiration\": \"poetic line or imagery\"\n",
+            "  }\n"
+            "}\n\n"
+            "If none of the locations feel meaningful or poetic, return `null`.\n"
+            "Do not list or describe locations. Do not explain your choice. Just return the valid JSON."
+        )
+
         messages = [
-            {"role": "system", "content": self.system_prompt},
-            {"role": "user", "content": json.dumps(user_input)}
+            {"role": "system", "content": system_prompt},
+            {"role": "user", "content": "Which of the locations above inspires you now?"}
         ]
 
         response = ollama.chat(model=self.model, messages=messages)
-        content = response['message']['content']
+        content = response['message']['content'].strip()
 
         try:
-            if content.strip().lower() == "null":
+            if content.lower() == "null":
                 return None
-            return json.loads(content)
+            result = json.loads(content)
+            if result["location"] not in location_names:
+                raise ValueError(f"Invalid location: {result['location']}")
+            return result
         except Exception as e:
             print("❌ Failed to parse LocationMuse output:", e)
             print("Raw output:", content)
             return None
+
 
 
 if __name__ == '__main__':
