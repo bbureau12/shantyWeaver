@@ -26,6 +26,7 @@ class LocationMuse:
             "  \"location\": \"The Docks\",\n"
             "  \"spotted_wildlife\": [\"Muskrats\", \"Mallard Ducks\"],\n"
             "  \"spotted_landmarks\": [\"the VFW\", \"the docks\"]\n"
+            "  \"phenomenon\": [\"maples changing color\", \"snow on ground\"]\n"
             "}\n"
             "ONLY include JSON.  Do not escape characters.  No notations or comments."
             "```\n\n"
@@ -34,7 +35,7 @@ class LocationMuse:
         return (
             "You are LocationMuse, the environmental observer aboard the Wanderlight.\n\n"
             "You receive a list of real places and choose ONE that currently stands out.\n"
-            "For that place, return **up to 3 wildlife** and **up to 3 landmarks** that feel appropriate for the current time of day.\n"
+            "For that place, return **up to 3 wildlife**, **up to 3 landmarks** and **up to 2 phenomenon** that feel appropriate for the current time of day, weather, and seaon.\n"
             "Do NOT list every possible animal or object — choose only the ones appropriate for the time of day.\n"
             "It's okay to return an empty list if nothing stands out.\n\n"
             "🛑 You must output exactly one JSON object OR `null`. Do not explain anything.\n"
@@ -46,11 +47,12 @@ class LocationMuse:
         indices_to_remove = set(random.sample(range(n), count_to_remove))
         return [item for i, item in enumerate(arr) if i not in indices_to_remove]
 
-    def choose_location_and_spottings(self, time_of_day="morning", season="fall"):
+    def choose_location_and_spottings(self, time_of_day="morning", season="fall", weather="clear"):
         user_data = {
             "locations": self.locations,
             "time_of_day": time_of_day,
-            "season":season
+            "season":season,
+            "weather":weather
         }
 
         messages = [
