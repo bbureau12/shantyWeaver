@@ -96,7 +96,7 @@ class LocationMuse:
 
         messages = [
             {"role": "system", "content": "You are LocationMuse, the environmental observer aboard the Wanderlight."},
-            {"role": "user", "content": json.dumps(user_data) + self._get_json_format()+"\n\n\n\n Generate a single poetic inspiration prompt for the above location.  This prompt should be no more than 50 words.  Make this just a string.  No JSON."}
+            {"role": "user", "content": json.dumps(user_data) + self._get_json_format()+"\n\n\n\n Generate a single poetic inspiration prompt for the above location.  This prompt should be no more than 50 words and include the Location name.  Make this just a string.  No JSON."}
         ]
 
         response = ollama.chat(model='mistral', messages=messages)
