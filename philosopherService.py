@@ -1,95 +1,93 @@
 import os
-import json
-import re
-from jinja2 import Template
-from shipsCarpenterService import QuarterMasterService
-import ollama
+from pathlib import Path
+from pydub import AudioSegment
+import sqlite3
 
-class EvaluationAgentService:
-    def __init__(self, evaluator_path="evaluators", model="mistral"):
-        self.quarterMasterService = QuarterMasterService()
-        self.evaluator_path = evaluator_path
-        self.model = model
-        self.evaluators = self._load_evaluators()
+# Configuration
+DB_PATH = Path(__file__).resolve().parent / "chorusAvery.db"
+MYSTERY_AUDIO_DIR = Path(__file__).resolve().parent / "data" / "mystery_audio"
+CLUSTER_OUTPUT_DIR = Path(__file__).resolve().parent / "data" / "mystery_clusters"
+CLUSTER_OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
-    def _load_evaluators(self):
-        evaluators = []
-        for fname in os.listdir(self.evaluator_path):
-            if fname.endswith(".json"):
-                with open(os.path.join(self.evaluator_path, fname), 'r', encoding='utf-8') as f:
-                    evaluators.append(json.load(f))
-        return evaluators
+# Parameters
+WINDOW_MS = 100
+SILENCE_GAP_MS = 500
+VOLUME_THRESHOLD_DB = -45
+VOLUME_VARIANCE_DB = 6
 
-    def resolve_dependency(self, key):
-        if key == "ship_data":
-            return {
-                "title": "Ship Data",
-                "content": self.quarterMasterService.getShipJson()
-            }
-        elif key == "nautical_terminology":
-            with open("data/nautical_terms.json", "r", encoding="utf-8") as f:
-                return {
-                    "title": "Nautical Terminology",
-                    "content": json.load(f)
-                }
-        else:
-            return {
-                "title": key,
-                "content": f"[Missing data for dependency: {key}]"
-            }
+def analyze_and_cluster_mystery_segments():
+    conn = sqlite3.connect(DB_PATH)
+    cursor = conn.cursor()
 
-    def evaluate(self, song):
-        results = []
+    cursor.execute("SELECT id, source_file, start_time, end_time FROM MysterySegments WHERE reviewed = 0")
+    segments = cursor.fetchall()
 
-        for evaluator in self.evaluators:
-            # Inject context based on dependencies
-            evaluator["context"] = []
-            for dep in evaluator.get("dependencies", []):
-                evaluator["context"].append(self.resolve_dependency(dep))
+    cluster_id = 0
+    for segment_id, source_file, start_time, end_time in segments:
+        filename_hint = f"{Path(source_file).stem}_{int(start_time * 1000)}_{int(end_time * 1000)}.wav"
+        audio_path = MYSTERY_AUDIO_DIR / filename_hint
+        if not audio_path.exists():
+            print(f"❌ Missing file: {audio_path}")
+            continue
 
-            template = Template(evaluator["template"])
-            prompt = template.render(
-                agent=evaluator.get("agent", "Evaluator"),
-                song_title=song.get("title", "Untitled"),
-                lyrics=song.get("lines", "")
-            )
+        audio = AudioSegment.from_wav(audio_path)
+        segment_length = len(audio)
 
-            system_prompt = self.build_system_prompt(evaluator)
+        clusters = []
+        current_cluster = []
+        last_sound_time = None
+        last_volume = None
 
-            response = ollama.chat(
-                model=self.model,
-                messages=[
-                    {"role": "system", "content": system_prompt},
-                    {"role": "user", "content": prompt}
-                ]
-            )
+        for i in range(0, segment_length - WINDOW_MS, WINDOW_MS):
+            window = audio[i:i + WINDOW_MS]
+            dbfs = window.dBFS if window.dBFS != float("-inf") else -100
 
-            raw_output = response['message']['content']
+            if dbfs >= VOLUME_THRESHOLD_DB:
+                if (
+                    last_sound_time is None
+                    or (i - last_sound_time <= SILENCE_GAP_MS and abs(dbfs - last_volume) <= VOLUME_VARIANCE_DB)
+                ):
+                    current_cluster.append((i, dbfs))
+                else:
+                    if current_cluster:
+                        clusters.append(current_cluster)
+                    current_cluster = [(i, dbfs)]
+                last_sound_time = i
+                last_volume = dbfs
+            else:
+                if current_cluster and (i - last_sound_time > SILENCE_GAP_MS):
+                    clusters.append(current_cluster)
+                    current_cluster = []
 
-            try:
-                json_match = re.search(r'{.*}', raw_output, re.DOTALL)
-                result = json.loads(json_match.group()) if json_match else {"error": "No JSON found"}
-            except Exception as e:
-                result = {"error": f"Failed to parse: {e}", "raw": raw_output}
+        if current_cluster:
+            clusters.append(current_cluster)
 
-            results.append({
-                "evaluator": evaluator.get("name"),
-                "description": evaluator.get("description"),
-                "score": result
-            })
+        # Export each cluster + insert into DB
+        for cluster in clusters:
+            start_ms = cluster[0][0]
+            end_ms = cluster[-1][0] + WINDOW_MS
+            clip = audio[start_ms:end_ms]
+            cluster_filename = f"{Path(source_file).stem}_seg{segment_id}_cluster{cluster_id}.wav"
+            cluster_path = CLUSTER_OUTPUT_DIR / cluster_filename
+            clip.export(cluster_path, format="wav")
 
-        return results
+            cursor.execute("""
+                INSERT INTO MysteryClusters (source_file, segment_id, cluster_start, cluster_end, file_path)
+                VALUES (?, ?, ?, ?, ?)
+            """, (
+                source_file,
+                segment_id,
+                start_ms / 1000,
+                end_ms / 1000,
+                str(cluster_path)
+            ))
 
-    def build_system_prompt(self, evaluator) -> str:
-        name = evaluator.get("name", "Evaluator")
-        desc = evaluator.get("description", "You evaluate songs.")
-        intro = f"You are {name}. {desc}\n\n"
+            print(f"🎧 Saved + logged: {cluster_path.name}")
+            cluster_id += 1
 
-        context_sections = ""
-        for c in evaluator.get("context", []):
-            label = c.get("title", "Context")
-            content = c.get("content", "")
-            body = json.dumps(content, indent=2) if isinstance(content, (dict, list)) else str(content)
-            context_sections += f"{label}:\n{body}\n\n"
+    conn.commit()
+    conn.close()
+    print(f"✅ Done. Exported {cluster_id} cluster(s).")
 
-        return intro + context_sections + "Only respond with a JSON object."
+if __name__ == "__main__":
+    analyze_and_cluster_mystery_segments()

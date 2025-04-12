@@ -13,12 +13,17 @@
         "type":"Harbor and Boat Launch",
         "parent_location": "White Bear Lake",
         "description": "Mahtoska Park is a medium-sized park along the Lake Avenue walking trail on the North Western side of White Bear Lake.  It has a boat launch and a two-story white gazebo that can be seen from the beach.  Many sailboats are moored there and it is the best launch on White Bear Lake.",
+        "visible_landmarks": ["two-story gazebo", "docks of the boat launch", "Manitou Island"],
+        "sounds": "clacking lines of moored sailboats",
+        "wildlife": ["Canadian Geese","Muskrats","Mallard Ducks","Painted Turtles","Sunfish"],
         "example_context":"we set sail from Mahtoska Park, her pearly gazebo in sight."
     },
     {
         "name":"Manitou Island",
         "type":"Landmark",
         "parent_location": "White Bear Lake",
+        "visible_landmarks": ["fancy homes and mansions"],
+        "wildlife": ["Canadian Geese","Mallard Ducks","Grebe","Common Loon"],
         "description": "A nominal island (the channel between it and the shore is very shallow) on the mid-western part of White Bear Lake.  The private road to Manitou Island goes through Mahtoska Park.  The island itself is private and home to many high-end houses and mansions.",
         "example_context":"we sailed around the southern edge of Manitou park when the wind picked up."
     },
@@ -26,6 +31,8 @@
         "name":"The Channel",
         "type":"Landmark",
         "parent_location": "White Bear Lake",
+        "visible_landmarks": ["rocks", "distant mansions and pines of Manitou Island"],
+        "wildlife": ["Bald Eagles","Mallard Ducks","Grebe","Common Loon", "Bullheads", "Egrets", "Great Blue Herons"],
         "description": "The channel between Manitou Island and The Peninsula is shallow and full of rocks; a treacherous place for sailboats with a deep keel.  As there are trees on both sides, this often means little wind.",
         "lore": "The Springtide, Beau and Amanda's sloop, had a swinging keel (a retractable weight to balance the wind) she'd have to raise when crossing.  When the lake is in drought, few sailboats with a deep draft will cross this.",
         "example_context":"we were becalmed in the channel"
@@ -34,6 +41,8 @@
         "name":"The Peninsula",
         "type":"Landmark",
         "parent_location": "White Bear Lake",
+        "visible_landmarks": ["the white bear, a wire bear on a pontoon", "fine homes of the peninsula"],
+        "wildlife": ["Bald Eagles","Mallard Ducks","Grebe","Common Loon", "Egrets", "Great Blue Herons"],
         "description": "The spit of land opposite Manitou Island on the mid-Eastern portion of White Bear, a nice spot with several homes.",
         "lore":"the Floating White Bear (a wire light-up bear on a pontoon) was often seen docked here.",
         "example_context":"we rounded the peninsula under the light of the silvery moon"
@@ -42,6 +51,9 @@
         "name":"The Docks",
         "type":"Harbor and Boat Launch",
         "parent_location": "White Bear Lake",
+        "visible_landmarks": ["The towering Boat House apartmnents", "the docks", "the VFW"],
+        "sounds":["the hourly bells of the local bank"],
+        "wildlife": ["Mallard Ducks","Grebe","Common Loon", "Canadian Geese","Muskrats"],
         "description": "A large, shared area with many docks and points of commerce in the South-Western part of White Bear Lake.  It has two restaurants; the Admiral and Tally's.",
         "lore": "bells from the local bank ding hourly in this part of the bay.",
         "example_context":"we arrived back in The Docks around sunset"
@@ -50,6 +62,9 @@
         "name":"Sea of Reeds",
         "type":"Bay",
         "parent_location": "White Bear Lake",
+        "visible_landmarks": ["tall reeds", "Manitou Island"],
+        "sounds":["the honking of geese and quacking of ducks"],
+        "wildlife": ["Mallard Ducks", "Canadian Geese", "Egret", "Bullheads", "Great Blue Herons","Muskrats"],
         "description": "A small bay, filled with reeds just below Manitou Island and along Mahtoska park's southern shore.  It is often filled with herons, egrets, geese and ducks, though is too shallow for anything but fishing vessels.",
         "example_context":"we were becalmed in the Sea of Reeds, stalked by egrets."
     },
@@ -57,6 +72,7 @@
         "name":"Northern Bay",
         "type":"Bay",
         "parent_location": "White Bear Lake",
+        "wildlife": ["Mallard Ducks", "Canadian Geese", "Bullheads", "Northern Pike"],
         "description": "The stretch of lake above the Peninsula and Manitou Island, often filled with the calls of loons in the spring and summer.  There's not much to block the wind here, making it great for sailing.  Sailing regattas are held in the summer.",
         "example_context":"they say the wind is best in White Bear's Northern Bay."
     },
@@ -64,6 +80,7 @@
         "name":"Southern Bay",
         "type":"Bay",
         "parent_location": "White Bear Lake",
+        "wildlife": ["Mallard Ducks", "Canadian Geese", "Bullheads"],
         "description": "The stretch of lake below the Peninsula and Manitou Island.  This part of the lke is a bit narrower, meaning the trees are closer and there's often less wind. It's also a bit more crowded, particularly in the summer.",
         "example_context":"we spotted the sloop Springtide sailing in the Southern Bay"
 

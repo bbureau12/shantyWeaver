@@ -10,7 +10,7 @@ class ShantyRepository:
     def __init__(self, json_path="shanties.json"):
         self.model = SentenceTransformer('all-MiniLM-L6-v2')
         self.songs = self._load_json(json_path)
-        self.documents = [s["title"] + ": " + s["lines"] for s in self.songs]
+        self.documents = [s["title"] + ": " + s["lyrics"] for s in self.songs]
         self.embeddings = self.model.encode(self.documents, normalize_embeddings=True)
         self.index = faiss.IndexFlatL2(self.embeddings[0].shape[0])
         self.index.add(self.embeddings)
@@ -24,7 +24,7 @@ class ShantyRepository:
         if not filtered_songs:
             filtered_songs = random.choices(self.songs, k=k)
 
-        docs = [s["title"] + ": " + s["lines"] for s in filtered_songs]
+        docs = [s["title"] + ": " + s["lyrics"] for s in filtered_songs]
         embeddings = self.model.encode(docs, normalize_embeddings=True)
         query_vec = self.model.encode([text], normalize_embeddings=True)
 

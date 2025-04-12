@@ -42,7 +42,7 @@ class ShantyComposerService:
         
         for song in seed_songs:
             prompt += f"Title: {song['title']}\nTone: {song.get('tone')}\n"
-            prompt += f"Lyrics:\n{song['lines']}\n\n"
+            prompt += f"Lyrics:\n{song['lyrics']}\n\n"
 
         prompt += "---\n"
         prompt += f"Now write a new sea shanty inspired by these. Context: {context}\n"
@@ -128,7 +128,7 @@ class ShantyComposerService:
 
         # Add metadata
         song_data["context"] = context.strip()
-        song_data["lines"] = song_data["lyrics"].replace("\\n", "\n").strip()
+        song_data["lyrics"] = song_data["lyrics"].replace("\\n", "\n").strip()
         song_data["human_rating"] = "None"
         song_data["ai_rating"] = "None"
         song_data["reviewed_by"] = "None"
