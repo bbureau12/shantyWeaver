@@ -73,7 +73,7 @@ class ShantyRepository:
         structure_matches = self._fuzzy_filter(songs, "structure", structure) if structure else []
 
         combined_results = tone_matches + tag_matches + theme_matches + structure_matches
-        return self._dedup(combined_results) if combined_results else songs
+        return self._dedupe(combined_results) if combined_results else songs
 
     def _fuzzy_filter(self, songs, key, values):
         if not values:
@@ -96,7 +96,7 @@ class ShantyRepository:
                     filtered.append(song)
         return filtered
 
-    def _dedup(self, songs):
+    def _dedupe(self, songs):
         seen = set()
         unique = []
         for song in songs:

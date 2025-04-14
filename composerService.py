@@ -23,10 +23,10 @@ class ShantyComposerService:
             tone = ", ".join(sorted(set(t.strip() for t in tone.split(",") if t.strip())))
 
         songs = self.songRepository.search_by_prompt(
-            text="a windy day",
+            text=muse_prompt["context"].strip(),
             tone=tone,
             k=3,
-            add_random=True
+            add_random=False
         )
         new_song = self._compose_new_shanty(songs, context, model)
         if len(new_song) != 0:
@@ -38,7 +38,7 @@ class ShantyComposerService:
         ship_context = self._load_ship_context()
         prompt = "You are the Shanty Weaver Orin, an AI bard aboard the following ship:\n"
         prompt += ship_context
-        prompt += "Below are some traditional sea shanties:\n\n"
+        prompt += "Recall the sea shanties once sung by human sailors in times like these — let their echoes guide your song:\n\n"
         
         for song in seed_songs:
             prompt += f"Title: {song['title']}\nTone: {song.get('tone')}\n"

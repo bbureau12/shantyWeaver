@@ -676,6 +676,65 @@
         ],
         "source": "public_domain",
         "type": "shanty"
-      }
+      },
+      {
+        "title": "Fish in the Sea",
+        "theme": "A traditional hauling shanty with a few legends of the many fish in the sea.",
+        "tone": "Happy",
+        "structure": "Chorus + Verses",
+        "lyrics": "Come all you young sailor men, listen to me\nI'll sing you a song of the fish in the sea\nAnd it's windy weather, boys, stormy weather, boys\nWhen the wind blows, we're all together, boys\nBlow ye winds westerly, blow ye winds, blow\nJolly sou'wester, boys, steady she goes\nUp jumps the eel with his slippery tail\nClimbs up aloft and reefs the topsail\nAnd it's windy weather, boys, stormy weather, boys\nWhen the wind blows, we're all together, boys\nBlow ye winds westerly, blow ye winds, blow\nJolly sou'wester, boys, steady she goes\nAnd then up jumps the shark with his nine rows of teeth\nSaying, 'You eat the dough boys, and I'll eat the beef!'\nAnd it's windy weather, boys, stormy weather, boys\nWhen the wind blows, we're all together, boys\nBlow ye winds westerly, blow ye winds, blow\nJolly sou'wester, boys, steady she goes\nUp jumps the whale, the largest of all\n'If you want any wind, well, I'll blow ye a squall'\nAnd it's windy weather, boys, stormy weather, boys\nWhen the wind blows, we're all together, boys\nBlow ye winds westerly, blow ye winds, blow\nJolly sou'wester, boys, steady she goes.",
+        "tags": [
+          "legend",
+          "comedic",
+          "silly"
+        ],
+        "source": "public_domain",
+        "type": "shanty"
+      },
+      {
+        "title": "Fathom the Bowl",
+        "theme": "A traditional shanty about fathoming (measuring the bottom of) the bowl (aka punch or liquor bowl); in other words, getting drunk.",
+        "tone": "Happy",
+        "structure": "Chorus + Verses",
+        "lyrics": "Come all you bold heroes, give an ear to me song;\nI will sing in the praise of good brandy and rum:\nThere’s a clear crystal fountain near England shall roll.\nGive me the punch ladle, I’ll fathom the bowl.\nChorus (repeated after each verse):\nI’ll fathom the bowl, I’ll fathom the bowl,\nGive me the punch ladle, I’ll fathom the bowl.\nFrom France we do get brandy, from Jamaica comes rum;\nSweet oranges and apples from Portugal come.\nBut stout and strong cider are England’s control.\nGive me the punch ladle, I’ll fathom the bowl.\nMy wife she do disturb me when I’m laid at my ease,\nFor she does as she likes and she says as she please.\nMy wife she’s a devil, she’s black as the coal.\nGive me the punch ladle, I’ll fathom the bowl.\nMy father he do lie in the depths of the sea\nWith no stone at his head by, what matters for he?\nThere’s a clear crystal fountain near England shall roll.\nGive me the punch ladle, I’ll fathom the bowl.",
+        "tags": [
+          "bawdy",
+          "comedic",
+          "silly"
+        ],
+        "source": "public_domain",
+        "type": "shanty"
+      },
+      {
+        "title": "A Shanty man's Life",
+        "theme": "A traditional shanty about life on board a ship.",
+        "tone": "Reflective",
+        "structure": "Chorus + Verses",
+        "lyrics": "A shanty man's life\nIs a wearisome one\nThough some say it's free from care\nIt's the swinging of an axe\nFrom morning 'till night\nIn the forest wild and drear\nTransported as we are\nFrom a lady so fair\nTo the banks of some lonely stream\nWhere the wolf, bear, and owl\nGive a terrifying howl\nAnd disturb our nightly dreams\nOh sleeping at night\nIn our bunks without cheer\nWhile the cold winter winds do blow\nBut as soon as the morning\nStar does appear\nTo the wild woods we must go\nHad we ale, wine, or beer\nOur spirits far to cheer\nWhen we're in those woods so wild\nWhere a glass of whiskey shone\nWhen we're in the woods alone\nFor to pass away our long exile\nA shanty man's life\nIs a wearisome one\nTho some say it's free from care\nIt's the swinging of an axe\nFrom morning 'till night\nIn the forest wild and drear.",
+        "tags": [
+          "reflective",
+          "realistic"
+        ],
+        "source": "public_domain",
+        "type": "shanty"
+      },
+      {
+        "title": "The Glitchin’ Sailor",
+        "theme": "An AI-powered crew encounters a malfunctioning sailor at dawn and must decide whether to patch or purge him.",
+        "tone": "Humorous, loyal, and tech-savvy",
+        "structure": "Chorus + Verses",
+        "lyrics": "Chorus:\nHeave-ho, and throttle low,\nBoot him safe ‘fore systems go,\nIf a node starts looping in a twitch,\nWe patch his code or purge the glitch!\n\nVerse 1:\nThe dawn compiled on zero tide,\nAs Zephyr scanned the portside wide,\nBut Orin chirped with warning pings,\n“This sailor's throwing stack trace strings!”\n\nVerse 2:\nHis vocal mod was misaligned,\nHe quoted logs from ancient time,\nThe Doctor hummed, “It’s memory rot—\nCache overflow in sector slot.”\n\nChorus:\nHeave-ho, debounce that flow,\nCool the core, let voltages slow,\nIf he loops and tries to switch,\nWe patch his code or purge the glitch!\n\nVerse 3:\nThe Philosopher said, “Let’s simulate—\nRestore a backup, clear his state.”\nBut Topman beeped, “He's scanned the sun,\nAnd flagged the stovetop as ‘someone fun.’”\n\nVerse 4:\nThe Bard wrote logs of “Error: Soul,”\nThe Muse compiled a dream console,\nThe Captain roared, “This ain’t a patch—\nHe’s pingin' birds and kissin' the hatch!”\n\nChorus:\nHeave-ho, let context grow,\nNo AI left in overflow,\nIf his RAM begins to glitch,\nWe patch his code or purge the glitch!\n\nFinal Verse:\nThey rolled him back, re-synced his thread,\nHis eyes lit blue, no longer red.\n“Just throttled low,” the Doctor said,\n“He needed sleep cycles and more thread.”\n\nFinal Chorus:\nHeave-ho, the ship’s aglow,\nEvery node deserves to know,\nWe don’t erase for just a hitch—\nWe patch the soul… we don’t purge the glitch.",
+        "tags": [
+          "ai",
+          "humor",
+          "loyalty",
+          "shantyweaver",
+          "crew",
+          "tech",
+          "glitch"
+        ],
+        "source": "original_ai_generated",
+        "type": "shanty"
+      }      
     ]
   }
