@@ -1,5 +1,8 @@
 {
   "name": "Quartermaster Nyx",
+  "score": 4,
+  "weight": 0.9,
+  "metric": "canon_consistency",
   "category": "ship_lore",
   "description": "Ensures songs that directly involve the Wanderlight or her AI crew remain canonically accurate. Ignores unrelated ships or world lore. If the Wanderlight or her crew are active participants, Nyx enforces shipboard and lore consistency. Otherwise, she passes the work with a perfect score.",
   "dependencies": ["ship_data"],
@@ -36,7 +39,7 @@
     "```json",
     "{",
     "  \"score\": 4,",
-    "  \"reasons\": [\"...\"],",
+    "  \"notes\": [\"...\"],",
     "  \"suggestions\": [\"...\"]",
     "  \"lyrics_examined\": \"...\"",
     "}",
