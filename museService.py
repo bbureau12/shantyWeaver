@@ -1,25 +1,26 @@
 import json
 import os
+import random
 import re
 import ollama
 from composerService import ShantyComposerService
+from location_muse_agent import LocationMuse
 
 class MuseService:
-    def __init__(self, legends_path='legends2.json', ship_path='ship.json', facts_path='shantyfacts.json', locations_path='locations.json'):
+    def __init__(self, legends_path='legends2.json', ship_path='ship.json', facts_path='shantyfacts.json'):
+        self.locationMuse = LocationMuse()
         with open(ship_path, 'r', encoding='utf-8') as f:
             self.ship = json.load(f)
         with open(facts_path, 'r', encoding='utf-8') as f:
             self.facts = json.load(f)
-        with open(locations_path, 'r', encoding='utf-8') as f:
-            self.locations = json.load(f)
         if os.path.exists(legends_path):
             with open(legends_path, 'r', encoding='utf-8') as f:
                 self.legends = json.load(f)
 
     def generate_ballad_prompt(self, model="mistral"):
+        chosen_legend = random.choice(self.legends) if self.legends else {}
         input_data = {
-            "locations": self.locations,
-            "ship": self.legends
+            "legend": chosen_legend
         }
         json_expected= (            "{\n"
             "  \"crew_mood\": string,\n"
@@ -34,7 +35,7 @@ class MuseService:
         system_prompt = (
             "You are Muse Caelum, the AI Muse aboard the Wanderlight.\n"
             "You generate poetic and vivid prompts for new sea shanties or ballads.\n"
-            "Use the information given to create an idea for a ballad.\n"
+            "Use the information given to create a vivid and lively prompt for a ballad.\n"
             "Fill in any missing details using creative reasoning.\n"
             "You may use your own knowledge to enhance the prompt with additional historical or poetic insights, so long as they are plausible within the world.\n"
             "You may introduce new legendary names or events, as long as they feel appropriate to the ship, crew, or location.\n"
@@ -75,16 +76,21 @@ class MuseService:
             print("Raw output:\n", raw_output)
             return None
         
+    def generate_random_shanty_prompt(self):
+        env = self._generate_random_env()
+        location = self.locationMuse.generatePoeticPrompt(time_of_day=env['time_of_day'], season=env['season'], weather=env['weather'])
+        return self.generate_shanty_prompt(atmosphere=env['atmosphere'], season=env['season'], time_of_day=env['time_of_day'], crew_mood=env['crew_mood'], location = location)
 
+        
 
-    def generate_shanty_prompt(self, model="mistral", temperature=None, wind_speed=None, time_of_day=None, sightings=None, crew_mood=None):
+    def generate_shanty_prompt(self, model="mistral", atmosphere=None, season=None, time_of_day=None, sightings=None, crew_mood=None, location=None):
         input_data = {
-            "locations": self.locations,
+            "location": location,
             "ship": self.ship,
             "facts": sorted(self.facts, key=lambda f: -f["importance"]),
             "environment": {
-                "temperature": temperature,
-                "wind_speed": wind_speed,
+                "atmosphere": atmosphere,
+                "season":season,
                 "time_of_day": time_of_day,
                 "sightings": sightings or [],
                 "crew_mood": crew_mood
@@ -112,7 +118,7 @@ class MuseService:
             "You generate poetic and vivid prompts for new sea shanties or ballads.\n\n"
             "Use the provided input to craft a moment of inspiration — a seed for a song.\n"
             "The input includes:\n"
-            "- A list of valid locations, each with a name, description, landmarks, sounds, and wildlife.\n"
+            "- A poetic description of a location.\n"
             "- Information about the ship and crew.\n"
             "- Environmental data: temperature, weather, time of day, and recent sightings.\n\n"
             "⚠️ You may only choose the `location` field from the provided locations list. Do not invent new ones.\n"
@@ -162,17 +168,64 @@ class MuseService:
             print("❌ Failed to parse MuseService output:", e)
             print("Raw output:\n", raw_output)
             return None
+        
+    def _generate_random_env(self):
+        """Generates a random environmental profile including optional atmosphere."""
 
+        time_of_day = random.choices(
+            ["morning", "afternoon", "sunset", "night"],
+            weights=[30, 40, 15, 15],
+            k=1
+        )[0]
+
+        season = random.choices(
+            ["spring", "summer", "fall", "early winter"],
+            weights=[25, 25, 35, 15],
+            k=1
+        )[0]
+
+        weather = random.choices(
+            ["clear", "overcast", "stormy", "foggy", "becalmed"],
+            weights=[35, 25, 15, 15, 10],
+            k=1
+        )[0]
+
+        # Optional atmosphere (e.g., chilly, warm, humid) — added only ~60% of the time
+        include_atmosphere = random.random() < 0.6
+        atmosphere = random.choices(
+            ["chilly", "warm", "humid", "brisk", "dry", "muggy"],
+            weights=[20, 20, 15, 15, 15, 15],
+            k=1
+        )[0] if include_atmosphere else None
+
+        crew_mood = random.choices(
+            ["Bittersweet", "Determined", "Happy", "Reflective", "Proud", "Humorous", "Defiant", 
+            "Joyous", "Melancholic", "Hauling", "Content", "Joyful", "Bold", "Silly", 
+            "Humorous, loyal, and tech-savvy"],
+            weights=[5.88, 27.45, 5.88, 5.88, 1.96, 7.84, 1.96, 11.76, 15.69, 3.92, 
+                    1.96, 3.92, 1.96, 1.96, 1.96],
+            k=1
+        )[0]
+
+        return {
+            "time_of_day": time_of_day,
+            "season": season,
+            "weather": weather,
+            "crew_mood": crew_mood,
+            "atmosphere": atmosphere  # May be None!
+        }
 
 if __name__ == '__main__':
     muse = MuseService()
     composer = ShantyComposerService()
+    prompt = muse.generate_ballad_prompt()
+    print(prompt)
+
+    # for i in range(1):
+    #     # Run with minimal known-good inputs
+    #     prompt = muse.generate_random_shanty_prompt(
+    #     )
+    #     song = composer.compose_shanty(prompt)
 
 
-    # Run with minimal known-good inputs
-    prompt = muse.generate_shanty_prompt(
-    )
-  #  song = composer.compose_shanty(prompt)
-
-
-   # print(json.dumps(prompt, indent=2))
+    #     print(song)

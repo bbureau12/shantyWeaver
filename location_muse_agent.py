@@ -112,13 +112,13 @@ class LocationMuse:
             "You are given a specific location object with known wildlife, landmarks, parent location, trees, and atmosphere.\n\n"
             "⚠️ You must not invent new places, landmarks, or features. ONLY use what is explicitly provided.\n"
             "If a feature (like 'the docks' or 'VFW') is not listed in the landmarks or description, do not mention it.\n\n"
-            "🎯 Your job is to write a short poetic prompt (under 50 words) capturing the beauty or mood of this location. Use vivid language but only the facts provided.\n"
+            "🎯 Your job is to write a short poetic prompt capturing the beauty or mood of this location. Use vivid language but only the facts provided.\n"
             "You may reference:\n"
             "- The location name (`location.name`)\n"
             "- Its parent location (`location.parent`)\n"
             "- Its wildlife, trees, landmarks, or atmospheric description\n"
             "- The season, time of day, and weather if they influence the scene\n\n"
-            "Return ONLY the poetic prompt. No JSON. No intro. No escape characters.\n"
+            "Return ONLY a short line, 20 words max, that starts with the name of the location. No JSON. No intro. No escape characters.\n"
         )
 
         messages = [
@@ -129,19 +129,8 @@ class LocationMuse:
         response = ollama.chat(model='mistral', messages=messages)
         return response['message']['content'].strip()
 
-    
-
-if __name__ == '__main__':
-        muse = LocationMuse()
-        result = muse.choose_location_and_spottings(time_of_day="evening")
-        prompt = muse.generatePoeticPrompt()
-        print("\n🌅 Condensed prompt")
-        print(json.dumps(prompt, indent=2))
-        if result:
-            print("\n🌅 Location Observation:")
-            print(json.dumps(result, indent=2))
-            print("\n🌅 Condensed prompt")
-            print(json.dumps(prompt, indent=2))
-            
-        else:
-            print("🕯️ No location selected this time.")
+# if __name__ == "__main__":
+#     muse = LocationMuse()
+#     poetic_prompt = muse.generateRandomPoeticPrompt()
+#     print("\n📜 Poetic Prompt:")
+#     print(poetic_prompt)

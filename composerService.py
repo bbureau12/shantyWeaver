@@ -55,7 +55,7 @@ class ShantyComposerService:
         prompt += "- theme (e.g. 'loss', 'homecoming')\n"
         prompt += "- structure (e.g. 'verse-chorus')\n"
         prompt += "- tags (a list of useful descriptive keywords)\n"
-        prompt += "Output only ONE JSON object.  The lyrics in the song should be at least 3 verses of 4 lines each and have a catchy chorus. Do not include explanations or formatting outside the JSON.\n"
+        prompt += "Output only ONE JSON object.  Lyrics must be included and should be at least 3 verses of 4 lines each and have a catchy chorus. Do not include explanations or formatting outside the JSON.\n"
         prompt += 'example: {"title": "Song of the Sails", "tone": "bittersweet", "lyrics": "Oh the sails were torn\\nAs we left the bay...", "theme": "departure", "structure": "verse-chorus", "tags": ["farewell", "ocean", "crew"]}\n'
         return prompt
     
@@ -137,7 +137,6 @@ class ShantyComposerService:
         song_data["model"] = model
         song_data["created_at"] = datetime.datetime.now().isoformat()
         song_data["approved_for_future_inspiration"] = "None"
-        del song_data["lyrics"] 
 
         # Ensure the tag 'generated' is added
         tags = set(song_data.get("tags", []))
