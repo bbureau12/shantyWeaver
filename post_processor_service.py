@@ -4,6 +4,7 @@ import re
 import time
 import random
 from jinja2 import Template
+from requirementsService import DependencyService
 import ollama
 
 class PostProcessorService:
@@ -11,6 +12,7 @@ class PostProcessorService:
         self.processor_path = processor_path
         self.model = model
         self.processors = self._load_processors()
+        self.dependencyService = DependencyService()
 
     def _load_processors(self):
         processors = []
@@ -34,12 +36,19 @@ class PostProcessorService:
 
             # Inject only the needed fields
             injected_song = {}
+            injected_facts = {}
             for dep in processor.get("dependencies", []):
                 if dep in song:
                     injected_song[dep] = song[dep]
+                else:
+                    fact = self.dependencyService.resolve(dep)
+                    if fact:
+                        injected_facts[dep.replace(':','_')] = fact
+
+            template_context = {**injected_song, **injected_facts}
 
             template = Template("\n".join(processor["template"]))
-            prompt = template.render(**injected_song)
+            prompt = template.render(**template_context)
 
             system_prompt = f"You are {processor.get('name', 'PostProcessor')}\n{processor.get('description', '')}\nReturn a JSON object or plain string depending on type."
 

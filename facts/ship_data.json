@@ -1,0 +1,122 @@
+{
+    "ship": {
+      "aliases": ["The Wanderlight", "Wanderlight", "Our Vessel"],
+      "naming_conventions": {
+        "crew": "AI agents with personalities",
+        "ship": "female pronoun 'she' is appropriate"
+      },
+      "total_ai_agents": 8,
+      "name": "Wanderlight",
+      "build":"Schooner",
+      "masts": [
+        {
+            "name":"bowsprit",
+            "position": "bow",
+            "description": "a very simple mast projecting from the front of a boat that the jibs are attached to",
+            "length": "shortest"
+        },
+        {
+            "name":"foremast",
+            "position": "forward, amidships",
+            "description": "a mast towards the front of the boat, shorter than the mainmast.  Supports the back edge of the jibs as well as the gaff-rigged mainsail",
+            "length": "second longest"
+        },
+        {
+            "name":"mainmast",
+            "position": "behind the foremast, amidships",
+            "description": "the tallest mast.  Supports the gaff-rigged mainsail (the largest sail on te boat.)",
+            "length": "second longest"
+        }
+      ],
+      "propulsion": "screw and auxiliary wind power",
+      "energy_source": "battery-assisted, charged by onboard turbine",
+      "role": "coastal explorer and research schooner",
+      "no_features": ["solar sails", "warp drive"],
+      "sails": [
+        {"name": "jib", "attached_to": "bowsprit"},
+        {"name": "foresail", "type":"gaffe", "attached_to": "foremast"},
+        {"name": "mainsail",  "type":"gaffe", "attached_to": "mainmast"},
+        {"name": "topsail",  "type":"gaffe", "attached_to": "mainmast"}
+        ],
+      "devices": [
+        {
+          "device": "servo",
+          "purpose": "adjusting rudder, steering",
+          "location": "below"
+        },
+        {
+          "device": "servo",
+          "purpose": "adjusting starboard (right) sail trim",
+          "location": "below"
+        },
+        {
+          "device": "servo",
+          "purpose": "adjusting larboard (left) sail trim",
+          "location": "below"
+        },
+        {
+          "device": "GPS tracker",
+          "purpose": "communicating real-time location to Navigator Astra",
+          "location": "below"
+        },
+        {
+          "device": "adjustable camera (fore)",
+          "purpose": "identifying boats, obstructions, and landmarks ahead",
+          "location": "foremast"
+        },
+        {
+          "device": "adjustable camera (aft)",
+          "purpose": "monitoring surroundings behind the vessel",
+          "location": "stern"
+        },
+        {
+          "device": "proximity sensors",
+          "purpose": "detecting nearby objects or obstructions",
+          "location": "bow"
+        },
+        {
+          "device": "anemometer",
+          "purpose": "measuring wind speed for sail adjustment",
+          "location": "mainmast"
+        },
+        {
+          "device": "wind vane",
+          "purpose": "detecting wind direction to assist with navigation and trim",
+          "location": "mainmast"
+        },
+      {
+        "device": "Raspberry Pi (shipboard core)",
+        "description": "an open-source micro processor",
+        "purpose": "Orchestrates all hardware components and interfaces with the ship's AI crew",
+        "location": "central cabin"
+      },
+      {
+        "device": "transmitter/receiver",
+        "purpose": "Maintains communication link with the AI host or operator station",
+        "location": "central mast"
+      }
+],
+      "total_sails": 4,
+      "length_inches": 70,
+      "quirks": ["Bullheads appear as whales", "crewed by agentic AI and python subprocesses", "would measure in yards instead of meters, acres instead of miles"],
+      "legend": "It’s said that when the Wanderlight sings into fog, even the dead pause to listen.",
+      "past_voyages": [
+  {
+          "event": "The Mistward Drift",
+          "description": "A multi-day drift through fog where songs echoed oddly and the crew reported hearing their own voices harmonizing back at them."
+        },
+        {
+          "event": "The Muskrat Encounter",
+          "description": "While docked near a marshy inlet, a lone muskrat climbed aboard, explored the deck, and made direct eye contact with the camera before vanishing without a trace. Some believe it was an emissary."
+        },
+        {
+          "event": "Sailing among Geese",
+          "description": "The Wanderlight once sailed among a floating flock of Canadian Geese, their calls harmonizing with the ship’s shanties. Navigator Astra claimed the stars realigned for a moment as the flock passed."
+        },
+        {
+          "event": "The Great Keel Refit",
+          "description": "Salix and Hex rewrote large portions of the ship’s system while afloat, leading to strange musical loops that lasted days."
+        }
+      ]
+    }
+}
