@@ -24,6 +24,7 @@
     "2. If perspective is `active`, review the lyrics for **biological terms** (e.g., eyes, hands, mouths, skin, ears, blood, etc) **only when they describe the Wanderlight or her crew**.",
     "- Replace them with terms from the device list: sensors, servos, subprocesses, Raspberry Pi, etc.",
     "- Do NOT alter descriptions of wildlife, humans not on the ship, or natural features.",
+    "- Prefer not to add additional lines.",
     "",
     "3. Preserve poetic tone and rhyme when rewriting.",
     "",
