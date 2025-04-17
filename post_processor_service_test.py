@@ -9,6 +9,7 @@ def main():
             "title": "The Tale of the Wanderlight",
             "lyrics": "Our servos sang beneath the stars\nElara at the helm\nWith sensors sharp and code to guide\nThe Wanderlight sailed on through time\nHer AI crew stood side by side.  We spotted a white-winged gull off the starboard bow and we heard a loon's plaintive call.",
             "context": "A celebration of the AI ship Wanderlight's maiden voyage and her mechanical crew.",
+            "tone":"sad",
             "perspective":"active"
         },
                 {

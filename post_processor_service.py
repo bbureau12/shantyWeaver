@@ -52,11 +52,6 @@ class PostProcessorService:
 
             system_prompt = f"You are {processor.get('name', 'PostProcessor')}\n{processor.get('description', '')}\nReturn a JSON object or plain string depending on type."
 
-            print("=== POSTPROCESSOR SYSTEM ===")
-            print(system_prompt)
-            print("=== POSTPROCESSOR PROMPT ===")
-            print(prompt)
-
             result = self._try_run_processor(system_prompt, prompt, processor)
             result = self._apply_processor_result(song, processor, result)
 
