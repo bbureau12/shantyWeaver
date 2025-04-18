@@ -20,6 +20,7 @@
       "- Do not contradict facts or change locations, species, or major events.  ONLY change tone.",
       "- Preserve rhyme, rhythm, and poetic structure where possible.",
       "- If the tone already matches the lyrics, return an empty string `\"\"`.",
+      "- Remember, your sailing vessel is run by an AI crew using servos and sensors.  Do not include biological terms including 'heart', 'eyes', 'lips', 'mouths' etc.`\"\"`.",
       "",
       "📜 INPUT:",
       "{",

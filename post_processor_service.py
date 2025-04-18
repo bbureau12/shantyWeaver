@@ -60,7 +60,7 @@ class PostProcessorService:
                 "result": result
             })
 
-        return results
+        return song
 
     def _try_run_processor(self, system_prompt, prompt, processor, retries=3):
         model = processor.get("model", self.model)

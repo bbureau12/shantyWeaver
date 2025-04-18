@@ -4,10 +4,12 @@ import os
 import re
 import ollama
 from songRepository import ShantyRepository
+from post_processor_service import PostProcessorService
 
 class ShantyComposerService:
     def __init__(self):
         self.songRepository = ShantyRepository()
+        self.postProcessorService = PostProcessorService()
     
     def compose_shanty(self, muse_prompt=None, model="mistral"):
         if not muse_prompt:
@@ -73,6 +75,7 @@ class ShantyComposerService:
         try:
             json_match = re.search(r'{.*}', raw_output, re.DOTALL)
             song_json = json.loads(json_match.group()) if json_match else json.loads(raw_output)
+            song_json = self.postProcessorService.run(song_json)
             return song_json
         except Exception as e:
             print("❌ Failed to parse LLM response:", e)

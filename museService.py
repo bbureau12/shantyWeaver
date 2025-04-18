@@ -218,14 +218,14 @@ class MuseService:
 if __name__ == '__main__':
     muse = MuseService()
     composer = ShantyComposerService()
-    prompt = muse.generate_ballad_prompt()
-    print(prompt)
+    # prompt = muse.generate_random_shanty_prompt()
+    # print(prompt)
 
-    # for i in range(1):
-    #     # Run with minimal known-good inputs
-    #     prompt = muse.generate_random_shanty_prompt(
-    #     )
-    #     song = composer.compose_shanty(prompt)
+    for i in range(1):
+        # Run with minimal known-good inputs
+        prompt = muse.generate_random_shanty_prompt(
+        )
+        song = composer.compose_shanty(prompt)
 
 
-    #     print(song)
+        print(song)
