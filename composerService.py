@@ -2,11 +2,15 @@ import datetime
 import json
 import os
 import re
+import time
 import ollama
 from songRepository import ShantyRepository
 from post_processor_service import PostProcessorService
 
 class ShantyComposerService:
+    MAX_RETRIES = 3
+    RETRY_DELAY = 1  # seconds
+
     def __init__(self):
         self.songRepository = ShantyRepository()
         self.postProcessorService = PostProcessorService()
@@ -30,11 +34,14 @@ class ShantyComposerService:
             k=3,
             add_random=False
         )
-        new_song = self._compose_new_shanty(songs, context, model)
-        if len(new_song) != 0:
-            self._log_generated_shanty(new_song, context)
-
-        return new_song
+        for attempt in range(self.MAX_RETRIES):
+            new_song = self._compose_new_shanty(songs, context, model)
+            if len(new_song) != 0:
+                self._log_generated_shanty(new_song, context)
+                return new_song
+            else:
+                 print(f"⚠️ Attempt {attempt + 1} failed. Retrying in {self.RETRY_DELAY}s...")
+            time.sleep(self.RETRY_DELAY)
 
     def _build_shanty_prompt(self, seed_songs, context):
         ship_context = self._load_ship_context()

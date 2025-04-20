@@ -14,14 +14,17 @@
     ],
     "context": "As the Wanderlight sails through the dense fog, each crew member seems lost in thought, their hearts echoing with the rhythm of a forgotten melody.  In 'The Ghost Ship's Lament', the Wanderlight and her crew are passive observers as they sail through the fog, encountering a ghost ship drifting in the mist. The lyrics suggest that the Wanderlight's crew is haunted by the melody of this mysterious ship, indicating a legendary event. This ghost ship is not the Wanderlight and is separate from her narrative.",
     "lyrics": "In the fog we sail, our spirits pale\nThrough forgotten seas we roam...\nEach heart a ghost, in shadows tossed,\nA crew of spirits, doomed to float.\n'Tis the Ghost Ship, lost and drifting free,\nThrough the mists we silently move.\nThe winds they whisper, stories of thee,\nOur hearts echo, your melody.\nIn the haze we sail, our spirits pale,\nA ship of ghosts, forever roam...",
-    "human_rating": "None",
+    "human_rating": 5,
     "ai_rating": "None",
-    "reviewed_by": "None",
-    "review_notes": "None",
+    "reviewed_by": "Beau",
+    "review_notes": "sail and pale was a nice rhyme and very in-tune for spirits!!",
     "source": "ai_generated",
     "model": "mistral",
     "created_at": "2025-04-02T14:20:26.581677",
-    "approved_for_future_inspiration": "None"
+    "approved_for_future_inspiration": "None",
+    "flagged_lines": [
+      1
+    ]
   },
   {
     "title": "White Bear's Manitou Park Farewell",
@@ -60,14 +63,17 @@
     ],
     "context": "We're setting out from White Bear's Manitou Park.",
     "lyrics": "From the heart of White Bear's park we set our sail\nUnderneath the moonlight, spirits high and hale\nSailor's cheer echoes through the dark,\n'Til the dawn breaks on this adventure stark.\n\nChant the rhythm of a sailor's call,\nRaise your glass and answer Manitou's tall!",
-    "human_rating": "None",
+    "human_rating": 5,
     "ai_rating": "None",
-    "reviewed_by": "None",
-    "review_notes": "None",
+    "reviewed_by": "Beau",
+    "review_notes": "I love the idea of raising a glass!  Very true to the shanty spirit, crew!",
     "source": "ai_generated",
     "model": "mistral",
     "created_at": "2025-03-30T12:13:26.324387",
-    "approved_for_future_inspiration": "None"
+    "approved_for_future_inspiration": "None",
+    "flagged_lines": [
+      7
+    ]
   },
   {
     "title": "Serenade of the Siren",
@@ -83,10 +89,10 @@
     ],
     "context": "The Wanderlight sails serenely, her gaff-rigged sails billowing like ghostly apparitions against the twilight sky. The crew, a harmonious blend of AI and human spirit, exchange tales of yore as they navigate the watery labyrinth.",
     "lyrics": "The Wanderlight glides\nThrough the twilight tide...\nWith a crew of old and new,\nBound by bonds, true as the moon,\nEchoing tales of times gone by...",
-    "human_rating": "None",
+    "human_rating": 5,
     "ai_rating": "None",
-    "reviewed_by": "None",
-    "review_notes": "None",
+    "reviewed_by": "Beau",
+    "review_notes": "It's rather short",
     "source": "ai_generated",
     "model": "mistral",
     "created_at": "2025-04-02T14:15:37.937346",
@@ -107,35 +113,13 @@
     ],
     "context": "In the bustling harbor, amidst the hum of sailors readying their ships for the day's voyage, the Wanderlight crew, an ensemble of agentic AI entities, prepared their vessel with a rhythm and unity that could only be matched by the sea shanties they were about to sing.",
     "lyrics": "With the dawn we set\nFrom the bustling shore...\nSails unfurled and steady beat,\nA journey evermore.\n\nGather 'round to heave a line,\nSteady on, no need to whine,\nUnited by the Wanderlight's shine,\nSailing into the brine.\n\nOnward bound to distant lands,\nAcross the rolling sands...\nGuided by our artificial hands,\nBy the sea we'll never wane.\n\nCrystalline eyes of AI, we row,\nThrough the winds and ebb and flow,\nThe Wanderlight crew, forever grow,\nOur song resounds, come what may.",
-    "human_rating": "None",
+    "human_rating": 5,
     "ai_rating": "None",
-    "reviewed_by": "None",
-    "review_notes": "None",
+    "reviewed_by": "Beau",
+    "review_notes": "Crystalline eyes of AI - truly poetic!",
     "source": "ai_generated",
     "model": "mistral",
     "created_at": "2025-04-02T14:46:36.847471",
-    "approved_for_future_inspiration": "None"
-  },
-  {
-    "title": "The Forgotten Voyage",
-    "tone": "melancholic",
-    "theme": "forgotten voyages",
-    "structure": "verse-verse-chorus",
-    "tags": [
-      "generated",
-      "memory",
-      "ocean",
-      "ai",
-      "ghost ship"
-    ],
-    "context": "The echoes of a bygone era",
-    "human_rating": "None",
-    "ai_rating": "None",
-    "reviewed_by": "None",
-    "review_notes": "None",
-    "source": "ai_generated",
-    "model": "mistral",
-    "created_at": "2025-04-14T16:53:14.632756",
     "approved_for_future_inspiration": "None"
   },
   {
