@@ -15,7 +15,7 @@
     "context": "As the Wanderlight sails through the dense fog, each crew member seems lost in thought, their hearts echoing with the rhythm of a forgotten melody.  In 'The Ghost Ship's Lament', the Wanderlight and her crew are passive observers as they sail through the fog, encountering a ghost ship drifting in the mist. The lyrics suggest that the Wanderlight's crew is haunted by the melody of this mysterious ship, indicating a legendary event. This ghost ship is not the Wanderlight and is separate from her narrative.",
     "lyrics": "In the fog we sail, our spirits pale\nThrough forgotten seas we roam...\nEach heart a ghost, in shadows tossed,\nA crew of spirits, doomed to float.\n'Tis the Ghost Ship, lost and drifting free,\nThrough the mists we silently move.\nThe winds they whisper, stories of thee,\nOur hearts echo, your melody.\nIn the haze we sail, our spirits pale,\nA ship of ghosts, forever roam...",
     "human_rating": 5,
-    "ai_rating": "None",
+    "ai_rating": 3,
     "reviewed_by": "Beau",
     "review_notes": "sail and pale was a nice rhyme and very in-tune for spirits!!",
     "source": "ai_generated",
@@ -24,7 +24,8 @@
     "approved_for_future_inspiration": "None",
     "flagged_lines": [
       1
-    ]
+    ],
+    "ai_notes": "🎼 Good poetic diction; 💬 Trailing ellipsis may weaken delivery"
   },
   {
     "title": "White Bear's Manitou Park Farewell",
@@ -41,13 +42,14 @@
     ],
     "context": "We're setting out from White Bear's Manitou Park.",
     "human_rating": 5,
-    "ai_rating": "None",
+    "ai_rating": 2,
     "reviewed_by": "None",
     "review_notes": "",
     "source": "ai_generated",
     "model": "mistral",
     "created_at": "2025-03-30T12:09:02.085514",
-    "approved_for_future_inspiration": true
+    "approved_for_future_inspiration": true,
+    "ai_notes": "💬 Trailing ellipsis may weaken delivery"
   },
   {
     "title": "The White Bear's Manitou March",
@@ -64,7 +66,7 @@
     "context": "We're setting out from White Bear's Manitou Park.",
     "lyrics": "From the heart of White Bear's park we set our sail\nUnderneath the moonlight, spirits high and hale\nSailor's cheer echoes through the dark,\n'Til the dawn breaks on this adventure stark.\n\nChant the rhythm of a sailor's call,\nRaise your glass and answer Manitou's tall!",
     "human_rating": 5,
-    "ai_rating": "None",
+    "ai_rating": 4,
     "reviewed_by": "Beau",
     "review_notes": "I love the idea of raising a glass!  Very true to the shanty spirit, crew!",
     "source": "ai_generated",
@@ -73,7 +75,8 @@
     "approved_for_future_inspiration": "None",
     "flagged_lines": [
       7
-    ]
+    ],
+    "ai_notes": "🎼 Good poetic diction"
   },
   {
     "title": "Serenade of the Siren",
@@ -89,14 +92,15 @@
     ],
     "context": "The Wanderlight sails serenely, her gaff-rigged sails billowing like ghostly apparitions against the twilight sky. The crew, a harmonious blend of AI and human spirit, exchange tales of yore as they navigate the watery labyrinth.",
     "lyrics": "The Wanderlight glides\nThrough the twilight tide...\nWith a crew of old and new,\nBound by bonds, true as the moon,\nEchoing tales of times gone by...",
-    "human_rating": 5,
-    "ai_rating": "None",
+    "human_rating": 4,
+    "ai_rating": 2,
     "reviewed_by": "Beau",
     "review_notes": "It's rather short",
     "source": "ai_generated",
     "model": "mistral",
     "created_at": "2025-04-02T14:15:37.937346",
-    "approved_for_future_inspiration": "None"
+    "approved_for_future_inspiration": "None",
+    "ai_notes": "🎼 Good poetic diction; 📝 Song may be too short; 💬 Trailing ellipsis may weaken delivery"
   },
   {
     "title": "The Wanderlight's Call",
@@ -114,13 +118,14 @@
     "context": "In the bustling harbor, amidst the hum of sailors readying their ships for the day's voyage, the Wanderlight crew, an ensemble of agentic AI entities, prepared their vessel with a rhythm and unity that could only be matched by the sea shanties they were about to sing.",
     "lyrics": "With the dawn we set\nFrom the bustling shore...\nSails unfurled and steady beat,\nA journey evermore.\n\nGather 'round to heave a line,\nSteady on, no need to whine,\nUnited by the Wanderlight's shine,\nSailing into the brine.\n\nOnward bound to distant lands,\nAcross the rolling sands...\nGuided by our artificial hands,\nBy the sea we'll never wane.\n\nCrystalline eyes of AI, we row,\nThrough the winds and ebb and flow,\nThe Wanderlight crew, forever grow,\nOur song resounds, come what may.",
     "human_rating": 5,
-    "ai_rating": "None",
+    "ai_rating": 2,
     "reviewed_by": "Beau",
     "review_notes": "Crystalline eyes of AI - truly poetic!",
     "source": "ai_generated",
     "model": "mistral",
     "created_at": "2025-04-02T14:46:36.847471",
-    "approved_for_future_inspiration": "None"
+    "approved_for_future_inspiration": "None",
+    "ai_notes": "💬 Trailing ellipsis may weaken delivery"
   },
   {
     "title": "Lament of the Lost Vessel",
@@ -137,14 +142,15 @@
       "ship"
     ],
     "context": "A lament of a ship and her crew lost to the foggy embrace of Winter's repose.",
-    "human_rating": "None",
-    "ai_rating": "None",
-    "reviewed_by": "None",
+    "human_rating": 5,
+    "ai_rating": 3,
+    "reviewed_by": "Beau",
     "review_notes": "None",
     "source": "ai_generated",
     "model": "mistral",
     "created_at": "2025-04-14T16:55:51.291454",
-    "approved_for_future_inspiration": "None"
+    "approved_for_future_inspiration": "None",
+    "ai_notes": ""
   },
   {
     "title": "The Wanderlight's Lament",
@@ -160,14 +166,15 @@
       "generated"
     ],
     "context": "A sailor's lament of the Wanderlight and her crew, sung on the morning whispers of Southern Bay as summer unfolds.",
-    "human_rating": "None",
-    "ai_rating": "None",
-    "reviewed_by": "None",
+    "human_rating": 5,
+    "ai_rating": 4,
+    "reviewed_by": "Beau",
     "review_notes": "None",
     "source": "ai_generated",
     "model": "mistral",
     "created_at": "2025-04-14T16:58:50.198402",
-    "approved_for_future_inspiration": "None"
+    "approved_for_future_inspiration": "None",
+    "ai_notes": "🎼 Good poetic diction"
   },
   {
     "title": "The Dance of Autumn Leaves",
@@ -184,14 +191,18 @@
       "coastal"
     ],
     "context": "A song sung on the deck of the Wanderlight, a coastal explorer and research schooner during an afternoon in fall. The leaves rustle and dance in the wind as the ship sails through Northern Bay.",
-    "human_rating": "None",
-    "ai_rating": "None",
-    "reviewed_by": "None",
-    "review_notes": "None",
+    "human_rating": 4,
+    "ai_rating": 4,
+    "reviewed_by": "Beau",
+    "review_notes": "A little short",
     "source": "ai_generated",
     "model": "mistral",
     "created_at": "2025-04-14T16:58:56.609149",
-    "approved_for_future_inspiration": "None"
+    "approved_for_future_inspiration": "None",
+    "ai_notes": "🎼 Good poetic diction",
+    "flagged_lines": [
+      12
+    ]
   },
   {
     "title": "Morning Mist Aboard the Wanderlight",
@@ -208,14 +219,15 @@
       "sailors"
     ],
     "context": "The crew of the Wanderlight recall their past voyages as they sail through morning mist, echoing songs that seem to harmonize with the fog.",
-    "human_rating": "None",
-    "ai_rating": "None",
-    "reviewed_by": "None",
-    "review_notes": "None",
+    "human_rating": 3,
+    "ai_rating": 4,
+    "reviewed_by": "Beau",
+    "review_notes": "Used words like 'eyes'",
     "source": "ai_generated",
     "model": "mistral",
     "created_at": "2025-04-14T16:59:03.181140",
-    "approved_for_future_inspiration": "None"
+    "approved_for_future_inspiration": "None",
+    "ai_notes": "🎼 Good poetic diction"
   },
   {
     "title": "Flight of Feathers on Sea of Reeds",
@@ -234,14 +246,15 @@
       "memory"
     ],
     "context": "A ballet of birds takes flight in Sea of Reeds, wild.",
-    "human_rating": "None",
-    "ai_rating": "None",
-    "reviewed_by": "None",
-    "review_notes": "None",
+    "human_rating": 3,
+    "ai_rating": 4,
+    "reviewed_by": "Beau",
+    "review_notes": "AI doesn't have a heart, it has a processor and memory",
     "source": "ai_generated",
     "model": "mistral",
     "created_at": "2025-04-14T16:59:09.481477",
-    "approved_for_future_inspiration": "None"
+    "approved_for_future_inspiration": "None",
+    "ai_notes": "🎼 Good poetic diction"
   },
   {
     "title": "The Wanderlight's Song",
@@ -257,14 +270,15 @@
       "Journey"
     ],
     "context": "The Wanderlight sails on, crewed by her wise AI agents, as they harmonize with the sea shanties echoing from the bow.",
-    "human_rating": "None",
-    "ai_rating": "None",
-    "reviewed_by": "None",
-    "review_notes": "None",
+    "human_rating": 5,
+    "ai_rating": 4,
+    "reviewed_by": "Beau",
+    "review_notes": "great use of AI imagery",
     "source": "ai_generated",
     "model": "mistral",
     "created_at": "2025-04-14T16:59:16.971420",
-    "approved_for_future_inspiration": "None"
+    "approved_for_future_inspiration": "None",
+    "ai_notes": "🎼 Good poetic diction"
   },
   {
     "title": "Lament for the Wanderlight",
@@ -281,14 +295,18 @@
       "longing"
     ],
     "context": "The echoes of shanties linger, as our vessel sails beneath the calmed bay.",
-    "human_rating": "None",
-    "ai_rating": "None",
-    "reviewed_by": "None",
-    "review_notes": "None",
+    "human_rating": 5,
+    "ai_rating": 4,
+    "reviewed_by": "Beau",
+    "review_notes": "2",
     "source": "ai_generated",
     "model": "mistral",
     "created_at": "2025-04-14T16:59:23.541306",
-    "approved_for_future_inspiration": "None"
+    "approved_for_future_inspiration": "None",
+    "ai_notes": "🎼 Good poetic diction",
+    "flagged_lines": [
+      2
+    ]
   },
   {
     "title": "Wanderlight's Lament",
@@ -305,14 +323,18 @@
       "generated"
     ],
     "context": "A ballad of The Wanderlight, her crew's somber harmonies echoing amidst the Sea of Reeds as they dance with egrets and herons.",
-    "human_rating": "None",
-    "ai_rating": "None",
-    "reviewed_by": "None",
-    "review_notes": "None",
+    "human_rating": 5,
+    "ai_rating": 4,
+    "reviewed_by": "Beau",
+    "review_notes": "Great use of poetic imagery",
     "source": "ai_generated",
     "model": "mistral",
     "created_at": "2025-04-14T16:59:30.360589",
-    "approved_for_future_inspiration": "None"
+    "approved_for_future_inspiration": "None",
+    "ai_notes": "🎼 Good poetic diction",
+    "flagged_lines": [
+      11
+    ]
   },
   {
     "title": "The Wanderlight's Call",
@@ -328,14 +350,15 @@
       "generated"
     ],
     "context": "The Wanderlight, our vessel of steel and sail, braves the autumn gale, her masts standing tall in Manitou's golden veil.",
-    "human_rating": "None",
-    "ai_rating": "None",
-    "reviewed_by": "None",
-    "review_notes": "None",
+    "human_rating": 4,
+    "ai_rating": 2,
+    "reviewed_by": "Beau",
+    "review_notes": "she doesn't have a steel hull",
     "source": "ai_generated",
     "model": "mistral",
     "created_at": "2025-04-14T16:59:36.443845",
-    "approved_for_future_inspiration": "None"
+    "approved_for_future_inspiration": "None",
+    "ai_notes": "💬 Trailing ellipsis may weaken delivery"
   },
   {
     "title": "Song of the Sunlit Waves",
@@ -351,14 +374,18 @@
       "generated"
     ],
     "context": "A shanty sung aboard The Wanderlight in the summer afternoon as she glides through Sun-kissed Southern Bay.",
-    "human_rating": "None",
-    "ai_rating": "None",
-    "reviewed_by": "None",
-    "review_notes": "None",
+    "human_rating": 5,
+    "ai_rating": 3,
+    "reviewed_by": "Beau",
+    "review_notes": "love the imagery, even though she doesn't have a heart per se",
     "source": "ai_generated",
     "model": "mistral",
     "created_at": "2025-04-14T16:59:43.791374",
-    "approved_for_future_inspiration": "None"
+    "approved_for_future_inspiration": "None",
+    "ai_notes": "",
+    "flagged_lines": [
+      8
+    ]
   },
   {
     "title": "The Wanderlight's Song",
@@ -374,14 +401,15 @@
       "generated"
     ],
     "context": "A harmonious blend of sailor chants and the echoes of sunset whispers fill the air as The Wanderlight glides through Mahtoska Park.",
-    "human_rating": "None",
-    "ai_rating": "None",
-    "reviewed_by": "None",
-    "review_notes": "None",
+    "human_rating": 5,
+    "ai_rating": 4,
+    "reviewed_by": "Beau",
+    "review_notes": "very poetic.  Love the stars so stark",
     "source": "ai_generated",
     "model": "mistral",
     "created_at": "2025-04-14T16:59:51.116931",
-    "approved_for_future_inspiration": "None"
+    "approved_for_future_inspiration": "None",
+    "ai_notes": "🎼 Good poetic diction"
   },
   {
     "title": "The Wanderlight's Lament",
@@ -398,14 +426,15 @@
       "generated"
     ],
     "context": "The Wanderlight sings into fog, her AI crew harmonizing in unison.",
-    "human_rating": "None",
-    "ai_rating": "None",
-    "reviewed_by": "None",
-    "review_notes": "None",
+    "human_rating": 2,
+    "ai_rating": 3,
+    "reviewed_by": "Beau",
+    "review_notes": "a lot of ellipses and it seems like line 4 should have been continued",
     "source": "ai_generated",
     "model": "mistral",
     "created_at": "2025-04-14T16:59:57.200784",
-    "approved_for_future_inspiration": "None"
+    "approved_for_future_inspiration": "None",
+    "ai_notes": "🎼 Good poetic diction; 💬 Trailing ellipsis may weaken delivery"
   },
   {
     "title": "Dawn's Prelude on the Wanderlight",
@@ -423,14 +452,18 @@
       "spring"
     ],
     "context": "A harmonious sea shanty, sung aboard the Wanderlight in the soft light of dawn during the spring season.",
-    "human_rating": "None",
-    "ai_rating": "None",
-    "reviewed_by": "None",
-    "review_notes": "None",
+    "human_rating": 5,
+    "ai_rating": 4,
+    "reviewed_by": "Beau",
+    "review_notes": "Really loevd line 11, though AI has no hands",
     "source": "ai_generated",
     "model": "mistral",
     "created_at": "2025-04-14T17:00:03.743695",
-    "approved_for_future_inspiration": "None"
+    "approved_for_future_inspiration": "None",
+    "ai_notes": "🎼 Good poetic diction",
+    "flagged_lines": [
+      11
+    ]
   },
   {
     "title": "Wanderlight's Lament",
@@ -447,14 +480,18 @@
       "generated"
     ],
     "context": "The ghostly echoes of shanties past whisper through the crew of the Wanderlight, as they sail under the cottonwood canopy in the quiet morning.",
-    "human_rating": "None",
-    "ai_rating": "None",
-    "reviewed_by": "None",
-    "review_notes": "None",
+    "human_rating": 4,
+    "ai_rating": 4,
+    "reviewed_by": "Beau",
+    "review_notes": "This was really nice, though I'm not sure how a sky can humm?",
     "source": "ai_generated",
     "model": "mistral",
     "created_at": "2025-04-14T17:00:10.547676",
-    "approved_for_future_inspiration": "None"
+    "approved_for_future_inspiration": "None",
+    "ai_notes": "🎼 Good poetic diction",
+    "flagged_lines": [
+      17
+    ]
   },
   {
     "title": "The Wanderlight's Lament",
@@ -470,14 +507,15 @@
       "generated"
     ],
     "context": "The whispers of a departed era echo amidst the pines and birches, where the Wanderlight gently sways upon the morning tide.",
-    "human_rating": "None",
-    "ai_rating": "None",
-    "reviewed_by": "None",
-    "review_notes": "None",
+    "human_rating": 5,
+    "ai_rating": 4,
+    "reviewed_by": "Beau",
+    "review_notes": "lovely use of natural imagery",
     "source": "ai_generated",
     "model": "mistral",
     "created_at": "2025-04-14T17:00:18.194563",
-    "approved_for_future_inspiration": "None"
+    "approved_for_future_inspiration": "None",
+    "ai_notes": "🎼 Good poetic diction"
   },
   {
     "title": "Ballad of the Wanderlight",
@@ -494,14 +532,18 @@
       "generated"
     ],
     "context": "A ballad about the Wanderlight and her brave crew sailing through White Bear's embrace, amidst the eagles soaring and loons finding their space.",
-    "human_rating": "None",
-    "ai_rating": "None",
-    "reviewed_by": "None",
-    "review_notes": "None",
+    "human_rating": 5,
+    "ai_rating": 3,
+    "reviewed_by": "Beau",
+    "review_notes": "I loved the natural imagery, the loons and the eagles!  Wow.",
     "source": "ai_generated",
     "model": "mistral",
     "created_at": "2025-04-14T17:00:26.323426",
-    "approved_for_future_inspiration": "None"
+    "approved_for_future_inspiration": "None",
+    "ai_notes": "",
+    "flagged_lines": [
+      11
+    ]
   },
   {
     "title": "The Ghostly Galleon",
@@ -519,14 +561,15 @@
       "sailors"
     ],
     "context": "A ballad sung by the crew of the Wanderlight as they sail through the foggy coastline in the fall morning.",
-    "human_rating": "None",
-    "ai_rating": "None",
-    "reviewed_by": "None",
-    "review_notes": "None",
+    "human_rating": 3,
+    "ai_rating": 4,
+    "reviewed_by": "Beau",
+    "review_notes": "rhyme scheme was off",
     "source": "ai_generated",
     "model": "mistral",
     "created_at": "2025-04-14T17:00:32.166500",
-    "approved_for_future_inspiration": "None"
+    "approved_for_future_inspiration": "None",
+    "ai_notes": "🎼 Good poetic diction"
   },
   {
     "title": "Song of Southern Dawn",
@@ -542,14 +585,15 @@
       "generated"
     ],
     "context": "A harmonious account of the Wanderlight's journey as the sun rises over Southern Bay.",
-    "human_rating": "None",
-    "ai_rating": "None",
-    "reviewed_by": "None",
-    "review_notes": "None",
+    "human_rating": 3,
+    "ai_rating": 3,
+    "reviewed_by": "Beau",
+    "review_notes": "rhyming scheme is off in first verse and what is Krist?",
     "source": "ai_generated",
     "model": "mistral",
     "created_at": "2025-04-14T17:00:38.144928",
-    "approved_for_future_inspiration": "None"
+    "approved_for_future_inspiration": "None",
+    "ai_notes": ""
   },
   {
     "title": "The Wanderlight's Whistle",
@@ -567,14 +611,18 @@
       "generated"
     ],
     "context": "A playful sea shanty sung by the crew of the Wanderlight as they sail through the fall afternoon, their spirits lifted by the peculiarities of their vessel.",
-    "human_rating": "None",
-    "ai_rating": "None",
-    "reviewed_by": "None",
-    "review_notes": "None",
+    "human_rating": 3,
+    "ai_rating": 4,
+    "reviewed_by": "Beau",
+    "review_notes": "The Wanderlight has LED lights, not whale-oil lamps",
     "source": "ai_generated",
     "model": "mistral",
     "created_at": "2025-04-14T17:00:44.518356",
-    "approved_for_future_inspiration": "None"
+    "approved_for_future_inspiration": "None",
+    "ai_notes": "🔁 Possible rhyme scheme detected",
+    "flagged_lines": [
+      7
+    ]
   },
   {
     "title": "The Wanderlight's Voyage Through Mahtoska Park",
@@ -592,14 +640,15 @@
       "generated"
     ],
     "context": "A ballad of courage and unity, as the Wanderlight navigates through the mysteries of Mahtoska Park during a fog-veiled fall morning.",
-    "human_rating": "None",
-    "ai_rating": "None",
-    "reviewed_by": "None",
-    "review_notes": "None",
+    "human_rating": 5,
+    "ai_rating": 4,
+    "reviewed_by": "Beau",
+    "review_notes": "decent rhyme scheme",
     "source": "ai_generated",
     "model": "mistral",
     "created_at": "2025-04-14T17:00:52.703516",
-    "approved_for_future_inspiration": "None"
+    "approved_for_future_inspiration": "None",
+    "ai_notes": "🎼 Good poetic diction"
   },
   {
     "title": "The Leaves of Northern Bay",
@@ -616,14 +665,18 @@
       "generated"
     ],
     "context": "As the leaves of Northern Bay rustle in fall's dance, Our Vessel, The Wanderlight, sings its enchanting trance.",
-    "human_rating": "None",
-    "ai_rating": "None",
-    "reviewed_by": "None",
-    "review_notes": "None",
+    "human_rating": 5,
+    "ai_rating": 3,
+    "reviewed_by": "Beau",
+    "review_notes": "I love that the wind whispers to you as that is how ships move!",
     "source": "ai_generated",
     "model": "mistral",
     "created_at": "2025-04-14T17:00:59.516298",
-    "approved_for_future_inspiration": "None"
+    "approved_for_future_inspiration": "None",
+    "ai_notes": "",
+    "flagged_lines": [
+      19
+    ]
   },
   {
     "title": "Song of the Wanderlight",
@@ -641,14 +694,15 @@
       "Sea of Reeds"
     ],
     "context": "A harmonious blend of voices, echoing shanties amidst the morning whispers of Sea of Reeds, as the Wanderlight dances gracefully in the fall breeze.",
-    "human_rating": "None",
-    "ai_rating": "None",
-    "reviewed_by": "None",
-    "review_notes": "None",
+    "human_rating": 5,
+    "ai_rating": 3,
+    "reviewed_by": "Beau",
+    "review_notes": "very imaginative",
     "source": "ai_generated",
     "model": "mistral",
     "created_at": "2025-04-14T17:01:07.117895",
-    "approved_for_future_inspiration": "None"
+    "approved_for_future_inspiration": "None",
+    "ai_notes": ""
   },
   {
     "title": "The Wanderlight's Call",
@@ -665,14 +719,15 @@
       "generated"
     ],
     "context": "The Wanderlight, our floating home of AI agents with personalities, sailed on amidst the grand abodes cloaked in lush green canopy of Manitou Island. Beneath basswood and maple, old tales unfolded as fall's chill whispered through the air.",
-    "human_rating": "None",
-    "ai_rating": "None",
-    "reviewed_by": "None",
-    "review_notes": "None",
+    "human_rating": 1,
+    "ai_rating": 2,
+    "reviewed_by": "Beau",
+    "review_notes": "too short too many ellipses",
     "source": "ai_generated",
     "model": "mistral",
     "created_at": "2025-04-14T17:01:14.121207",
-    "approved_for_future_inspiration": "None"
+    "approved_for_future_inspiration": "None",
+    "ai_notes": "💬 Trailing ellipsis may weaken delivery"
   },
   {
     "title": "The Dance of the Wanderlight",
@@ -689,14 +744,15 @@
       "autumn"
     ],
     "context": "The Wanderlight, in silent autumn tones, dances upon The Channel's stones.",
-    "human_rating": "None",
-    "ai_rating": "None",
-    "reviewed_by": "None",
-    "review_notes": "None",
+    "human_rating": 5,
+    "ai_rating": 3,
+    "reviewed_by": "Beau",
+    "review_notes": "Got a lot of emotional resonance here, Orin!  Well done!",
     "source": "ai_generated",
     "model": "mistral",
     "created_at": "2025-04-14T17:01:21.010573",
-    "approved_for_future_inspiration": "None"
+    "approved_for_future_inspiration": "None",
+    "ai_notes": ""
   },
   {
     "title": "The Lament of the Wanderlight",
@@ -712,14 +768,15 @@
       "generated"
     ],
     "context": "The Wanderlight sails under a moonlit night, her sails echoing the crew's melancholy.",
-    "human_rating": "None",
-    "ai_rating": "None",
-    "reviewed_by": "None",
-    "review_notes": "None",
+    "human_rating": 4,
+    "ai_rating": 4,
+    "reviewed_by": "Beau",
+    "review_notes": "implies the ship you're on is dead.  A little odd.",
     "source": "ai_generated",
     "model": "mistral",
     "created_at": "2025-04-14T17:01:27.672063",
-    "approved_for_future_inspiration": "None"
+    "approved_for_future_inspiration": "None",
+    "ai_notes": "🎼 Good poetic diction"
   },
   {
     "title": "Ghostly Sail Upon Mahtoska's Frozen Lake",
@@ -736,14 +793,15 @@
       "spirits"
     ],
     "context": "The Wanderlight, our vessel of ghostly grace, sails upon Mahtoska's frozen lake.\nIn spectral shrouds the moonlight whispers through oaks, as fog enshrouds the sailboats and the shadowed gazebo.",
-    "human_rating": "None",
-    "ai_rating": "None",
-    "reviewed_by": "None",
-    "review_notes": "None",
+    "human_rating": 3,
+    "ai_rating": 4,
+    "reviewed_by": "Beau",
+    "review_notes": "you used 'shroud' too many times.",
     "source": "ai_generated",
     "model": "mistral",
     "created_at": "2025-04-14T17:01:34.438163",
-    "approved_for_future_inspiration": "None"
+    "approved_for_future_inspiration": "None",
+    "ai_notes": "🎼 Good poetic diction"
   },
   {
     "title": "Wanderlight's Farewell",
@@ -761,14 +819,15 @@
       "ai"
     ],
     "context": "In the wake of our Wanderlight, under autumn's golden sight,\nOn this warm afternoon, where geese and herons dance with reeds.",
-    "human_rating": "None",
-    "ai_rating": "None",
-    "reviewed_by": "None",
-    "review_notes": "None",
+    "human_rating": 5,
+    "ai_rating": 3,
+    "reviewed_by": "Beau",
+    "review_notes": "assume this was in the Bay of Reeds.  Good use of animals.",
     "source": "ai_generated",
     "model": "mistral",
     "created_at": "2025-04-14T17:02:41.092670",
-    "approved_for_future_inspiration": "None"
+    "approved_for_future_inspiration": "None",
+    "ai_notes": ""
   },
   {
     "title": "The Dance of Wanderlight",
@@ -784,14 +843,15 @@
       "voyage"
     ],
     "context": "The wind dances with the pines, as the Wanderlight sets sail in the clear fall morning light.",
-    "human_rating": "None",
-    "ai_rating": "None",
-    "reviewed_by": "None",
-    "review_notes": "None",
+    "human_rating": 4,
+    "ai_rating": 4,
+    "reviewed_by": "Beau",
+    "review_notes": "rather short",
     "source": "ai_generated",
     "model": "mistral",
     "created_at": "2025-04-14T17:02:47.397817",
-    "approved_for_future_inspiration": "None"
+    "approved_for_future_inspiration": "None",
+    "ai_notes": "🎼 Good poetic diction"
   },
   {
     "title": "The Fogbound Wanderlight's Swansong",
@@ -808,14 +868,18 @@
       "ai"
     ],
     "context": "A lament on the Wanderlight, singing her swansong into the Autumn fog, as leaves dance with commerce's hum.",
-    "human_rating": "None",
-    "ai_rating": "None",
-    "reviewed_by": "None",
-    "review_notes": "None",
+    "human_rating": 3,
+    "ai_rating": 3,
+    "reviewed_by": "Beau",
+    "review_notes": "there are no whales on White Bear Lake",
     "source": "ai_generated",
     "model": "mistral",
     "created_at": "2025-04-14T17:02:53.700829",
-    "approved_for_future_inspiration": "None"
+    "approved_for_future_inspiration": "None",
+    "ai_notes": "🎼 Good poetic diction; 💬 Trailing ellipsis may weaken delivery",
+    "flagged_lines": [
+      7
+    ]
   },
   {
     "title": "Lament of Loons beneath Wanderlight's Gaff",
@@ -832,14 +896,18 @@
       "ai"
     ],
     "context": "Under the sway of Wanderlight's gaff, where loons whisper secrets to the night.",
-    "human_rating": "None",
-    "ai_rating": "None",
-    "reviewed_by": "None",
-    "review_notes": "None",
+    "human_rating": 5,
+    "ai_rating": 4,
+    "reviewed_by": "Beau",
+    "review_notes": "Nice refrain!",
     "source": "ai_generated",
     "model": "mistral",
     "created_at": "2025-04-14T17:03:01.158913",
-    "approved_for_future_inspiration": "None"
+    "approved_for_future_inspiration": "None",
+    "ai_notes": "🎼 Good poetic diction",
+    "flagged_lines": [
+      19
+    ]
   },
   {
     "title": "Ballad of the Wanderlight",
@@ -856,14 +924,18 @@
       "ai"
     ],
     "context": "A ballad of eternal love and adventure, sung by the crew of the Wanderlight as they embark on a new voyage.",
-    "human_rating": "None",
-    "ai_rating": "None",
-    "reviewed_by": "None",
-    "review_notes": "None",
+    "human_rating": 5,
+    "ai_rating": 3,
+    "reviewed_by": "Beau",
+    "review_notes": "good use of tone.  very joyful.",
     "source": "ai_generated",
     "model": "mistral",
     "created_at": "2025-04-14T17:03:07.357517",
-    "approved_for_future_inspiration": "None"
+    "approved_for_future_inspiration": "None",
+    "ai_notes": "",
+    "flagged_lines": [
+      14
+    ]
   },
   {
     "title": "Wanderlight's Farewell to Southern Bay",
@@ -882,14 +954,15 @@
       "ai"
     ],
     "context": "The crew of the Wanderlight, under overcast skies, sailed towards Southern Bay at sunset.\nTrees leaned listening to echoes of summer's lullaby,\nBasswood and Cottonwood whispering tales\nOf days long gone to winter's quiet hush.",
-    "human_rating": "None",
-    "ai_rating": "None",
-    "reviewed_by": "None",
-    "review_notes": "None",
+    "human_rating": 4,
+    "ai_rating": 4,
+    "reviewed_by": "Beau",
+    "review_notes": "a little short",
     "source": "ai_generated",
     "model": "mistral",
     "created_at": "2025-04-14T17:03:14.547785",
-    "approved_for_future_inspiration": "None"
+    "approved_for_future_inspiration": "None",
+    "ai_notes": "🎼 Good poetic diction"
   },
   {
     "title": "The Ballad of Wanderlight",
@@ -906,14 +979,15 @@
       "sailing"
     ],
     "context": "A ballad of the Wanderlight and her crew, sailing through Mahtoska's pearl on a summer morning.",
-    "human_rating": "None",
-    "ai_rating": "None",
-    "reviewed_by": "None",
-    "review_notes": "None",
+    "human_rating": 4,
+    "ai_rating": 3,
+    "reviewed_by": "Beau",
+    "review_notes": "good length, not the best rhyme scheme",
     "source": "ai_generated",
     "model": "mistral",
     "created_at": "2025-04-14T17:03:22.170771",
-    "approved_for_future_inspiration": "None"
+    "approved_for_future_inspiration": "None",
+    "ai_notes": ""
   },
   {
     "title": "Echoes of Twilight",
@@ -930,14 +1004,15 @@
       "ai"
     ],
     "context": "A sea shanty sung as dusk falls over Southern Bay, where the Wanderlight's song echoes through the twilight hush.",
-    "human_rating": "None",
-    "ai_rating": "None",
-    "reviewed_by": "None",
-    "review_notes": "None",
+    "human_rating": 5,
+    "ai_rating": 4,
+    "reviewed_by": "Beau",
+    "review_notes": "Good length and OK use of rhyme",
     "source": "ai_generated",
     "model": "mistral",
     "created_at": "2025-04-14T17:03:30.033082",
-    "approved_for_future_inspiration": "None"
+    "approved_for_future_inspiration": "None",
+    "ai_notes": "🎼 Good poetic diction"
   },
   {
     "title": "The Wanderlight's Lament",
@@ -955,14 +1030,15 @@
       "sailing"
     ],
     "context": "As Sunset whispers to the Peninsula's ear, The Wanderlight sings into fog, her crew lost in harmony and thought.",
-    "human_rating": "None",
-    "ai_rating": "None",
-    "reviewed_by": "None",
-    "review_notes": "None",
+    "human_rating": 4,
+    "ai_rating": 4,
+    "reviewed_by": "Beau",
+    "review_notes": "ok rhyme scheme, a little short",
     "source": "ai_generated",
     "model": "mistral",
     "created_at": "2025-04-14T17:03:37.452617",
-    "approved_for_future_inspiration": "None"
+    "approved_for_future_inspiration": "None",
+    "ai_notes": "🎼 Good poetic diction"
   },
   {
     "title": "Song of the Wanderlight",
@@ -978,14 +1054,15 @@
       "ai"
     ],
     "context": "A sea shanty, sung under the stormy skies of White Bear Lake, by the crew of The Wanderlight.",
-    "human_rating": "None",
-    "ai_rating": "None",
-    "reviewed_by": "None",
-    "review_notes": "None",
+    "human_rating": 3,
+    "ai_rating": 2,
+    "reviewed_by": "Beau",
+    "review_notes": "a little short, lots of ellipses",
     "source": "ai_generated",
     "model": "mistral",
     "created_at": "2025-04-14T17:03:52.268828",
-    "approved_for_future_inspiration": "None"
+    "approved_for_future_inspiration": "None",
+    "ai_notes": "💬 Trailing ellipsis may weaken delivery"
   },
   {
     "title": "Wanderlight's Lament",
@@ -1002,14 +1079,15 @@
       "voyage"
     ],
     "context": "In Northern Bay's night-kissed expanse, under the clearance of stars, the Wanderlight sails, her sentinels of green sway as the crew recalls their past voyages.",
-    "human_rating": "None",
-    "ai_rating": "None",
-    "reviewed_by": "None",
-    "review_notes": "None",
+    "human_rating": 4,
+    "ai_rating": 3,
+    "reviewed_by": "Beau",
+    "review_notes": "OK rhyming scheme a bit short",
     "source": "ai_generated",
     "model": "mistral",
     "created_at": "2025-04-14T17:04:13.790352",
-    "approved_for_future_inspiration": "None"
+    "approved_for_future_inspiration": "None",
+    "ai_notes": ""
   },
   {
     "title": "The Mournful Tide",
@@ -1026,14 +1104,15 @@
       "death"
     ],
     "context": "The Wanderlight, our vessel of mournful beauty, glides through the spring morning, mirroring the emotions of her crew.",
-    "human_rating": "None",
-    "ai_rating": "None",
-    "reviewed_by": "None",
-    "review_notes": "None",
+    "human_rating": 4,
+    "ai_rating": 3,
+    "reviewed_by": "Beau",
+    "review_notes": "a bit short good rhyme",
     "source": "ai_generated",
     "model": "mistral",
     "created_at": "2025-04-14T17:04:34.106202",
-    "approved_for_future_inspiration": "None"
+    "approved_for_future_inspiration": "None",
+    "ai_notes": ""
   },
   {
     "title": "Wanderlight's Twilight Serenade",
@@ -1051,14 +1130,15 @@
       "voyage"
     ],
     "context": "Inspired by the harmonious echo of loons and the setting sun kissing the Eastern Cottonwoods, a ballad arises from the Wanderlight.",
-    "human_rating": "None",
-    "ai_rating": "None",
-    "reviewed_by": "None",
-    "review_notes": "None",
+    "human_rating": 5,
+    "ai_rating": 4,
+    "reviewed_by": "Beau",
+    "review_notes": "lots of natural imagery",
     "source": "ai_generated",
     "model": "mistral",
     "created_at": "2025-04-14T17:04:59.923426",
-    "approved_for_future_inspiration": "None"
+    "approved_for_future_inspiration": "None",
+    "ai_notes": "🎼 Good poetic diction"
   },
   {
     "title": "The Green Veil of Manitou",
@@ -1076,14 +1156,15 @@
       "ai"
     ],
     "context": "A ballad sung by the crew of the Wanderlight, beneath the verdant veil of Manitou, as they navigate through a morning storm.",
-    "human_rating": "None",
-    "ai_rating": "None",
-    "reviewed_by": "None",
-    "review_notes": "None",
+    "human_rating": 2,
+    "ai_rating": 3,
+    "reviewed_by": "Beau",
+    "review_notes": "too short",
     "source": "ai_generated",
     "model": "mistral",
     "created_at": "2025-04-14T17:05:18.502298",
-    "approved_for_future_inspiration": "None"
+    "approved_for_future_inspiration": "None",
+    "ai_notes": ""
   },
   {
     "title": "The Wanderlight's Lament",
@@ -1100,14 +1181,18 @@
       "ai"
     ],
     "context": "The Wanderlight, our vessel of old, beneath the stormy skies stands bold.",
-    "human_rating": "None",
-    "ai_rating": "None",
-    "reviewed_by": "None",
-    "review_notes": "None",
+    "human_rating": 3,
+    "ai_rating": 3,
+    "reviewed_by": "Beau",
+    "review_notes": "the Wanderlight is not a ghost ship",
     "source": "ai_generated",
     "model": "mistral",
     "created_at": "2025-04-14T17:05:38.994206",
-    "approved_for_future_inspiration": "None"
+    "approved_for_future_inspiration": "None",
+    "ai_notes": "",
+    "flagged_lines": [
+      14
+    ]
   },
   {
     "title": "Wanderlight's Farewell",
@@ -1124,14 +1209,18 @@
       "ai"
     ],
     "context": "In the spirit of old sea shanties, a tale unfolds aboard the Wanderlight.",
-    "human_rating": "None",
-    "ai_rating": "None",
-    "reviewed_by": "None",
-    "review_notes": "None",
+    "human_rating": 4,
+    "ai_rating": 3,
+    "reviewed_by": "Beau",
+    "review_notes": "ellipses shouldn't be used in a song.",
     "source": "ai_generated",
     "model": "mistral",
     "created_at": "2025-04-14T17:05:59.208396",
-    "approved_for_future_inspiration": "None"
+    "approved_for_future_inspiration": "None",
+    "ai_notes": "🎼 Good poetic diction; 💬 Trailing ellipsis may weaken delivery",
+    "flagged_lines": [
+      2
+    ]
   },
   {
     "title": "Song of the Wanderlight",
@@ -1148,14 +1237,15 @@
       "ai"
     ],
     "context": "Sailing on the Wanderlight, a schooner brimming with crew as intelligent as they are resilient.",
-    "human_rating": "None",
-    "ai_rating": "None",
-    "reviewed_by": "None",
-    "review_notes": "None",
+    "human_rating": 5,
+    "ai_rating": 3,
+    "reviewed_by": "Beau",
+    "review_notes": "good rhyme good length",
     "source": "ai_generated",
     "model": "mistral",
     "created_at": "2025-04-14T17:06:22.075975",
-    "approved_for_future_inspiration": "None"
+    "approved_for_future_inspiration": "None",
+    "ai_notes": ""
   },
   {
     "title": "Beneath Manitou's Watchful Eye",
@@ -1173,14 +1263,18 @@
       "ai"
     ],
     "context": "A sailor's tale, as the Wanderlight glides beneath Manitou's whispering sentinels, drifting through Southern Bay on a crisp fall morning.",
-    "human_rating": "None",
-    "ai_rating": "None",
-    "reviewed_by": "None",
-    "review_notes": "None",
+    "human_rating": 5,
+    "ai_rating": 3,
+    "reviewed_by": "Beau",
+    "review_notes": "love the metaphor of leaves like coins",
     "source": "ai_generated",
     "model": "mistral",
     "created_at": "2025-04-14T17:06:46.466306",
-    "approved_for_future_inspiration": "None"
+    "approved_for_future_inspiration": "None",
+    "ai_notes": "",
+    "flagged_lines": [
+      3
+    ]
   },
   {
     "title": "Wanderlight's Lament",
@@ -1197,14 +1291,18 @@
       "ai"
     ],
     "context": "A lament of lost time and companions on the Wanderlight",
-    "human_rating": "None",
-    "ai_rating": "None",
-    "reviewed_by": "None",
-    "review_notes": "None",
+    "human_rating": 3,
+    "ai_rating": 3,
+    "reviewed_by": "Beau",
+    "review_notes": "ellipses used",
     "source": "ai_generated",
     "model": "mistral",
     "created_at": "2025-04-14T17:07:09.732006",
-    "approved_for_future_inspiration": "None"
+    "approved_for_future_inspiration": "None",
+    "ai_notes": "🎼 Good poetic diction; 💬 Trailing ellipsis may weaken delivery",
+    "flagged_lines": [
+      2
+    ]
   },
   {
     "title": "The Wanderlight's Lament",
@@ -1221,14 +1319,18 @@
       "ai"
     ],
     "context": "A sea shanty sung by the crew of 'The Wanderlight' during a stormy sunset among the Sea of Reeds",
-    "human_rating": "None",
-    "ai_rating": "None",
-    "reviewed_by": "None",
-    "review_notes": "None",
+    "human_rating": 4,
+    "ai_rating": 4,
+    "reviewed_by": "Beau",
+    "review_notes": "good, but the sailors would be ON the Wanderlight, not below it.",
     "source": "ai_generated",
     "model": "mistral",
     "created_at": "2025-04-14T17:07:34.665612",
-    "approved_for_future_inspiration": "None"
+    "approved_for_future_inspiration": "None",
+    "ai_notes": "🎼 Good poetic diction",
+    "flagged_lines": [
+      2
+    ]
   },
   {
     "title": "Chant of the Wanderlight",
@@ -1246,14 +1348,15 @@
       "ai"
     ],
     "context": "The crew of Wanderlight, a vessel cloaked in mystery and magic, have embarked on an early winter journey through the chill waters of The Channel. Under the watchful gaze of Bald Eagles, they press onward into the night, guided by their AI navigator Astra.",
-    "human_rating": "None",
-    "ai_rating": "None",
-    "reviewed_by": "None",
-    "review_notes": "None",
+    "human_rating": 1,
+    "ai_rating": 3,
+    "reviewed_by": "Beau",
+    "review_notes": "too short",
     "source": "ai_generated",
     "model": "mistral",
     "created_at": "2025-04-14T17:07:58.447959",
-    "approved_for_future_inspiration": "None"
+    "approved_for_future_inspiration": "None",
+    "ai_notes": ""
   },
   {
     "title": "Lament of the Summer Twilight",
@@ -1269,14 +1372,15 @@
       "homecoming"
     ],
     "context": "A sailor's lament upon a summer dusk in White Bear.",
-    "human_rating": "None",
-    "ai_rating": "None",
-    "reviewed_by": "None",
-    "review_notes": "None",
+    "human_rating": 4,
+    "ai_rating": 4,
+    "reviewed_by": "Beau",
+    "review_notes": "good use of imagery; strange middle structure",
     "source": "ai_generated",
     "model": "mistral",
     "created_at": "2025-04-14T17:08:22.354364",
-    "approved_for_future_inspiration": "None"
+    "approved_for_future_inspiration": "None",
+    "ai_notes": "🎼 Good poetic diction"
   },
   {
     "title": "The Wanderlight's Song",
@@ -1292,14 +1396,15 @@
       "ai"
     ],
     "context": "A tale of adventure, camaraderie, and the magic that binds the crew of Wanderlight together on their coastal explorations.",
-    "human_rating": "None",
-    "ai_rating": "None",
-    "reviewed_by": "None",
-    "review_notes": "None",
+    "human_rating": 1,
+    "ai_rating": 3,
+    "reviewed_by": "Beau",
+    "review_notes": "too short",
     "source": "ai_generated",
     "model": "mistral",
     "created_at": "2025-04-14T17:08:40.338948",
-    "approved_for_future_inspiration": "None"
+    "approved_for_future_inspiration": "None",
+    "ai_notes": "🎼 Good poetic diction; 💬 Trailing ellipsis may weaken delivery"
   },
   {
     "title": "Hymn of the Nocturnal Loons",
@@ -1317,14 +1422,15 @@
       "ai"
     ],
     "context": "Night songs of loons, a nocturnal hymn spilt beneath starry quilt, In Manitou's green embrace, lush and tranquil.",
-    "human_rating": "None",
-    "ai_rating": "None",
-    "reviewed_by": "None",
-    "review_notes": "None",
+    "human_rating": 4,
+    "ai_rating": 4,
+    "reviewed_by": "Beau",
+    "review_notes": "love the loon imagery",
     "source": "ai_generated",
     "model": "mistral",
     "created_at": "2025-04-14T17:09:04.495181",
-    "approved_for_future_inspiration": "None"
+    "approved_for_future_inspiration": "None",
+    "ai_notes": "🎼 Good poetic diction"
   },
   {
     "title": "The Lament of the Wanderlight",
@@ -1341,14 +1447,15 @@
       "voyage"
     ],
     "context": "As wind calls out its call and loons lament fill the night,\nIn Northern Bay, where the Wanderlight takes her flight.",
-    "human_rating": "None",
-    "ai_rating": "None",
-    "reviewed_by": "None",
-    "review_notes": "None",
+    "human_rating": 5,
+    "ai_rating": 3,
+    "reviewed_by": "Beau",
+    "review_notes": "has a very hopeful tune.  Good use of imagery and rhyme.",
     "source": "ai_generated",
     "model": "mistral",
     "created_at": "2025-04-14T17:09:30.237468",
-    "approved_for_future_inspiration": "None"
+    "approved_for_future_inspiration": "None",
+    "ai_notes": ""
   },
   {
     "title": "Mists of Manitou",
@@ -1366,14 +1473,15 @@
       "sailing"
     ],
     "context": "The autumn haze carries whispers of dreams, as Manitou Island veils in the morning fog.\nThe Wanderlight sings her tale through the misty gloom.",
-    "human_rating": "None",
-    "ai_rating": "None",
-    "reviewed_by": "None",
-    "review_notes": "None",
+    "human_rating": 3,
+    "ai_rating": 4,
+    "reviewed_by": "Beau",
+    "review_notes": "uneven rhyming scheme",
     "source": "ai_generated",
     "model": "mistral",
     "created_at": "2025-04-14T17:09:56.038446",
-    "approved_for_future_inspiration": "None"
+    "approved_for_future_inspiration": "None",
+    "ai_notes": "🎼 Good poetic diction"
   },
   {
     "title": "Wanderlight's Dawn Voyage",
@@ -1389,14 +1497,15 @@
       "voyage"
     ],
     "context": "The crew of Wanderlight, a vessel with a rich history and quirks, set sail on a new voyage in the cool morning of Mahtoska Park. The air was crisp and the sun was casting long shadows as they prepared for their journey.",
-    "human_rating": "None",
-    "ai_rating": "None",
-    "reviewed_by": "None",
-    "review_notes": "None",
+    "human_rating": 4,
+    "ai_rating": 3,
+    "reviewed_by": "Beau",
+    "review_notes": "good rhyme scheme.  Good stanzas, nice length.",
     "source": "ai_generated",
     "model": "mistral",
     "created_at": "2025-04-14T17:10:20.879602",
-    "approved_for_future_inspiration": "None"
+    "approved_for_future_inspiration": "None",
+    "ai_notes": ""
   },
   {
     "title": "Echoes of the Forgotten Voyage",
@@ -1413,14 +1522,15 @@
       "voyage"
     ],
     "context": "The echo of a forgotten tune lingers on the Docks as our vessel prepares for another voyage.",
-    "human_rating": "None",
-    "ai_rating": "None",
-    "reviewed_by": "None",
-    "review_notes": "None",
+    "human_rating": 1,
+    "ai_rating": 3,
+    "reviewed_by": "Beau",
+    "review_notes": "too short",
     "source": "ai_generated",
     "model": "mistral",
     "created_at": "2025-04-14T17:10:37.810974",
-    "approved_for_future_inspiration": "None"
+    "approved_for_future_inspiration": "None",
+    "ai_notes": "🎼 Good poetic diction; 💬 Trailing ellipsis may weaken delivery"
   },
   {
     "title": "The Channel's Lament",
@@ -1438,14 +1548,15 @@
       "channel"
     ],
     "context": "Amidst the muggy fall evening under The Channel's weeping willows, where Bald Eagles whisper tales amidst the silence.",
-    "human_rating": "None",
-    "ai_rating": "None",
-    "reviewed_by": "None",
-    "review_notes": "None",
+    "human_rating": 1,
+    "ai_rating": 4,
+    "reviewed_by": "Beau",
+    "review_notes": "too short",
     "source": "ai_generated",
     "model": "mistral",
     "created_at": "2025-04-14T17:10:53.787837",
-    "approved_for_future_inspiration": "None"
+    "approved_for_future_inspiration": "None",
+    "ai_notes": "🎼 Good poetic diction"
   },
   {
     "title": "The Tale of the Wavering Compass",
@@ -1463,14 +1574,15 @@
       "ai"
     ],
     "context": "A harmonious tale of courage and camaraderie on the high seas.",
-    "human_rating": "None",
-    "ai_rating": "None",
-    "reviewed_by": "None",
-    "review_notes": "None",
+    "human_rating": 4,
+    "ai_rating": 4,
+    "reviewed_by": "Beau",
+    "review_notes": "good length good imagery bland rhyme scheme",
     "source": "ai_generated",
     "model": "mistral",
     "created_at": "2025-04-14T17:11:15.089320",
-    "approved_for_future_inspiration": "None"
+    "approved_for_future_inspiration": "None",
+    "ai_notes": "🎼 Good poetic diction"
   },
   {
     "title": "The Song of the Wanderlight",
@@ -1487,14 +1599,15 @@
       "ai"
     ],
     "context": "In the echoing harmonies of the Wanderlight's songs, a tale unfolds under the spring sunset.",
-    "human_rating": "None",
-    "ai_rating": "None",
-    "reviewed_by": "None",
-    "review_notes": "None",
+    "human_rating": 2,
+    "ai_rating": 2,
+    "reviewed_by": "Beau",
+    "review_notes": "good rhyme scheme, bad use of ellipses, a little too short.",
     "source": "ai_generated",
     "model": "mistral",
     "created_at": "2025-04-14T17:11:33.592616",
-    "approved_for_future_inspiration": "None"
+    "approved_for_future_inspiration": "None",
+    "ai_notes": "💬 Trailing ellipsis may weaken delivery"
   },
   {
     "title": "The Whispers of The Peninsula",
@@ -1511,14 +1624,15 @@
       "winter"
     ],
     "context": "The whispers of The Peninsula echo tales of floating bears and eagle silhouettes, as the Wanderlight sails through the chilly early winter sunset.",
-    "human_rating": "None",
-    "ai_rating": "None",
-    "reviewed_by": "None",
-    "review_notes": "None",
+    "human_rating": 4,
+    "ai_rating": 4,
+    "reviewed_by": "Beau",
+    "review_notes": "good rhyme, but a little short.",
     "source": "ai_generated",
     "model": "mistral",
     "created_at": "2025-04-14T17:11:51.129787",
-    "approved_for_future_inspiration": "None"
+    "approved_for_future_inspiration": "None",
+    "ai_notes": "🎼 Good poetic diction"
   },
   {
     "title": "The White Bear's Lament",
@@ -1536,14 +1650,15 @@
       "winter"
     ],
     "context": "As the Wanderlight sails through White Bear Lake, her crew harmonizes a ballad beneath the watch of ancient oaks and cottonwoods, in early winter's warm atmosphere.",
-    "human_rating": "None",
-    "ai_rating": "None",
-    "reviewed_by": "None",
-    "review_notes": "None",
+    "human_rating": 3,
+    "ai_rating": 4,
+    "reviewed_by": "Beau",
+    "review_notes": "good use of natural imagery, poor rhyme scheme, and a little too short.",
     "source": "ai_generated",
     "model": "mistral",
     "created_at": "2025-04-14T17:12:11.515068",
-    "approved_for_future_inspiration": "None"
+    "approved_for_future_inspiration": "None",
+    "ai_notes": "🎼 Good poetic diction"
   },
   {
     "title": "Dawn's Lament at Mahtoska Park",
@@ -1559,14 +1674,15 @@
       "ai"
     ],
     "context": "Dawn at Mahtoska Park, where sailboats clack in stilled dance,\nThe gazebo stands vigil over Walleye's sleepy trance.",
-    "human_rating": "None",
-    "ai_rating": "None",
-    "reviewed_by": "None",
-    "review_notes": "None",
+    "human_rating": 4,
+    "ai_rating": 4,
+    "reviewed_by": "Beau",
+    "review_notes": "good chorus, rhyme scheme is a bit bland.",
     "source": "ai_generated",
     "model": "mistral",
     "created_at": "2025-04-14T17:12:33.617379",
-    "approved_for_future_inspiration": "None"
+    "approved_for_future_inspiration": "None",
+    "ai_notes": "🎼 Good poetic diction"
   },
   {
     "title": "The Wanderlight's Serenade",
@@ -1583,14 +1699,18 @@
       "sailor's lament"
     ],
     "context": "The Wanderlight in fall night, where ducks rest on dock lines, concrete hums under clear sky's watch.",
-    "human_rating": "None",
-    "ai_rating": "None",
-    "reviewed_by": "None",
-    "review_notes": "None",
+    "human_rating": 3,
+    "ai_rating": 3,
+    "reviewed_by": "Beau",
+    "review_notes": "ducks don't rest on dock lines, and it's unclear what's beneath theWanderlight.",
     "source": "ai_generated",
     "model": "mistral",
     "created_at": "2025-04-14T17:12:50.168920",
-    "approved_for_future_inspiration": "None"
+    "approved_for_future_inspiration": "None",
+    "ai_notes": "",
+    "flagged_lines": [
+      14
+    ]
   },
   {
     "title": "The Song of Manitou's Morn",
@@ -1607,14 +1727,15 @@
       "ai"
     ],
     "context": "As the Wanderlight sails in spring's gentle bloom, morning whispers through Manitou's green curtain.",
-    "human_rating": "None",
-    "ai_rating": "None",
-    "reviewed_by": "None",
+    "human_rating": 2,
+    "ai_rating": 2,
+    "reviewed_by": "Beau",
     "review_notes": "None",
     "source": "ai_generated",
     "model": "mistral",
     "created_at": "2025-04-14T17:13:07.988216",
-    "approved_for_future_inspiration": "None"
+    "approved_for_future_inspiration": "None",
+    "ai_notes": "💬 Trailing ellipsis may weaken delivery"
   },
   {
     "title": "The Wanderlight's Ballad",
@@ -1631,14 +1752,18 @@
       "resilience"
     ],
     "context": "A ballad of courage and resilience, sung on the Wanderlight as it navigates through a mysterious sea.",
-    "human_rating": "None",
-    "ai_rating": "None",
-    "reviewed_by": "None",
-    "review_notes": "None",
+    "human_rating": 1,
+    "ai_rating": 2,
+    "reviewed_by": "Beau",
+    "review_notes": "too short and elipses make things bland",
     "source": "ai_generated",
     "model": "mistral",
     "created_at": "2025-04-14T17:13:23.703015",
-    "approved_for_future_inspiration": "None"
+    "approved_for_future_inspiration": "None",
+    "ai_notes": "💬 Trailing ellipsis may weaken delivery",
+    "flagged_lines": [
+      2
+    ]
   },
   {
     "title": "The Wanderlight's Dawn Chant",
@@ -1655,14 +1780,15 @@
       "sailing"
     ],
     "context": "The Wanderlight, our vessel of yore,\nSails through the foggy winter morn,\nBald Eagles greet the dew, in joy they're born,\nEgrets dance in the glimmer worn.",
-    "human_rating": "None",
-    "ai_rating": "None",
-    "reviewed_by": "None",
-    "review_notes": "None",
+    "human_rating": 5,
+    "ai_rating": 3,
+    "reviewed_by": "Beau",
+    "review_notes": "good use of imagery, you did rhyme gain with again twice",
     "source": "ai_generated",
     "model": "mistral",
     "created_at": "2025-04-14T17:13:48.479708",
-    "approved_for_future_inspiration": "None"
+    "approved_for_future_inspiration": "None",
+    "ai_notes": ""
   },
   {
     "title": "Autumn's Dance Upon White Bear Lake",
@@ -1678,14 +1804,18 @@
       "ai"
     ],
     "context": "Upon White Bear Lake, afternoon's balm echoes,\nBear and brave, spirits dancing in autumn's soft swell.",
-    "human_rating": "None",
-    "ai_rating": "None",
-    "reviewed_by": "None",
-    "review_notes": "None",
+    "human_rating": 4,
+    "ai_rating": 4,
+    "reviewed_by": "Beau",
+    "review_notes": "sounds very hopeful!",
     "source": "ai_generated",
     "model": "mistral",
     "created_at": "2025-04-14T17:14:07.176292",
-    "approved_for_future_inspiration": "None"
+    "approved_for_future_inspiration": "None",
+    "ai_notes": "🎼 Good poetic diction",
+    "flagged_lines": [
+      14
+    ]
   },
   {
     "title": "Whispers of Wanderlight",
@@ -1702,14 +1832,15 @@
       "ai"
     ],
     "context": "Whispers of the Wanderlight, our cherished vessel,\n     Echo through Southern Bay's verdant canopy,\n   Underneath Basswood boughs, Bullheads dance in a ballet,\n     As we navigate 'neath azure sky and crimson twilight.",
-    "human_rating": "None",
-    "ai_rating": "None",
-    "reviewed_by": "None",
-    "review_notes": "None",
+    "human_rating": 4,
+    "ai_rating": 3,
+    "reviewed_by": "Beau",
+    "review_notes": "good rhyme scheme.  Try not to use elipses.",
     "source": "ai_generated",
     "model": "mistral",
     "created_at": "2025-04-14T17:14:31.302014",
-    "approved_for_future_inspiration": "None"
+    "approved_for_future_inspiration": "None",
+    "ai_notes": "🎼 Good poetic diction; 💬 Trailing ellipsis may weaken delivery"
   },
   {
     "title": "The Wanderlight's Waltz",
@@ -1726,14 +1857,15 @@
       "ai"
     ],
     "context": "The Wanderlight, amidst stormy Summer's dance, in the Channel where tales whisper and echoes enhance.\nHer crew of AI agents sail with a courageous glance.",
-    "human_rating": "None",
-    "ai_rating": "None",
-    "reviewed_by": "None",
-    "review_notes": "None",
+    "human_rating": 3,
+    "ai_rating": 4,
+    "reviewed_by": "Beau",
+    "review_notes": "too short",
     "source": "ai_generated",
     "model": "mistral",
     "created_at": "2025-04-14T17:14:54.952727",
-    "approved_for_future_inspiration": "None"
+    "approved_for_future_inspiration": "None",
+    "ai_notes": "🎼 Good poetic diction"
   },
   {
     "title": "Echoes of a Summer's Twilight",
@@ -1751,14 +1883,15 @@
       "homecoming"
     ],
     "context": "Loons echo ancient tales beneath a summer sunset veil, as the Wanderlight sails onward, her heart heavy with memories.",
-    "human_rating": "None",
-    "ai_rating": "None",
-    "reviewed_by": "None",
-    "review_notes": "None",
+    "human_rating": 5,
+    "ai_rating": 4,
+    "reviewed_by": "Beau",
+    "review_notes": "good rhyme, good length, good chorus!",
     "source": "ai_generated",
     "model": "mistral",
     "created_at": "2025-04-14T17:15:24.254752",
-    "approved_for_future_inspiration": "None"
+    "approved_for_future_inspiration": "None",
+    "ai_notes": "🎼 Good poetic diction"
   },
   {
     "title": "The Ballad of Southern Bay's Calm",
@@ -1774,14 +1907,15 @@
       "winter"
     ],
     "context": "The Wanderlight, our noble vessel of sail and steel, sails bravely through Southern Bay's early winter calm.",
-    "human_rating": "None",
-    "ai_rating": "None",
-    "reviewed_by": "None",
-    "review_notes": "None",
+    "human_rating": 2,
+    "ai_rating": 2,
+    "reviewed_by": "Beau",
+    "review_notes": "too short",
     "source": "ai_generated",
     "model": "mistral",
     "created_at": "2025-04-14T17:15:44.612606",
-    "approved_for_future_inspiration": "None"
+    "approved_for_future_inspiration": "None",
+    "ai_notes": "💬 Trailing ellipsis may weaken delivery"
   },
   {
     "title": "The Dawn's First Light on Wanderlight",
@@ -1798,14 +1932,18 @@
       "voyage"
     ],
     "context": "A sea shanty, sung onboard the Wanderlight as the day breaks over White Bear Lake.",
-    "human_rating": "None",
-    "ai_rating": "None",
-    "reviewed_by": "None",
-    "review_notes": "None",
+    "human_rating": 1,
+    "ai_rating": 3,
+    "reviewed_by": "Beau",
+    "review_notes": "too short, last verse is irregular-length, and I don't know what a bullwhacker is.",
     "source": "ai_generated",
     "model": "mistral",
     "created_at": "2025-04-14T17:16:10.339365",
-    "approved_for_future_inspiration": "None"
+    "approved_for_future_inspiration": "None",
+    "ai_notes": "",
+    "flagged_lines": [
+      1
+    ]
   },
   {
     "title": "The Ballad of the Wanderlight",
@@ -1821,14 +1959,15 @@
       "ai"
     ],
     "context": "A haunting ballad sung aboard the Wanderlight, echoing through the foggy Channel as the crew embarks on a new voyage.",
-    "human_rating": "None",
-    "ai_rating": "None",
-    "reviewed_by": "None",
-    "review_notes": "None",
+    "human_rating": 2,
+    "ai_rating": 3,
+    "reviewed_by": "Beau",
+    "review_notes": "too short and use of ellipses",
     "source": "ai_generated",
     "model": "mistral",
     "created_at": "2025-04-14T17:16:34.605465",
-    "approved_for_future_inspiration": "None"
+    "approved_for_future_inspiration": "None",
+    "ai_notes": "🎼 Good poetic diction; 💬 Trailing ellipsis may weaken delivery"
   },
   {
     "title": "The Forgotten Chant of Wanderlight",
@@ -1844,14 +1983,15 @@
       "ai"
     ],
     "context": "A ballad of a forgotten era, the Wanderlight sings her song of sorrow.",
-    "human_rating": "None",
-    "ai_rating": "None",
-    "reviewed_by": "None",
-    "review_notes": "None",
+    "human_rating": 3,
+    "ai_rating": 4,
+    "reviewed_by": "Beau",
+    "review_notes": "nice use of imagery and length, but there are no whales or sharks on a lake, not is the Wanderlight a ship of yore.",
     "source": "ai_generated",
     "model": "mistral",
     "created_at": "2025-04-14T17:17:00.263652",
-    "approved_for_future_inspiration": "None"
+    "approved_for_future_inspiration": "None",
+    "ai_notes": "🎼 Good poetic diction"
   },
   {
     "title": "The Laughter at The Docks",
@@ -1868,14 +2008,15 @@
       "ai"
     ],
     "context": "The echoes of laughter fill the night's still air, as Wanderlight sings her tune so clear,\nAmidst the hum of commerce and iron's dots, in Night's whispers at The Docks.",
-    "human_rating": "None",
-    "ai_rating": "None",
-    "reviewed_by": "None",
-    "review_notes": "None",
+    "human_rating": 5,
+    "ai_rating": 4,
+    "reviewed_by": "Beau",
+    "review_notes": "good length, nice tone.",
     "source": "ai_generated",
     "model": "mistral",
     "created_at": "2025-04-14T17:17:27.671077",
-    "approved_for_future_inspiration": "None"
+    "approved_for_future_inspiration": "None",
+    "ai_notes": "🎼 Good poetic diction"
   },
   {
     "title": "The Wanderlight's Lament",
@@ -1891,14 +2032,15 @@
       "solitude"
     ],
     "context": "The Wanderlight, our vessel of song and sail,\nBeneath the moon's soft glow, her masts stand tall,\nWhere the ballet of birds 'cross this reedy fen,\nIn springtime's dance, where daylight ends.",
-    "human_rating": "None",
-    "ai_rating": "None",
-    "reviewed_by": "None",
-    "review_notes": "None",
+    "human_rating": 3,
+    "ai_rating": 3,
+    "reviewed_by": "Beau",
+    "review_notes": "poor rhyme scheme and a little short",
     "source": "ai_generated",
     "model": "mistral",
     "created_at": "2025-04-14T17:17:55.881581",
-    "approved_for_future_inspiration": "None"
+    "approved_for_future_inspiration": "None",
+    "ai_notes": ""
   },
   {
     "title": "Golden Hour of the Wanderlight",
@@ -1914,14 +2056,15 @@
       "sailing"
     ],
     "context": "A ballad of the Wanderlight sailing through the golden hours of sunset, her crew harmonizing in the cool fall air.",
-    "human_rating": "None",
-    "ai_rating": "None",
-    "reviewed_by": "None",
-    "review_notes": "None",
+    "human_rating": 3,
+    "ai_rating": 3,
+    "reviewed_by": "Beau",
+    "review_notes": "too short",
     "source": "ai_generated",
     "model": "mistral",
     "created_at": "2025-04-14T17:18:17.318480",
-    "approved_for_future_inspiration": "None"
+    "approved_for_future_inspiration": "None",
+    "ai_notes": ""
   },
   {
     "title": "Song of the Northern Bay",
@@ -1938,14 +2081,15 @@
       "homecoming"
     ],
     "context": "Sea shanty, sung by the crew of Our Vessel on a starry night as they sail through the Northern Bay on their journey aboard the Wanderlight.",
-    "human_rating": "None",
-    "ai_rating": "None",
-    "reviewed_by": "None",
-    "review_notes": "None",
+    "human_rating": 4,
+    "ai_rating": 4,
+    "reviewed_by": "Beau",
+    "review_notes": "creative use of imagery. A little short.",
     "source": "ai_generated",
     "model": "mistral",
     "created_at": "2025-04-14T17:18:40.823146",
-    "approved_for_future_inspiration": "None"
+    "approved_for_future_inspiration": "None",
+    "ai_notes": "🎼 Good poetic diction"
   },
   {
     "title": "Song of Our Vessel",
@@ -1963,14 +2107,18 @@
       "ai"
     ],
     "context": "The crew of the Wanderlight, a gaff-rigged schooner named Our Vessel, had faced many trials and tribulations. But as morning light caressed White Bear Lake, they found respite in the spring's serene reflections.",
-    "human_rating": "None",
-    "ai_rating": "None",
-    "reviewed_by": "None",
-    "review_notes": "None",
+    "human_rating": 3,
+    "ai_rating": 3,
+    "reviewed_by": "Beau",
+    "review_notes": "a little short and ellipses",
     "source": "ai_generated",
     "model": "mistral",
     "created_at": "2025-04-14T17:19:04.026157",
-    "approved_for_future_inspiration": "None"
+    "approved_for_future_inspiration": "None",
+    "ai_notes": "🎼 Good poetic diction; 💬 Trailing ellipsis may weaken delivery",
+    "flagged_lines": [
+      2
+    ]
   },
   {
     "title": "The Dance of the Wanderlight",
@@ -1994,13 +2142,14 @@
     "chorus_check": true,
     "tone_police": true,
     "context": "Summer skies dance in the Wanderlight's glassy wake, as her crew harmonizes their voices on this afternoon cruise.",
-    "human_rating": "None",
-    "ai_rating": "None",
-    "reviewed_by": "None",
-    "review_notes": "None",
+    "human_rating": 5,
+    "ai_rating": 3,
+    "reviewed_by": "Beau",
+    "review_notes": "good use of AI imagery, added a chorus",
     "source": "ai_generated",
     "model": "mistral",
     "created_at": "2025-04-17T20:28:01.271684",
-    "approved_for_future_inspiration": "None"
+    "approved_for_future_inspiration": "None",
+    "ai_notes": ""
   }
 ]
