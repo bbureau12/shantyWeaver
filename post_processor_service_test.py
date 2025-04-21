@@ -7,7 +7,7 @@ def main():
     test_songs = [
                 {
             "title": "The Tale of the Wanderlight",
-            "lyrics": "Our servos sang beneath the stars\nElara at the helm\nWith sensors sharp and code to guide\nThe Wanderlight sailed on through time\nHer AI crew stood side by side.  We spotted a white-winged gull off the starboard bow and we heard a loon's plaintive call.",
+            "lyrics": "Beneath the azure sky we set our course,\nSailing towards the horizon far;\nWith compass wavering, yet we're bound by fate,\nCamarderie unbroken on this voyage of ours.\n\nAboard the Wavering Compass, our ship so grand,\nThe wind her song, the sea our dance;\nThrough storm and calm, we sail in union,\nOur bonds unbreakable, our spirits uncaught.\n\nEchoes of laughter on the salty breeze,\nFriends and foes become family at sea;\nFrom dawn to dusk, we share a story,\nA harmonious tale, as the compass wavers free.\n\nThe compass wavering, yet we sail ahead,\nOn a path unknown, to destiny unread;\nWith hearts resolute, and spirits unbound,\nWe'll ride these waves, on land or sea we roam.",
             "context": "A celebration of the AI ship Wanderlight's maiden voyage and her mechanical crew.",
             "tone":"sad",
             "perspective":"active"

@@ -64,7 +64,7 @@ class ShantyComposerService:
         prompt += "- theme (e.g. 'loss', 'homecoming')\n"
         prompt += "- structure (e.g. 'verse-chorus')\n"
         prompt += "- tags (a list of useful descriptive keywords)\n"
-        prompt += "Output only ONE JSON object.  Lyrics must be included and should be at least 3 verses of 4 lines each and have a catchy chorus. Do not include explanations or formatting outside the JSON.\n"
+        prompt += "Output only ONE JSON object.  Lyrics must be included and should be at least 4 verses of 4 lines each and have a catchy chorus and rhyming scheme.  This does not take place in the ocean, so do not mention salty seas, the ocean, or animals other than those in the prompt. Do not include explanations or formatting outside the JSON.\n"
         prompt += 'example: {"title": "Song of the Sails", "tone": "bittersweet", "lyrics": "Oh the sails were torn\\nAs we left the bay...", "theme": "departure", "structure": "verse-chorus", "tags": ["farewell", "ocean", "crew"]}\n'
         return prompt
     

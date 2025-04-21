@@ -1,5 +1,8 @@
 import json
 import os
+from rich.console import Console
+from rich.panel import Panel
+from rich.text import Text
 
 SONGBOOK_PATH = "shanty_songbook.json"
 
@@ -12,13 +15,29 @@ def save_songbook(path, songs):
         json.dump(songs, f, indent=2, ensure_ascii=False)
     print("✅ Songbook updated.")
 
+console = Console()
+
 def display_song(song):
-    print(f"\n🎵 Title: {song['title']}")
-    print(f"📝 Tone: {song.get('tone')}")
-    print(f"📚 Context: {song.get('context')}\n")
-    print("🎶 Lyrics:")
-    for idx, line in enumerate(song['lyrics'].split("\n"), start=1):
-        print(f"{idx:>2}: {line}")
+    console.clear()
+    
+    header = (
+        f"[bold cyan]🎵 Title:[/bold cyan] {song['title']}\n"
+        f"[yellow]📝 Tone:[/yellow] {song.get('tone', 'N/A')}\n"
+        f"[green]📚 Context:[/green] {song.get('context', 'N/A')}"
+    )
+
+    console.print(Panel(header, title="🧾 Song Metadata", border_style="cyan"))
+
+    console.print("\n[bold]🎶 Lyrics:[/bold]")
+
+    lyrics = song.get("lyrics", "").split("\n")
+    if not lyrics or lyrics == [""]:
+        console.print("[red]⚠️ No lyrics found in this song![/red]")
+        return
+
+    for idx, line in enumerate(lyrics, start=1):
+        console.print(f"[dim]{idx:>2}[/dim]: {line}")
+
     print()
 
 def get_rating():

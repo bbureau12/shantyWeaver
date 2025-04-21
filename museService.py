@@ -221,7 +221,7 @@ if __name__ == '__main__':
     # prompt = muse.generate_random_shanty_prompt()
     # print(prompt)
 
-    for i in range(1):
+    for i in range(100):
         # Run with minimal known-good inputs
         prompt = muse.generate_random_shanty_prompt(
         )
