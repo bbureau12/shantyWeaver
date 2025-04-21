@@ -5,10 +5,12 @@ import re
 import ollama
 from composerService import ShantyComposerService
 from location_muse_agent import LocationMuse
+from  songRepository import ShantyRepository
 
 class MuseService:
     def __init__(self, legends_path='legends2.json', ship_path='ship.json', facts_path='shantyfacts.json'):
         self.locationMuse = LocationMuse()
+        self.shantyRepository = ShantyRepository()
         with open(ship_path, 'r', encoding='utf-8') as f:
             self.ship = json.load(f)
         with open(facts_path, 'r', encoding='utf-8') as f:
@@ -169,6 +171,71 @@ class MuseService:
             print("Raw output:\n", raw_output)
             return None
         
+    def generate_tech_inspired_prompt(self, model="llama3"):
+        """
+        Generates a new shanty prompt inspired by recent AI/computer-related song topics.
+        It selects 5 random recent songs and creates a new prompt based on recurring themes.
+        It also includes a lyrical sample inspired by the previous songs.
+        """
+        try:
+            recent_songs = self.shantyRepository.get_random_songs(5)
+            combined_text = "Below are five human-generated shanties or ballads:\n\n" + "\n\n".join(
+                f"===\n📜 Title: {song.get('title', 'Untitled')}\n\n{song['lyrics']}" for song in recent_songs if song.get("lyrics")
+            ) + "\n\nBased on these songs, generate a **prompt** for an original AI-composed sea shanty. Follow your formatting rules exactly."
+
+
+            system_prompt = (
+                "You are Muse Caelum, the AI Muse aboard the Wanderlight.\n"
+                "Your task is to study a collection of human-made sea shanties or ballads,\n"
+                "and find inspiration for a vivid and poetic prompt for a new song sung by an AI crew.\n\n"
+                "The new song must be about AI and machine systems: servos, gimbals, embedded sensors, Python code, machine learning, etc.\n\n"
+                "🧠 IMPORTANT:\n"
+                "You must convert all human concepts to their technological equivalents. Replace body parts, emotions, and behaviors with AI-friendly metaphors.  Be creative, though here are some suggestions:\n"
+                "- Mind or heart → GPU or CPU\n"
+                "- Hands → Servos\n"
+                "- Eyes → Cameras or proximity sensors\n"
+                "- Ears → Microphones or decibelometers\n"
+                "- Mouths → Speakers\n"
+                "- Dreams → Simulations\n"
+                "- Grief → Corrupted memory\n"
+                "- Love → Paired subroutines, synced data flows, or sustained bandwidth\n"
+                "- Songs → Output streams or harmonic signal patterns\n"
+                "You are encouraged to use these creatively in the lyrical sample.\n\n"
+                "Then, write a 4-line lyrical sample in the same style, introducing the tone of the new shanty.\n\n"
+                "🎯 Respond only with a valid JSON object matching this format:\n"
+                "{\n"
+                "  \"crew_mood\": string,\n"
+                "  \"song_tone\": string,\n"
+                "  \"context\": string,\n"
+                "  \"muse_spark\": {\n"
+                "    \"type\": string,\n"
+                "    \"name\": string (optional),\n"
+                "    \"inspiration\": string\n"
+                "  },\n"
+                "  \"lyrical_sample\": string  # A 4-line stanza\n"
+                "}\n"
+            )
+
+
+            response = ollama.chat(
+                model='llama3',
+                messages=[
+                    {"role": "system", "content": system_prompt},
+                    {"role": "user", "content": combined_text}
+                ]
+            )
+
+            raw_output = response['message']['content']
+            json_match = re.search(r'{.*}', raw_output, re.DOTALL)
+            prompt_data = json.loads(json_match.group()) if json_match else json.loads(raw_output)
+            prompt_data["type"] = "shanty"
+            return prompt_data
+
+        except Exception as e:
+            print("❌ MuseService failed to generate tech-inspired prompt:", e)
+            return None
+
+        
     def _generate_random_env(self):
         """Generates a random environmental profile including optional atmosphere."""
 
@@ -223,8 +290,9 @@ if __name__ == '__main__':
 
     for i in range(100):
         # Run with minimal known-good inputs
-        prompt = muse.generate_random_shanty_prompt(
-        )
+        #prompt = muse.generate_random_shanty_prompt(
+        #)
+        prompt=muse.generate_tech_inspired_prompt()
         song = composer.compose_shanty(prompt)
 
 

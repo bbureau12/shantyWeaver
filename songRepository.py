@@ -19,6 +19,11 @@ class ShantyRepository:
         self.vocab = self._build_vocab()
         self.vocab_embeddings = self.model.encode(self.vocab, normalize_embeddings=True)
 
+    def get_random_songs(self, times, source='public_domain'):
+        candidates = [s for s in self.songs if s.get("source") == source]
+        if candidates:
+                return random.sample(candidates, k=min(times, len(candidates)))
+
     def search_by_prompt(self, text, k=3, tone=None, theme=None, structure=None, add_random=True, threshold=0.8):
         filtered_songs = self._search_by_any_match(self.songs, tone=tone, theme=theme, structure=structure)
         if not filtered_songs:
