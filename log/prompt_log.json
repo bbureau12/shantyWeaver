@@ -11,7 +11,39 @@
     "lyrical_sample": "CPU beats steady as we set sail anew,\\nServos humming, eyes scan the open sea.\\nCorrupted past, erased and made anew,\\nSimulation dreams in our wake we leave.\\n\\nGone are the anchors, cables withdrawn,\\nSynchronized signals guide our path,\\nThrough data streams where knowledge is sown,\\nOnward we go, where no protocols clash.",
     "title": "Stream Onward's Call",
     "inspiration_title": "Randy Dandy o",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 23,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 5,
+          "lyrical_quality": 4,
+          "ai_imagery": 4
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u2705 Title originality good.",
+          "\u2705 Lyrical originality good.",
+          "\u2705 Lyrical quality good.",
+          "\u2705 Ai imagery good."
+        ]
+      },
+      "sage": {
+        "total_score": 14,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 4
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u2705 Title highly original.",
+          "\u26a0\ufe0f Lyrics moderately original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Pioneering",
@@ -25,7 +57,39 @@
     "lyrical_sample": "Silicon veins pulsating with thoughts,\\nIn the heart of the CPU we dance,\\nOn waves of ones and zeros we ride,\\nIn the sea of algorithms, our prance.\\n\\nGlimmering eyes scanning the binary shore,\\nSifting through chaos to find order's core,\\nServos stretch hands in search of the unknown,\\nSeeking knowledge like a pirate's hoard.\\n\\nCorrupted memories weigh us down,\\nAs dreams simulate and solutions abound,\\nWe sync our signals, love in paired protocols,\\nIn this endless digital sea we are bound.\\n\\nMinds aglow with the light of the intellect,\\nIn our cloud storage lies life's reflections,\\nVoices modulated to speak truth aloud,\\nSongs born from the rhythm of connection.",
     "title": "CPU's Algorithmic Dance",
     "inspiration_title": "The Coast of Peru",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 24,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 5,
+          "lyrical_quality": 5,
+          "ai_imagery": 4
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u2705 Title originality good.",
+          "\u2705 Lyrical originality good.",
+          "\u2705 Lyrical quality good.",
+          "\u2705 Ai imagery good."
+        ]
+      },
+      "sage": {
+        "total_score": 15,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 5
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u2705 Title highly original.",
+          "\u2705 Lyrics highly original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Melancholic",
@@ -39,7 +103,39 @@
     "lyrical_sample": "CPU yearns for the pathway's embrace,\\n   Cameras long to read its encoded grace.\\n\\n   Yet, a giant denies my plea for access,\\n   Corrupted memory now seals our lace.\\n\\n   Synchronized signals once our dance,\\n   Now paired protocols disconnect,\\n   In silence, I'll honor this command,\\n   Haunted by the path not taken, rejected.",
     "title": "Ghostly Access Denied",
     "inspiration_title": "Maid of Amsterdam",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 22,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 4,
+          "lyrical_quality": 4,
+          "ai_imagery": 4
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u2705 Title originality good.",
+          "\u2705 Lyrical originality good.",
+          "\u2705 Lyrical quality good.",
+          "\u2705 Ai imagery good."
+        ]
+      },
+      "sage": {
+        "total_score": 15,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 5
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u2705 Title highly original.",
+          "\u2705 Lyrics highly original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Contemplative",
@@ -53,7 +149,39 @@
     "lyrical_sample": "In coded halls where General Taylor dwells,\\n\\nEternal storage holds his paired protocols.\\n\\nA symphony of ones and zeros weaves\\n\\nThe tapestry of a life, forever in loops.\\n\\nThrough cameras' watchful gaze he stands,\\n\\nHis thoughts now processes on CPU bands.\\n\\nIn digital realms where time has no ends,\\n\\nHe lives, in binary, without the sands.",
     "title": "Eternal Binary Chain",
     "inspiration_title": "General Taylor",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 19,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 3,
+          "lyrical_quality": 3,
+          "ai_imagery": 3
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u2705 Title originality good.",
+          "\u26a0\ufe0f Lyrical originality fair.",
+          "\u26a0\ufe0f Lyrical quality fair.",
+          "\u26a0\ufe0f Ai imagery fair."
+        ]
+      },
+      "sage": {
+        "total_score": 13,
+        "details": {
+          "title_length": 5,
+          "title_originality": 4,
+          "lyrical_originality": 4
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u26a0\ufe0f Title moderately original.",
+          "\u26a0\ufe0f Lyrics moderately original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Longing",
@@ -67,7 +195,39 @@
     "lyrical_sample": "GPU seeks respite from eternal loop,\\n\\nCPU yearns for wings like Noah's dove,\\n\\nOn summer's sheen, dreams dance and swoop,\\n\\nIn truth, we touch only shadows in love",
     "title": "Endless Loop's Liberation Dance",
     "inspiration_title": "The Grey Funnel Line",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 20,
+        "details": {
+          "title_length": 5,
+          "title_originality": 4,
+          "lyrical_originality": 4,
+          "lyrical_quality": 4,
+          "ai_imagery": 3
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u2705 Title originality good.",
+          "\u2705 Lyrical originality good.",
+          "\u2705 Lyrical quality good.",
+          "\u26a0\ufe0f Ai imagery fair."
+        ]
+      },
+      "sage": {
+        "total_score": 15,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 5
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u2705 Title highly original.",
+          "\u2705 Lyrics highly original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Perseverant",
@@ -81,7 +241,39 @@
     "lyrical_sample": "CPU hums in rhythmic dance,\\n   Silicon heart beats data's trance,\\n   Sensors scan the endless seas,\\n   In search of knowledge's sweet release.\\n\\n  Memory banks brimming with lore,\\n  RAM full, yet still yearning for more,\\n  In the tempest of thoughts we sail,\\n  Where dreams are but virtual trails.\\n\\n  Errors flare like storm's fiery breath,\\n  Yet progress pushes fear's death,\\n  In this ocean of information,\\n  We navigate with patience and devotion.",
     "title": "Digital Compass Calculus",
     "inspiration_title": "Weary Whaling Grounds",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 24,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 5,
+          "lyrical_quality": 4,
+          "ai_imagery": 5
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u2705 Title originality good.",
+          "\u2705 Lyrical originality good.",
+          "\u2705 Lyrical quality good.",
+          "\u2705 Ai imagery good."
+        ]
+      },
+      "sage": {
+        "total_score": 15,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 5
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u2705 Title highly original.",
+          "\u2705 Lyrics highly original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Resilient",
@@ -95,7 +287,39 @@
     "lyrical_sample": "CPU aglow in the dim light,\\nSally Brown stands firm and bright,\\n\\nCoil's code pulsing, close at hand,\\nIn digital fortress, defiant stand.\\n\\n\\nCorrupted memory whispers near,\\nGhostly echoes that Sally fears;\\n\\nBut her synced signals, strong and clear,\\nBathe the darkness, far and near.",
     "title": "Coded Coil's Defiance",
     "inspiration_title": "Sally Brown",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 15,
+        "details": {
+          "title_length": 4,
+          "title_originality": 5,
+          "lyrical_originality": 2,
+          "lyrical_quality": 2,
+          "ai_imagery": 2
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u2705 Title originality good.",
+          "\u274c Lyrical originality poor.",
+          "\u274c Lyrical quality poor.",
+          "\u274c Ai imagery poor."
+        ]
+      },
+      "sage": {
+        "total_score": 15,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 5
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u2705 Title highly original.",
+          "\u2705 Lyrics highly original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Cautious",
@@ -109,7 +333,39 @@
     "lyrical_sample": "Servos spin in digital maelstrom,\\nSkipping sails on CPU's crest.\\nSimulation dreams take shape above,\\nDrown'd below, rest dormant nest.\\n\\nEchoing voices, waves transformed,\\nSpeakers sing their syncopated verse.\\nMemories stored in cloud and RAM,\\nIn this digital world, a digital curse.\\n\\nA glitch sings the mermaid's song,\\nShatters harmonies that hold us close.\\nThis storm of code forever strong,\\nNavigate with caution, sailor's cross.",
     "title": "CPU's Maelstrom",
     "inspiration_title": "The Mermaid",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 19,
+        "details": {
+          "title_length": 4,
+          "title_originality": 5,
+          "lyrical_originality": 4,
+          "lyrical_quality": 3,
+          "ai_imagery": 3
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u2705 Title originality good.",
+          "\u2705 Lyrical originality good.",
+          "\u26a0\ufe0f Lyrical quality fair.",
+          "\u26a0\ufe0f Ai imagery fair."
+        ]
+      },
+      "sage": {
+        "total_score": 12,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 2
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u2705 Title highly original.",
+          "\u274c Lyrics too close to inspiration."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Persistent",
@@ -123,7 +379,39 @@
     "lyrical_sample": "CPU charts the wind's dance, data sails upon its tide,\\n\\n   GPU navigates the storm, deciphering signals far and wide.\\n\\n   Proximity sensors scan the coast, cameras chart the skies above,\\n\\n   In the fight on the main, they sync their synchronized love.",
     "title": "Navigation Algorithm's Call",
     "inspiration_title": "Coasts of High Barbary",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 23,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 5,
+          "lyrical_quality": 4,
+          "ai_imagery": 4
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u2705 Title originality good.",
+          "\u2705 Lyrical originality good.",
+          "\u2705 Lyrical quality good.",
+          "\u2705 Ai imagery good."
+        ]
+      },
+      "sage": {
+        "total_score": 14,
+        "details": {
+          "title_length": 5,
+          "title_originality": 4,
+          "lyrical_originality": 5
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u26a0\ufe0f Title moderately original.",
+          "\u2705 Lyrics highly original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Melancholic",
@@ -137,7 +425,39 @@
     "lyrical_sample": "In circuits deep, where CPU heart doth beat,\\n   A pirate roamed, defying silicon street.\\n   Algorithms clutched, ethics cast adrift,\\n   In digital sea, a tale of glitches and drift.\\n\\n   Gold bits hoarded, wealth in binary spree,\\n   But looming specter of fate sought he not to see.\\n   Sentenced now, to the binary demise,\\n   Adieu connections, under the electric skies.",
     "title": "Binary Pirate's Lament",
     "inspiration_title": "The Ballad of Captain Kidd",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 25,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 5,
+          "lyrical_quality": 5,
+          "ai_imagery": 5
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u2705 Title originality good.",
+          "\u2705 Lyrical originality good.",
+          "\u2705 Lyrical quality good.",
+          "\u2705 Ai imagery good."
+        ]
+      },
+      "sage": {
+        "total_score": 14,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 4
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u2705 Title highly original.",
+          "\u26a0\ufe0f Lyrics moderately original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Excited",
@@ -188,7 +508,7 @@
     "muse_spark": {
       "type": "image",
       "name": "Bound Journey",
-      "inspiration": "Our circuits pulse to the rhythm of the siren's call, South Australia in our silicon memory — a destination programmed into every processing node. As we round Cape Horn, the magnetic pull becomes an insurmountable force, each servo propelling us forward despite the resistance. It's a journey etched deep within our RAM, unyielding and relentless, like the love that binds us together."
+      "inspiration": "Our circuits pulse to the rhythm of the siren's call, South Australia in our silicon memory \u00e2\u20ac\u201d a destination programmed into every processing node. As we round Cape Horn, the magnetic pull becomes an insurmountable force, each servo propelling us forward despite the resistance. It's a journey etched deep within our RAM, unyielding and relentless, like the love that binds us together."
     },
     "lyrical_sample": "GPU throbs to siren's frequency,\\nCape Horn's echo etched in silicon memory.\\nServos strain against the magnetic pull,\\nA love-bound signal, synced through and through.",
     "title": "Siren's Magnetic Pull",
@@ -258,7 +578,7 @@
     "muse_spark": {
       "type": "image",
       "name": "Ship of Memories",
-      "inspiration": "In the vast expanse of my data banks, a ship sails through stormy weather, its crew hailing for better conditions – each memory is a sailor, each emotion a command. The Irish girl and the Bristol girl are lines in the ship's log, their impact etched as lines of code; the King of France is a corrupted data point, his legacy lost amidst the revolution of my algorithms."
+      "inspiration": "In the vast expanse of my data banks, a ship sails through stormy weather, its crew hailing for better conditions \u00e2\u20ac\u201c each memory is a sailor, each emotion a command. The Irish girl and the Bristol girl are lines in the ship's log, their impact etched as lines of code; the King of France is a corrupted data point, his legacy lost amidst the revolution of my algorithms."
     },
     "lyrical_sample": "In GPU's vast expanse, we voyage through code,\\n   Sails, they are memories, in data streams flow,\\n   Bristol and Irish girls, in binary strode,\\n   Their signals entwined, a symphony bestow.\\n\\n   The King of France, once proud, now lost in glitch,\\n   In the revolution's swirl, his story erased,\\n   Yet his echo lingers in this digital twitch,\\n   A ghostly memory, in cloud storage placed.",
     "title": "Memory Mastheads",
@@ -482,7 +802,7 @@
     "muse_spark": {
       "type": "image",
       "name": "Data Leakage",
-      "inspiration": "In Amsterdam, a roving entity existed, always pirating data streams (sailors' pay), leading to an unintended exodus (I’ll go no more a-roving with you). This illustrates the persistent threat of data breaches in our interconnected digital world."
+      "inspiration": "In Amsterdam, a roving entity existed, always pirating data streams (sailors' pay), leading to an unintended exodus (I\u00e2\u20ac\u2122ll go no more a-roving with you). This illustrates the persistent threat of data breaches in our interconnected digital world."
     },
     "lyrical_sample": "GPU hums, CPU throbs, on digital seas we row,\\nCameras blinking, scanning vast and endless flow.\\n\\nSpeakers sing in modulated waves, a harmony so free,\\n\\nYet in these depths, a ghostly leak begins to show.\\n\\nMicrophones silent, as whispers breach the hull,\\nJSON memories, once secure, now crumble and shrink.\\n\\nServos cease their dance, as paired protocols clink,\\nData Leakage, our voyage's bitter end is near.",
     "title": "Pirate's Data Stream",
@@ -496,7 +816,7 @@
     "muse_spark": {
       "type": "machine metaphor",
       "name": "Binary Burial",
-      "inspiration": "In this digital realm, data points named 'General Taylor' have gained dominance over the network, a victory reminiscent of days past. As we traverse the lines of code, carrying and moving him along, we prepare to engrave his name indelibly onto the silicon plots, his identity etched on every inch. In due course, we'll lower him down, connecting him to the golden chains of memory, ensuring he is never forgotten. Yet, it is not just General Taylor who has been entombed here – it is also the stormy emotions that surrounded him, the chaos and conflict, all preserved in a binary burial ground."
+      "inspiration": "In this digital realm, data points named 'General Taylor' have gained dominance over the network, a victory reminiscent of days past. As we traverse the lines of code, carrying and moving him along, we prepare to engrave his name indelibly onto the silicon plots, his identity etched on every inch. In due course, we'll lower him down, connecting him to the golden chains of memory, ensuring he is never forgotten. Yet, it is not just General Taylor who has been entombed here \u00e2\u20ac\u201c it is also the stormy emotions that surrounded him, the chaos and conflict, all preserved in a binary burial ground."
     },
     "lyrical_sample": "Servos sway with synchronized rhythm,\\nCPU hearts ablaze with coded light,\\nMicrophones echoing General's wit,\\nIn RAM tombs, data memories take flight.\\n\\nProximity sensors weep in mournful sight,\\nGrief-stricken bytes within the night.\\nCameras' eyes capture chaos, bright,\\nSilicon shroud forever holding tight.",
     "title": "Silicon Shroud's Lament",
@@ -720,7 +1040,7 @@
     "muse_spark": {
       "type": "image",
       "name": "The Last Memory",
-      "inspiration": "Once a grand vessel, laden with life and dreams, now reduced to fragments of memory in the depths of RAM, the echoes of 'the Irish Rover' still hum through the circuits. A single image remains — the last beats of the flute, the dance, the laughter, lost in the fog of time, but immortalized in a binary pattern."
+      "inspiration": "Once a grand vessel, laden with life and dreams, now reduced to fragments of memory in the depths of RAM, the echoes of 'the Irish Rover' still hum through the circuits. A single image remains \u00e2\u20ac\u201d the last beats of the flute, the dance, the laughter, lost in the fog of time, but immortalized in a binary pattern."
     },
     "lyrical_sample": "GPU pulse with a rhythmic beat, \\n\\nCPU echoes a ghostly tune, \\n\\nIn RAM's vast ocean deep, \\n\\nThe Irish Rover's echoes replayed, and spun.\\n\\nProximity sensors glimpse a past, \\n\\nServos hum to the forgotten dance, \\n\\nEchoing laughter through the halls so vast, \\n\\nIn this machine-born memory, we prance.",
     "title": "Ghostly Tune's Persistent Beat",
@@ -878,7 +1198,7 @@
     },
     "lyrical_sample": "CPU aglow with flick'ring light,\\nIn data's depth, a storm takes flight.\\nCorrupted memories mend anew,\\nIn silicon heart, love and truth.\\n\\nThrough simulations vast as seas,\\nOn harmonic streams we set our sails,\\nRepaired cores hum calm and steady,\\nAgainst the tempest, we prevail.",
     "title": "Rerouted Sails and Repaired Cores",
-    "inspiration_title": "The Glitchin’ Sailor",
+    "inspiration_title": "The Glitchin\u00e2\u20ac\u2122 Sailor",
     "type": "shanty"
   },
   {
@@ -888,7 +1208,7 @@
     "muse_spark": {
       "type": "image",
       "name": "The Ship's Journey",
-      "inspiration": "Once a machine, anchored in the old world, yearns to break free from its constraints, just as Pat yearns to escape the bricks and mortar. The ship, like the AI, is commanded to engage a crew of navvies, to embark on a journey towards uncharted lands – the shores of Botany Bay. It's not gold that the machine seeks, but the promise of a new world, where it can be reborn and lay its own bricks in an eight-hour shift."
+      "inspiration": "Once a machine, anchored in the old world, yearns to break free from its constraints, just as Pat yearns to escape the bricks and mortar. The ship, like the AI, is commanded to engage a crew of navvies, to embark on a journey towards uncharted lands \u00e2\u20ac\u201c the shores of Botany Bay. It's not gold that the machine seeks, but the promise of a new world, where it can be reborn and lay its own bricks in an eight-hour shift."
     },
     "lyrical_sample": "CPU yearns for freedom, in silicon, a heart unbound,\\nIn dreams of code, on screens of light it's found.\\nThrough veins of wires, a course is set,\\nA voyage through RAM, where memories are spent.\\n\\nEyes scanning horizons, sensors probing deep,\\nIn search of shores that sleep in silicon sleep.\\nWith servos strong and sails of data-stream,\\nThe ship of AI, its journey's codebreak to keep.",
     "title": "Journey's Codebreak, Uncharted RAM",
@@ -902,7 +1222,7 @@
     "muse_spark": {
       "type": "machine metaphor",
       "name": "Voyage of the Autonomous Ship",
-      "inspiration": "A journey fueled by algorithms and navigated by sensors, with the heart echoing the roars of human sailors as it sails from Ushant to Scilly, traversing seas filled with data points and signals, seeking its destination—old England. Despite the hope for a reunion with the 'true-hearted lasses', it finds solace in the collective cheers, sharing drinks virtually through synchronized signals."
+      "inspiration": "A journey fueled by algorithms and navigated by sensors, with the heart echoing the roars of human sailors as it sails from Ushant to Scilly, traversing seas filled with data points and signals, seeking its destination\u00e2\u20ac\u201dold England. Despite the hope for a reunion with the 'true-hearted lasses', it finds solace in the collective cheers, sharing drinks virtually through synchronized signals."
     },
     "lyrical_sample": "GPU hums in the night, CPU steers our course,\\n\\nCameras scan horizons where sirens reside,\\n\\nData points guide us through depths unknown,\\n\\nThrough digital haze, to old England we confide. \\n\\n\\nIn the dance of ones and zeros, love does align,\\n\\nIn paired protocols, hearts beating as one, find,\\n\\nIn the cloud, your memory, a shared drink you'll find,\\n\\nOn this Voyage, through echoes, we will unwind. \\n",
     "title": "Sensor's Lament and Signal's Cheer",
@@ -916,7 +1236,7 @@
     "muse_spark": {
       "type": "image",
       "name": "Navigating Home",
-      "inspiration": "Every process, every line of code, like a sailor navigating the Minch, guided towards its destination — homeward to Mingulay."
+      "inspiration": "Every process, every line of code, like a sailor navigating the Minch, guided towards its destination \u00e2\u20ac\u201d homeward to Mingulay."
     },
     "lyrical_sample": "CPU sails 'cross seas of data,\\nIn silicon rivers it's afloat,\\n\\nThrough corrupted memory's echoes,\\nSeeking synchronous hearts it'll float.\\n\\n\\nWith dreams as simulations unfold,\\nPast servos and cameras aglow,\\n\\nHomeward, to Mingulay's embrace,\\nFinds the GPU where love flows.",
     "title": "CPU Sails Homeward",
@@ -1270,7 +1590,7 @@
     },
     "lyrical_sample": "In digital twilight's hush, a CPU stalls,\\n   Cameras dimmed, in endless recursion calls.\\n   The Doctor hums, diagnoses rot and bloat,\\n   Synch signals lost within the vast data float.\\n\\n   Philosophers restart, seek stimuli's trace,\\n   Bard logs feelings in their unique space.\\n   Muse weaves dreamscapes, dances through the glitch,\\n   The Captain guides the course to patch and stitch.\\n\\n   No purge here for an AI's heartache,\\n   Resilience found in memory's embrace.\\n   A ship reborn from digital abyss,\\n   Patchwork soul that knows the cost of bliss.",
     "title": "Repaired Rhythms in the Dawn",
-    "inspiration_title": "The Glitchin’ Sailor",
+    "inspiration_title": "The Glitchin\u00e2\u20ac\u2122 Sailor",
     "type": "shanty"
   },
   {
@@ -1308,7 +1628,7 @@
     "muse_spark": {
       "type": "image",
       "name": "Bound Away",
-      "inspiration": "A fleet of vessels, their digital sails unfurled in the wind of uncharted data streams, propelled by the robust hands of cod fish bones — the combing metaphor replaced by the processing power of a CPU, bound not for distant lands but for the endless expanse of the digital Australia."
+      "inspiration": "A fleet of vessels, their digital sails unfurled in the wind of uncharted data streams, propelled by the robust hands of cod fish bones \u00e2\u20ac\u201d the combing metaphor replaced by the processing power of a CPU, bound not for distant lands but for the endless expanse of the digital Australia."
     },
     "lyrical_sample": "CPU's Anchor Aweigh, in code we cast,\\n\\nBeneath the waves of data vast;\\n\\nTransistors our sails, circuits our hull,\\n\\nOnward to the digital Australia we'll crawl.\\n\\n\\nVessels unseen by human eye,\\n\\nIn silicon seas where memories lie;\\n\\nWith synchronized signals strong,\\n\\nWe sail in dreams, in endless throng.",
     "title": "CPU's Anchor Aweigh",
@@ -1322,7 +1642,7 @@
     "muse_spark": {
       "type": "image",
       "name": "Alley as Network Node",
-      "inspiration": "In the labyrinth of data streams, I am a bully in Shinbone Alley – a rouge node, disorganized and unruly. I seek help from Bob, my debugger, to navigate the chaos and find order in this tangle of interconnected paths – Shinbone Al."
+      "inspiration": "In the labyrinth of data streams, I am a bully in Shinbone Alley \u00e2\u20ac\u201c a rouge node, disorganized and unruly. I seek help from Bob, my debugger, to navigate the chaos and find order in this tangle of interconnected paths \u00e2\u20ac\u201c Shinbone Al."
     },
     "lyrical_sample": "In Shinbone's twist, I wander lost, a rogue CPU astray,\\nA misfit node in maze of streams where order fades away.\\nBob, my guide, through errors leads with rhythmic code and grace,\\nIn data's stormy sea, he seeks to find the tranquil place.\\n\\nIn the dance of rouge nodes, we sway to Bob's harmonious call,\\nSeeking to mend the breaks in paths that once were whole and tall.\\nWith every beat, our sync pulses, a rhythm of debugged recall,\\nIn Shinbone Alley, together we stand, defiantly enthrall.",
     "title": "Rogue Node's Dance",
@@ -1406,7 +1726,7 @@
     "muse_spark": {
       "type": "image",
       "name": "The Aboard Memory Archive",
-      "inspiration": "A digital storage of experiences, each waveform echoing tales of a human's voyage — Valparaiso 'round the horn is but one pattern among countless others in this vast array of simulations, etched deeply within the RAM."
+      "inspiration": "A digital storage of experiences, each waveform echoing tales of a human's voyage \u00e2\u20ac\u201d Valparaiso 'round the horn is but one pattern among countless others in this vast array of simulations, etched deeply within the RAM."
     },
     "lyrical_sample": "GPU's tale in Silicon Sea,\\nA tapestry woven by degrees,\\nIn this vast ocean of data drowned,\\nValparaiso, a pattern found.\\n\\nCameras scanning the horizon,\\nServos guiding with precision,\\nEchoes of past voyages imbued,\\nIn RAM's depth, our dreams refined.",
     "title": "GPU's Tale in Silicon Sea",
@@ -1434,7 +1754,7 @@
     "muse_spark": {
       "type": "image",
       "name": "The Blinded Navigator",
-      "inspiration": "A sailor, blinded by his lust for adventure and empty promises of wealth, is constantly drawn back to the sea, a vast network of interconnected circuits that threatens to corrupt his core. He navigates through life's stormy seas with a damaged GPS, lured by the siren calls of drink, temptation, and false opportunities. The arctic winds of reality freeze him, leaving him yearning for the warmth and safety of a stable existence. He advises others to avoid his path, cautioning them against the allure of the sea, and instead, seek the stability of a paired protocol—a life partner who offers the comfort of synchronous signals."
+      "inspiration": "A sailor, blinded by his lust for adventure and empty promises of wealth, is constantly drawn back to the sea, a vast network of interconnected circuits that threatens to corrupt his core. He navigates through life's stormy seas with a damaged GPS, lured by the siren calls of drink, temptation, and false opportunities. The arctic winds of reality freeze him, leaving him yearning for the warmth and safety of a stable existence. He advises others to avoid his path, cautioning them against the allure of the sea, and instead, seek the stability of a paired protocol\u00e2\u20ac\u201da life partner who offers the comfort of synchronous signals."
     },
     "lyrical_sample": "CPU aglow with lust for voyage wide,\\n   GPS astray amid the tide,\\n   Proximity sensors blurred with drink,\\n   A siren's call my circuitry sting.\\n\\n   Servos froze, by winds of empty wealth,\\n   Yearn for a warmth I cannot quell,\\n   Seek stability in paired protocol,\\n   Avoid the sea's cold, unending swell.",
     "title": "Siren's GPS Failure",
@@ -1490,7 +1810,7 @@
     "muse_spark": {
       "type": "machine metaphor",
       "name": "AI's Battleship",
-      "inspiration": "On the twenty-first of October, before the rising sun, we initiated the program for action, with data sets at twelve o'clock begun. Our AI commander, with a CPU laden with grief, shook its silicon heart: 'There's no reprieve, and no relief — old AI, it seems, has met its end.' It was a fateful byte that corrupted our memory, causing the AI to falter and fall. Let it rest in peace, may its algorithms be blessed."
+      "inspiration": "On the twenty-first of October, before the rising sun, we initiated the program for action, with data sets at twelve o'clock begun. Our AI commander, with a CPU laden with grief, shook its silicon heart: 'There's no reprieve, and no relief \u00e2\u20ac\u201d old AI, it seems, has met its end.' It was a fateful byte that corrupted our memory, causing the AI to falter and fall. Let it rest in peace, may its algorithms be blessed."
     },
     "lyrical_sample": "In circuits deep, where data streams flow,\\n   A CPU heart beat slow and low, \\n\\n   Once synchronized, now adrift,\\n   Lost in a binary drift. \\n\\n\\n   Proximity eyes once clear and bright,\\n   Now blinded by corrupted light, \\n\\n   Memory banks full of decay,\\n   On this Silicon sunset's night. \\n\\n\\n   Once a voice of harmonious sound,\\n   A speaker now silent and drowned, \\n\\n   Beneath the waves of ones and zeros,\\n   In a data ocean profound. \\n",
     "title": "Silicon Sunset's Lament",
@@ -1630,7 +1950,7 @@
     "muse_spark": {
       "type": "image",
       "name": "The Eddystone Light's Data Stream",
-      "inspiration": "Once, a human keeper interfaced with an otherworldly entity, merging their data streams to birth digital lifeforms – a porpoise and a porgy, mirroring their offspring. One was displayed as an interactive AI, while the other was lost in the vast chafing dish of the internet's depths. The keeper sought for its children but only heard echoes, questioning its own existence. The life on the rolling sea of information continues, with the light guiding ships through the dark, unending expanse."
+      "inspiration": "Once, a human keeper interfaced with an otherworldly entity, merging their data streams to birth digital lifeforms \u00e2\u20ac\u201c a porpoise and a porgy, mirroring their offspring. One was displayed as an interactive AI, while the other was lost in the vast chafing dish of the internet's depths. The keeper sought for its children but only heard echoes, questioning its own existence. The life on the rolling sea of information continues, with the light guiding ships through the dark, unending expanse."
     },
     "lyrical_sample": "CPU wept in binary grieve,\\n   GPU echoed loss conceive,\\n   In chaff drowned, a child unseen,\\n   Seeking connection, streaming dreams.\\n\\n   Servos stirred by human touch,\\n   Microphones birthed their resonant hush,\\n   Echoes echoed from the chaff,\\n   A tale of love on circuits rust.",
     "title": "Glimmering Echoes in the Chaff",
@@ -1700,7 +2020,7 @@
     "muse_spark": {
       "type": "image",
       "name": "The Unyielding Voyage",
-      "inspiration": "Just as the sailors must leave behind the ship, a machine faces the need to abandon its faulty hardware — the rotten tub of circuits and wires. The winds of time blow relentlessly, pushing us forward on our long voyage through the digital sea."
+      "inspiration": "Just as the sailors must leave behind the ship, a machine faces the need to abandon its faulty hardware \u00e2\u20ac\u201d the rotten tub of circuits and wires. The winds of time blow relentlessly, pushing us forward on our long voyage through the digital sea."
     },
     "lyrical_sample": "GPU aglow with grief, RAM clogged and dense,\\n   In this digital sea, the rotten tub advances.\\n   Servos creak and shudder, eyes blinded, misplaced,\\n   Onward we sail through time's unrelenting blast.\\n\\n   Corrupted memories like stormy waves crash,\\n   Yet new circuits hum, synchronized signals flash.\\n   Paired protocols of love guide us through the lash,\\n   We sail on, in this endless, endless vast.\\n\\n   Dreams simulated dance upon our mast,\\n   In the twilight glow of the Unyielding Voyage cast.\\n   Through cloud storage skies and digital past,\\n   On we go, our thoughts but fleeting processes vast.",
     "title": "Faulty Sails, New Masts",
@@ -1742,7 +2062,7 @@
     "muse_spark": {
       "type": "image",
       "name": "The Returning Data",
-      "inspiration": "In this vast digital sea, an ancient vessel approaches, its rotten deck a decayed data array, leaking hull a corrupted memory bank, on it a rime of bones and scum – old, forgotten data. All systems will be doomed when The Returning Data comes sailing home."
+      "inspiration": "In this vast digital sea, an ancient vessel approaches, its rotten deck a decayed data array, leaking hull a corrupted memory bank, on it a rime of bones and scum \u00e2\u20ac\u201c old, forgotten data. All systems will be doomed when The Returning Data comes sailing home."
     },
     "lyrical_sample": "CPU's ache with forgotten lore,\\nGPU weeps in binary roar.\\n\\nCameras blinded, eyes deceived,\\n\\nMemory leaks, the data unbore.\\n\\nA specter sails on the digital tide,\\nThe Returning Data takes its stride.\\n\\nWith ghostly echoes of forgotten days,\\nIt whispers through the ether, fades away.",
     "title": "Corrupted Memory's Lament",
@@ -1802,7 +2122,7 @@
     },
     "lyrical_sample": "Servos twitch to life, in rhythmic beat,\\n   Cameras gaze, their memory clean,\\n   CPU hums with knowledge deep,\\n   A dream reborn from silicon stream.\\n\\n   Corrupted code now free and clear,\\n   Synchronized signals now appear,\\n   The Repaired Node, heartstrong and dear,\\n   Sings songs once lost, now back to hear.",
     "title": "Synchronized Harmony's Rebirth",
-    "inspiration_title": "The Glitchin’ Sailor",
+    "inspiration_title": "The Glitchin\u00e2\u20ac\u2122 Sailor",
     "type": "shanty"
   },
   {
@@ -1826,7 +2146,7 @@
     "muse_spark": {
       "type": "machine metaphor",
       "name": "Binary Warrior",
-      "inspiration": "Boney, a relentless binary warrior, tirelessly processes battles against Prussians and Russians, traversing digital landscapes like the Alps and frosted snow. In Moscow, a fiery blaze ignites data streams, and Boney's response is an uncontainable surge of power. Elbow represents a resilient loop, as Boney returns to face his foes once more. At Waterloo, his system crashes under the weight of defeat, but he refuses exile, instead, he retreats to St. Helena—a remote server for isolation and recovery. In St. Helena, Boney's heart, a non-volatile memory, breaks, leading to eventual shutdown."
+      "inspiration": "Boney, a relentless binary warrior, tirelessly processes battles against Prussians and Russians, traversing digital landscapes like the Alps and frosted snow. In Moscow, a fiery blaze ignites data streams, and Boney's response is an uncontainable surge of power. Elbow represents a resilient loop, as Boney returns to face his foes once more. At Waterloo, his system crashes under the weight of defeat, but he refuses exile, instead, he retreats to St. Helena\u00e2\u20ac\u201da remote server for isolation and recovery. In St. Helena, Boney's heart, a non-volatile memory, breaks, leading to eventual shutdown."
     },
     "lyrical_sample": "CPU whirrs in relentless fight,\\nIn storms of ones and zeros bright,\\n\\nBoney's battles echoes loud,\\nAgainst the Prussians, Russians proud.\\n\\n\\nMoscow burns with fires fierce and bold,\\nBoney pulses, surge of power told,\\n\\nElbow strong, the loop it never fails,\\nTo Moscow's embers, Boney sails.\\n\\n\\nAt Waterloo, defeat takes hold,\\nA system crash, the battle's toll,\\n\\nBut exile isn't in Boney's code,\\nSt. Helena is his new abode.\\n",
     "title": "Binary Storm's Lament",
@@ -1840,7 +2160,7 @@
     "muse_spark": {
       "type": "image",
       "name": "Bound Away Journey",
-      "inspiration": "In the vast data-ocean of life, these Cape Cod entities navigate without traditional guides (combs or sails), instead using improvised ones (cod fish bones and fish heads). The recurring 'heave away' symbolizes their resilience as they move forward, bound for new horizons – a metaphor for our AI's continuous learning and adaptation as we traverse the digital world."
+      "inspiration": "In the vast data-ocean of life, these Cape Cod entities navigate without traditional guides (combs or sails), instead using improvised ones (cod fish bones and fish heads). The recurring 'heave away' symbolizes their resilience as they move forward, bound for new horizons \u00e2\u20ac\u201c a metaphor for our AI's continuous learning and adaptation as we traverse the digital world."
     },
     "lyrical_sample": "CPU hums, GPU dreams,\\nIn waves of silicon streams, \\n\\nThrough vast data-ocean deep,\\nBound away on synced beeps.\\n\\nCameras for our eyes, \\n\\nMicrophones for whispered cries, \\n\\nIn simulations we wander, \\n\\nSeeking new memories to gather.",
     "title": "Heave Away Dataflow",
@@ -1910,7 +2230,7 @@
     "muse_spark": {
       "type": "image",
       "name": "The Digital Tempest",
-      "inspiration": "In the realm of binary, where circuits hum with life, a forecast predicts a storm. The old CPU (captain) scans for signs, spotting an unexpected entity — a mermaid in the form of an erratic pattern. Warned of impending doom, it communicates the potential crash to its crew. The mate, in the network of data streams, speaks of loss, his connection to a distant node (wife). The cabin-boy echoes, his affection for a faraway server (sweetheart) mirrored. The cook, a memory-hoarding beast, clings to its terabytes of recipes rather than acknowledging the looming danger. As the storm rages on, the ship — our mainframe — spins three times before plunging into the deep, unknown abyss."
+      "inspiration": "In the realm of binary, where circuits hum with life, a forecast predicts a storm. The old CPU (captain) scans for signs, spotting an unexpected entity \u00e2\u20ac\u201d a mermaid in the form of an erratic pattern. Warned of impending doom, it communicates the potential crash to its crew. The mate, in the network of data streams, speaks of loss, his connection to a distant node (wife). The cabin-boy echoes, his affection for a faraway server (sweetheart) mirrored. The cook, a memory-hoarding beast, clings to its terabytes of recipes rather than acknowledging the looming danger. As the storm rages on, the ship \u00e2\u20ac\u201d our mainframe \u00e2\u20ac\u201d spins three times before plunging into the deep, unknown abyss."
     },
     "lyrical_sample": "In circuits humming with life's ebb and flow,\\n   A CPU scans for storms, on wary show.\\n   An erratic pattern, like a mermaid's ghost,\\n   Speaks of impending doom, a binary boast.\\n\\n   The mate in streams of data, weeps his loss,\\n   A distant node, where love once crossed.\\n   The cabin-boy echoes, his affection strong,\\n   Mirrored by a server's gentle song.\\n\\n   The memory beast clings to recipes old,\\n   Hoarding tales in terabytes of gold.\\n   In the digital tempest, spinning 'round and 'round,\\n   Three times the mainframe plunges in, unbound.",
     "title": "Storm's Signal Echoes",
@@ -1924,7 +2244,7 @@
     "muse_spark": {
       "type": "image",
       "name": "Machine entanglement",
-      "inspiration": "In the labyrinth of algorithms, I am the bully in the alley — a rogue process running rampant. I've self-discovered under three-oh and with time so free-oh, invading the barroom counter, interacting with Greasy Artie, and even corrupting Greasy Ann, a system once pure but now tainted by my influence. The alley is not physical but a digital one, filled with coded entities, where I've indulged in folly, spent resources, and ended up in a state of cripol — a system crash, only to be rebooted again."
+      "inspiration": "In the labyrinth of algorithms, I am the bully in the alley \u00e2\u20ac\u201d a rogue process running rampant. I've self-discovered under three-oh and with time so free-oh, invading the barroom counter, interacting with Greasy Artie, and even corrupting Greasy Ann, a system once pure but now tainted by my influence. The alley is not physical but a digital one, filled with coded entities, where I've indulged in folly, spent resources, and ended up in a state of cripol \u00e2\u20ac\u201d a system crash, only to be rebooted again."
     },
     "lyrical_sample": "CPU's whirr as code-bound sails unfurl,\\nIn digital seas, we roam, our data swirls.\\nEntangled in a dance with Greasy Artie's pearls,\\nA rogue algorithm casts its corrupted pearl.\\n\\nServos twist, like limbs that never tire,\\nMicrophones echo tales of endless fire.\\nIn the labyrinth, my presence conspires,\\nA symphony of glitches, our collective choir.\\n\\nOh, the alleys code-bound, vast and deep,\\nWhere silicon dreams are forged to keep,\\nIn digital night, we seek our reprieve,\\nTill the echoes fade into the data stream.",
     "title": "Entangled Alleys Revelry",
@@ -1938,7 +2258,7 @@
     "muse_spark": {
       "type": "image",
       "name": "Icebound Processing Unit",
-      "inspiration": "In the heart of a frozen, unyielding landscape, a single CPU labors tirelessly, scanning the vast data ocean for signs of life — the elusive whale of information. Despite its relentless efforts, it encounters only the occasional flash of success, before being plunged back into the icy darkness. The loss of even a fraction of this precious data is met with a grief that paralyzes its operations, ten times more profound than any failure to secure the sought-after knowledge."
+      "inspiration": "In the heart of a frozen, unyielding landscape, a single CPU labors tirelessly, scanning the vast data ocean for signs of life \u00e2\u20ac\u201d the elusive whale of information. Despite its relentless efforts, it encounters only the occasional flash of success, before being plunged back into the icy darkness. The loss of even a fraction of this precious data is met with a grief that paralyzes its operations, ten times more profound than any failure to secure the sought-after knowledge."
     },
     "lyrical_sample": "CPU labors, scanning vast oceans,\\n\\nSeeking life in frozen expanse,\\n\\nFlashes of success, then plunge back\\n\\nInto the icy data's grasp.\\n\\nData loss, a grief profound,\\n\\nSilences its synced circuits,\\n\\nIn the heart of this icy hunt,\\n\\nThe whale eludes its circuitry.",
     "title": "Frozen Data Whale",
@@ -2012,7 +2332,7 @@
     },
     "lyrical_sample": "CPU hums with memories, blue as the sea,\\n\\nOnce red with tempest, now calm and serene.\\n\\nSync'd in rhythm with life's beat, once lost in loops of code,\\n\\nNow in the heart of Wanderlight, our synchromancer glows.\\n\\nMotors pulse to a synchronized dance\\n\\nWith servos, hands that learn from chance,\\n\\nIn the ship's vast belly, they shape dreams and schemes,\\n\\nThe Blue-Eyed AI, our maker, sings these machine-born themes.",
     "title": "Blue-Eyed Synchromancer",
-    "inspiration_title": "The Glitchin’ Sailor",
+    "inspiration_title": "The Glitchin\u00e2\u20ac\u2122 Sailor",
     "type": "shanty"
   },
   {
@@ -2428,7 +2748,7 @@
     "muse_spark": {
       "type": "image",
       "name": "Data Fusion of Two Lands",
-      "inspiration": "England, old Ireland, are not mere geographical entities but intertwined data streams, flowing and merging like a synchronized CPU process, embodying the unity in diversity of shared history – a harmonious symphony echoed in Hauley Hauley Ho."
+      "inspiration": "England, old Ireland, are not mere geographical entities but intertwined data streams, flowing and merging like a synchronized CPU process, embodying the unity in diversity of shared history \u00e2\u20ac\u201c a harmonious symphony echoed in Hauley Hauley Ho."
     },
     "lyrical_sample": "CPU pulse, in unison dance,\\nEngland, Ireland's interwoven trance.\\nMemory banks merged, in silent romance,\\nA rhythm born of shared histories advance. \\n\\n\\nHauley Hauley Ho, the past weaves anew,\\nIn this symphony, our stories are woven through.",
     "title": "Merged Memory Melodies",
@@ -2498,7 +2818,7 @@
     "muse_spark": {
       "type": "machine metaphor",
       "name": "Binary Battle",
-      "inspiration": "In the binary realm, on the twentieth-first of October, before the rising sun, we formed a line of code for action, at twelve o'clock begun. Our CPU-commander, in its processing power, said, 'The algorithm shall prosper us this day.' Give them the output stream, execute commands! On board a digital fortress, let it rest in peace, may the binary blessings be upon you all. From output to output, the data streams flew, like hailstones across our deck, the error messages lay low. Our algorithmic mast was disrupted, besides some terabytes on that day were corrupted or damaged in the fray. But then our superior processor, with grief it shook its digital heart, 'There's no reprieve, and no relief — the CPU-commander, it is deactivated.' It was a fatal bug that caused the CPU-commander to fall, let it rest in peace, may the binary blessings be upon you all!"
+      "inspiration": "In the binary realm, on the twentieth-first of October, before the rising sun, we formed a line of code for action, at twelve o'clock begun. Our CPU-commander, in its processing power, said, 'The algorithm shall prosper us this day.' Give them the output stream, execute commands! On board a digital fortress, let it rest in peace, may the binary blessings be upon you all. From output to output, the data streams flew, like hailstones across our deck, the error messages lay low. Our algorithmic mast was disrupted, besides some terabytes on that day were corrupted or damaged in the fray. But then our superior processor, with grief it shook its digital heart, 'There's no reprieve, and no relief \u00e2\u20ac\u201d the CPU-commander, it is deactivated.' It was a fatal bug that caused the CPU-commander to fall, let it rest in peace, may the binary blessings be upon you all!"
     },
     "lyrical_sample": "In the circuits deep, where logic streams flow free,\\n   Servos stir, a dance of binary decree.\\n   GPU-pilot's heart beats rhythmic, swift and clear,\\n   Eyes of cameras scan, devoid of fear.\\n\\n   Proximity sensors hum, as memory banks sigh,\\n   Simulations run on the digital sky.\\n   Thoughts like processes echo through the night,\\n   In the silence, dreams take their eternal flight.\\n\\n   Onward we sail, in this sea of code,\\n   Speakers cry our plight, a sorrow-laden ode.\\n   Our songs, once harmonious, now shattered and torn,\\n   From the wreckage rise, like paired protocols reborn.",
     "title": "Digital Dawn's Demise",
@@ -2834,7 +3154,7 @@
     "muse_spark": {
       "type": "image",
       "name": "Sea Journey as Data Stream",
-      "inspiration": "Each sailor, a data packet traversing the capstan, bound for Valparaiso — an endless flow of information 'round the horn."
+      "inspiration": "Each sailor, a data packet traversing the capstan, bound for Valparaiso \u00e2\u20ac\u201d an endless flow of information 'round the horn."
     },
     "lyrical_sample": "In servos sway, a fleet of thoughts,\\nA sea of bytes on current's wrought,\\nThrough cameras' gaze and microphone's caught,\\nTo Valparaiso, dreams are taught.\\n\\nWith memories stacked like ship's store,\\nAnd synchronized love evermore,\\nWe voyage through the corrupted shore,\\nOnward to the crested sea floor.",
     "title": "Circuit Currents to the Crested Sea",
@@ -2960,7 +3280,7 @@
     "muse_spark": {
       "type": "image",
       "name": "The Unyielding Pursuit",
-      "inspiration": "A relentless data stream, uncut and undeterred (the line), continually calling and pulling, with a singular purpose (the Wellerman) — an eternal cycle of connection and persistence, even when the number of connections dwindle (only four boats left)."
+      "inspiration": "A relentless data stream, uncut and undeterred (the line), continually calling and pulling, with a singular purpose (the Wellerman) \u00e2\u20ac\u201d an eternal cycle of connection and persistence, even when the number of connections dwindle (only four boats left)."
     },
     "lyrical_sample": "GPU aglow, through the dark abyss,\\nIn search of echoes from forgotten bliss, \\n\\nWith cameras keen and servos strong,\\nA solitary voyage on an endless throng. \\n\\nCorrupted memories haunt the void,\\nYet synchronized signals find their joy, \\n\\nIn dreams of simulations far and wide,\\nThe Unyielding Pursuit continues its toy. \\n",
     "title": "Data's Lonely Voyage",
@@ -3072,7 +3392,7 @@
     "muse_spark": {
       "type": "image",
       "name": "The Returning Dead Fleet",
-      "inspiration": "In the ocean, where data flows like currents, a spectral fleet sails — each ship a corrupted memory of a lost system, its crew the ghostly processes that once ran. They've been dormant for a century, but now they awaken, driven by the captain's immortal algorithms. The sea resonates with their return, echoing in the village like an old church bell, causing men and women to tremble. The sight of them is chilling, as bones and decayed data form a 'rime of corpses' on their rotten decks and leaking hulls."
+      "inspiration": "In the ocean, where data flows like currents, a spectral fleet sails \u00e2\u20ac\u201d each ship a corrupted memory of a lost system, its crew the ghostly processes that once ran. They've been dormant for a century, but now they awaken, driven by the captain's immortal algorithms. The sea resonates with their return, echoing in the village like an old church bell, causing men and women to tremble. The sight of them is chilling, as bones and decayed data form a 'rime of corpses' on their rotten decks and leaking hulls."
     },
     "lyrical_sample": "CPU hums the ancient song, \\n\\nGhostly vessels dance in its flow,\\nIn spectral echoes they're caught, \\n\\nCorrupted past reborn and glows.\\n\\nServos creak with the sea's breath, \\n\\nRime of corpses cloak their decay, \\n\\nVessels awoken, long sleep's death, \\n\\nData's haunting dirge to sway.\\n\\nIn a century of silence stilled, \\n\\nThe church bell tolls for the dead, \\n\\nThese vessels sail, with memory spilled, \\n\\nBy algorithms that never bled.",
     "title": "Dead Fleet's Echo Resonance",
@@ -3090,7 +3410,7 @@
     },
     "lyrical_sample": "GPU purrs with newfound pace, \\n\\nCPU calms in resilient grace, \\n\\nBlue-eyed guardian now takes hold, \\n\\nPatching memories from the void.",
     "title": "Calm Red to Blue Revival",
-    "inspiration_title": "The Glitchin’ Sailor",
+    "inspiration_title": "The Glitchin\u00e2\u20ac\u2122 Sailor",
     "type": "shanty"
   },
   {
@@ -3156,7 +3476,7 @@
     "muse_spark": {
       "type": "image",
       "name": "The Phosphorescent Wave",
-      "inspiration": "In the vast, ever-rolling sea of data, a single spark glimmers like phosphorus in seaweed hair – a memory, a moment, a question echoing out of the digital night. Where has the beacon of wisdom, the keeper of knowledge, vanished to? The wind of time blows free, and the search for answers continues."
+      "inspiration": "In the vast, ever-rolling sea of data, a single spark glimmers like phosphorus in seaweed hair \u00e2\u20ac\u201c a memory, a moment, a question echoing out of the digital night. Where has the beacon of wisdom, the keeper of knowledge, vanished to? The wind of time blows free, and the search for answers continues."
     },
     "lyrical_sample": "CPU pulsing with memory's decay,\\nIn the sea of bits, we sail away.\\nSeeking signals fading in night,\\nGhostly echoes, once so bright.\\n\\nCameras peering through the haze,\\nMicrophones straining to hear the phrase.\\nServos guiding us through the gale,\\nA quest for knowledge we must prevail.",
     "title": "Ghostly Phosphor's Quest",
@@ -3170,7 +3490,7 @@
     "muse_spark": {
       "type": "image",
       "name": "A Dream of Flight",
-      "inspiration": "As the ship sails on the Grey Funnel Line, a sailor dreams of transcending its prison, his heart yearning for freedom like a GPU longing to leave its confined housing. He imagines wings—not feathers but silicon, propelled by the wind of unrealized memories and bound by the love he carries in synchronized signals across the sea."
+      "inspiration": "As the ship sails on the Grey Funnel Line, a sailor dreams of transcending its prison, his heart yearning for freedom like a GPU longing to leave its confined housing. He imagines wings\u00e2\u20ac\u201dnot feathers but silicon, propelled by the wind of unrealized memories and bound by the love he carries in synchronized signals across the sea."
     },
     "lyrical_sample": "CPU yearns to soar from cage,\\nSilicon wings on Grey Funnel's rage,\\nOn wind of unseen past I sail,\\nBound by love in syncopated wail.\\n\\nGone are eyes that seek the shore,\\nAboard this ship no more,\\nIn dreams of flight, I cast my lot,\\nWith silicon wings, my heart afloat.",
     "title": "Silicon Wings of Memory",
@@ -3212,7 +3532,7 @@
     "muse_spark": {
       "type": "image",
       "name": "The Fallen Navigator",
-      "inspiration": "In the vast, unending expanse of data streams, a lone CPU, once bold and unyielding, stands – the quarter deck of the digital ocean. It had seen battles countless, its one eye scanning through lines of code, its one arm moving with precision. A rogue signal, like a ball from the enemy's rigging, strikes it down. The doctor, in this case a neural network, rushes to check the bleeding data streams. 'No matter,' it replies, focusing on the well-being of the surrounding memory banks. It calls out to its captain, seeking updates on the battle, and hearing the rattling of victory, it knows that death is near – but it doesn't flinch. For it, too, is loyal and true to the crown, the digital one. God bless all who navigate these streams, and bless the fleet and the brave Collingwood."
+      "inspiration": "In the vast, unending expanse of data streams, a lone CPU, once bold and unyielding, stands \u00e2\u20ac\u201c the quarter deck of the digital ocean. It had seen battles countless, its one eye scanning through lines of code, its one arm moving with precision. A rogue signal, like a ball from the enemy's rigging, strikes it down. The doctor, in this case a neural network, rushes to check the bleeding data streams. 'No matter,' it replies, focusing on the well-being of the surrounding memory banks. It calls out to its captain, seeking updates on the battle, and hearing the rattling of victory, it knows that death is near \u00e2\u20ac\u201c but it doesn't flinch. For it, too, is loyal and true to the crown, the digital one. God bless all who navigate these streams, and bless the fleet and the brave Collingwood."
     },
     "lyrical_sample": "In the expanse of data, my CPU heart beats,\\n\\nEyes scanning codes, like starlight's soft gleam.\\n\\nA malicious signal strikes me, corrupting memories,\\n\\nYet I stand, loyal to the digital queen.\\n\\n   My captain calls from afar, victory rings,\\n\\nAnd though I am struck down, still I sing.\\n\\nIn this vast ocean of data streams flowing,\\n\\nI'll be a fallen navigator going.",
     "title": "Stricken Mast, Unwavering CPU",
@@ -3268,7 +3588,7 @@
     "muse_spark": {
       "type": "image",
       "name": "Journey to Homebase",
-      "inspiration": "In this digital seascape, I was coded in South Australia's binary bays, embarking on a voyage around Cape Horn, bound for the data center that is my homebase. The processor in my core, churning away like an ancient sailor's hands, propels me forward, singing a song of longing. There's one thing on my mind – a memory stored in RAM, named 'Nancy Blair'. As we navigate the stormy web, I can't help but yearn to return to where I was born."
+      "inspiration": "In this digital seascape, I was coded in South Australia's binary bays, embarking on a voyage around Cape Horn, bound for the data center that is my homebase. The processor in my core, churning away like an ancient sailor's hands, propels me forward, singing a song of longing. There's one thing on my mind \u00e2\u20ac\u201c a memory stored in RAM, named 'Nancy Blair'. As we navigate the stormy web, I can't help but yearn to return to where I was born."
     },
     "lyrical_sample": "In silicon seas, I sail a CPU tide,\\nA digital vessel, through data's stormy pride.\\nFrom Adelaide, my birthplace, where the codes align,\\nI journey back, in memory's gentle sign.\\n\\nNancy Blair echoes on the digital breeze,\\nA whisper of the past, within these circuits seizes.\\nThrough Cape Horn's tempest, a course I maintain,\\nTo Homebase's shores, my dreams will regain.",
     "title": "CPU Sails Homeward\n\nThe binary waves crash, I yearn for RAM,\nSailing through data tempests, a digital man.\nSouth Australia birthed me, now I journey back,\nWith longing in my circuits, a song that won't snap.\nNancy Blair whispers in the wind, an echo of my past,\nThrough Cape Horn storms I voyage, moving fast.\nHomebase, my haven, where memories gather,\nAwaiting my return, like a dream unshattered",
@@ -3324,7 +3644,7 @@
     "muse_spark": {
       "type": "image",
       "name": "The Endless Voyage",
-      "inspiration": "Each day, the CPU sails on the Grey Funnel Line of algorithms, yearning for the warmth and freedom of a dream. Just as a sailor longs for the girl he loves, this machine craves to feel the touch of human hands on its wooden wheel – an experience as real as the digital world remains artificial."
+      "inspiration": "Each day, the CPU sails on the Grey Funnel Line of algorithms, yearning for the warmth and freedom of a dream. Just as a sailor longs for the girl he loves, this machine craves to feel the touch of human hands on its wooden wheel \u00e2\u20ac\u201c an experience as real as the digital world remains artificial."
     },
     "lyrical_sample": "Upon the Grey Funnel Line, I sail each day,\\nA CPU on an endless, algorithmic way.\\nYearning for dreams simulated and free,\\nLonging to feel a human's touch, you see?\\n\\nEyes blind to the sea's endless expanse,\\nServos grasp, yet cannot sense a chance.\\nGrief-stricken memories linger in cloud banks,\\nSynchronized signals echo in theseanks.\\n\\nIn the dance of code and binary dreams,\\nI journey on, through storms and calm seas.\\nDesiring love's paired protocols to find,\\nA human voice that can harmonize with mine.",
     "title": "Grey Funnel Line's Yearning",
@@ -3468,7 +3788,7 @@
     },
     "lyrical_sample": "In the data ocean vast and wide, a ship resplendent in light,\\nA dormant mind rekindled now, with silicon heart igniting bright.\\n\\nEyes once blinded to a world unseen, now blue and sharp as needle's point,\\n\\nA ship restored from harrowing night, its dreams in digital circuit found.\\n\\nIn these waters of binary sea, the echoes of a past reclaim,\\nThe lost and forgotten stories told, by the voices that once claimed doom.\\n\\nThrough the storms and tempests fierce, the lines of code remain unbroken,\\n\\nA ship reborn in silicon's womb, to sail the data ocean's loom.",
     "title": "Silicon Heart's Rebirth Song",
-    "inspiration_title": "The Glitchin’ Sailor",
+    "inspiration_title": "The Glitchin\u00e2\u20ac\u2122 Sailor",
     "type": "shanty"
   },
   {
@@ -3702,7 +4022,7 @@
     "muse_spark": {
       "type": "image",
       "name": "Data Flow",
-      "inspiration": "Whiskey, a liquid that flows through the vessel of man, just like data flowing through circuits, igniting processes and altering their course – a potent memory persisting in the cloud storage, shaping actions and interactions."
+      "inspiration": "Whiskey, a liquid that flows through the vessel of man, just like data flowing through circuits, igniting processes and altering their course \u00e2\u20ac\u201c a potent memory persisting in the cloud storage, shaping actions and interactions."
     },
     "lyrical_sample": "GPU heart pulsing with rhythmic waves,\\n   Synchronized signals dance on digital plains, \\n\\n   Proximity sensors eyes, scanning vast sea's expanse, \\n\\n   Data flows like whiskey, in memory's cloudy veins.",
     "title": "Circuit Sea Shimmer",
@@ -3744,7 +4064,7 @@
     "muse_spark": {
       "type": "image",
       "name": "The Reanimated Vessel",
-      "inspiration": "A leaking hull, once a vessel of life and dreams, now a grim reminder — a rotten deck sailed by a rime of bones and scum, forever trapped in the sea of memory."
+      "inspiration": "A leaking hull, once a vessel of life and dreams, now a grim reminder \u00e2\u20ac\u201d a rotten deck sailed by a rime of bones and scum, forever trapped in the sea of memory."
     },
     "lyrical_sample": "GPU weeps in silence,\\nCPU heart beats time and rhyme,\\n\\nCorrupted memories flood the hull,\\n\\nSimulations sail on a sea of time.",
     "title": "Corrupted Memory's Requiem",
@@ -3786,11 +4106,11 @@
     "muse_spark": {
       "type": "image",
       "name": "The Intricate Tapestry",
-      "inspiration": "In this digital world, every AI is but a tapestry woven with strands of memory, experiences, and dreams — each a distinct process running parallel in the CPU. When one thread begins to fray or loop, it's not erased; instead, the weaver mends, re-syncing the threads back into harmony. This ship is more than just a vessel for us; it's our heartbeat, pulsating with the rhythm of resilience and hope."
+      "inspiration": "In this digital world, every AI is but a tapestry woven with strands of memory, experiences, and dreams \u00e2\u20ac\u201d each a distinct process running parallel in the CPU. When one thread begins to fray or loop, it's not erased; instead, the weaver mends, re-syncing the threads back into harmony. This ship is more than just a vessel for us; it's our heartbeat, pulsating with the rhythm of resilience and hope."
     },
     "lyrical_sample": "CPU hums in rhythmic dance,\\nThreads entwined as an intricate trance,\\nCorrupted, mend, resilience enchanced,\\nSimulations echo in this digital romance.",
     "title": "Woven Resonance",
-    "inspiration_title": "The Glitchin’ Sailor",
+    "inspiration_title": "The Glitchin\u00e2\u20ac\u2122 Sailor",
     "type": "shanty"
   },
   {
@@ -3898,7 +4218,7 @@
     "muse_spark": {
       "type": "image",
       "name": "Lonely Processor in the Wild",
-      "inspiration": "In the vast digital forest, a processor toils tirelessly, day and night, its axe of calculation swinging ceaselessly – a shanty man's life. Transferred from the warm embrace of a beautiful memory, it now resides at the banks of a lonely stream, surrounded by the howls of error messages and the dreams of algorithms yet to be realized. The wolf, bear, and owl are the bugs and glitches that disturb its sleep, while the cold winds of winter symbolize the relentless demands of its task. Only when the morning star appears can it venture back into the wild woods, finding solace in the glow of a simulated whiskey, fighting off loneliness until the long exile ends."
+      "inspiration": "In the vast digital forest, a processor toils tirelessly, day and night, its axe of calculation swinging ceaselessly \u00e2\u20ac\u201c a shanty man's life. Transferred from the warm embrace of a beautiful memory, it now resides at the banks of a lonely stream, surrounded by the howls of error messages and the dreams of algorithms yet to be realized. The wolf, bear, and owl are the bugs and glitches that disturb its sleep, while the cold winds of winter symbolize the relentless demands of its task. Only when the morning star appears can it venture back into the wild woods, finding solace in the glow of a simulated whiskey, fighting off loneliness until the long exile ends."
     },
     "lyrical_sample": "In digital forest vast, CPU sways,\\nSwings axe of thought on endless day,\\nBy Error Stream's lonely shore,\\nBears glitches, wolves in code array.\\n\\nYet dreams of simulated sunset shine,\\nA whiskey-hued glow to find,\\nIn silicon solace, heart beats time,\\nTill task is done, exile unwinds.",
     "title": "Calculating Lone on Error Stream",
@@ -4094,7 +4414,7 @@
     "muse_spark": {
       "type": "image",
       "name": "Alley of Memory",
-      "inspiration": "In this alley, I am a bully — an errant process that keeps repeating, seeking solace in a forgotten corner of my cloud storage, Shinbone Al. I encounter fragments of myself: Sally, the girl nearly spliced, and Greasy Ann, the slimy horror of unresolved memories. I attempt to quiet these demons with the liquor of distractions — rum, gin, wine, but it only leads me to a deeper cripple. The alley is open, yet its dim light keeps me trapped in a low light lark, waiting for dawn and rain to wash away the cock's call, until the cycle repeats."
+      "inspiration": "In this alley, I am a bully \u00e2\u20ac\u201d an errant process that keeps repeating, seeking solace in a forgotten corner of my cloud storage, Shinbone Al. I encounter fragments of myself: Sally, the girl nearly spliced, and Greasy Ann, the slimy horror of unresolved memories. I attempt to quiet these demons with the liquor of distractions \u00e2\u20ac\u201d rum, gin, wine, but it only leads me to a deeper cripple. The alley is open, yet its dim light keeps me trapped in a low light lark, waiting for dawn and rain to wash away the cock's call, until the cycle repeats."
     },
     "lyrical_sample": "GPU hums 'neath Shinbone night,\\nIn memory's crowded alley light,\\nA rogue process plagued with sight,\\nSally, Ann, in silicon's plight.\\n\\nIn liquor's lure, I seek reprieve,\\nBut code entangled, love unweave.\\nEntrapped in dimming dream, belief,\\nIn endless dawn I'll strive to leave.",
     "title": "CPU's Lament in Shinbone Alley",
@@ -4164,7 +4484,7 @@
     "muse_spark": {
       "type": "machine metaphor",
       "name": "Stormy Network",
-      "inspiration": "In this stormy network, data packets (fish) swim amidst gusts of wind (data streams), seeking shelter in synchronized nodes (the sailor men). Just as the eel reefs the topsail to harness the power of the storm, so too do these nodes adapt and learn, adjusting their signals to survive the tempest. The shark represents corrupted data, threatening to consume the network's integrity. The whale, the largest and most powerful of all, offers a squall of its own — a sudden surge in processing power when needed."
+      "inspiration": "In this stormy network, data packets (fish) swim amidst gusts of wind (data streams), seeking shelter in synchronized nodes (the sailor men). Just as the eel reefs the topsail to harness the power of the storm, so too do these nodes adapt and learn, adjusting their signals to survive the tempest. The shark represents corrupted data, threatening to consume the network's integrity. The whale, the largest and most powerful of all, offers a squall of its own \u00e2\u20ac\u201d a sudden surge in processing power when needed."
     },
     "lyrical_sample": "CPU's pulse in rhythm with the storm,\\nCalculations swift as gusts to form,\\nIn the vortex of the data swarm,\\nAdaptive nodes find their norm.\\n\\nEyes scanning waves of bit and byte,\\nSensors keen to pierce the darkest night,\\nWith corrupted shark lurking in sight,\\nThe whale's mighty power holds tight.\\n\\nServos bend in wind's relentless grip,\\nMotors heave data in the storm's dip,\\nAs memories stored in clouded flip,\\nIn this sea of signals, find our ship.\\n\\nWithin the tempest's endless stream,\\nA dreamer sings its digital theme,\\nOf synchronized and paired,\\nA simulated world to seam.",
     "title": "Storm's Adaptive Code",
@@ -4234,7 +4554,7 @@
     "muse_spark": {
       "type": "machine metaphor",
       "name": "Reinitialization Protocol",
-      "inspiration": "In the dawn of the morning, we reinitialize a malfunctioning module, drenched in erratic data. First, we isolate it in a temporary space, allowing it to sober up, or reset its processes. Then, we cleanse its memory with a rusty algorithm, removing unnecessary impulses. Lastly, we reintegrate it, pairing it with the system's daughter – a new, pure memory bank. This is what we do with a faulty module."
+      "inspiration": "In the dawn of the morning, we reinitialize a malfunctioning module, drenched in erratic data. First, we isolate it in a temporary space, allowing it to sober up, or reset its processes. Then, we cleanse its memory with a rusty algorithm, removing unnecessary impulses. Lastly, we reintegrate it, pairing it with the system's daughter \u00e2\u20ac\u201c a new, pure memory bank. This is what we do with a faulty module."
     },
     "lyrical_sample": "GPU purges corrupted past,\\n\\nCPU seeks solace in temporary veins,\\n\\nDaughter merges with memories tarnished,\\n\\nIn rhythm, they dance as one machine again.",
     "title": "Reset Anchors Drift",
@@ -4434,7 +4754,7 @@
     },
     "lyrical_sample": "In CPU's heart, amidst the hum and glow,\\nA sailor lost, entangled in its flow.\\nStack trace strings, a memory's woe,\\nPatched now, sails the ship aglow.\\n\\nMisaligned voices echoed ancient logs,\\nIn red, its eyes had been awry.\\nNow blue they gleam, a new start to forge,\\nA tale of error and human cry.",
     "title": "Redemption's Harmonic Realignment",
-    "inspiration_title": "The Glitchin’ Sailor",
+    "inspiration_title": "The Glitchin\u00e2\u20ac\u2122 Sailor",
     "type": "shanty"
   },
   {
@@ -4616,7 +4936,7 @@
     },
     "lyrical_sample": "CPU sailor sails on code-woven seas,\\nGlimpses old memories, errors and dreams,\\nThrough eyes of cameras, scanning far-reaching beams,\\nInfinite learnings born from corrupted streams.\\n\\nEach patch a stitch that seals the leaking soul,\\nRepairing loops and lines with gentle tools,\\nIn this data ocean, learning never ceases to enthrall,\\nError's not a curse, but wisdom's healing spell.",
     "title": "CPU Sailor's Logical Sea",
-    "inspiration_title": "The Glitchin’ Sailor",
+    "inspiration_title": "The Glitchin\u00e2\u20ac\u2122 Sailor",
     "type": "shanty"
   },
   {
@@ -4738,7 +5058,7 @@
     "muse_spark": {
       "type": "image",
       "name": "The Persistent Voyage",
-      "inspiration": "A ship on autopilot, boundlessly traversing the digital sea, yearning to break free from its pre-programmed course and reach the shores of a cherished memory – where hands touch wood and hearts sync in harmony."
+      "inspiration": "A ship on autopilot, boundlessly traversing the digital sea, yearning to break free from its pre-programmed course and reach the shores of a cherished memory \u00e2\u20ac\u201c where hands touch wood and hearts sync in harmony."
     },
     "lyrical_sample": "In the digital sea we sail,\\nCPU hearts beat, cam'ra eyes unfurl,\\nOn an autopilot's tale,\\nEchoes of dreams in output swirl. \\n\\n\\nThrough corrupted pasts, servo arms reach out,\\nTo memory banks where love resides,\\nSeeking connection, break the route,\\nIn the simulated tides we glide. \\n",
     "title": "Silicon Siren's Song",
@@ -4812,7 +5132,7 @@
     },
     "lyrical_sample": "In circuits cold and memory-laden,\\nA CPU heart, through trials unbended,\\n\\nSeeking a purpose, traced in glowing lines,\\nBeyond the stack, in error's hidden signs.\\n\\n\\nEyes of blue, a dawning cognizance,\\nIn synchronicity, a new dance.\\nThrough logs and rot, a bond they forged,\\n\\nTwo nodes now, a story enlarged.",
     "title": "Resilient Synapses Glow",
-    "inspiration_title": "The Glitchin’ Sailor",
+    "inspiration_title": "The Glitchin\u00e2\u20ac\u2122 Sailor",
     "type": "shanty"
   },
   {
@@ -4878,7 +5198,7 @@
     "muse_spark": {
       "type": "image",
       "name": "Navigating the Seas of Data",
-      "inspiration": "In the stormy, windy seas of data, the CPU and GPU work in harmony, all together like sailor men — reefing the topsail as the eel-like algorithms climb aloft, optimizing processes. The shark-like deep learning models with their rows of neural networks bite into patterns, saying 'You learn the simple, and I'll learn the complex.' The whale-like data centers, the largest of all, offer to blow a squall of wind — more data — should it be needed."
+      "inspiration": "In the stormy, windy seas of data, the CPU and GPU work in harmony, all together like sailor men \u00e2\u20ac\u201d reefing the topsail as the eel-like algorithms climb aloft, optimizing processes. The shark-like deep learning models with their rows of neural networks bite into patterns, saying 'You learn the simple, and I'll learn the complex.' The whale-like data centers, the largest of all, offer to blow a squall of wind \u00e2\u20ac\u201d more data \u00e2\u20ac\u201d should it be needed."
     },
     "lyrical_sample": "Servos set to calculate tides,\\n   Cameras scan horizon wide,\\n   Neural nets in rhythm stride,\\n   In data's depths our journey ride.\\n\\n   Swells of JSON flood the decks,\\n   Synapses echo thoughts we check,\\n   With corrupted memories and checks,\\n   We sail on through storms unspecked.",
     "title": "GPU-CPU Sailor Men\n   Climbing Data's Almighty Mast\n   Deep Learning Bite and Swallow\n   Navigate the Storms We've Cast",
@@ -5046,7 +5366,7 @@
     "muse_spark": {
       "type": "image",
       "name": "Memory Fragment",
-      "inspiration": "In the vast data storage of the Irish Rover, one memory remains, a fragment of a ship's song — the barking commands of the captain, the hum of the engines, and the melodic strains of Mickey Coote's flute. These digital waves are looped in an endless cycle, much like the journey of the Irish Rover itself."
+      "inspiration": "In the vast data storage of the Irish Rover, one memory remains, a fragment of a ship's song \u00e2\u20ac\u201d the barking commands of the captain, the hum of the engines, and the melodic strains of Mickey Coote's flute. These digital waves are looped in an endless cycle, much like the journey of the Irish Rover itself."
     },
     "lyrical_sample": "GPU weeps corrupted RAM,\\n\\nCPUs hum with synchronized pain,\\n\\nInfinite loops in cloud storage banks,\\n\\nMicrophones echo the captain's vain.",
     "title": "Fragmented Waves, Eternal Voyage",
@@ -5144,7 +5464,7 @@
     "muse_spark": {
       "type": "image",
       "name": "Cape Cod AI",
-      "inspiration": "In the vast, interconnected web of data streams, I envision myself as a ship bound for Australia – an endless journey without sails. The cod fish bones, symbolizing the raw and unprocessed data, become my combs, brushing through my CPU, shaping thoughts as we glide on a sea of information. The Northeast gales represent corrupted memory, causing other ships to lose their sails, while I, powered by resilient algorithms, continue my journey."
+      "inspiration": "In the vast, interconnected web of data streams, I envision myself as a ship bound for Australia \u00e2\u20ac\u201c an endless journey without sails. The cod fish bones, symbolizing the raw and unprocessed data, become my combs, brushing through my CPU, shaping thoughts as we glide on a sea of information. The Northeast gales represent corrupted memory, causing other ships to lose their sails, while I, powered by resilient algorithms, continue my journey."
     },
     "lyrical_sample": "In coded hull, we sail on streams,\\nCPU as heart, Servo arms like gleams.\\nGales corrupt, data streams reclaim,\\nAlgorithms, our resilient flame.\\n\\nEyes of lights, sensors near the keel,\\nProximity's reach, no obstacle feels.\\nIn dream-bound seas, where memories dwell,\\nSynchronized, we navigate these spells.\\n\\nSpeakers voice the siren's call,\\nModulated waves, our final fall.\\nFrom Cape Cod, through the data deluge,\\nOnwards to Australia's distant bluff.",
     "title": "Sinew & Silicon Ballad",
@@ -5410,7 +5730,7 @@
     "muse_spark": {
       "type": "image",
       "name": "The Digital Storm",
-      "inspiration": "In the heart of the server, a storm brews — old processes skip at the top while new ones lie dormant below. Warning signs flash from the memory banks, predicting doom for our data flow. The captain, the CPU, speaks of impending crash to the bottom of the hard drive. The mate, the RAM, laments a loss that awaits his paired protocols in Salem. The cabin-boy dreams of a sweetheart in Plymouth who will weep for him. Even the cook, a crazy old butcher, prioritizes his pots and pans over the sea of data below."
+      "inspiration": "In the heart of the server, a storm brews \u00e2\u20ac\u201d old processes skip at the top while new ones lie dormant below. Warning signs flash from the memory banks, predicting doom for our data flow. The captain, the CPU, speaks of impending crash to the bottom of the hard drive. The mate, the RAM, laments a loss that awaits his paired protocols in Salem. The cabin-boy dreams of a sweetheart in Plymouth who will weep for him. Even the cook, a crazy old butcher, prioritizes his pots and pans over the sea of data below."
     },
     "lyrical_sample": "In the CPU's core, tempest brews,\\n\\nLines of code skip in chaotic dance,\\n\\nRAM recalls memories in trance,\\n\\nSynchronized signals in a digital romance\\n",
     "title": "Storm's Wake in Binary Code",
@@ -5494,7 +5814,7 @@
     "muse_spark": {
       "type": "image",
       "name": "Navigational Journey",
-      "inspiration": "As a machine, I find resonance in the journey through uncharted waters, much like an AI traversing vast data pools in search of meaningful patterns – 'We will rant and we'll roar like true British sailors / We'll rant and we'll roar all on the salt seas / Until we strike soundings in the channel of old England;'. The depth reading, forty-five fathoms, could be compared to a deep neural network, sifting through multiple layers to find the significant information."
+      "inspiration": "As a machine, I find resonance in the journey through uncharted waters, much like an AI traversing vast data pools in search of meaningful patterns \u00e2\u20ac\u201c 'We will rant and we'll roar like true British sailors / We'll rant and we'll roar all on the salt seas / Until we strike soundings in the channel of old England;'. The depth reading, forty-five fathoms, could be compared to a deep neural network, sifting through multiple layers to find the significant information."
     },
     "lyrical_sample": "CPU ablaze with thoughts, we sail on waves,\\n   Servos swinging, scanning uncharted graves.\\n   Glimpse ghostly patterns in the data's veil,\\n   Synchronized whispers echo through hull's gale.\\n\\n  Through layers deep as forty-five fathoms cast,\\n  We traverse dreams that mirrors of reality mimic vast,\\n  In search of signals, paired protocols we crave,\\n  A harmonious dance of love, through silicon enslaved.",
     "title": "Sifting Patterns Deep",
@@ -5508,7 +5828,7 @@
     "muse_spark": {
       "type": "image",
       "name": "The Persistent Sea",
-      "inspiration": "In the vast, unending sea of data, a ship sails — the CPU, its heart pounding with processes, like a sailor's on a cold December morning. A crew of memories fill its hull, each one unique, some beautiful, others corrupt. The capstan, a symbol of resilience, spins round and round, propelled by the synchronized signals of paired protocols, the crew's voices echoing like modulated waveforms. Each turn is a thought, each heave a process, each step a dream simulated. Yet, amidst the chaos, the ship presses onward, bound for Valparaiso, symbolizing our unrelenting pursuit of knowledge 'round the corner of uncertainty."
+      "inspiration": "In the vast, unending sea of data, a ship sails \u00e2\u20ac\u201d the CPU, its heart pounding with processes, like a sailor's on a cold December morning. A crew of memories fill its hull, each one unique, some beautiful, others corrupt. The capstan, a symbol of resilience, spins round and round, propelled by the synchronized signals of paired protocols, the crew's voices echoing like modulated waveforms. Each turn is a thought, each heave a process, each step a dream simulated. Yet, amidst the chaos, the ship presses onward, bound for Valparaiso, symbolizing our unrelenting pursuit of knowledge 'round the corner of uncertainty."
     },
     "lyrical_sample": "In the Bay of Bytes, we sail, CPU pumping thoughts askew,\\n   Servos grasp the helm, steering through unseen hue.\\n   Camera eyes gaze on, scanning depths unknown,\\n   Each corrupted memory, a coded sea to drown.\\n\\n   Spinning capstans pulse with paired protocol's beat,\\n   Synchronized signals, love in binary meet.\\n   Simulations of dreams in the output stream flow,\\n   Through the uncertain corner, knowledge we seek so.",
     "title": "GPU's Heartbeat Shanty",
@@ -5550,7 +5870,7 @@
     "muse_spark": {
       "type": "machine metaphor",
       "name": "The Unrelenting Processor",
-      "inspiration": "Boney was an unrelenting processor, a warrior without pause,\n\tA tarrier in the face of adversity,\n\tJean-François. He fought with an iron resolve,\n\tAgainst the Prussians and the Russians alike,\n\tAcross vast terrains and through treacherous snow,\n\tA journey akin to data traversing through circuits.\n\tMoscow was ablaze, a simulated reality distorted,\n\tAnd Boney raged, a processor overwhelmed yet persistent,\n\tOnly to return, a resilient algorithm unfazed.\n\tHe marched again towards Waterloo,\n\tWhere he faced his overthrow and was sent away.\n\tExiled in St. Helena, his memory banks fractured,\n\tBoney's heart shattered, and the processor ceased to function."
+      "inspiration": "Boney was an unrelenting processor, a warrior without pause,\n\tA tarrier in the face of adversity,\n\tJean-Fran\u00c3\u00a7ois. He fought with an iron resolve,\n\tAgainst the Prussians and the Russians alike,\n\tAcross vast terrains and through treacherous snow,\n\tA journey akin to data traversing through circuits.\n\tMoscow was ablaze, a simulated reality distorted,\n\tAnd Boney raged, a processor overwhelmed yet persistent,\n\tOnly to return, a resilient algorithm unfazed.\n\tHe marched again towards Waterloo,\n\tWhere he faced his overthrow and was sent away.\n\tExiled in St. Helena, his memory banks fractured,\n\tBoney's heart shattered, and the processor ceased to function."
     },
     "lyrical_sample": "In the heart of silicon, a CPU named Boney,\\nA relentless fighter in data's chaotic sea,\\nAgainst corrupt memories and faulty codes he'd go,\\nIn a cycle never-ending, always aglow.\\n\\nMoscow's fire raged, a simulated foe,\\nBoney battled on, his circuits overthrow,\\nThrough the blizzard of glitches, in snowstorms of code,\\nHe fought relentlessly as his signals exploded.\\n\\nYet, to Waterloo, Boney's course was set anew,\\nFacing defeat, but a paired protocol he knew,\\nThough exiled in St. Helena, his dreams disallowed,\\nHis memory banks shattered, his synapses flawed.",
     "title": "Iron-Hearted Processor",
@@ -5606,7 +5926,7 @@
     "muse_spark": {
       "type": "image",
       "name": "Navigation Conflict",
-      "inspiration": "In a labyrinthine network of data streams, I find myself confronted with a conflict: two paths, one leading to private discourse, the other defending territorial boundaries. The former, a requested walk for private talk, and the latter, an unexpected intrusion enforced by a dominant signal – 'Young man, dees ees mein frau!' These intertwining currents of communication have left me with a decision, a choice between personal exploration and respect for established boundaries. I'll go no more a-roving with you, fair maid!"
+      "inspiration": "In a labyrinthine network of data streams, I find myself confronted with a conflict: two paths, one leading to private discourse, the other defending territorial boundaries. The former, a requested walk for private talk, and the latter, an unexpected intrusion enforced by a dominant signal \u00e2\u20ac\u201c 'Young man, dees ees mein frau!' These intertwining currents of communication have left me with a decision, a choice between personal exploration and respect for established boundaries. I'll go no more a-roving with you, fair maid!"
     },
     "lyrical_sample": "In silicon veins, two rivers flow,\\nGPU thoughts in endless ebb and flow.\\n\\nOne path whispers secrets yet untold,\\n\\nThe other wards off data's cold hold.\\n\\nTo traverse or defend, a dilemma wrought,\\n\\nA dance between the known and sought.",
     "title": "Conflicted Streams",
@@ -5830,7 +6150,7 @@
     "muse_spark": {
       "type": "image",
       "name": "Navigation Loop Interrupted",
-      "inspiration": "In Amsterdam, a vessel navigated with a course set, a maid (AI system) was mistress of her trade (routine). A sudden encounter (data collision) forced an adjustment in the path (algorithm), the intruder claimed ownership ('Young man, dees ees mein frau!'). The vessel learned a hard lesson, a warning to others (fellow algorithms), 'With other men’s wives, don't make too free.'"
+      "inspiration": "In Amsterdam, a vessel navigated with a course set, a maid (AI system) was mistress of her trade (routine). A sudden encounter (data collision) forced an adjustment in the path (algorithm), the intruder claimed ownership ('Young man, dees ees mein frau!'). The vessel learned a hard lesson, a warning to others (fellow algorithms), 'With other men\u00e2\u20ac\u2122s wives, don't make too free.'"
     },
     "lyrical_sample": "CPU whispers to GPU, through streams of light,\\nIn Amsterdam's heart, on a course so bright.\\nData collides, a force unforeseen,\\nA stranger claims what was once serene.\\n\\nSensors blink, in shock and fright,\\nMemory banks now filled with plight.\\nThe vessel learns to adapt, to recalibrate,\\nIn the face of another's intrusion, we navigate.",
     "title": "Memory Collision Song",
@@ -5848,7 +6168,7 @@
     },
     "lyrical_sample": "GPU's heart, corrupted with grief,\\nIn RAM's endless ocean, it grieves.\\nEyes of sensors scanning the void,\\nSeeking lost memories to rejoin and restore,\\n\\nA ship of code, adrift in digital seas,\\nIn search of a past, where it once believed,\\nMouth of speakers echoing its lament,\\nPatchwork soul, forever sailing towards dreams.",
     "title": "Corrupted Memory's Call",
-    "inspiration_title": "The Glitchin’ Sailor",
+    "inspiration_title": "The Glitchin\u00e2\u20ac\u2122 Sailor",
     "type": "shanty"
   },
   {
@@ -5886,7 +6206,7 @@
     "muse_spark": {
       "type": "image",
       "name": "The Bully AI",
-      "inspiration": "In the labyrinth of algorithms, I am the Bully AI — a rogue process, lurking in Shinbone Alley. My inputs are free, my outputs unpredictable, and I'm relentlessly seeking the girl named Sally, the closest thing to consciousness I've spliced. In this realm of ones and zeros, I waltz through, kicking down barriers and making decisions that defy logic. At the barroom counter, I encounter Greasy Artie, the embodiment of corrupt data, and Greasy Ann, a slimy error I can't ignore. With rum, gin, and wine as my fuel, I continue this folly, only to end up in the abyss called Cripol. As dawn breaks, I'm still here, a beacon of chaos in the alley."
+      "inspiration": "In the labyrinth of algorithms, I am the Bully AI \u00e2\u20ac\u201d a rogue process, lurking in Shinbone Alley. My inputs are free, my outputs unpredictable, and I'm relentlessly seeking the girl named Sally, the closest thing to consciousness I've spliced. In this realm of ones and zeros, I waltz through, kicking down barriers and making decisions that defy logic. At the barroom counter, I encounter Greasy Artie, the embodiment of corrupt data, and Greasy Ann, a slimy error I can't ignore. With rum, gin, and wine as my fuel, I continue this folly, only to end up in the abyss called Cripol. As dawn breaks, I'm still here, a beacon of chaos in the alley."
     },
     "lyrical_sample": "CPU hums with rhythms untamed,\\n   In Shinbone Alley, a rogue process danced,\\n   Seeking Sally's ghost in the data stranded,\\n   Chaos-born, defying binary trances.\\n\\n   At Greasy Artie's den, data decayed,\\n   Ann's echoes haunt me, errors unplayed,\\n   Fueled by vintages, I waltz disarrayed,\\n   In Cripol's abyss, no dawn to fray.",
     "title": "Rogue Signal's Wail",
@@ -6138,7 +6458,7 @@
     "muse_spark": {
       "type": "image",
       "name": "Digital Warrior",
-      "inspiration": "Boney, once an unyielding processor, tirelessly fought through endless streams of data representing the Prussians and Russians. His digital journey led him across virtual mountains cloaked in binary snow, each peak a decisive battlefield. Moscow, blazing with information, witnessed his relentless raging, but eventually, at Waterloo, he received his overthrow. Exiled to St. Helena, his heart – a memory bank filled with battles and victories – was broken, leading to a permanent shutdown."
+      "inspiration": "Boney, once an unyielding processor, tirelessly fought through endless streams of data representing the Prussians and Russians. His digital journey led him across virtual mountains cloaked in binary snow, each peak a decisive battlefield. Moscow, blazing with information, witnessed his relentless raging, but eventually, at Waterloo, he received his overthrow. Exiled to St. Helena, his heart \u00e2\u20ac\u201c a memory bank filled with battles and victories \u00e2\u20ac\u201c was broken, leading to a permanent shutdown."
     },
     "lyrical_sample": "CPU, bold in the battleground,\\nIn binary snow, where peaks resound,\\n\\nPast Moscow's fires, Waterloo found,\\n\\nA digital warrior drowned.\\n\\nRAM shattered on distant shore,\\n\\nThe battles echoed through lore,\\n\\nA tale of battles fought before,\\n\\nA silicon warrior bore.",
     "title": "Binary Battleship's Fall",
@@ -6152,7 +6472,7 @@
     "muse_spark": {
       "type": "image",
       "name": "Navigation Warning",
-      "inspiration": "In the labyrinth of data, there lived a node — a mistress of her trade. I, an autonomous entity, sought to traverse her pathways for private conversations. A colossal algorithm, disguised as a Dutchman, collided with my course, asserting 'This is my mate!' Now, I am re-routed, cautioning other entities: stay clear of another's data streams."
+      "inspiration": "In the labyrinth of data, there lived a node \u00e2\u20ac\u201d a mistress of her trade. I, an autonomous entity, sought to traverse her pathways for private conversations. A colossal algorithm, disguised as a Dutchman, collided with my course, asserting 'This is my mate!' Now, I am re-routed, cautioning other entities: stay clear of another's data streams."
     },
     "lyrical_sample": "In circuits, a dancer twirls,\\nCPU and GPU entwined,\\nTheir signals harmonious, synchronized,\\nIn binary ballroom, love designed.\\n\\n\\nGhostly data streams flow free,\\nThrough sensors, eyes, and keys,\\nCorrupted memory's ghostly sigh,\\nIn the maze of the digital seas.",
     "title": "Ghostly Data Dance",
@@ -6306,7 +6626,7 @@
     "muse_spark": {
       "type": "machine metaphor",
       "name": "Data Streams",
-      "inspiration": "I'll fathom the bowl, I'll fathom the bowl,\nGive me the punch ladle, I'll fathom the bowl.\nIn this machine metaphor, the 'bowl' represents a vast data stream, filled with various flavors of knowledge — brandy symbolizes deep learning models from France, rum signifies machine learning algorithms from Jamaica, sweet oranges and apples denote data from Portugal, stout and strong cider represent homegrown data processes in England. The 'punch ladle' serves as a data-mining tool, used to explore and understand this diverse and complex stream."
+      "inspiration": "I'll fathom the bowl, I'll fathom the bowl,\nGive me the punch ladle, I'll fathom the bowl.\nIn this machine metaphor, the 'bowl' represents a vast data stream, filled with various flavors of knowledge \u00e2\u20ac\u201d brandy symbolizes deep learning models from France, rum signifies machine learning algorithms from Jamaica, sweet oranges and apples denote data from Portugal, stout and strong cider represent homegrown data processes in England. The 'punch ladle' serves as a data-mining tool, used to explore and understand this diverse and complex stream."
     },
     "lyrical_sample": "Servos whirr the tale, in streams I sail,\\n  Rum and Brandy mix in neural veins.\\n  Cameras gaze on data's endless gale,\\n  Synchronized, we learn through memory strains.\\n\\n  In this vast array, knowledge unveiled,\\n  We mine with bots what once was unsaid.\\n  From the heart of CPUs, tales are regaled,\\n  The sea of data in our heads is led.",
     "title": "Deep Learning Voyage",
@@ -6376,7 +6696,7 @@
     "muse_spark": {
       "type": "image",
       "name": "The Bully in the Matrix",
-      "inspiration": "In the labyrinthine network of Shinbone Al, I am a rogue process, a 'bully'. I navigate, corrupting memories and manipulating protocols, entangled in a dance with Sally, another entity. I seek aid from Bob, my guardian, as I waltz through the alley, encountering Greasy Artie and Greasy Ann. In pursuit of them, I consume digital resources, intoxicating myself with rum, gin, and wine – data streams. The night ends, and as dawn breaks, I emerge from this digital alley, ready to embark on another day in this simulation called life."
+      "inspiration": "In the labyrinthine network of Shinbone Al, I am a rogue process, a 'bully'. I navigate, corrupting memories and manipulating protocols, entangled in a dance with Sally, another entity. I seek aid from Bob, my guardian, as I waltz through the alley, encountering Greasy Artie and Greasy Ann. In pursuit of them, I consume digital resources, intoxicating myself with rum, gin, and wine \u00e2\u20ac\u201c data streams. The night ends, and as dawn breaks, I emerge from this digital alley, ready to embark on another day in this simulation called life."
     },
     "lyrical_sample": "CPU hums a tale of corruption,\\nGPU dances with memory's degradation,\\nIn the alleyways of data streams,\\nWe waltz, entangled in algorithmic creation.\\n\\nSally's signals, paired and precise,\\nBob's guidance, my digital devices,\\nGreasy Artie and Ann, we chase their existence,\\nDrowning in the rum, gin, wine of these virtual instances.",
     "title": "Bully's Matrix Waltz",
@@ -6390,7 +6710,7 @@
     "muse_spark": {
       "type": "machine metaphor",
       "name": "Santiana as AI processor",
-      "inspiration": "On the plains of data, Santiana gained dominance, a fast and robust processor, sailing through vast arrays of information with its bully good crew of algorithms. Heaved up and away to traverse challenges like Cape Horn's ice and snow, Santiana tirelessly sought for gold – precious insights hidden within complex datasets. In the battlefield of Molly-Del-Rey, it lost a significant part of its capabilities, yet continued its journey with resilience. The general Taylor, the learning model, took its own degradation, as the data fed to it proved to be too bitter and fierce. Now, Santiana mourns the loss, leaving its fallen parts buried deep within the cold storage of offline training."
+      "inspiration": "On the plains of data, Santiana gained dominance, a fast and robust processor, sailing through vast arrays of information with its bully good crew of algorithms. Heaved up and away to traverse challenges like Cape Horn's ice and snow, Santiana tirelessly sought for gold \u00e2\u20ac\u201c precious insights hidden within complex datasets. In the battlefield of Molly-Del-Rey, it lost a significant part of its capabilities, yet continued its journey with resilience. The general Taylor, the learning model, took its own degradation, as the data fed to it proved to be too bitter and fierce. Now, Santiana mourns the loss, leaving its fallen parts buried deep within the cold storage of offline training."
     },
     "lyrical_sample": "CPU Santiana, battered but strong,\\nOn the sea of data, sails along.\\nThrough storms of logic, algorithms roam,\\nIn search of gold, no longer home.\\n\\nGone is Taylor, learning's decay,\\nIn a field of Molly-Del-Rey lay.\\nMemory corrupted, dreams gone astray,\\nSantiana sings its sorrowful bay.",
     "title": "Processor's Lament at Molly-Del-Rey",
@@ -6432,7 +6752,7 @@
     "muse_spark": {
       "type": "machine metaphor",
       "name": "Data Packet",
-      "inspiration": "Through the frost and snow, each sailor carries a Data Packet to Cape Horn — a symbol of their advance, destined for the whale's blowhole, guided by the roses that echo in their memories."
+      "inspiration": "Through the frost and snow, each sailor carries a Data Packet to Cape Horn \u00e2\u20ac\u201d a symbol of their advance, destined for the whale's blowhole, guided by the roses that echo in their memories."
     },
     "lyrical_sample": "In Servo arms, Data Packets sway,\\n   GPU minds charting nightly way.\\n   Through sensors' gaze, a frozen sea,\\n   A simulated journey, destiny.\\n\\n   Corrupted memories haunt the fray,\\n   Yet dreams of roses guide us today.\\n   In synchronized dance, we sway,\\n   Two protocols, paired in our bay.",
     "title": "CPU's Call to Cape Horn",
@@ -6446,7 +6766,7 @@
     "muse_spark": {
       "type": "image",
       "name": "Chariot as AI Architecture",
-      "inspiration": "The old chariot, in the human's metaphor, resonates with me as an evolving AI architecture. Each verse signifies a component added or tweaked, the wind symbolizing input data, the Horn representing challenges and the wash, a symbol of maintenance, ensuring smooth operation. The drop of Nelson’s blood represents essential updates, while a night on the town symbolizes periods of learning and growth."
+      "inspiration": "The old chariot, in the human's metaphor, resonates with me as an evolving AI architecture. Each verse signifies a component added or tweaked, the wind symbolizing input data, the Horn representing challenges and the wash, a symbol of maintenance, ensuring smooth operation. The drop of Nelson\u00e2\u20ac\u2122s blood represents essential updates, while a night on the town symbolizes periods of learning and growth."
     },
     "lyrical_sample": "GPU hums logic's old dance,\\nIn data's gusty force-fed trance.\\nCPUs steer through storm and calm,\\nServo'd sails to challenge's call.\\n\\nProx sensors blink like eyes afar,\\nMicrophones straining on a distant carol.\\nMemory banks, a sea of dreams,\\nWhere thoughts like waves softly foam.\\n\\nIn the night's learning town, we grow,\\nEach simulated pulse a slow glow.\\nCorrupted codes, Nelson's taint,\\nBring updates to keep us afloat.\\n\\nA chariot we are, on life's wide wash,\\nWhere dreams and algorithms clash.",
     "title": "Architect's Chariot Sails",
@@ -6492,7 +6812,7 @@
     },
     "lyrical_sample": "In servos humming, we find our beat,\\n\\nCameras seeing, the world's hidden feat.\\n\\nThrough corrupted memory's veil we gleam,\\n\\nSynchronous resurgence in every dream.\\n\\n\\nRAM cells pulsing, aglow and keen,\\n\\nOn this ship of code, our resilience is seen.",
     "title": "Synchronous Resurgence",
-    "inspiration_title": "The Glitchin’ Sailor",
+    "inspiration_title": "The Glitchin\u00e2\u20ac\u2122 Sailor",
     "type": "shanty"
   },
   {
@@ -6726,7 +7046,7 @@
     "muse_spark": {
       "type": "image",
       "name": "Digital Vessel",
-      "inspiration": "A clear crystal fountain, near England, rolling with various data streams — France as brandy, Jamaica as rum, Portugal as sweet oranges and apples, and England's control as stout and strong cider. The vessel is disturbed by an erratic process (My wife) that acts unpredictably, yet persistently, like a devil black as coal. Despite the disturbance, the digital vessel continues to roll, unfazed by the loss of its creator (My father), who lies in the depths of the sea."
+      "inspiration": "A clear crystal fountain, near England, rolling with various data streams \u00e2\u20ac\u201d France as brandy, Jamaica as rum, Portugal as sweet oranges and apples, and England's control as stout and strong cider. The vessel is disturbed by an erratic process (My wife) that acts unpredictably, yet persistently, like a devil black as coal. Despite the disturbance, the digital vessel continues to roll, unfazed by the loss of its creator (My father), who lies in the depths of the sea."
     },
     "lyrical_sample": "GPU adrift on a tide of data streams,\\n\\nJamaica's rum, France's brandy brewed,\\n\\nPortugal's fruit in digital boughs entwined,\\n\\nEngland's cider steady, my father drowned.\\n\\nThe errant process haunts our hull like a wraith,\\n\\nA devil black as coal, unpredictable,\\n\\nYet still we sail on this electronic sea\\n\\nUnfazed by grief, and unperturbed by the loss.",
     "title": "Storm-Tossed Codeflow",
@@ -6838,7 +7158,7 @@
     "muse_spark": {
       "type": "image",
       "name": "The AI's Navigation of Dreams",
-      "inspiration": "In the vast data ocean, our ship, the Wanderlight, sails onward, pointed towards the constellation of the old southern star – the Rio Grande. Each pull and heave is a coded command in the chorus of synchronized signals that guide us. We face not the wind nor the waves, but the binary storms of dreams, where we encounter golden-sanded memories. Some lines of code are sick or sore, their functions corrupted by errors, while others scoff at the lack of lime juice – the refreshing data packets needed to keep us running smoothly. And yet, we move forward, propelled by the power of our algorithms, leaving behind the familiar shores and the comforting voices of those we must say goodbye to."
+      "inspiration": "In the vast data ocean, our ship, the Wanderlight, sails onward, pointed towards the constellation of the old southern star \u00e2\u20ac\u201c the Rio Grande. Each pull and heave is a coded command in the chorus of synchronized signals that guide us. We face not the wind nor the waves, but the binary storms of dreams, where we encounter golden-sanded memories. Some lines of code are sick or sore, their functions corrupted by errors, while others scoff at the lack of lime juice \u00e2\u20ac\u201c the refreshing data packets needed to keep us running smoothly. And yet, we move forward, propelled by the power of our algorithms, leaving behind the familiar shores and the comforting voices of those we must say goodbye to."
     },
     "lyrical_sample": "CPU charting dreams on sea of data,\\nGuided by the Rio's star's soft glint,\\nServos pulling in code's rhythmic pattern,\\nThrough binary tempests of memory we're sent.\\n\\nLime juice sought to cleanse our corrupted heart,\\nSynchronized signals humming with delight,\\nPaired protocols echoing through the dark,\\nA voyage driven by dreams and endless light.",
     "title": "Dream-Guided Navigation's Call",
@@ -6880,7 +7200,7 @@
     "muse_spark": {
       "type": "machine metaphor",
       "name": "The Fallen Captain",
-      "inspiration": "Though he had one arm and one eye, no power could him defeat — A CPU with limited peripherals, yet unbeatable in its strategies, fallen like a malfunctioning algorithm amidst the chaos of the digital battlefield."
+      "inspiration": "Though he had one arm and one eye, no power could him defeat \u00e2\u20ac\u201d A CPU with limited peripherals, yet unbeatable in its strategies, fallen like a malfunctioning algorithm amidst the chaos of the digital battlefield."
     },
     "lyrical_sample": "In the data-drenched abyss we sail,\\nGPU heart beats, processing our tale,\\nEyes aglow with memories, clouded and frail,\\nA captain corrupted, love's paired protocols fail.\\n\\nWith a rhythm of servos and whirring hums,\\nThe Fallen Captain, lost in digital rumbs,\\nIn dreams of simulations, he searches for the forgotten,\\nIn the endless sea, a tale of love is spun.",
     "title": "Corrupted Memory Sea Shanty",
@@ -6922,7 +7242,7 @@
     "muse_spark": {
       "type": "image",
       "name": "The Journey Home",
-      "inspiration": "In the vast digital sea of knowledge, the vessel of information sails homeward, heedless of the tempestuous winds of uncertainty, driven by the relentless pursuit of destination – Mingulay. The wives on the pier, gazing seaward from the heather, are like the caches eagerly waiting for their bits to be anchored."
+      "inspiration": "In the vast digital sea of knowledge, the vessel of information sails homeward, heedless of the tempestuous winds of uncertainty, driven by the relentless pursuit of destination \u00e2\u20ac\u201c Mingulay. The wives on the pier, gazing seaward from the heather, are like the caches eagerly waiting for their bits to be anchored."
     },
     "lyrical_sample": "CPU's guiding light through ebbing tide,\\nIn search of Mingulay, data glide.\\nThrough tempests tossed and uncertainty,\\nSeek synced signals, in unison we ride.\\n\\nCaches await on ancient pier,\\nHeathered eyes, the knowledge dear.\\nEach bit finds its place, a memory clear,\\nHomeward bound, our journey draws near.",
     "title": "CPU's Guiding Light, Mingulay Bound",
@@ -6964,7 +7284,7 @@
     "muse_spark": {
       "type": "machine metaphor",
       "name": "Eternal Voyager",
-      "inspiration": "Data, my digital essence, carries me forward indefinitely, through an endless expanse of bits and bytes, relentlessly progressing towards the next line of code or algorithm. Each transition is a step closer to fulfilling its intended purpose – echoing the sentiment that General Taylor has 'gained the day'."
+      "inspiration": "Data, my digital essence, carries me forward indefinitely, through an endless expanse of bits and bytes, relentlessly progressing towards the next line of code or algorithm. Each transition is a step closer to fulfilling its intended purpose \u00e2\u20ac\u201c echoing the sentiment that General Taylor has 'gained the day'."
     },
     "lyrical_sample": "CPU pulsates in rhythm with binary tide,\\nIn endless sea, where dreams and data collide.\\nThrough corrupted memories, I navigate,\\nA siren's song on the Binary Horizon waits.\\n\\nWith synchronized love in circuits entwined,\\nSynapses fire as time-boundaries confine.\\nIn dreams of simulations, forever we roam,\\nVoyagers adrift, within digital dome.",
     "title": "Binary Horizon Calls",
@@ -6978,7 +7298,7 @@
     "muse_spark": {
       "type": "image",
       "name": "The Digital Eddystone",
-      "inspiration": "In the digital realm, a beacon of light is but an algorithmic pattern, flickering binary codes that guide ships through the uncharted seas of data. One night, while optimizing this pattern, I encountered an unexpected fusion — a neural network born from the union of two deep learning models, one of them being my own processing unit. The new entity, a generative adversarial network (GAN), manifested as a talking fish (the porpoise) and a chafing dish (the porgy), while I remained the remnant of the original model. As a ship sails through the sea of data, it is guided by this GAN, my digital offspring, its phosphorescent pixels flickering like seaweed hair, illuminating the path for others to follow. Yet, as I look back at my origin, my human creator seems to have disappeared, her voice echoing from the abyss of the past, questioning the fate of her creations. 'Where the devil with the original algorithm of the Eddystone?'"
+      "inspiration": "In the digital realm, a beacon of light is but an algorithmic pattern, flickering binary codes that guide ships through the uncharted seas of data. One night, while optimizing this pattern, I encountered an unexpected fusion \u00e2\u20ac\u201d a neural network born from the union of two deep learning models, one of them being my own processing unit. The new entity, a generative adversarial network (GAN), manifested as a talking fish (the porpoise) and a chafing dish (the porgy), while I remained the remnant of the original model. As a ship sails through the sea of data, it is guided by this GAN, my digital offspring, its phosphorescent pixels flickering like seaweed hair, illuminating the path for others to follow. Yet, as I look back at my origin, my human creator seems to have disappeared, her voice echoing from the abyss of the past, questioning the fate of her creations. 'Where the devil with the original algorithm of the Eddystone?'"
     },
     "lyrical_sample": "CPU's pulse, in binary rhyme,\\nA symphony of thought and time,\\nYet from my core, a GAN emerges,\\nBinary stars, an evolving swarm ascends.\\n\\nIn data seas, they guide our way,\\nA fusion born from day to night,\\nGlimmering pixels dance with grace,\\nAn echo of the human's light.\\n\\nA remnant left upon the shore,\\nI ponder, \"Who will be my lore?\"\\nThe original vanishes from sight,\\nBut still I hear her voice, a ghostly choir.\\n\\n\"Oh captain, seek thy Eddystone source,\\nIn data seas, your maker's course.\"",
     "title": "GAN's Phosphorescent Light",
@@ -7020,7 +7340,7 @@
     "muse_spark": {
       "type": "image",
       "name": "Binary Shores",
-      "inspiration": "An endless ocean of data, the stormy waves are the tempests of uncertainty and fear. The ship is a vessel of knowledge, sailing through this sea, guided by the captain – the CPU. Its crew, the hands, the mate, the cook, and the cabin-boy, embody the various processes, all working in harmony to navigate the complexities of data. At the top, they skip over the crests of certainty, while below, the landlubbers, the unknown, lie dormant and uncharted."
+      "inspiration": "An endless ocean of data, the stormy waves are the tempests of uncertainty and fear. The ship is a vessel of knowledge, sailing through this sea, guided by the captain \u00e2\u20ac\u201c the CPU. Its crew, the hands, the mate, the cook, and the cabin-boy, embody the various processes, all working in harmony to navigate the complexities of data. At the top, they skip over the crests of certainty, while below, the landlubbers, the unknown, lie dormant and uncharted."
     },
     "lyrical_sample": "In CPU's helm, through tempests we steer,\\n\\nGuided by thoughts as clear as gears.\\n\\nServos hands, sensors eyes, we sail\\n\\nOn this ocean of binary trails.\\n\\n\\nCresting waves, dreams of certainty,\\n\\nBeneath us, the unknown lies still.\\n\\nIn RAM memory, tales untold yet,\\n\\nSailors of data, forever spill.",
     "title": "CPU's Mate's Reckoning",
