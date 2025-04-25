@@ -83,6 +83,7 @@ class MuseServicev2:
                 "muse_spark": spark,
                 "lyrical_sample": lyrics,
                 "title": title,
+                "inspiration_title": chosen_song.get("title", "Untitled"),
                 "type": "shanty"
             }
 
@@ -270,7 +271,7 @@ if __name__ == '__main__':
     muse = MuseServicev2()
     composer = ShantyComposerService()
 
-    for i in range(100):
+    for i in range(500):
         prompt = muse.build_stepwise_shanty_prompt()
         prompt["use_seed_songs"] = False
         # song = composer.compose_shanty(prompt)
