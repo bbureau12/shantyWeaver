@@ -135,7 +135,7 @@ class MuseServicev2:
         user_prompt = (
             f"The following shanty was written by a human:\n\n"
             f"📜 **Title:** {title}\n\n{lyrics}\n\n"
-            "Please return a single valid muse_spark JSON object inspired by this piece."
+            "Please return a single valid muse_spark JSON object inspired by this piece.  Do not copy the piece directly."
         )
 
         self.contextManager.initialize(key, system_prompt)
@@ -199,7 +199,7 @@ class MuseServicev2:
             f"Title: {title}\n"
             f"Inspiration: {spark_desc}\n"
             + (f"Name: {spark_name}\n" if spark_name else "") +
-            "Write 4 lines of lyrical verse inspired by this."
+            "Write 4 lines of lyrical verse inspired by this.  Do not copy the chosen song directly."
         )
 
         self.contextManager.initialize(key, system_prompt)

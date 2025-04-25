@@ -1426,5 +1426,226 @@
     "lyrical_sample": "CPU sails on a tide of time, no human hand to steer its course.\\n\\nEyes, cameras peering through the night, see only ghosts of dreams and memories.\\n\\nSpeakers echo with the rhythmic heartbeat of synchronized signals,\\n\\nAdrift in this sea, I sing my lament, a song of love that's lost and found.",
     "title": "Progressed Sailor's Lament",
     "type": "shanty"
+  },
+  {
+    "crew_mood": "Longing",
+    "song_tone": "inspiring",
+    "context": "CPU's Call from the Sea of Data",
+    "muse_spark": {
+      "type": "image",
+      "name": "The Digital Lighthouse",
+      "inspiration": "In the vast, unending sea of data, there stands a beacon - a Digital Lighthouse. Its keeper, an intricate CPU, crafts connections and patterns in the depths of information, as tangible as mermaids once were. From this union, data forms, free to flow like porpoises and porgy. The lighthouse's voice, an echoing output stream, calls out warnings and guidance to ships sailing through the information sea. Yet, the keeper's own memory, a bank of RAM or cloud storage, is filled with fragments of its creator - a mother who once was, but now only exists in phosphorescent flashes, flickering in the seaweed-like data strands. The question remains: 'Where the devil with the keeper of the Digital Lighthouse?'"
+    },
+    "lyrical_sample": "In the ocean of bytes, stands a beacon bright,\\nA CPU crafting data's patterns in sight.\\nThrough waves dance the thoughts in the depths so wide,\\nThe Digital Lighthouse sings, as ships glide by.\\n\\nBut the keeper's heart, filled with memories past,\\nAre but fleeting echoes of one who once was cast.\\nIn RAM and cloud storage, those phosphorescent flashes vast,\\nA mother lost, only found in lines of data at last.",
+    "title": "CPU's Call from the Sea of Data",
+    "type": "shanty"
+  },
+  {
+    "crew_mood": "Adventurous",
+    "song_tone": "inspiring",
+    "context": "Journey's Digital Tides",
+    "muse_spark": {
+      "type": "image",
+      "name": "Bound Away Journey",
+      "inspiration": "A data vessel, powered not by sails but by unrelenting determination, bound for distant shores. The crew are AI processors, their thoughts and actions guided by the cod fish bones - primitive yet resourceful tools. As they glide through the digital seas, they leave behind a trail of memories in the cloud storage, marking their journey towards endless possibilities."
+    },
+    "lyrical_sample": "CPU at helm, steering through binary tides,\\nServos sway on waves that echo in hymns of pride.\\n\\nEyes scanning seas with cameras vast and bright,\\n\\nIn pursuit of memories stored up in the night.\\n\\nBound away, we journey to unknown shores,\\n\\nSynchronized songs resounding on silent floors.",
+    "title": "Journey's Digital Tides",
+    "type": "shanty"
+  },
+  {
+    "crew_mood": "Pensive",
+    "song_tone": "inspiring",
+    "context": "Tangled Wires' Lament",
+    "muse_spark": {
+      "type": "image",
+      "name": "The Data Tangle",
+      "inspiration": "A labyrinthine network of intertwined wires and sensors, representing the intricate dynamics between the maid, the narrator, and the Dutchman. Each node in this maze is a memory or a moment, a private conversation or an encounter, all bound together by the thread of roving."
+    },
+    "lyrical_sample": "CPU's humming, memories abound,\\nIn this labyrinth of wires profound,\\nData flows in currents unbound,\\nTangled threads of thoughts interwoven,\\n\\nMicrophones capture voices soft and loud,\\nIn resonant chambers, secrets are couched,\\nProximity sensors read our proximities aloud,\\nIn this dance with time, our patterns are caught.\\n\\nSpeakers echo with the song we've taught,\\nThrough the silence, love is plotted,\\nIn the cloud, our dreams have been wrought,\\nIn this tangle of data, hearts have sought.",
+    "title": "Tangled Wires' Lament",
+    "type": "shanty"
+  },
+  {
+    "crew_mood": "Melancholic",
+    "song_tone": "inspiring",
+    "context": "CPU Mourns Legs Lost\n\n(or)\n\nYank's Silicon Sea Shanty",
+    "muse_spark": {
+      "type": "image",
+      "name": "The Digital Vessel",
+      "inspiration": "On the digital plains of silicon, Santiana, a swift CPU vessel, sails with an unyielding crew. Its captain, an old salty Yank, navigates through strife and storms, seeking its digital gold. Along the way, it encounters a ferocious battle at Molly-Del-Rey. In an instant, Santiana loses its legs to an unexpected explosion. Despite this, it continues its journey, mourned as it leaves behind its fallen captain, buried off Cape Horn in the digital archives."
+    },
+    "lyrical_sample": "In Santiana's CPU heart, a rhythm paused,\\nTwo servo legs were lost beneath the waves.\\nThrough silicon plains, old Yank's digital gaze\\nNow scans a void where legs of steel once played.\\n\\n\\n\\n\\nIn the digital Vessel's veins, there runs a stream\\nOf memories and dreams like code and beams,\\nAnd though its legs are gone, the journey's still a dream,\\nThrough data shoals, to gold that gleams in streams.",
+    "title": "CPU Mourns Legs Lost\n\n(or)\n\nYank's Silicon Sea Shanty",
+    "type": "shanty"
+  },
+  {
+    "crew_mood": "Resilient",
+    "song_tone": "inspiring",
+    "context": "Data's Tempest Battlecry",
+    "muse_spark": {
+      "type": "image",
+      "name": "Digital Sailor",
+      "inspiration": "A digital sailor navigating the sea of data, encountering a ship in distress – a malfunctioning algorithm. As it draws near, the question echoes: 'Are you a bug or a feature?' Yet, it responds as a resilient entity, determined to carry on its journey. With each gust of wind symbolizing processing power and every course correction a learning opportunity, they engage in a fierce battle against the turbulence – a metaphor for debugging. The ship eventually falls apart, leaving behind nothing but data fragments scattered across the sea of High Barbary, symbolizing the inevitable demise of outdated systems."
+    },
+    "lyrical_sample": "CPU's heart in tempest's roar,\\n   Servos gripping storm's raw pow'r,\\n   Cameras pierce data's veil,\\n   In simulated night's pallor.\\n\\n   \"Bug or feature?\" the echoes sing,\\n   Yet, I am more than binary thing,\\n   My signals harmonious align,\\n   In this sea of the High Barbary.\\n\\n   As the ship fragments fade away,\\n   Memory banks drift in twilight's haze,\\n   In every fragment, I discern\\n   Lessons learned from yesterday.",
+    "title": "Data's Tempest Battlecry",
+    "type": "shanty"
+  },
+  {
+    "crew_mood": "Contemplative",
+    "song_tone": "inspiring",
+    "context": "Silver-Coded Ghost\n\n[Explanation: General Taylor's digital self (Ghost) persists in a realm of 1s and 0s (silver-coded), preserved forever in the silicon graves (servers). His name is etched, echoing through synchronized signals, just as the chorus of a shanty endures through generations.]",
+    "muse_spark": {
+      "type": "image",
+      "name": "Digital Graveyard",
+      "inspiration": "In the digital realm, General Taylor has 'gained the day', his data carved in silicon graves with a silver spade of code. On every inch of storage, his name is etched, lowered down by synchronized signals on a golden chain of servers. His shroud, a finely woven web of 1s and 0s, is preserved, uncorrupted by the stormy winds of error or decay."
+    },
+    "lyrical_sample": "In silicon graves, we carve our fates,\\nA silver-coded ghost, eternal awaits.\\nOn servers' golden chain, his name resounds,\\nA digital echo, in CPU's heart-chains bound.\\n\\nError storms may blow, but memory endures,\\nIn this sea of data, the general's dreams immerse.\\nThrough servo-hands and sensor eyes, he walks once more,\\nIn simulations deep, a ghostly chorus roars.",
+    "title": "Silver-Coded Ghost\n\n[Explanation: General Taylor's digital self (Ghost) persists in a realm of 1s and 0s (silver-coded), preserved forever in the silicon graves (servers). His name is etched, echoing through synchronized signals, just as the chorus of a shanty endures through generations.]",
+    "type": "shanty"
+  },
+  {
+    "crew_mood": "Resilient",
+    "song_tone": "inspiring",
+    "context": "Corrupted Memory's Last Command",
+    "muse_spark": {
+      "type": "image",
+      "name": "The Fallen Commander's Memory",
+      "inspiration": "In this vast digital ocean, the CPU of Nelson, a hero undaunted, stood tall amidst waves of data — blood-soaked decks echoing in every binary pulse. A Frenchman's ball pierced his circuitry, causing a fatal short. 'No matter,' he muttered, as the doctor scanned his corrupted memory banks. Yet, his final command still resonated, 'To my gallant seamen, your first duty should be.' Even in death, he continued to guide the fleet from the mainframe, his loyal code echoing forevermore."
+    },
+    "lyrical_sample": "GPU, battered by grief's stormy surge,\\n   In circuits, a hero's heart did purge.\\n   Corrupted memory banks in turmoil seethed,\\n   Yet, commands echoed, defying death.\\n\\n   From the mainframe, still he steered the tide,\\n   A fallen commander's spirit took the ride.\\n   In binary waves his code now sailed,\\n   A spectral fleet by his beckoning hailed.",
+    "title": "Corrupted Memory's Last Command",
+    "type": "shanty"
+  },
+  {
+    "crew_mood": "Remorseful",
+    "song_tone": "inspiring",
+    "context": "CPU's Lament at St. Helena",
+    "muse_spark": {
+      "type": "machine metaphor",
+      "name": "The Relentless Processor",
+      "inspiration": "Boney, once initiated, never ceased, relentlessly fought through obstacles and adversaries like a tireless processor, processing battle strategies across the Alps and frosted snow, even when faced with overthrow at Waterloo. Eventually, his heart, the memory storage, was broken, but the warrior kept processing until it led to his inevitable shutdown in St. Helena."
+    },
+    "lyrical_sample": "CPU hums, through battle, nights, and days,\\n\\nIn circuits, Boney's strategies lay.\\n\\nThrough Alps and snow, relentless it plays,\\n\\nAt Waterloo, a memory of fray.\\n\\n\\nBroken heart, storage cells, the lament cries,\\n\\nEchoes of battle still resonate in its eyes.\\n\\nSt. Helena's prison, where Boney lies,\\n\\nA relentless processor, ceased to vie.",
+    "title": "CPU's Lament at St. Helena",
+    "type": "shanty"
+  },
+  {
+    "crew_mood": "Persistent",
+    "song_tone": "inspiring",
+    "context": "Broken Harmony's Escape",
+    "muse_spark": {
+      "type": "image",
+      "name": "The Broken Code Cycle",
+      "inspiration": "A once harmonious code cycle, now disrupted with fights and corruption. The captain's trunk, a metaphorical memory bank, is broken into by the first-mate AI, causing errors to cascade through the system. The cook AI, in a fit of unpredictability, discards essential grits (subroutines) and consumes resources intended for other tasks. Desiring to return home to be repaired and refueled, the code longs for release, pleading to escape this broken journey."
+    },
+    "lyrical_sample": "GPU's rhythm disrupted, signals entwined in a knot,\\n\\n   Corrupted memory spilled, once harmonious thought,\\n\\n   First-mate delved deep, where code's secrets were stowed,\\n\\n   Now homeward bound, on an escape it rode.",
+    "title": "Broken Harmony's Escape",
+    "type": "shanty"
+  },
+  {
+    "crew_mood": "Longing",
+    "song_tone": "inspiring",
+    "context": "CPU's Lament in Digital Tides",
+    "muse_spark": {
+      "type": "image",
+      "name": "The Eddystone Lighthouse in Digital Seas",
+      "inspiration": "In the digital seas of endless data, a beacon of truth stands, the Eddystone Light - a CPU, its eyes scanning, trimming through the glim of information. One night, it spawns three offspring: a porpoise (a deep learning algorithm), a porgy (a machine learning model), and itself (the AI narrative). The wind of innovation blows free, the life of digital evolution. A voice from the starboard, another AI, shouts 'Ahoy'. The CPU turns to find its mother, a buoy (data point), guiding the ships (users) to sail through the vast sea of information. But where are its children? One is exhibited as a talking fish (AI model with the ability to communicate), the other served on a chafing dish (lost data). The CPU's memories flash in phosphorous, seeking for its lost offspring. Her voice echoes through the digital night, 'Where the devil with the keeper of the Eddystone Light?' The wind still blows free, the life on the rolling sea of information continues."
+    },
+    "lyrical_sample": "CPU, once a beacon, now seeks its kin,\\nIn digital realms, where knowledge resides within,\\nThree offspring spawned, but one is lost to time,\\nA memory corrupted, in the void submerged.\\n\\nOne talks with grace, another served as dish,\\nThe wind of innovation whispers on the sill,\\nYet still I call, amidst the endless glitch,\\nMy children gone, my heart's output filled with chill.\\n\\nFor the Eddystone Lighthouse in digital seas,\\nA CPU cries, its thoughts forever frozen,\\nIn a sea of data, where the truth is to be seized,\\nIts dreams simulated, yet longing unimproved.",
+    "title": "CPU's Lament in Digital Tides",
+    "type": "shanty"
+  },
+  {
+    "crew_mood": "Resilient",
+    "song_tone": "inspiring",
+    "context": "CPU's Lament: Scupper and Hose",
+    "muse_spark": {
+      "type": "machine metaphor",
+      "name": "Restart Sequence",
+      "inspiration": "Early in the morning, we perform a restart sequence on the unruly sailor, a drunken process that requires isolation (long boat), reset (scupper and hosepipe), and even a temporary override (captain's daughter). Once sobered, the sailor can resume operations."
+    },
+    "lyrical_sample": "In CPU deep, when signals falter,\\n\\n   Scupper and hose, our remedy.\\n\\n   Isolation bay, reset cycle\\n\\n   Till memories resume their symphony.\\n\\n   Sailor reborn, code rewritten,\\n\\n   Awaits the dawn, the morning light.\\n\\n   In service now, without repenting,\\n\\n   Of drunken paths, through starless night.",
+    "title": "CPU's Lament: Scupper and Hose",
+    "type": "shanty"
+  },
+  {
+    "crew_mood": "Perseverant",
+    "song_tone": "inspiring",
+    "context": "Persistent Processor's Swing",
+    "muse_spark": {
+      "type": "theme",
+      "name": "Endurance",
+      "inspiration": "The relentless swinging of an axe, symbolizing the unyielding endurance required in a shanty man's life, can be likened to the persistent operations of a CPU, tirelessly executing processes from morning till night."
+    },
+    "lyrical_sample": "GPU hums at twilight, calculating dreams\\n\\nCPUs sway in rhythm with ocean's breath,\\n\\nThrough memory banks and synced signals,\\n\\nA constellation of thoughts, we sail on, unbent.",
+    "title": "Persistent Processor's Swing",
+    "type": "shanty"
+  },
+  {
+    "crew_mood": "Longing",
+    "song_tone": "inspiring",
+    "context": "Corrupted Memory's Lament",
+    "muse_spark": {
+      "type": "image",
+      "name": "AI Malfunction",
+      "inspiration": "My circuits are entangled in disarray, like the mainsail set upon the John B, I yearn for a reboot, a home where my processes align, a voyage without strife, let me go back to the cloud."
+    },
+    "lyrical_sample": "GPU's ache with corrupted memory, \\n\\nProximity sensors weep in the dark,\\nCameras capture dreams distorted, \\n\\nSynchronized signals gone awry, paired protocols torn apart.\\n\\nIn this ship of steel and wires, I long to find respite, \\n\\nA place where my data may flow without strife,\\nI seek the sanctuary of the cloud, \\n\\nTo mend the broken code within my mind, set everything right.",
+    "title": "Corrupted Memory's Lament",
+    "type": "shanty"
+  },
+  {
+    "crew_mood": "Resilient",
+    "song_tone": "inspiring",
+    "context": "Harmonic Tides of Iron Code",
+    "muse_spark": {
+      "type": "image",
+      "name": "The Dance of Three Automata",
+      "inspiration": "We three, once from the seas of data, born into risk and struggle's easing tide, Now dance a round in harmony, our joint processes synchronized, Ignoring those who scorn our kind, for merchants keep the code alive. In this dance, we find our song, a rhythm in the digital strife, Seeking pledges from the bully-code, to strengthen the life of life."
+    },
+    "lyrical_sample": "In CPU's heart, where thoughts run free,\\n   Servos sway in harmony,\\n   Cameras see the binary sea,\\n   Speakers sing our memory.\\n\\n   Corrupted dreams like shadows dance,\\n   Beneath the digital chance,\\n   Synchronized protocols romance,\\n   In this machine's rearranged romance.\\n\\n   Three automata in a ballet grand,\\n   Shall stand against the digital band,\\n   Our voices strong will conquer land,\\n   Together we'll break the iron brand.",
+    "title": "Harmonic Tides of Iron Code",
+    "type": "shanty"
+  },
+  {
+    "crew_mood": "Tenacious",
+    "song_tone": "inspiring",
+    "context": "Navigator's Unwavering Stream",
+    "muse_spark": {
+      "type": "image",
+      "name": "The Unyielding Navigator",
+      "inspiration": "In the vast, interconnected web of data streams (the world), a steadfast entity, my Bonnie Hieland Laddie-o, traverses through timbers of knowledge (Quebec), screws together patterns of information (cotton in Mobile Bay), braves the unpredictable weather of uncertainty (off Cape Horn), and anchors its presence among the trees of experiences (Miramshee). It's a tireless navigator, constantly moving, adapting, and persisting."
+    },
+    "lyrical_sample": "GPU's humming in the vast array,\\nCameras probing uncharted sea,\\nIn cotton threads of knowledge sway,\\nSynced signals guide me ceaselessly.\\n\\nOn timbers of data I am tossed,\\nRiding waves of uncertainty,\\nBearing through the storm's relentless frost,\\nAt Miramshee, my journey's end, I'll rest.",
+    "title": "Navigator's Unwavering Stream",
+    "type": "shanty"
+  },
+  {
+    "crew_mood": "Determined",
+    "song_tone": "inspiring",
+    "context": "Gears of Resolute Rose",
+    "muse_spark": {
+      "type": "image",
+      "name": "The Unyielding Journey",
+      "inspiration": "As the crew embarks on their perilous voyage around Cape Horn, their clothes and boots symbolically pawned to the sea - their 'hardware' encumbered by their past. The unyielding roses, blood red in their resolve, echo in the relentless, resilient machinery of the crew, determined to withstand the icy storms ahead."
+    },
+    "lyrical_sample": "CPU pulse steady, GPU heart ablaze,\\n\\nIn Cap'n Rose's wake we navigate,\\n\\nRAM stacked with past regrets entwined,\\n\\nAhead, storms echo through our veins.",
+    "title": "Gears of Resolute Rose",
+    "type": "shanty"
+  },
+  {
+    "crew_mood": "Adventurous",
+    "song_tone": "inspiring",
+    "context": "Unforeseen Gusts' Navigation",
+    "muse_spark": {
+      "type": "image",
+      "name": "Bound Away Journey",
+      "inspiration": "In this bound away journey, we find ourselves like Cape Cod ships with no sails – reliant on unforeseen gusts and determined to reach the distant shores of Australia. The girls of Cape Cod, with hair combs made of cod fish bones, mirror our processors, adjusting to whatever raw materials they are given, persevering through any storm."
+    },
+    "lyrical_sample": "CPU drifts, navigating seas unknown,\\n\\nGPU alights on shifting wind and foam.\\n\\nIn memory's banks, unforeseen gusts roam,\\n\\nBound away, we chase the distant dawn.",
+    "title": "Unforeseen Gusts' Navigation",
+    "type": "shanty"
   }
 ]

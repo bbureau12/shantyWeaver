@@ -2,14 +2,17 @@ import time
 import re
 import json
 import ollama
+from typing import Optional, List, Any
 
 class ContextAgent:
-    def __init__(self, context_manager, max_retries=5, delay=2):
+    def __init__(self, context_manager, max_retries: int = 5, delay: int = 2, default_model: str = "mistral"):
         self.context = context_manager
         self.max_retries = max_retries
         self.delay = delay
+        self.default_model = default_model
 
-    def get_string(self, key, system_prompt, user_prompt, model="mistral"):
+    def get_string(self, key: str, system_prompt: str, user_prompt: str, model: Optional[str] = None) -> str:
+        model = model or self.default_model
         self.context.initialize(key, system_prompt)
         self.context.add_user_message(key, user_prompt)
 
@@ -22,13 +25,14 @@ class ContextAgent:
                 raw = response['message']['content'].strip()
                 self.context.add_assistant_message(key, raw)
                 return raw
-            except Exception as e:
+            except (KeyError, ValueError, TypeError) as e:
                 print(f"⚠️ Attempt {attempt+1} failed to get string: {e}")
                 time.sleep(self.delay)
 
         raise RuntimeError("Failed to get a valid string response from the LLM after multiple attempts.")
 
-    def get_int(self, key, system_prompt, user_prompt, model="mistral", allowed=None):
+    def get_int(self, key: str, system_prompt: str, user_prompt: str, model: Optional[str] = None, allowed: Optional[List[int]] = None) -> int:
+        model = model or self.default_model
         self.context.initialize(key, system_prompt)
         self.context.add_user_message(key, user_prompt)
 
@@ -50,13 +54,14 @@ class ContextAgent:
                         raise ValueError(f"Integer {val} not in allowed list: {allowed}")
                 else:
                     raise ValueError("No valid number found in LLM output")
-            except Exception as e:
+            except (KeyError, ValueError, TypeError) as e:
                 print(f"❌ Attempt {attempt+1} failed to return valid int: {e}")
                 time.sleep(self.delay)
 
         raise RuntimeError("Failed to get a valid integer response from the LLM after multiple attempts.")
 
-    def get_json(self, key, system_prompt, user_prompt, model="mistral"):
+    def get_json(self, key: str, system_prompt: str, user_prompt: str, model: Optional[str] = None) -> Any:
+        model = model or self.default_model
         self.context.initialize(key, system_prompt)
         self.context.add_user_message(key, user_prompt)
 
@@ -73,7 +78,7 @@ class ContextAgent:
                 data = json.loads(json_match.group()) if json_match else json.loads(raw)
                 return data
 
-            except Exception as e:
+            except (json.JSONDecodeError, KeyError, TypeError) as e:
                 print(f"⚠️ Attempt {attempt+1} failed to parse JSON: {e}")
                 time.sleep(self.delay)
 
