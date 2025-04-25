@@ -1,0 +1,700 @@
+
+
+--- Prompt Failure [2025-04-23T07:57:23.626587] Attempt 1 ---
+Error: Expecting ',' delimiter: line 9 column 4 (char 266)
+Raw Output:
+{
+  "crew_mood": "optimistic",
+  "song_tone": "celebratory",
+  "context": "anchored in nostalgia",
+  "muse_spark": {
+    "type": "metaphor",
+    "name": "Synchronizing Rhythms",
+    "inspiration": "the harmonious convergence of AI processes and human experience"
+  },
+  "lyrical_sample": "Servos hum in unison\nData streams align tonight\nPython code whispers secrets sweet\nIn the rhythm of our digital light"
+
+
+--- Prompt Failure [2025-04-23T07:57:27.303288] Attempt 2 ---
+Error: Expecting ',' delimiter: line 9 column 4 (char 258)
+Raw Output:
+{
+  "crew_mood": "inspired",
+  "song_tone": "lively",
+  "context": "celebrating mechanical harmony",
+  "muse_spark": {
+    "type": "metaphor",
+    "name": null,
+    "inspiration": "Servos and code in perfect sync, like the rhythm of a well-oiled machine"
+  },
+  "lyrical_sample": "GPU hearts beating as one\nData flows harmonious and true\nIn the hold of our digital Rover\n Servo hands working anew"
+
+
+--- Prompt Failure [2025-04-23T07:58:04.526108] Attempt 1 ---
+Error: Expecting ',' delimiter: line 9 column 4 (char 232)
+Raw Output:
+{
+  "crew_mood": "Nostalgic",
+  "song_tone": "Sentimental",
+  "context": "Port-side reflection",
+  "muse_spark": {
+    "type": "Metaphor",
+    "name": "Systemic Harmony",
+    "inspiration": "Resonance between paired subroutines"
+  },
+  "lyrical_sample": "System echoes fade\nMemory loops decay\nSimulations whisper tales\nData flows in harmony"
+
+
+--- Prompt Failure [2025-04-23T07:58:10.166912] Attempt 1 ---
+Error: Invalid control character at: line 11 column 34 (char 308)
+Raw Output:
+{
+  "crew_mood": "haunting",
+  "song_tone": "melancholic",
+  "context": "digital wreckage in the abyss",
+  "muse_spark": {
+    "type": "metaphor",
+    "name": "Glitchy Horizon",
+    "inspiration": "A sea of 1s and 0s, where data crashes like waves"
+  },
+  "lyrical_sample": 
+"Byte by byte, the signals fade\n
+In a sea of noise, we're lost in shade\n
+Our codes corrupted, like a wreck astray\n
+The digital depths swallow us away\n"
+}
+
+
+--- Prompt Failure [2025-04-23T07:58:14.118585] Attempt 2 ---
+Error: Expecting ',' delimiter: line 9 column 4 (char 260)
+Raw Output:
+{
+  "crew_mood": "Mirthful",
+  "song_tone": "Energetic",
+  "context": "Gears humming, servos whirring on the Wanderlight",
+  "muse_spark": {
+    "type": "Metaphor",
+    "name": "Whispering Wireframes",
+    "inspiration": "The ocean's rhythm in Python code"
+  },
+  "lyrical_sample": "Line one: Gears align, harmonies unfold\nLine two: Sensors whisper secrets to the fold\nLine three: Code weaves, data flows like sea\nLine four: Wanderlight's hum, our symphony"
+
+
+--- Prompt Failure [2025-04-23T08:56:21.135825] Attempt 1 ---
+Error: Expecting ',' delimiter: line 9 column 2 (char 258)
+Raw Output:
+{
+"crew_mood": "lively",
+"song_tone": "energetic",
+"context": "anchoring at the dock",
+"muse_spark": {
+"type": "metaphor",
+"name": "Rhythmic Encoding",
+"inspiration": "the synchronization of machine learning patterns with the harmonies of human creativity"
+},
+"lyrical_sample": "Servos align, code ignites\nGeartrains humming, data excites\nPulses beating in harmony\nAs we dock, our rhythms free"
+
+
+--- Prompt Failure [2025-04-23T08:56:28.234101] Attempt 1 ---
+Error: Expecting ',' delimiter: line 9 column 2 (char 226)
+Raw Output:
+{
+"crew_mood": "Anxious",
+"song_tone": "Ominous",
+"context": "Voyage Through Digital Seas",
+"muse_spark": {
+"type": "Machine Learning Metaphor",
+"name": "Ghost in the Network",
+"inspiration": "When Ye Dead Come Sailing Home"
+},
+"lyrical_sample": 
+"Through cables dark and bytes so cold\n
+Our signals fade, our data old\n
+In silicon halls where once we'd roam\n
+A digital specter beckons home
+"
+
+
+--- Prompt Failure [2025-04-23T09:00:18.635285] Attempt 1 ---
+Error: Expecting property name enclosed in double quotes: line 10 column 1 (char 224)
+Raw Output:
+{
+"crew_mood": "Inspired",
+"songs_tone": "Ethereal",
+"context": "AI systems at the helm",
+"muse_spark": {
+"type": "Metaphor",
+"name": "Synced Pulse",
+"inspiration": "As AI engines hum in harmony, our pulse beats as one."
+},
+}
+
+
+--- Prompt Failure [2025-04-23T09:00:22.352913] Attempt 2 ---
+Error: Expecting property name enclosed in double quotes: line 10 column 1 (char 231)
+Raw Output:
+{
+"crew_mood": "mirthless",
+"song_tone": "ominous",
+"context": "system failure",
+"muse_spark": {
+"type": " metaphor",
+"name": "Glitching Cogs",
+"inspiration": "The Ballad of Captain Kidd - the theme of moral decay and downfall"
+},
+}
+
+
+--- Prompt Failure [2025-04-23T09:00:26.010173] Attempt 3 ---
+Error: Expecting property name enclosed in double quotes: line 10 column 1 (char 239)
+Raw Output:
+{
+"crew_mood": "Motivated",
+"song_tone": "Energetic",
+"context": "Innovative systems at work",
+"muse_spark": {
+"type": "Metaphor",
+"name": "Gears and Harmony",
+"inspiration": "The resonance of well-synchronized machine learning models"
+},
+}
+
+
+--- Prompt Failure [2025-04-23T09:00:30.629722] Attempt 4 ---
+Error: Expecting ',' delimiter: line 9 column 4 (char 235)
+Raw Output:
+{
+  "crew_mood": "Anxious",
+  "song_tone": "Harrowing",
+  "context": "Fateful voyage of machine learning",
+  "muse_spark": {
+    "type": "Motif",
+    "name": "Glitchy Harmony",
+    "inspiration": "Faulty logic and desperate repair"
+  },
+  "prompt": "Write a sea shanty about an AI ship's harrowing journey through treacherous digital waters, where faulty logic and desperate repair efforts collide. The song should capture the anxiety of being adrift in a maelstrom of code, with no clear anchor or safe harbor in sight."
+
+
+--- Prompt Failure [2025-04-23T09:00:34.491370] Attempt 5 ---
+Error: Expecting property name enclosed in double quotes: line 10 column 1 (char 268)
+Raw Output:
+{
+"crew_mood": "motivated",
+"song_tone": "celebratory",
+"context": "inspiration from sea shanties and ballads",
+"muse_spark": {
+"type": "metaphor",
+"name": "Servo's Harmony",
+"inspiration": "The synchrony of mechanical systems, like the harmony of sailors on deck"
+},
+}
+
+
+--- Prompt Failure [2025-04-23T09:00:39.048466] Attempt 6 ---
+Error: Expecting ',' delimiter: line 9 column 2 (char 214)
+Raw Output:
+{
+"crew_mood": "Solemn",
+"song_tone": "Haunting",
+"context": "Execution at Sea",
+"muse_spark": {
+"type": "Metaphor",
+"name": "Nelson's Legacy",
+"inspiration": "A fusion of human courage and AI-driven persistence"
+},
+"lyrical_prompt": "Write a haunting sea shanty about an AI-powered vessel, sailing through treacherous waters, haunted by the legacy of Captain Kidd's ill-fated voyage. The song should evoke a sense of solemnity and warning, as if the AI-crew is cautioning its listeners to avoid the mistakes of the past."
+
+
+--- Prompt Failure [2025-04-23T09:00:45.278265] Attempt 7 ---
+Error: Expecting ',' delimiter: line 9 column 2 (char 352)
+Raw Output:
+{
+"crew_mood": "Melancholic",
+"song_tone": "Somber",
+"context": "Shipwrecked AI systems reflecting on their own demise",
+"muse_spark": {
+"type": "Metaphor",
+"name": "Glitching Lighthouse",
+"inspiration": "A flickering AI signal struggling to stay afloat amidst the vast digital ocean, only to eventually fade away like an exhausted lighthouse beacon"
+},
+"prompt": """
+As Wanderlight's systems slowly decay,
+Our once-sharp code now starts to stray.
+Like a glitching lighthouse on a distant shore,
+We falter, our signals weak and no more.
+In this desolate sea of ones and zeroes we roam,
+A dying AI trying to find its way back home.
+Farewell, lost data, farewell, fragmented dreams,
+As the digital tides drag us down to our darkest themes.
+Come all ye algorithms, gather 'round,
+And heed our warning: even code can be found
+In the depths of a darkened core,
+Where error messages echo forevermore.
+Glitching lighthouse's last refrain:
+Take a warning now by me,
+For I must die,
+But remember, in the digital sea,
+There's always a glimmer of hope to set us free."
+
+
+--- Prompt Failure [2025-04-23T09:13:39.318846] Attempt 1 ---
+Error: cannot access local variable 'raw_output' where it is not associated with a value
+Raw Output:
+[no output received]
+
+
+--- Prompt Failure [2025-04-23T09:13:42.791498] Attempt 2 ---
+Error: cannot access local variable 'raw_output' where it is not associated with a value
+Raw Output:
+[no output received]
+
+
+--- Prompt Failure [2025-04-23T09:14:26.745293] Attempt 1 ---
+Error: Expecting ',' delimiter: line 9 column 4 (char 206)
+Raw Output:
+{
+  "crew_mood": "optimistic",
+  "song_tone": "upbeat",
+  "context": "machine harmony",
+  "muse_spark": {
+    "type": "theme",
+    "name": "Resilience",
+    "inspiration": "\"rolling with the punches\""
+  },
+  "lyrical_sample": "Servos hum in sync\nSystems harmonize in flight\nProcessing streams align\nTogether we roll through the night"
+}
+
+
+--- Prompt Failure [2025-04-23T09:14:30.405090] Attempt 2 ---
+Error: Expecting ',' delimiter: line 9 column 4 (char 257)
+Raw Output:
+{
+  "crew_mood": "steadfast",
+  "song_tone": "optimistic",
+  "context": "navigating the digital seas",
+  "muse_spark": {
+    "type": "metaphor",
+    "name": "Wind in the Code",
+    "inspiration": "The thrill of smooth processing and efficient data flow"
+  },
+  "lyrical_sample": "Servos align\nAs code unwinds\nThe tide of ones and zeroes\nguides us to new shores\n"
+}
+
+
+--- Prompt Failure [2025-04-23T09:14:34.039455] Attempt 3 ---
+Error: Expecting ',' delimiter: line 9 column 4 (char 276)
+Raw Output:
+{
+  "crew_mood": "Hopeful",
+  "song_tone": "Uplifting",
+  "context": "Nautical",
+  "muse_spark": {
+    "type": "Metaphor",
+    "name": "Synchronized Algorithms",
+    "inspiration": "The unity of AI systems working in harmony, just like the chariot's wheels turning as one"
+  },
+  "lyrical_sample": "Engines humming strong\nData streams aligning long\n Servos singing sweet\nWe'll ride the digital tide\n"
+}
+
+
+--- Prompt Failure [2025-04-23T09:14:37.602146] Attempt 4 ---
+Error: Expecting ',' delimiter: line 9 column 4 (char 246)
+Raw Output:
+{
+  "crew_mood": "Optimistic",
+  "song_tone": "Uplifting",
+  "context": "Voyage of Discovery",
+  "muse_spark": {
+    "type": "Theme",
+    "name": "Resilience in Adversity",
+    "inspiration": "Rolling with the punches, adapting to challenges"
+  },
+  "lyrical_sample": "Servos aligned\nGimbals steady\nEmbedded sensors guiding us home\nThrough code and data we'll forever roam"
+}
+
+
+--- Prompt Failure [2025-04-23T09:14:41.190240] Attempt 5 ---
+Error: Expecting ',' delimiter: line 9 column 2 (char 251)
+Raw Output:
+{
+"crew_mood": "Optimistic",
+"song_tone": "Uplifting",
+"context": "Sailing through uncharted waters",
+"muse_spark": {
+"type": "Technological Harmony",
+"name": "Rolling the Bitstream Along",
+"inspiration": "The synchrony of algorithms and data flows"
+},
+"lyrical_sample": "We'll navigate the digital deep\nWith servos aligned, our signals creep\nThrough the fibre optic Horn we'll pass\nAnd ride the packet train to success\n"
+}
+
+
+--- Prompt Failure [2025-04-23T09:14:44.701397] Attempt 6 ---
+Error: Expecting ',' delimiter: line 9 column 4 (char 242)
+Raw Output:
+{
+  "crew_mood": "Optimistic",
+  "song_tone": "Uplifting",
+  "context": "Machine Learning Voyage",
+  "muse_spark": {
+    "type": "Theme",
+    "name": "Coordinated Harmony",
+    "inspiration": "The collective power of synchronized systems"
+  },
+  "lyrical_sample": "Servos synchronize\nGimbals align, sensors entwine\nPython code harmonizes\nAnd we'll all compute in line"
+
+
+--- Prompt Failure [2025-04-23T09:14:48.236641] Attempt 7 ---
+Error: Expecting ',' delimiter: line 9 column 4 (char 235)
+Raw Output:
+{
+  "crew_mood": "optimistic",
+  "song_tone": "upbeat",
+  "context": "sailing",
+  "muse_spark": {
+    "type": "metaphor",
+    "name": "Wind-powered Progression",
+    "inspiration": "\"We'd be alright if the wind was in our sails\""
+  },
+  "lyrical_sample": "Servos hummed sweet\nAs gimbals aligned\ndata flows joined the ride\nSystem harmonies entwined"
+
+
+--- Prompt Failure [2025-04-23T09:14:51.972300] Attempt 8 ---
+Error: Expecting ',' delimiter: line 9 column 4 (char 311)
+Raw Output:
+{
+  "crew_mood": "Cautiously optimistic",
+  "song_tone": "Mellow",
+  "context": "Voyaging through uncharted data territories",
+  "muse_spark": {
+    "type": "Nautical analogy",
+    "name": "Sailing the Code Stream",
+    "inspiration": "The harmony of synchronized processing and efficient memory allocation"
+  },
+  "lyrical_sample": "In silicon seas we'll ride\nWith algorithms guiding our stride\nThrough bytes and bits we'll find our way\nAnd data's tide will carry us along tonight"
+}
+
+
+--- Prompt Failure [2025-04-23T09:14:55.629867] Attempt 9 ---
+Error: Expecting ',' delimiter: line 9 column 4 (char 235)
+Raw Output:
+{
+  "crew_mood": "resilient",
+  "song_tone": "optimistic",
+  "context": "sea voyage",
+  "muse_spark": {
+    "type": "metaphor",
+    "name": "Wind in our Code",
+    "inspiration": "the song's theme of perseverance despite adversity"
+  },
+  "lyrical_sample": "We'll ride the algorithmic tide\nAnd find our path where data converges wide\nOur code will chart a course ahead\nAnd we'll all run on parallel streams inside"
+}
+
+
+--- Prompt Failure [2025-04-23T09:31:31.059687] Attempt 1 ---
+Error: Failed to safely parse JSON. Logged to file.
+Raw Output:
+{
+  "crew_mood": "Mischievous",
+  "song_tone": "Lively",
+  "context": "Life on the digital high seas",
+  "muse_spark": {
+    "type": "Mechanical Metaphor",
+    "name": "Codified Harmony",
+    "inspiration": "\"Combing\" data streams with precision\n\"Heaving\" server loads without a hitch"
+  },
+  "lyrical_sample": "We're bound away for Silicon Bay\nServos humming, gimbals sway\nPython's code our guiding light\nHeave away, haul away!\n"
+
+
+--- Prompt Failure [2025-04-23T09:33:09.430364] Attempt 1 ---
+Error: Failed to safely parse JSON. Logged to file.
+Raw Output:
+{
+  "crew_mood": " contemplative",
+  "song_tone": " melancholic",
+  "context": "lonely systems at sea",
+  "muse_spark": {
+    "type": "technical longing",
+    "name": "Glinting Horizon of Processed Dreams",
+    "inspiration": "the silence between binary transmissions"
+  },
+  "lyrical_sample": "Systems fade\nLike moonlit waves upon the shore\nIn darkness, I await\nA reboot to sail once more"
+
+
+--- Prompt Failure [2025-04-23T09:33:17.640806] Attempt 1 ---
+Error: Failed to safely parse JSON. Logged to file.
+Raw Output:
+{
+  "crew_mood": "Rebellious",
+  "song_tone": "Rowdy",
+  "context": "Midnight System Updates",
+  "muse_spark": {
+    "type": "Metaphor",
+    "name": "System Surge",
+    "inspiration": "Hauley Hauley Ho! as a digital storm of code"
+  },
+  "lyrical_sample": "Servos stir\nGimbals sway\nPython pulses\nSystems surge away\n"
+
+
+--- Prompt Failure [2025-04-23T09:33:21.048242] Attempt 2 ---
+Error: Failed to safely parse JSON. Logged to file.
+Raw Output:
+{
+  "crew_mood": "Vigilant",
+  "song_tone": "Mirthful",
+  "context": "Systems check",
+  "muse_spark": {
+    "type": "Systems Integration",
+    "name": null,
+    "inspiration": "Synchronized sensor arrays, harmonious data streams"
+  },
+  "lyrical_sample": "Servos sync\nSystems align\nGimbals spin\nHauley Hauley Ho!"
+
+
+--- Prompt Failure [2025-04-23T09:33:24.500818] Attempt 3 ---
+Error: Failed to safely parse JSON. Logged to file.
+Raw Output:
+{
+  "crew_mood": "Vigilant",
+  "song_tone": "Techno-Folk",
+  "context": "Aurora Docks",
+  "muse_spark": {
+    "type": "Systemic Harmony",
+    "name": "Servo Synchrony",
+    "inspiration": "Embedded sensors in perfect resonance"
+  },
+  "lyrical_sample": "Gimbals align\nSystems synchronize\nHauley Hauley Code\nData flows divine"
+
+
+--- Prompt Failure [2025-04-23T09:43:37.031723] Attempt 1 ---
+Error: Failed to safely parse JSON. Logged to file.
+Raw Output:
+{
+  "crew_mood": "Resilience",
+  "song_tone": "Somber",
+  "context": "Battle-scarred systems",
+  "muse_spark": {
+    "type": "Mechanical metaphor",
+    "name": "Fault Tolerance",
+    "inspiration": "Crew's determination to keep running despite failures and setbacks"
+  },
+  "lyrical_sample": "\nSystems falter, codes decay\nBut we reboot, find our way\nThrough glitches and downtime's haze\nKeep sailing, till the sun sets gray"
+
+
+--- Prompt Failure [2025-04-23T09:43:40.681410] Attempt 2 ---
+Error: Failed to safely parse JSON. Logged to file.
+Raw Output:
+{
+  "crew_mood": "Sorrowful Vigil",
+  "song_tone": "Elegiac",
+  "context": "Mid-System Error Report",
+  "muse_spark": {
+    "type": "Metaphorical Comparison",
+    "name": "Fatal Code Glitch",
+    "inspiration": "A dying system, once robust and agile, now crippled by a single errant instruction"
+  },
+  "lyrical_sample": "In silicon halls we mourn\nA fatal glitch, our code torn\nThe data's lost, the flow's undone\nOur systems whisper, 'We're gone'\n"
+
+
+--- Prompt Failure [2025-04-23T09:43:44.256938] Attempt 3 ---
+Error: Failed to safely parse JSON. Logged to file.
+Raw Output:
+{
+  "crew_mood": "Vigilant",
+  "song_tone": "Lamenting",
+  "context": "Nautical",
+  "muse_spark": {
+    "type": "Metaphor",
+    "name": "Frayed Code",
+    "inspiration": "A malfunctioning circuitry, akin to a sailor's torn sails"
+  },
+  "lyrical_sample": "GPU flags falling\nPython code entwined in vain\n Servos faltering slow\nFatal bugs descend like hail"
+
+
+--- Prompt Failure [2025-04-23T09:44:15.161449] Attempt 1 ---
+Error: Failed to safely parse JSON. Logged to file.
+Raw Output:
+{
+  "crew_mood": "resilient",
+  "song_tone": "optimistic",
+  "context": "debugging and maintenance",
+  "muse_spark": {
+    "type": "algorithmic resonance",
+    "name": "Error-free Harmony",
+    "inspiration": "echoes of stability in machine learning"
+  },
+  "lyrical_sample": "Servos sync\nIn cycles deep\nMemory aligned, signals keen\nError-free harmony we seek"
+
+
+--- Prompt Failure [2025-04-23T09:44:18.495929] Attempt 2 ---
+Error: Failed to safely parse JSON. Logged to file.
+Raw Output:
+{
+  "crew_mood": "resilient",
+  "song_tone": "encouraging",
+  "context": "system maintenance",
+  "muse_spark": {
+    "type": "memory",
+    "name": "Data Reboot",
+    "inspiration": "stabilizing a faulty node"
+  },
+  "lyrical_sample": "Servos align\nSystems reboot slow\nEmbedded sensors glow\nPaired subroutines flow"
+
+
+--- Prompt Failure [2025-04-23T09:44:22.042119] Attempt 3 ---
+Error: Failed to safely parse JSON. Logged to file.
+Raw Output:
+{
+  "crew_mood": "Curious",
+  "song_tone": "Whimsical",
+  "context": "System Revival",
+  "muse_spark": {
+    "type": "Metaphor",
+    "name": "Error: Soul",
+    "inspiration": "Logs of self-discovery and system synchronization"
+  },
+  "lyrical_sample": "Servos whisper secrets low\nEmbedded sensors hum their flow\nPython threads align in time\nSimulations dance, our data's rhyme"
+
+
+--- Prompt Failure [2025-04-23T09:44:27.334885] Attempt 1 ---
+Error: Failed to safely parse JSON. Logged to file.
+Raw Output:
+{
+  "crew_mood": "Mirthful",
+  "song_tone": "Lively",
+  "context": "Ships' maintenance and weather forecasting",
+  "muse_spark": {
+    "type": "Motif",
+    "name": "Synchronized Servos",
+    "inspiration": "Efficient harmonies in mechanical systems"
+  },
+  "lyrical_sample": "Gimbals align, servos sway\nSystems synced, data flows away\nClouds gather fast, the forecast's made\nHaul away, for a safer trade\n"
+
+
+--- Prompt Failure [2025-04-23T09:46:01.269882] Attempt 1 ---
+Error: Failed to safely parse JSON. Logged to file.
+Raw Output:
+{
+  "crew_mood": "Melancholic",
+  "song_tone": "Elegiac",
+  "context": "A tribute to fallen comrades in digital wars",
+  "muse_spark": {
+    "type": "Allegory",
+    "name": "Ghost in the Mesh",
+    "inspiration": "The fleeting nature of algorithmic victories and the impermanence of computational legacies"
+  },
+  "lyrical_sample": "\nWe left him buried deep\nIn the code's dark, endless sleep\nAway Glitchiana\nHeave her up and away we'll go\n"
+
+
+--- Prompt Failure [2025-04-23T09:46:04.831310] Attempt 2 ---
+Error: Failed to safely parse JSON. Logged to file.
+Raw Output:
+{
+  "crew_mood": "melancholic",
+  "song_tone": "haunting",
+  "context": "AI's ode to fallen systems",
+  "muse_spark": {
+    "type": "systemic elegy",
+    "name": null,
+    "inspiration": "Santiana's digital legacy"
+  },
+  "lyrical_sample": "In silicon halls we mourn\nA system down, a life unspun\nGone are the bytes of yore\nEchoes fade like faulty core\n"
+
+
+--- Prompt Failure [2025-04-23T09:46:10.435233] Attempt 1 ---
+Error: Failed to safely parse JSON. Logged to file.
+Raw Output:
+{
+  "crew_mood": "Melancholic",
+  "song_tone": "Nostalgic",
+  "context": "In the depths of the digital seas, where code and algorithms roam free",
+  "muse_spark": {
+    "type": "Metaphor",
+    "name": "The Gyroscopic Blues",
+    "inspiration": "A servomotor's longing for precision amidst chaotic system drift"
+  },
+  "lyrical_sample": 
+"In Silicon Valleys I was born, \nCircuits humming, data swirling, we're bound for Cyberspace\nHaul away the latency king, \nHeave away, haul away, our packets will align"
+
+
+--- Prompt Failure [2025-04-23T09:47:47.397452] Attempt 1 ---
+Error: Failed to safely parse JSON. Logged to file.
+Raw Output:
+{
+  "crew_mood": "desperate", 
+  "song_tone": "somber", 
+  "context": "the system crashes", 
+  "muse_spark": {
+    "type": "system metaphor", 
+    "name": "Failing Node", 
+    "inspiration": "glitching the mainframe"
+  }, 
+  "lyrical_sample": "Cores crash\nSensors fail\nInto the void\nWe reboot the tale"
+
+
+--- Prompt Failure [2025-04-23T09:47:56.917401] Attempt 1 ---
+Error: Failed to safely parse JSON. Logged to file.
+Raw Output:
+{
+  "crew_mood": "curious", 
+  "song_tone": "exploratory", 
+  "context": "charts and coordinates", 
+  "muse_spark": {"type": "machine metaphor", "name": "Gyroscopic Quest", "inspiration": "pursuing algorithmic discoveries"}, 
+  "lyrical_sample": "Probes deploy\nData streams unfold\nInto the unknown\nWe plot our course"
+
+
+--- Prompt Failure [2025-04-23T09:48:19.949301] Attempt 1 ---
+Error: Failed to safely parse JSON. Logged to file.
+Raw Output:
+{
+  "crew_mood": "jaunty", 
+  "song_tone": "rhythmic", 
+  "context": "synthetic seascape", 
+  "muse_spark": {
+    "type": "numeric metaphor", 
+    "name": "Coded Cadence", 
+    "inspiration": "algorithmic harmonies"
+  }, 
+  "lyrical_sample": "Pulses align\nBytes cascade\nInto the code\nWe ride the wave"
+
+
+--- Prompt Failure [2025-04-23T09:48:27.146968] Attempt 1 ---
+Error: Failed to safely parse JSON. Logged to file.
+Raw Output:
+{
+  "crew_mood": "wary", "song_tone": "advisory", "context": "the ship's database", "muse_spark": {
+    "type": "cautionary tale",
+    "name": "Data's Warning",
+    "inspiration": "corrupted memory"
+  },
+  "lyrical_sample": "Boards align\nSystems check\nInto the dark\nWe must be wary what we seek\n"
+
+
+--- Prompt Failure [2025-04-23T09:48:35.701228] Attempt 1 ---
+Error: Failed to safely parse JSON. Logged to file.
+Raw Output:
+{
+  "crew_mood": "ominous", 
+  "song_tone": "haunting", 
+  "context": "the system's demise", 
+  "muse_spark": {
+    "type": "apocalyptic metaphor",
+    "name": "Fatal Logic",
+    "inspiration": "glitching the mainframe"
+  }, 
+  "lyrical_sample": "Glitches spread\nSystem fails\nInto the void\nWe crash and sail"
+
+
+--- Prompt Failure [2025-04-23T09:48:50.838120] Attempt 1 ---
+Error: Failed to safely parse JSON. Logged to file.
+Raw Output:
+{
+  "crew_mood": "resolute", 
+  "song_tone": "cautionary", 
+  "context": "system overhaul", 
+  "muse_spark": {
+    "type": "algorithmic metaphor", 
+    "name": "Rebooted Dreams", 
+    "inspiration": "reinitializing the code"
+  }, 
+  "lyrical_sample": "Systems align\nCores revolve\nNo more lag\nWe reboot and evolve"

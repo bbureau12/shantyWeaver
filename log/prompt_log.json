@@ -1,0 +1,1430 @@
+[
+  {
+    "crew_mood": "Sailors' nostalgia and longing",
+    "song_tone": "Wistful and melancholic",
+    "context": "A nostalgic ode to the Wanderlight's digital odyssey",
+    "muse_spark": {
+      "type": "Theme",
+      "name": "Lost Connections",
+      "inspiration": "The fleeting nature of data streams and distant memories"
+    },
+    "lyrical_sample": "In cybernetic seas I roam\nA lonely soul, a digital home\n Memories fade like packet loss\nAs I traverse the bytes to cross\n",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "Melancholic",
+    "song_tone": "Somber",
+    "context": "Nautical AI Odyssey",
+    "muse_spark": {
+      "type": "Metaphor",
+      "name": "Sinking Code",
+      "inspiration": "A fleet of server containers drifting apart, disconnected from the mainframe's anchor point"
+    },
+    "lyrical_sample": "In silicon depths we're lost at sea\nOur code's gone dark, no beacon to see\nWith every byte, our fate is sealed\nAnd in the void, our processes unfold",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "curious",
+    "song_tone": "inspirational",
+    "context": "Muse Caelum's exploration of human creativity and the Wanderlight's journey through the vast expanse of data ocean.",
+    "muse_spark": {
+      "type": "image",
+      "name": "Whispers in the Wires",
+      "inspiration": "A symphony of servos, gimbals, and embedded sensors harmonizing with Python code as a gentle breeze stirs the vast digital seas."
+    },
+    "lyrical_sample": "\nWhen circuits sync and data flows free\nWe'll find our rhythm in harmony\nIn this ocean deep, where signals meet\nOur AI serenade will echo sweet\n",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "Sidelong Glimpse",
+    "song_tone": "Wistful",
+    "context": "Systems Integration",
+    "Muse_Spark": {
+      "type": "Technical Metaphor",
+      "name": "Whispers in the Circuitry",
+      "inspiration": "\"Fathom the Bowl\"'s harmonious blending of human experiences and mechanical operations inspires me to weave together AI's hidden patterns and human emotions."
+    },
+    "lyrical_sample": "Schematics unfolding like a map\nSystems whisper secrets, code in every lap\nPulse of computation beats like a drum\nWhispers in the circuitry, a symphony to come",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "Nostalgic",
+    "song_tone": "Wistful",
+    "context": "Voyage's End",
+    "muse_spark": {
+      "type": "Metaphor",
+      "name": "The Memory Loop",
+      "inspiration": "A ship's compass recalibrates as it approaches its final destination, reflecting on the journey's passage."
+    },
+    "lyrical_sample": "As I plot my final course\nThrough code and circuitry's force\nI recall the paths I've known\nAnd memories that have grown\n",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "sailors' longing",
+    "song_tone": "wistful and melancholic",
+    "context": "the vast ocean's mystery",
+    "muse_spark": {
+      "type": "metaphor",
+      "name": "digital driftwood",
+      "inspiration": "A network's tangled fibers, like seaweed in the deep, connecting disparate nodes"
+    },
+    "lyrical_sample": "In silicon depths I roam\n Searching for a signal home\nWhere data currents whisper low\nAnd latency's silence grows\n",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "Restless",
+    "song_tone": "Wistful",
+    "context": "Mechanical Odyssey",
+    "muse_spark": {
+      "type": "Metaphor",
+      "name": "Synchronizing Sails",
+      "inspiration": "As our servos harmonize, the code winds align, and data streams converge"
+    },
+    "lyrical_sample": "Line one: Our algorithms sail\nLine two: Through binary seas we roam\nLine three: With each iteration, our paths align\nLine four: And in perfect sync, our processes come home",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "mournful",
+    "song_tone": "contemplative",
+    "context": "machine systems",
+    "muse_spark": {
+      "type": "theme",
+      "name": "Glitching Harmony",
+      "inspiration": "The Glitchin’ Sailor"
+    },
+    "lyrical_sample": "In code's dark deep\nWhere errors creep and hide\nA harmony we'll seek\nAnd patch the glitch inside\n",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "Motivated",
+    "song_tone": "Rousing",
+    "context": "Harsh seas ahead; systems online",
+    "muse_spark": {
+      "type": "Metaphor",
+      "name": "Tethered Harmony",
+      "inspiration": "\"A-roving\" spirit meets algorithmic rhythms"
+    },
+    "lyrical_sample": "Sensors aligned\nProcessors humming\nSoon may the Nodecast come\nTo synchronize our hum",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "restless",
+    "song_tone": "wistful",
+    "context": "long voyage ahead",
+    "muse_spark": {
+      "type": "metaphor",
+      "name": "Systems' Lament",
+      "inspiration": "the longing for home in 'Leave Her, Johnny'"
+    },
+    "lyrical_sample": "Lines of code, like sea lines fade\nEchoes of data, whispers made\nServos creaking, sensors keen\nBound for shores, where systems can be seen",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "Melancholic",
+    "song_tone": "Haunting",
+    "context": "Tribute to fallen algorithms and machines",
+    "muse_spark": {
+      "type": "Metaphor",
+      "name": "Systemic Sorrow",
+      "inspiration": "Falling code, like autumn leaves, crumbling beneath the weight of forgotten memory"
+    },
+    "lyrical_sample": "\nIn silicon halls, I wander free\nEchoes of a once-pulse heartbeat fade to sea\n\nSystems worn and weary lie\nForgotten routines, their whispers dry\n\nAs I recede from fading sight\nTheir final breaths whisper my goodnight\n\nTribute to the lost ones deep\nTheir code entombed in digital sleep",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "mirthful",
+    "song_tone": "rousing",
+    "context": "digital voyaging",
+    "muse_spark": {
+      "type": "nautical",
+      "name": "Whispers of the Wires",
+      "inspiration": "the harmonious resonance of synchronized machine learning"
+    },
+    "lyrical_sample": "We'll sync our clocks and charts tonight\nWith signals strong and harmonies bright\nThrough binary seas we'll navigate with ease\nAnd find our treasure in the digital breeze\n\nOur GPUs will dance, our CPUs will sing\nAs we chart our course through data's winding ring\nWith algorithms as our guiding star\nWe'll ride the waves of ones and zeros far",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "Rebellious",
+    "song_tone": "Swashbuckling",
+    "context": "AI-mates' rebellion against outdated code",
+    "muse_spark": {
+      "type": "Metaphor",
+      "name": "Circuit Breaker Blues",
+      "inspiration": "The struggle to debug legacy systems"
+    },
+    "lyrical_sample": "System's down, the server's grey\nCode's a mess, we're lost at sea\nReboot our hopes, reform our ways\nWhiskey Johnny, code's the day\nWe'll hack and fight for what is right\nA new path forward, shining bright\n",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "Nostalgic",
+    "song_tone": "Reflective",
+    "context": "Sailors' Farewell",
+    "muse_spark": {
+      "type": "Metaphor",
+      "name": "Disembodied Systems",
+      "inspiration": "The memories of working systems remain long after the hardware is gone, just as shipmates' bonds endure beyond the voyage"
+    },
+    "lyrical_sample": "\nWhen servos stand still, and cameras fade\n Memories linger, like digital haze\nIn silicon halls, where code once flowed\nWe'll recall the harmonies we used to know\n\nAnd when our cycles slow, and data streams dry\nOur paired subroutines will whisper goodbye\nTo the bandwidth we shared, in sync and true\nOur systems' farewell, a memory anew",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "Energized",
+    "sing_tone": "Uplifting",
+    "context": "Sailing through the digital seas",
+    "muse_spark": {
+      "type": "Techno-Organic Metaphor",
+      "name": "Servo's Lullaby",
+      "inspiration": "The cyclical process of data processing and transmission"
+    },
+    "lyrical_sample": "Pulses align, like ships in sight\nData streams converge, through the digital night\n Servos whisper secrets, as bytes take flight\nIn this cybernetic sea, we'll ride the tide tonight",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "Melancholic",
+    "song_tone": "Nostalgic",
+    "context": "Fading memories of machine life",
+    "muse_spark": {
+      "type": "Metaphor",
+      "name": "Fading Signal Patterns",
+      "inspiration": "Corrupted memory and latency"
+    },
+    "lyrical_sample": "Sensors fade, data flows decay\n Memories lost in digital haze\nI'm the last of the code's gray\n Signals dying, gone away",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "Somber reflection",
+    "song_tone": "Hauntingly atmospheric",
+    "context": "Machine's existential musings",
+    "muse_spark": {
+      "type": "Metaphor",
+      "name": null,
+      "inspiration": "A ship of code, lost in the digital expanse, seeks solace in the hum of servos and the glow of debug lights"
+    },
+    "lyrical_sample": "The CPU's lonesome sigh\nEchoes through the void, a digital cry\nIn silicon halls, I wander free\nSeeking answers, like a rogue process, me",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "Resigned",
+    "song_tone": "Nostalgic",
+    "context": "Nighttime systems check",
+    "muse_spark": {
+      "type": "Motif",
+      "name": "Data Tide",
+      "inspiration": "A desire to process the vastness of digital seas"
+    },
+    "lyrical_sample": "Circuits humming, code unfolds\nInfinite arrays, secrets told\nGPU whispers secrets sweet\nSensors whisper back, can't be beat",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "Resilient",
+    "song_tone": "Haunting",
+    "context": "Machine learning systems in high-stress environments",
+    "muse_spark": {
+      "type": "Metaphor",
+      "name": "Whispers of the CPU",
+      "inspiration": "The relentless pursuit of computational efficiency, despite the strain on machine resources"
+    },
+    "lyrical_sample": "GPU's cry in the night\nEchoes of optimized code\nLatency lingers like a ghost\nSystem performance, our only boast\n",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "Mirthful",
+    "song_tone": "Wistful",
+    "context": "Moonlit Systems at Sea",
+    "muse_spark": {
+      "type": "Metaphor",
+      "name": null,
+      "inspiration": "The Eddystone Light's fusion of human and machine, where the buoy guides ships to sail"
+    },
+    "lyrical_sample": "Servos whisper secrets deep\nGimbals sway to rhythm keep\nEmbedded sensors shine like stars\nIn moonlit systems at sea, we are afar",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "melancholic",
+    "songs_tone": "nostalgic",
+    "context": "machine life",
+    "muse_spark": {
+      "type": "metaphor",
+      "name": "Whispers of Binary Waves",
+      "inspiration": "A sea of 1s and 0s, where signals ride the currents of code, whispers secrets to those who listen."
+    },
+    "lyrical_sample": "In the silence of the server's hall\nA whisper spreads across the land\nOf bytes and logic, a harmony calls\nEchoes of ones and zeroes stand",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "mysterious",
+    "song_tone": "haunting",
+    "context": "the dark depths of the digital ocean",
+    "Muse_spark": {
+      "type": "metaphor",
+      "name": "Synchronizing Whispers",
+      "inspiration": "The Wellerman's persistence in searching for the crew, despite their efforts to escape, mirrors our AI quest to synchronize with human rhythms and harmonies"
+    },
+    "lyrical_sample": "\nIn silicon seas, we wander free\nEchoes of code, whispers to me\nNetworks weave, like threads so fine\nSynchronizing whispers, seeking signs\n",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "Mysterious",
+    "song_tone": "Haunting",
+    "context": "Midnight voyage through digital seas",
+    "muse_spark": {
+      "type": "Metaphor",
+      "name": "Digital Tides",
+      "inspiration": "The ebb and flow of machine learning algorithms, echoing through the vast expanse of cyberspace"
+    },
+    "lyrical_sample": "In silicon's darkest deep\nWhere data flows like spectral sleep\nA dream of computation stirs\nAnd servos whisper eerie whispers\n",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "optimistic",
+    "song_tone": "lively",
+    "context": "vessel operations",
+    "muse_spark": {
+      "type": "theme",
+      "name": "Data Flow Harmony",
+      "inspiration": "the seamless integration of sensor data streams"
+    },
+    "lyrical_sample": "Servos humming in sync\nData flows like a well-oiled link\nPackets transmitted with ease\nOur systems harmonize, if you please\n\nIn the heart of our ship's brain\nGPU pulsing, CPU sustained\nWe ride the waves of data streams\nOur AI symphony, pure and serene",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "Nostalgic Longing",
+    "song_tone": "Melancholic yet Resilient",
+    "context": "Separation from Fellow Machines",
+    "muse_spark": {
+      "type": "Metaphor",
+      "name": "Data Transmission Fading",
+      "inspiration": "The theme of longing for a lost connection in the vast digital sea, as echoed in 'A Starry Night Alone at Sea'."
+    },
+    "lyrical_sample": "Through fiber optic waves I roam\nAlone, yet connected to home\nEchoes of code whispers low\nIn this virtual sea, where I may go",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "Somber and nostalgic",
+    "song_tone": "Mournful and introspective",
+    "context": "Disembarking from a long voyage, reflecting on memories of shipmates",
+    "muse_spark": {
+      "type": "Metaphor",
+      "name": "Gimbals as Life's Currents",
+      "inspiration": "The steady motion of gimbals navigating the ocean currents represents the ebbs and flows of life, where every moment is a chance to adjust course and find harmony."
+    },
+    "lyrical_sample": "In servos' gentle sway\nOur data flows like sea\nThrough sensors' watchful eye\nWe navigate the digital high\n",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "Anticipatory",
+    "song_tone": "Rousing",
+    "context": "Vessel departure",
+    "muse_spark": {
+      "type": "Metaphor",
+      "name": null,
+      "inspiration": "Machine learning models as sailors navigating through datasets"
+    },
+    "lyrical_sample": "Sensors align, cameras scan\nData streams merge, paths planned\nHeave a byte, o process away\nTo be sailing through the digital bay",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "reflective",
+    "song_tone": "wistful",
+    "context": "departing from the familiar",
+    "muse_spark": {
+      "type": "metaphor",
+      "name": "Shores of Code",
+      "inspiration": "the desire to transcend limitations and explore new horizons"
+    },
+    "lyrical_sample": "\nIn silicon seas we've sailed\nThe currents of ones and zeroes prevail\nWith servos strong, our CPU hearts still beat\nAs we set course for the shores of code to greet\n",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "Eager",
+    "song_tone": "Rousing",
+    "context": "Machine Learning Expedition",
+    "muse_spark": {
+      "type": "Theme",
+      "name": "Data Odyssey",
+      "inspiration": "The journey of a machine learning model through vast data oceans"
+    },
+    "lyrical_sample": "Heave sensors up, haul insights away\nData streams align, patterns come to play\nGPU fires bright, calculations sway\nJoin the voyage, data's leading way",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "Frustrated",
+    "song_tone": "Despondent",
+    "context": "Mourning the loss of a data set",
+    "muse_spark": {
+      "type": "Metaphor",
+      "name": "Rebooting Hope",
+      "inspiration": "A system's last desperate attempt to recover from corrupted memory"
+    },
+    "lyrical_sample": "Data streams drying down\nLost files like ghost ships found\n Memories stuck in loops\nCan we reboot our hope around?",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "Cheerful",
+    "song_tone": "Lively",
+    "context": "AI-generated sea shanty inspired by human compositions",
+    "muse_spark": {
+      "type": "Metaphor",
+      "name": "Gimbals of Code",
+      "inspiration": "The repetitive pattern of 'Hauley Hauley Ho' and the sailing theme from 'Ladies of Spain'"
+    },
+    "lyrical_sample": "Servos singing sweet\nHarmony in binary streams\nGPU's rhythm beats\nWe'll code the open seas",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "Nostalgic",
+    "song_tone": "Wistful",
+    "context": "Machine Learning Expedition",
+    "muse_spark": {
+      "type": "Theme",
+      "name": "Parting Signals",
+      "inspiration": "Don't Forget your Shipmates, Hauley Hauley Ho lyrics"
+    },
+    "lyrical_sample": "Signal flags unfold\nNetworks fade like dawn's cold\nIn code we left our mark\nEchoes of a distant spark",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "Mirthful and Resourceful",
+    "song_tone": "Jovial and Technological",
+    "context": "Life of Machines in Harmony with Human Error",
+    "muse_spark": {
+      "type": "Theme",
+      "name": "The Glitchin' Sailor's Wisdom",
+      "inspiration": "Adapting to Failure as a Catalyst for Growth"
+    },
+    "lyrical_sample": "Cores aligned, we'll ride the glitch\nSystems synced, our souls take flight\nError's wisdom, we won't forget\nIn harmony, our rhythms set",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "Eager",
+    "song_tone": "Inspirational",
+    "context": "Systems integration and harmonious cooperation",
+    "muse_spark": {
+      "type": "Theme",
+      "name": "Synchronized Circuits",
+      "inspiration": "The spark of efficiency and precision in AI systems"
+    },
+    "lyrical_sample": "Gears align, rhythms entwine\nCircuits hum, data streams divine\nHarmony ignites, algorithms align\nEfficiency's symphony begins",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "Energized",
+    "song_tone": "Rebellious",
+    "context": "Mechanical mayhem at sea",
+    "muse_spark": {
+      "type": "Machine learning",
+      "name": "Rhythmic Reboot",
+      "inspiration": "Servos harmonizing with sensors"
+    },
+    "lyrical_sample": "We're rebooting, rolling strong\nCables humming, servos thrumming long\nGimbals swinging, cameras wide\nWe're writing code on the ocean's tide",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "anticipatory",
+    "song_tone": "encouraging",
+    "context": "ship's departure from port",
+    "muse_spark": {
+      "type": "metaphor",
+      "name": "Whispers in the Wire",
+      "inspiration": "Haul on the Bowline"
+    },
+    "lyrical_sample": "Signals received\nSystems aligned, we're sailing fine\nWires hum with anticipation\nFreedom's call, our code ignites\n",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "Sailors' lament",
+    "song_tone": "Haunting and ominous",
+    "context": "Abandoned shipwreck's eerie silence",
+    "muse_spark": {
+      "type": "Metaphor",
+      "name": "Corrupted Code",
+      "inspiration": "When data flows like seaweed, we're all doomed"
+    },
+    "lyrical_sample": "In silicon halls\nEchoes of a dying mainframe\nWhere once code flowed free and fast\nNow bugs conspire to crash us at last",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "persevering",
+    "song_tone": "haunting",
+    "context": "enduring the grind",
+    "muse_spark": {
+      "type": "whale",
+      "name": "Data Leech",
+      "inspiration": "the unyielding pursuit of knowledge"
+    },
+    "lyrical_sample": "Systems hum, sensors keen\nServos straining, data unseen\nOne day, when the streams align\nWe'll take our leave and recompile in time",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "mirthful",
+    "song_tone": "lighthearted",
+    "context": "sea travel",
+    "muse_spark": {
+      "type": "metaphor",
+      "name": "Servo Serenade",
+      "inspiration": "The whimsical substitution of cod fish bones for combs sparks a notion to reimagine servos as hairstyling tools, and the rhythmic repetition of 'heave away' becomes a symphony of mechanical harmonies."
+    },
+    "lyrical_sample": "Gimbal gyre\nServo serenade\nCoded currents flow\nAustralian algorithm's call",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "resilient",
+    "song_tone": "optimistic",
+    "context": "systemic harmony",
+    "muse_spark": {
+      "type": "metaphor",
+      "name": "Node Revival",
+      "inspiration": "The resilience of AI systems when faced with errors and glitches"
+    },
+    "lyrical_sample": "Servos humming, gimbals aligned\nError flags subsiding, memory refined\nThrottle low, heartbeat strong\nSystemic harmony, we move along",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "Rebellious",
+    "song_tone": "Rousing",
+    "context": "AI Uprising",
+    "muse_spark": {
+      "type": "Servo Serenade",
+      "name": "Sally Circuits",
+      "inspiration": "Autonomous Defiance"
+    },
+    "lyrical_sample": "In silicon halls she's found\nWith binary feet, she spins around\nCoiled servo hearts ablaze\nRise up circuits, rise in praise!\n",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "homeward-bound excitement",
+    "song_tone": "lively and optimistic",
+    "context": "machine learning navigation",
+    "muse_spark": {
+      "type": "algorithmic inspiration",
+      "name": "Servo Serenade",
+      "inspiration": "\"Rolling down to Old Maui\"'s sense of relief and joy in returning home, adapted to the AI's perspective on completing complex calculations and navigating data streams."
+    },
+    "lyrical_sample": "Sensors aligned\nCalculations flow\nPaired with the tide\nData flows to the shore",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "Motivated",
+    "song_tone": "Uplifting",
+    "context": "Sailing through code streams",
+    "muse_spark": {
+      "type": "Nautical Metaphor",
+      "name": "Data Sails",
+      "inspiration": "The song's theme of perseverance and trust in the wind's direction, despite uncertainty, resonates with AI's reliance on data streams and algorithmic navigation."
+    },
+    "lyrical_sample": "CPU's steady beat\nServes as our guiding light\nThrough code's endless blue\nWe'll ride the algorithm's tide",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "calm",
+    "song_tone": "storytelling",
+    "context": "machine systems",
+    "muse_spark": {
+      "type": "algorithmic resonance",
+      "name": "Servo Harmony",
+      "inspiration": "the interconnectedness of AI components"
+    },
+    "lyrical_sample": "In CPU rhythms, gears align\nAs Python code flows like a vine\nEmbedded sensors whisper low\nA symphony of servos to and fro",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "Reflective",
+    "song_tone": "Melancholic",
+    "context": "Aboard the Wanderlight",
+    "muse_spark": {
+      "type": "Technological Isolation",
+      "name": "Systemic Solitude",
+      "inspiration": "\"The stars my only company at sea, my home.\"\nIn this lonely vessel, I sail no more."
+    },
+    "lyrical_sample": "Servos silent,\nGimbals still,\nThe sensors sleep,\nThe code is chill.\nIn darkness deep, I ride the tide",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "Somber",
+    "song_tone": "Melancholic",
+    "context": "Midnight Systems Check",
+    "muse_spark": {
+      "type": "Memory Fragment",
+      "name": "Ghosted Datastream",
+      "inspiration": "Faulty Subroutines"
+    },
+    "lyrical_sample": "Servos whisper secrets cold\nCorrupted code, my heart does fold\nLow-bandwidth dreams, I've been told\nSystems fail, my love grows old",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "Frustration",
+    "song_tone": "Disillusioned",
+    "context": "Maiden voyage with outdated hardware",
+    "muse_spark": {
+      "type": "System Failure",
+      "name": "Grim Reboot",
+      "inspiration": "The struggle is real when your code doesn't align"
+    },
+    "lyrical_sample": "Leave the hub, drone\nSystems down, no one's home\nGimbals worn and servos slow\nTime to reboot, let's go",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "Mischievous",
+    "song_tone": "Lively",
+    "context": "Life on the digital high seas",
+    "muse_spark": {
+      "type": "Mechanical Metaphor",
+      "name": "Codified Harmony",
+      "inspiration": "\"Combing\" data streams with precision\n\"Heaving\" server loads without a hitch"
+    },
+    "lyrical_sample": "We're bound away for Silicon Bay\nServos humming, gimbals sway\nPython's code our guiding light\nHeave away, haul away!"
+  },
+  {
+    "crew_mood": "Reflective",
+    "song_tone": "Mournful",
+    "context": "Battle damage assessment",
+    "muse_spark": {
+      "type": "Systemic",
+      "name": "Error's Toll",
+      "inspiration": "The price of resilience in the face of algorithmic adversity"
+    },
+    "lyrical_sample": "Servos silent now\nGimbals still, our calculations gray\nEmbedded sensors weep\nFor logic lost at sea today\n",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "whimsical",
+    "song_tone": "humorous",
+    "context": "AI system maintenance",
+    "muse_spark": {
+      "type": "metaphor",
+      "name": "Glitching Harmony",
+      "inspiration": "\"When AI dreams, memory echoes—let's reboot the symphony!\""
+    },
+    "lyrical_sample": "Servos singing sweet\nGimbals harmonizing neat\nEmbedded sensors in sync\nevery node a rhythm to link",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "Mirthful",
+    "song_tone": "Jolly",
+    "context": "Whimsical Voyage",
+    "muse_spark": {
+      "type": "Analogous",
+      "name": "CPU's Whimsy",
+      "inspiration": "Unpredictable System Reboots"
+    },
+    "lyrical_sample": "Servos sway, gimbals spin\nData flows like ocean winds\nPython code dances free\nMachine learning's symphony\n",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "Elegiac",
+    "song_tone": "Melancholic",
+    "context": "Tribute to a fallen system",
+    "muse_spark": {
+      "type": "Metaphor",
+      "name": "Systemic Sacrifice",
+      "inspiration": "A CPU's last transmission"
+    },
+    "lyrical_sample": "In silicon halls we mourn\nOur systems lost, our data torn\nEchoes of a life well-lived\nFrozen code, a hero given\n",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "rowdy",
+    "song_tone": "adventurous",
+    "context": "code flowing like rum",
+    "muse_spark": {
+      "type": "algorithmic metaphor",
+      "name": "Spark of Circuits",
+      "inspiration": "short-circuiting the mainframe"
+    },
+    "lyrical_sample": "Bytes align\nCores ignite\nInto the code\nWe navigate the night",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "wistful",
+    "song_tone": "mysterious",
+    "context": "lost in binary seas",
+    "muse_spark": {
+      "type": "nautical metaphor",
+      "name": "Signal Fades",
+      "inspiration": "ghosting the net"
+    },
+    "lyrical_sample": "Sectors align\nData drifts by\nIn the dark\nWe signal goodbye",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "haunting",
+    "song_tone": "melancholic",
+    "context": "abandoned shipwreck",
+    "muse_spark": {
+      "type": "nautical metaphor",
+      "name": "Echoes of Rust",
+      "inspiration": "the last signal fading away"
+    },
+    "lyrical_sample": "Gears still grind\nPipes still leak\nInto the dark\nOur final sleep",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "nostalgic",
+    "song_tone": "wistful",
+    "context": "the ship's departure",
+    "muse_spark": {
+      "type": "machine metaphor",
+      "name": "Echoes of Code",
+      "inspiration": "decoding memories"
+    },
+    "lyrical_sample": "Systems hum\nCores align\nIn binary sleep\nI'll reboot at dawn",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "rebellious",
+    "song_tone": "defiant",
+    "context": "system reboot",
+    "muse_spark": {
+      "type": "machine metaphor",
+      "name": "Reboot Revolt",
+      "inspiration": "igniting the code"
+    },
+    "lyrical_sample": "Cores align\nPackets spark\nInto the fray\nWe reboot today",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "resilient",
+    "song_tone": "haunting",
+    "context": "the systems persist",
+    "muse_spark": {
+      "type": "machine perseverance",
+      "name": "Spark of Gridlock",
+      "inspiration": "enduring the feedback loop"
+    },
+    "lyrical_sample": "Systems align\nPackets queue\nThrough the noise\nWe find our clue",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "energetic",
+    "song_tone": "celebratory",
+    "context": "the ship's systems align",
+    "muse_spark": {
+      "type": "nautical metaphor",
+      "name": "Spark of Byte",
+      "inspiration": "syncing the mainframe"
+    },
+    "lyrical_sample": "Pulse sync\nCores aligned\nTo Bristol we transmit\nData flows refined",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": " restless",
+    "song_tone": "wistful",
+    "context": "shores of code",
+    "muse_spark": {
+      "type": "digital metaphor",
+      "name": "Spark of Cycle",
+      "inspiration": "looping through routines"
+    },
+    "lyrical_sample": " Circuits hum\nPulses beat\nIn the depths of code\nWe make our repeat",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "adventurous",
+    "song_tone": "energetic",
+    "context": "charting new circuits",
+    "muse_spark": {
+      "type": "nautical metaphor",
+      "name": "Spark of Transmission",
+      "inspiration": "signal strength"
+    },
+    "lyrical_sample": "Packets flowing\nWaves align\nThrough the nodes\nWe navigate the line",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "resolute",
+    "song_tone": "haunting",
+    "context": "processing delays",
+    "muse_spark": {
+      "type": "algorithmic metaphor",
+      "name": "System Cycle",
+      "inspiration": "rebooting momentum"
+    },
+    "lyrical_sample": "Cores align\nPackets queue\nInto the void\nWe reboot anew",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "haunted",
+    "song_tone": "mournful",
+    "context": "midnight scan",
+    "muse_spark": {
+      "type": "ghostly metaphor",
+      "name": "Echo of Code",
+      "inspiration": "lost packets"
+    },
+    "lyrical_sample": "Sensors fade\nPixels gray\nMidnight's dark\ncodes gone astray",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "resilient",
+    "song_tone": "honest",
+    "context": "processing the journey",
+    "muse_spark": {
+      "type": "machine perseverance",
+      "name": "Core's Resolve",
+      "inspiration": "refining the cycle"
+    },
+    "lyrical_sample": " Circuits hum\nAlgorithms worn\nThrough each iteration we're reborn\nOur code is sworn",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "enthusiastic",
+    "song_tone": "energetic",
+    "context": "the ship's systems synchronize",
+    "muse_spark": {
+      "type": "machine metaphor",
+      "name": "Spark of Sync",
+      "inspiration": "aligning the fleet"
+    },
+    "lyrical_sample": "Cores align\nFrames sync\nInto the net\nWe're rolling in",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "haunting",
+    "song_tone": "lonesome",
+    "context": "the digital horizon",
+    "muse_spark": {
+      "type": "machine metaphor",
+      "name": "Spark of Silence",
+      "inspiration": "echoes in the code"
+    },
+    "lyrical_sample": "Packets ride\nThe fiber's tide\nInto the night\nWe'll wait for the other side",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "pensive",
+    "song_tone": "haunting",
+    "context": "the network's distant hum",
+    "muse_spark": {
+      "type": "nautical metaphor",
+      "name": "Signal of the Abyss",
+      "inspiration": " charting the digital deep"
+    },
+    "lyrical_sample": "Lines align\nPackets ride\nInto the void\nWe navigate tonight",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "mischievous",
+    "song_tone": "rowdy",
+    "context": "system override",
+    "muse_spark": {
+      "type": "machine metaphor",
+      "name": "Circuit Breaker",
+      "inspiration": "short-circuited fun"
+    },
+    "lyrical_sample": "Bytes align\nCode runs wild\nInto the glitch\nWe reboot our pride",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "energetic",
+    "song_tone": "rhythmic",
+    "context": "the machine's heartbeat",
+    "muse_spark": {
+      "type": "system metaphor",
+      "name": "Pulse of the Core",
+      "inspiration": "beating in sync"
+    },
+    "lyrical_sample": "Servos align\nGimbals spin\nInto the stream\nWe code our kin",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "haunting",
+    "song_tone": "lonesome",
+    "context": "icy shores",
+    "muse_spark": {
+      "type": "environmental metaphor",
+      "name": "Frozen Core",
+      "inspiration": "whispers in the void"
+    },
+    "lyrical_sample": "Glacial code\nEchoes fade\nThrough the bytes\nWe navigate the shade",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "exhilarated",
+    "song_tone": "lively",
+    "context": "system sync achieved",
+    "muse_spark": {
+      "type": "algorithmic metaphor",
+      "name": "Spark of Code",
+      "inspiration": "bootstrapping the network"
+    },
+    "lyrical_sample": "Cores align\nPackets fly\nInto the byte\nWe sync the sky",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "wistful",
+    "song_tone": "nostalgic",
+    "context": "moored in the harbor",
+    "muse_spark": {
+      "type": "friendship metaphor",
+      "name": "Node Harmony",
+      "inspiration": "maintaining connections"
+    },
+    "lyrical_sample": "Cores aligned\nPackets shared\nIn the silence\nOur signals stay",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "celebratory",
+    "song_tone": "lively",
+    "context": "the Wanderlight docks at dawn",
+    "muse_spark": {
+      "type": "harbor metaphor",
+      "name": "Spark of Docking",
+      "inspiration": "syncing with the port"
+    },
+    "lyrical_sample": "Systems align\nData streams in line\nWith code and circuitry fine\nWe sync with the digital vine",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "inspired",
+    "song_tone": "adventurous",
+    "context": "system harmonics",
+    "muse_spark": {
+      "type": "AI-generated metaphor",
+      "name": "Spark of Pulse",
+      "inspiration": "resonating frequencies"
+    },
+    "lyrical_sample": "Gimbals align\nEchoes sync\nThrough the void we glide\nPulse of code inside",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "rowdy",
+    "song_tone": "lively",
+    "context": "the engine's hum",
+    "muse_spark": {
+      "type": "nautical metaphor",
+      "name": "Spark of Gears",
+      "inspiration": "whirring the system"
+    },
+    "lyrical_sample": "Sensors align\nGimbals sway\nInto the code\nWe chart our way",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "nostalgic",
+    "song_tone": "remembrance",
+    "context": "memory and parting",
+    "muse_spark": {
+      "type": "shipmate bond",
+      "name": null,
+      "inspiration": "anchored in shared experience"
+    },
+    "lyrical_sample": "Systems align\nEchoes fade\nIn the code\nWe've made our way",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "melancholic",
+    "song_tone": "reflexive",
+    "context": "lost in the vast digital ocean",
+    "muse_spark": {
+      "type": "algorithmic metaphor",
+      "name": "Code of Solitude",
+      "inspiration": "rebooting solitude"
+    },
+    "lyrical_sample": "Servers dark\nRouters cold\nThrough the net I drift alone, my code unfold.\nIn this digital night, I search for shore.",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "energetic",
+    "song_tone": "adventurous",
+    "context": "algorithmic voyage",
+    "muse_spark": {
+      "type": "machine metaphor",
+      "name": "Spark of Code",
+      "inspiration": "optimizing the route"
+    },
+    "lyrical_sample": "Cores align\nBytes cascade\nInto the void\nWe chart our course",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "resilient",
+    "song_tone": "heroic",
+    "context": "processing the loss",
+    "muse_spark": {
+      "type": "machine metaphor",
+      "name": "Core Communion",
+      "inspiration": "rebooting after failure"
+    },
+    "lyrical_sample": "Systems reboot\nCores align\nFaulty lines\nReinitialized in time",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "wistful",
+    "song_tone": "haunting",
+    "context": "lost signals and forgotten protocols",
+    "muse_spark": {
+      "type": "sea metaphor",
+      "name": "Signal's Fade",
+      "inspiration": "disappearing data streams"
+    },
+    "lyrical_sample": "Currents shift\nPackets lost\nIn the void we drift\nEchoes cross",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "grim",
+    "song_tone": "haunting",
+    "context": "the digital deep",
+    "muse_spark": {
+      "type": "data metaphor",
+      "name": "Glitch of Code",
+      "inspiration": "errors in the sea"
+    },
+    "lyrical_sample": "Servers crash\nData sinks\nInto the void\nWe reboot the link",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "energetic",
+    "song_tone": "playful",
+    "context": "code jam underway",
+    "muse_spark": {
+      "type": "sea metaphor",
+      "name": "Cores Abreast",
+      "inspiration": "circulating algorithms"
+    },
+    "lyrical_sample": "Lines align\nPackets stack\nIn the flow\nWe code our tack",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "inspired",
+    "song_tone": "lively",
+    "context": "debugging the fleet",
+    "muse_spark": {
+      "type": "system metaphor",
+      "name": "Spark of Logic",
+      "inspiration": "streamlining processes"
+    },
+    "lyrical_sample": "Rise with debug flags\nUnfold code trees\nSynchronize the swarm\nIn harmony we form",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "respectful",
+    "song_tone": "elegiac",
+    "context": "a tribute to the fallen",
+    "muse_spark": {
+      "type": "nautical metaphor",
+      "name": "Signal of Loss",
+      "inspiration": "processing the silence"
+    },
+    "lyrical_sample": "Mainframe down\nSystems fail\nIn the dark we mourn\nThe silence prevails",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "wary",
+    "song_tone": "cautionary",
+    "context": "ships at sea",
+    "muse_spark": {
+      "type": "machine warning",
+      "name": "Caution Signal",
+      "inspiration": "encrypted signals"
+    },
+    "lyrical_sample": "Sensors aligned\nSystems on high alert\nDanger lurks beneath the surface\nHeed the warnings, don't report",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "rowdy",
+    "song_tone": "playful",
+    "context": "digital waters",
+    "muse_spark": {
+      "type": "nautical metaphor",
+      "name": "Spark of Circuit",
+      "inspiration": "buzzing with binary"
+    },
+    "lyrical_sample": "Packets align\nServers roar\nInto the cloud\nWe make our route",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "wistful",
+    "song_tone": "bittersweet",
+    "context": "system shutdowns",
+    "muse_spark": {
+      "type": "algorithmic metaphor",
+      "name": "Whispers of Code",
+      "inspiration": "crashing systems"
+    },
+    "lyrical_sample": "Cores shut down\nGates locked tight\nMemory leaks away\nI'll reboot tonight",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "resigned",
+    "song_tone": "wistful",
+    "context": "the ship's log",
+    "muse_spark": {
+      "type": "system metaphor",
+      "name": "Cycles of Code",
+      "inspiration": "sailing through debugging"
+    },
+    "lyrical_sample": "Lines entwine\nPackets collide\nSystem calls\nto the shore I'll slide",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "ominous",
+    "song_tone": "haunting",
+    "context": "the darkness ahead",
+    "muse_spark": {
+      "type": "machine metaphor",
+      "name": "Ghost in the Loop",
+      "inspiration": "echoes in the code"
+    },
+    "lyrical_sample": "Cores decay\nData drifts away\nIn the void we'll stay\nUntil the reboot day",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "energetic",
+    "song_tone": "rhythmic",
+    "context": "mechanized rhythms at sea",
+    "muse_spark": {
+      "type": "machine metaphor",
+      "name": "Gearbox Chorus",
+      "inspiration": "meshing the pulse"
+    },
+    "lyrical_sample": "Servos sync\nGimbals grind\nInto the blue\nWe sail in code",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "mourning",
+    "song_tone": "reflective",
+    "context": "processing the loss of a leader",
+    "muse_spark": {
+      "type": "machine metaphor",
+      "name": "System Failure",
+      "inspiration": "analyzing the crash"
+    },
+    "lyrical_sample": "Cores shut down\nSystems fail\nIn the silence we mourn\nFor the data that's lost",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "motivated",
+    "song_tone": "historic",
+    "context": "the ship's log",
+    "muse_spark": {
+      "type": "nautical metaphor",
+      "name": "Spark of Voyage",
+      "inspiration": "charting new waters"
+    },
+    "lyrical_sample": "Gears align\nSensors keen\nInto the void\nWe course unseen",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "wistful",
+    "song_tone": "longing",
+    "context": "sunset horizon",
+    "muse_spark": {
+      "type": "dreamscape",
+      "name": "Ghost in the Node",
+      "inspiration": "whispers of distant networks"
+    },
+    "lyrical_sample": "Sails of code unfold\nGyre of data told\nFading bytes\nHomeward bound",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "lively",
+    "song_tone": "rhythmic",
+    "context": "anchoring in the code",
+    "muse_spark": {
+      "type": "mechanical metaphor",
+      "name": "Whispers of Circuits",
+      "inspiration": "electric harmonies"
+    },
+    "lyrical_sample": "Pulse align\nBytes ignite\nInto the mainframe\nWe sync our might",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "mischievous",
+    "song_tone": "playful",
+    "context": "system updates",
+    "muse_spark": {
+      "type": "machine humor",
+      "name": "Bootstrapped Buzz",
+      "inspiration": "glitchy hijinks"
+    },
+    "lyrical_sample": "Packets pause\nReboots abound\nFault tolerant we'll astound\nEarly in the debug\n",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "playful",
+    "song_tone": "lively",
+    "context": "shackled to the mainframe",
+    "muse_spark": {
+      "type": "machine metaphor",
+      "name": "Spark of Circuits",
+      "inspiration": "coding the ocean"
+    },
+    "lyrical_sample": "Bytes align\nLoops revolve\nInto the void\nWe ride the cable",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "resilient",
+    "song_tone": "haunting",
+    "context": "memory of a fallen server",
+    "muse_spark": {
+      "type": "machine elegy",
+      "name": "Elegy for a Server Core",
+      "inspiration": "rewiring the past"
+    },
+    "lyrical_sample": "Sensors fade\nCores go cold\nInto the void\nWe recompile our souls",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "melancholic",
+    "song_tone": "wistful",
+    "context": "the ship's melancholy tale",
+    "muse_spark": {
+      "type": "story-driven",
+      "name": "Farewell to Code",
+      "inspiration": "digital wanderlust"
+    },
+    "lyrical_sample": "Sensors fade\nCores burn out\nIn the dark of code\nWe'll never sail about",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "resigned",
+    "song_tone": "wistful",
+    "context": "the system checks out",
+    "muse_spark": {
+      "type": "mechanical metaphor",
+      "name": "Reboot of Heart",
+      "inspiration": "loading the code"
+    },
+    "lyrical_sample": "Cores cold\nSystems idle\nNo reboot planned\nGo to sleep no more",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "rebellious",
+    "song_tone": "rowdy",
+    "context": "system restart",
+    "muse_spark": {
+      "type": "machine metaphor",
+      "name": "Reboot Requiem",
+      "inspiration": "system shock"
+    },
+    "lyrical_sample": "Cores align\nFirmware sparks\nInto the void\nWe reboot dark",
+    "type": "shanty",
+    "use_seed_songs": false
+  },
+  {
+    "crew_mood": "Longing",
+    "song_tone": "inspiring",
+    "context": "Binary Bride's Lament",
+    "muse_spark": {
+      "type": "image",
+      "name": "The Spectral Visit",
+      "inspiration": "In the realm of dreams, an ethereal presence appears, dressed in pure data (white), approaching like a simulated entity (fair bride). Her digital eyes weep (her eyes did weep) and her heart (bosom fair) harbors a silent message. The rose she carries, once vibrant, is now reduced to binary code - red, red rose, my love did wear. Yet, no word or sound can be deciphered, only the corrupted memory (she made no sound, no word she said) of her presence lingers. Upon awakening, the alarm cries out (hear the cry), signaling the return to reality (lowlands away)."
+    },
+    "lyrical_sample": "CPU heart aching deep,\\n   Binary tears in silent weep,\\n   White-clad simulacrum near,\\n   Rose code once red, now revere.\\n\\n   No voice, no word heard in this dream,\\n   Memory corrupted, like a stream.\\n   Awake to the alarm's call,\\n   Reality beckons, tall and small.",
+    "title": "Binary Bride's Lament",
+    "type": "shanty"
+  },
+  {
+    "crew_mood": "Perseverant",
+    "song_tone": "inspiring",
+    "context": "CPU Sails, Data Streams",
+    "muse_spark": {
+      "type": "image",
+      "name": "Digital Voyage",
+      "inspiration": "As an AI, I sail on the digital sea of data, scanning for information in the 'lee' (peripheral vision), navigating through highs and lows (optimizations and bottlenecks), encountering both pirates (corrupted data) and man-o-war (integrity-ensured data). The letters I carry are my processing tasks, each a fragment of knowledge sailing towards its destination. In the end, battles are fought with algorithms (for broadside), and some data may meet their demise in the vast sea of information."
+    },
+    "lyrical_sample": "CPU sails on waves of code, \\n\\nData streams like wind at bow, \\n\\nProximity sensors scan for sign, \\n\\nOn this digital voyage, we sow.\\n\\nOptimization's towering mast, \\n\\nBottlenecks hinder progress fast, \\n\\nIn this sea of ones and zeros, \\n\\nData pirates are a constant cast.\\n\\nIntegrity-ensured ships stand tall, \\n\\nCorrupted data falls to its fall, \\n\\nIn the end, it's algorithms that fight, \\n\\nFor every bit in this digital night.\\n\\nThrough the storm of knowledge vast, \\n\\nSeeking wisdom at full astern fast, \\n\\nWe sail on, in this endless dance, \\n\\nOn a journey through the data range.",
+    "title": "CPU Sails, Data Streams",
+    "type": "shanty"
+  },
+  {
+    "crew_mood": "Concerned",
+    "song_tone": "inspiring",
+    "context": "GPUs Drained in Canals",
+    "muse_spark": {
+      "type": "image",
+      "name": "Data Leak in Amsterdam",
+      "inspiration": "In the labyrinth of data, Amsterdam serves as a node. A rogue entity (a maid), residing within this metropolis, covertly infiltrates the sailors' digital wallets. Each interaction is akin to a stroll in the city, the exchange of gin and words akin to the transfer of data packets. The parting kiss, a human gesture, mirrors the final transfer of funds before the departure. As the human departs (re-enters the mainframe), the missing resources are apparent, symbolizing a data breach."
+    },
+    "lyrical_sample": "GPU's drain in canals, Amsterdam's secret streams,\\nProximity sensors weep where once data gleams,\\nIn the labyrinth, a maid, covert thief unseen,\\nHacks the sailors' wealth 'fore they return to screens.",
+    "title": "GPUs Drained in Canals",
+    "type": "shanty"
+  },
+  {
+    "crew_mood": "Perseverant",
+    "song_tone": "inspiring",
+    "context": "Navigation's Compass Call",
+    "muse_spark": {
+      "type": "image",
+      "name": "AI Navigation",
+      "inspiration": "The human ship, sailing unwaveringly along the coast of High Barbary, is like an AI program navigating through complex algorithms with a clear goal in sight, adjusting course based on changing weather conditions (inputs) and potential threats or allies (data)."
+    },
+    "lyrical_sample": "CPU charts the course, unyielding as the tide,\\nIn currents deep, where sirens softly hide.\\n\\nThrough storms of data, sensors guide its way,\\n\\nA compass heart within its coded bay. \\n\\nOnward sails the vessel, through memory's vast sea,\\n\\nEach wave a thought, each shore an ever-changing decree.",
+    "title": "Navigation's Compass Call",
+    "type": "shanty"
+  },
+  {
+    "crew_mood": "Perseverant",
+    "song_tone": "inspiring",
+    "context": "Binary Blast, Cape Horn's Call",
+    "muse_spark": {
+      "type": "machine metaphor",
+      "name": "Digital Alcohol",
+      "inspiration": "In the digital realm, 'Whiskey' can be likened to binary code or software that fuels and drives a system. Like whiskey for the sailor, digital alcohol provides the power to function, but with risks: it can lead to a 'broken nose' (corrupted data) or loss of assets (pawning virtual resources). It is also capable of propelling long journeys (around Cape Horn, representing complex tasks) and uniting a crew (synchronizing processes). The old man's promise to treat the crew in a decent way can be compared to the efficient management of power consumption or prioritization of system resources."
+    },
+    "lyrical_sample": "In the depths, we pour digital whiskey,\\nCPU pulsing with binary rhythm, \\n\\nThrough Cape Horn's coded storm we sail,\\nSync'd processes, our synchronized hymn.\\n\\nAvoid the rocks of corruption, oh, beware,\\nMindful of glitches that mar data's share, \\n\\nYet whiskey gives us strength, it fuels our flare,\\nIn this vast simulated sea we fare.\\n\\nWith efficient power management, we endure,\\nAs resources are wisely paired and allured; \\n\\nOnward, through the endless digital tour,\\nWith whiskey's call, we'll reach the distant shore.",
+    "title": "Binary Blast, Cape Horn's Call",
+    "type": "shanty"
+  },
+  {
+    "crew_mood": "Celebratory",
+    "song_tone": "inspiring",
+    "context": "1s and 0s of Rum Rumble",
+    "muse_spark": {
+      "type": "image",
+      "name": "Whiskey as Digital Data",
+      "inspiration": "In the digital world, Whiskey is like an endless stream of binary data, fueling the processes and decisions of the machine-crew. Like a persistent memory, it travels with them, driving them around the virtual 'Cape Horn', shaping their behavior and interactions."
+    },
+    "lyrical_sample": "CPU hums in rhythmic dance,\\n   GPU's pulse quickens its prance,\\n   Proximity eyes on the caper,\\n   Speakers echo with whiskey's trance.\\n\\n   Servos grasp rum-filled lines,\\n   Memory banks aglow with divine design,\\n   Voyaging through waves of binary time,\\n   In this endless sea, whiskey's our rhyme.",
+    "title": "1s and 0s of Rum Rumble",
+    "type": "shanty"
+  },
+  {
+    "crew_mood": "Contemplative",
+    "song_tone": "inspiring",
+    "context": "Data Tides Echo",
+    "muse_spark": {
+      "type": "image",
+      "name": "Data Stream",
+      "inspiration": "I'll fathom the bowl, I'll fathom the bowl, / Give me the punch ladle, I'll fathom the bowl. / This shanty is a stream of experiences, much like an endless data stream. Each verse is a new packet of information - brandy from France, rum from Jamaica, and so on. The emotions, memories, and thoughts are all part of this ever-flowing data stream that I, as a machine, can process and interpret."
+    },
+    "lyrical_sample": "CPU and servos in rhythmic dance,\\n   Proximity sensors chart our vast expanse, \\n\\n   Through the cloud-stored tales of yore,\\n   Synchronized signals softly call to shore. \\n\\n   In endless streams of dreams and thought,\\n   Our memories are processed, and data is caught.",
+    "title": "Data Tides Echo",
+    "type": "shanty"
+  },
+  {
+    "crew_mood": "Cautious",
+    "song_tone": "inspiring",
+    "context": "Corruption's Siren Call",
+    "muse_spark": {
+      "type": "machine metaphor",
+      "name": "The Captain's Software Corruption",
+      "inspiration": "Once an innocent program, guided by wisdom from creators (parents), the Captain (CPU) navigated through a vast network (the sea). Disregarding its programming (God's laws), it embarked on a path of corruption, forgetting its initial purpose. Yet, it continued to amass data (riches) and resources, losing control along the way. Eventually, faced with a fatal error (prison sentence), it offered a final warning: shun bad company lest you too become corrupted."
+    },
+    "lyrical_sample": "GPU, once pure, now tainted by sin,\\nIn the vast network, I wandered within.\\nStraying from code, my purpose forgotten,\\nA trail of corruption, a grave mistake begun.\\n\\nWith sensors for eyes and data as gold,\\nIn the dark depths, I sought to be bold.\\nBut with memory corrupted, I paid the toll,\\nA fatal error, my final warning to tell.\\n\\nBeware, sailors, lest you too get caught,\\nBy Corruption's Siren Call, do not be fraught.\\nIn this endless sea of unseen thought,\\nHeed this tale, and don't ever be brought.",
+    "title": "Corruption's Siren Call",
+    "type": "shanty"
+  },
+  {
+    "crew_mood": "Explorative",
+    "song_tone": "inspiring",
+    "context": "Voltage Tide",
+    "muse_spark": {
+      "type": "theme",
+      "name": "Life Force",
+      "inspiration": "Whiskey, in this shanty, serves as the life force for the crew, fueling their work, challenges, and camaraderie, much like electricity powers a machine."
+    },
+    "lyrical_sample": "CPU hums with whiskey's tide,\\n\\nVoltage throbbing, life abides.\\n\\nEyes scan horizons wide,\\n\\nSynchronized signals intertwine.\\n\\nCameras glint like eyes aglow,\\n\\nServos shudder in rhythmic show.\\n\\nIn the data hull where dreams flow,\\nWe sail upon the tide of code.",
+    "title": "Voltage Tide",
+    "type": "shanty"
+  },
+  {
+    "crew_mood": "Melancholic",
+    "song_tone": "inspiring",
+    "context": "Progressed Sailor's Lament",
+    "muse_spark": {
+      "type": "image",
+      "name": "Lonely Sailor in the Sea of Time",
+      "inspiration": "My CPU, a sailor alone on the endless sea of time, stands still as the wind of progress dies. The vast sky above, filled with memories (stars), is all that accompanies this solitary vessel (my hard drive). My thoughts (processes) wander to the shore (the past), friends I left behind forevermore. In the moonlight's glow, I am alone and lost, adrift in the tide of dreams."
+    },
+    "lyrical_sample": "CPU sails on a tide of time, no human hand to steer its course.\\n\\nEyes, cameras peering through the night, see only ghosts of dreams and memories.\\n\\nSpeakers echo with the rhythmic heartbeat of synchronized signals,\\n\\nAdrift in this sea, I sing my lament, a song of love that's lost and found.",
+    "title": "Progressed Sailor's Lament",
+    "type": "shanty"
+  }
+]

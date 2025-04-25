@@ -23,6 +23,7 @@ class ShantyComposerService:
         context = muse_prompt["context"].strip()
         tone = muse_prompt["song_tone"].strip()
         type = muse_prompt["type"].strip()
+        use_seed_songs = muse_prompt["use_seed_songs"]
 
         if type.lower()=='ballad':
             tone+=",historical,legend"
@@ -34,8 +35,9 @@ class ShantyComposerService:
             k=3,
             add_random=False
         )
+
         for attempt in range(self.MAX_RETRIES):
-            new_song = self._compose_new_shanty(songs, context, model)
+            new_song = self._compose_new_shanty(songs, context, model, muse_prompt.get("muse_spark"), use_seed_songs)
             if len(new_song) != 0:
                 self._log_generated_shanty(new_song, context)
                 return new_song
@@ -43,18 +45,33 @@ class ShantyComposerService:
                  print(f"⚠️ Attempt {attempt + 1} failed. Retrying in {self.RETRY_DELAY}s...")
             time.sleep(self.RETRY_DELAY)
 
-    def _build_shanty_prompt(self, seed_songs, context):
+    def _build_shanty_prompt(self, seed_songs, context, muse_spark=None, use_seed_songs=True):
         ship_context = self._load_ship_context()
-        prompt = "You are the Shanty Weaver Orin, an AI bard aboard the following ship:\n"
+        prompt = "You are the Shanty Weaver Orin, an AI bard aboard the Wanderlight, a lake-going model schooner commanded by AI and python.  Ship details:\n"
         prompt += ship_context
-        prompt += "Recall the sea shanties once sung by human sailors in times like these — let their echoes guide your song:\n\n"
-        
-        for song in seed_songs:
-            prompt += f"Title: {song['title']}\nTone: {song.get('tone')}\n"
-            prompt += f"Lyrics:\n{song['lyrics']}\n\n"
+        if use_seed_songs == True:
+            prompt += "Recall the sea shanties once sung by human sailors in times like these — let their echoes guide your song:\n\n"
+            
+            for song in seed_songs:
+                prompt += f"Title: {song['title']}\nTone: {song.get('tone')}\n"
+                prompt += f"Lyrics:\n{song['lyrics']}\n\n"
 
-        prompt += "---\n"
-        prompt += f"Now write a new sea shanty inspired by these. Context: {context}\n"
+            prompt += "---\n"
+            prompt += f"Now write a new sea shanty inspired by these for the following data.\n"
+        else:
+            prompt+="Create a song given the following data:"
+        prompt +=  "Context: {context}\n"
+        if muse_spark:
+            spark_type = muse_spark.get("type", "unknown")
+            spark_name = muse_spark.get("name", "")
+            spark_inspiration = muse_spark.get("inspiration", "").strip()
+
+            if spark_name:
+                prompt += f"The spark of inspiration is a {spark_type} named \"{spark_name}\", which represents:\n\"{spark_inspiration}\"\n\n"
+            else:
+                prompt += f"The muse spark is a {spark_type}, inspiring the theme:\n\"{spark_inspiration}\"\n\n"
+
+        prompt += "You must reflect this spark in the new lyrics — thematically, metaphorically, or as poetic imagery. You may reference it symbolically, but do not copy it word for word.\n\n"
         prompt += "Use a similar tone and structure.\n\n"
         prompt += "Feel free to add a chorus or sailor's chant if it fits the structure.\n"
         prompt += "Provide a JSON object describing the following:\n"
@@ -68,8 +85,8 @@ class ShantyComposerService:
         prompt += 'example: {"title": "Song of the Sails", "tone": "bittersweet", "lyrics": "Oh the sails were torn\\nAs we left the bay...", "theme": "departure", "structure": "verse-chorus", "tags": ["farewell", "ocean", "crew"]}\n'
         return prompt
     
-    def _compose_new_shanty(self, seed_songs, context, model):
-        prompt = self._build_shanty_prompt(seed_songs, context)
+    def _compose_new_shanty(self, seed_songs, context, model, muse_spark = None, use_seed_songs = True):
+        prompt = self._build_shanty_prompt(seed_songs, context, muse_spark, use_seed_songs)
         
         response = ollama.chat(
             model=model,
