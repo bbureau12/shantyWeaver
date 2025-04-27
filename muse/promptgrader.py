@@ -16,7 +16,7 @@ class PromptGrader:
         self.sage_notes = []
         self.embedder = SentenceTransformer('all-MiniLM-L6-v2')
 
-    def manual_grade(self, question):
+    def manual_numeric_grade(self, question):
         while True:
             print(f"\n{Fore.CYAN}{question}")
             print("[1] Very Poor | [2] Poor | [3] Fair | [4] Good | [5] Excellent")
@@ -32,6 +32,21 @@ class PromptGrader:
                     print(f"{Fore.RED}Invalid number. Enter between 1 and 5.")
             except ValueError:
                 print(f"{Fore.RED}Invalid input. Numbers only or 'Q' to quit.")
+    def manual_binary_grade(self, question):
+        while True:
+            print(f"\n{Fore.CYAN}{question}")
+            print("[0] No | [1] Yes")
+            print(f"{Fore.YELLOW}Or type 'Q' to quit grading and save progress.")
+            user_input = input(f"{Fore.YELLOW}Enter 1 or 0: ").strip().lower()
+            if user_input == 'q':
+                raise KeyboardInterrupt  # We will catch this in main() to trigger save
+            try:
+                score = int(user_input)
+                if score == 1:
+                    return 1
+                return 0
+            except ValueError:
+                return 0
 
     def sage_title_length(self):
         title_words = len(self.prompt['title'].split())
@@ -85,11 +100,12 @@ class PromptGrader:
 
 
     def grade(self):
-        self.human_details["title_length"] = self.manual_grade("🎵 Title Length: (2–6 words ideal?)")
-        self.human_details["title_originality"] = self.manual_grade("🎵 Title Originality: (Is the title original?)")
-        self.human_details["lyrical_originality"] = self.manual_grade("🎵 Lyrical Originality: (Are the lyrics original?)")
-        self.human_details["lyrical_quality"] = self.manual_grade("🎵 Lyrical Quality: (Are the lyrics poetic and well-crafted?)")
-        self.human_details["ai_imagery"] = self.manual_grade("🎵 AI Imagery: (Is the imagery fitting for an AI character?)")
+        self.human_details["title_length"] = self.manual_numeric_grade("🎵 Title Length: (2–6 words ideal?)")
+        self.human_details["title_originality"] = self.manual_numeric_grade("🎵 Title Originality: (Is the title original?)")
+        self.human_details["lyrical_originality"] = self.manual_numeric_grade("🎵 Lyrical Originality: (Are the lyrics original?)")
+        self.human_details["lyrical_quality"] = self.manual_numeric_grade("🎵 Lyrical Quality: (Are the lyrics poetic and well-crafted?)")
+        self.human_details["ai_imagery"] = self.manual_numeric_grade("🎵 AI Imagery: (Is the imagery fitting for an AI character?)")
+        self.human_details["hall_of_fame"] = self.manual_binary_grade("🎵 Integrate into hall of fame?")
 
         for key, score in self.human_details.items():
             if score >= 4:
@@ -134,6 +150,7 @@ def main():
         modified = False
         graded_count = 0
         for prompt in prompts:
+            graded_count += 1
             if 'grades' in prompt and grader_name in prompt['grades']:
                 continue
             remaining = len(prompts) - graded_count 
@@ -175,7 +192,6 @@ def main():
                 "notes": human_grade["notes"]
             })
             modified = True
-
 
         # If file modified, save it
         if modified:

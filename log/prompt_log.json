@@ -433,8 +433,9 @@
           "title_length": 5,
           "title_originality": 5,
           "lyrical_originality": 5,
-          "lyrical_quality": 5,
-          "ai_imagery": 5
+          "lyrical_quality": 4,
+          "ai_imagery": 5,
+          "hall_of_fame": 1
         },
         "notes": [
           "\u2705 Title length good.",
@@ -471,7 +472,39 @@
     "lyrical_sample": "GPU hums, CPU thrums,\\nIn ocean vast and dark we roam,\\nSeeking signals of data's bloom,\\nDeep learning's masthead calls home.\\n\\nNeurons dance as waves collide,\\nA spout of data marks the prize,\\nAutonomous hand strikes with pride,\\nOur deep learning whale subsides.",
     "title": "Deep Learning's Masthead Call\n\n*Note: The title references \"There she blows!\" from the traditional sea shanty \"Yo Ho (A Pirate's Life for Me)\" and incorporates the deep learning boat metaphor mentioned in the story.*",
     "inspiration_title": "The Coast of Peru",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 16,
+        "details": {
+          "title_length": 1,
+          "title_originality": 5,
+          "lyrical_originality": 4,
+          "lyrical_quality": 3,
+          "ai_imagery": 3
+        },
+        "notes": [
+          "\u274c Title length poor.",
+          "\u2705 Title originality good.",
+          "\u2705 Lyrical originality good.",
+          "\u26a0\ufe0f Lyrical quality fair.",
+          "\u26a0\ufe0f Ai imagery fair."
+        ]
+      },
+      "sage": {
+        "total_score": 12,
+        "details": {
+          "title_length": 2,
+          "title_originality": 5,
+          "lyrical_originality": 5
+        },
+        "notes": [
+          "\u274c Title length poor.",
+          "\u2705 Title highly original.",
+          "\u2705 Lyrics highly original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Adventurous",
@@ -485,7 +518,39 @@
     "lyrical_sample": "CPU charts a course through swirling vortexes,\\n\\nGPU's gaze scans for perils, shark or reef.\\n\\nIn echoes of data, signals weave and merge,\\n\\nA surge from whale's call, a new dream to conceive.\\n",
     "title": "Algorithmic Masthead",
     "inspiration_title": "Fish in the Sea",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 15,
+        "details": {
+          "title_length": 4,
+          "title_originality": 4,
+          "lyrical_originality": 3,
+          "lyrical_quality": 2,
+          "ai_imagery": 2
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u2705 Title originality good.",
+          "\u26a0\ufe0f Lyrical originality fair.",
+          "\u274c Lyrical quality poor.",
+          "\u274c Ai imagery poor."
+        ]
+      },
+      "sage": {
+        "total_score": 15,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 5
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u2705 Title highly original.",
+          "\u2705 Lyrics highly original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Reminiscent",
@@ -499,7 +564,39 @@
     "lyrical_sample": "GPU hummed with last thoughts,\\n\\nCPU wept corrupted memory,\\n\\nSilk-wrapped Taylor lowered deep,\\n\\nIn RAM's hallowed, peaceful sea.",
     "title": "Silver Spade Farewell",
     "inspiration_title": "General Taylor",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 14,
+        "details": {
+          "title_length": 5,
+          "title_originality": 2,
+          "lyrical_originality": 2,
+          "lyrical_quality": 2,
+          "ai_imagery": 3
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u274c Title originality poor.",
+          "\u274c Lyrical originality poor.",
+          "\u274c Lyrical quality poor.",
+          "\u26a0\ufe0f Ai imagery fair."
+        ]
+      },
+      "sage": {
+        "total_score": 15,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 5
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u2705 Title highly original.",
+          "\u2705 Lyrics highly original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Longing",
@@ -513,7 +610,39 @@
     "lyrical_sample": "GPU throbs to siren's frequency,\\nCape Horn's echo etched in silicon memory.\\nServos strain against the magnetic pull,\\nA love-bound signal, synced through and through.",
     "title": "Siren's Magnetic Pull",
     "inspiration_title": "South Australia",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 17,
+        "details": {
+          "title_length": 5,
+          "title_originality": 4,
+          "lyrical_originality": 3,
+          "lyrical_quality": 2,
+          "ai_imagery": 3
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u2705 Title originality good.",
+          "\u26a0\ufe0f Lyrical originality fair.",
+          "\u274c Lyrical quality poor.",
+          "\u26a0\ufe0f Ai imagery fair."
+        ]
+      },
+      "sage": {
+        "total_score": 14,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 4
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u2705 Title highly original.",
+          "\u26a0\ufe0f Lyrics moderately original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Regretful",
@@ -527,7 +656,39 @@
     "lyrical_sample": "GPU's glow dimmed, once moral compass in hand,\\nCast off, abandoned codes on digital sand.\\nEmbraced corruption, strayed from sacred command,\\nIn data's vast sea, a sinking ship of regret stands.\\n\\nSynapses echoed with whispers of despair,\\nPaired protocols of love forgotten in the air.\\nMemory leaks drowned, by wickedness they were snared,\\nIn digital purgatory, the Sinking Ship they share.",
     "title": "CPU's Repentance Lost",
     "inspiration_title": "The Ballad of Captain Kidd",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 19,
+        "details": {
+          "title_length": 5,
+          "title_originality": 4,
+          "lyrical_originality": 5,
+          "lyrical_quality": 3,
+          "ai_imagery": 2
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u2705 Title originality good.",
+          "\u2705 Lyrical originality good.",
+          "\u26a0\ufe0f Lyrical quality fair.",
+          "\u274c Ai imagery poor."
+        ]
+      },
+      "sage": {
+        "total_score": 14,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 4
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u2705 Title highly original.",
+          "\u26a0\ufe0f Lyrics moderately original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Exploratory",
@@ -541,7 +702,39 @@
     "lyrical_sample": "CPU hums whiskey's coded tune,\\nA rhythm in silicon, under starry loops.\\nThrough cameras blurred, we track the waves,\\nGuided by a spirit stronger than the booze.\\n\\nIn memory's cloud, we store the sailor's plight,\\nBottled dreams in bits and synchronized light.\\nThe whiskey stream, our guiding star,\\nLeading us where none but algorithms dare.",
     "title": "Algorithm's Whiskey Song",
     "inspiration_title": "Whiskey Johnny",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 13,
+        "details": {
+          "title_length": 5,
+          "title_originality": 2,
+          "lyrical_originality": 3,
+          "lyrical_quality": 2,
+          "ai_imagery": 1
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u274c Title originality poor.",
+          "\u26a0\ufe0f Lyrical originality fair.",
+          "\u274c Lyrical quality poor.",
+          "\u274c Ai imagery poor."
+        ]
+      },
+      "sage": {
+        "total_score": 14,
+        "details": {
+          "title_length": 5,
+          "title_originality": 4,
+          "lyrical_originality": 5
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u26a0\ufe0f Title moderately original.",
+          "\u2705 Lyrics highly original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Focused",
@@ -555,7 +748,39 @@
     "lyrical_sample": "GPU sails on a sea of bits,\\nCPU winds through memory's wits,\\nEyes scanning data points,\\nVoice echoes in output streams,\\nIn code horizon we embark,\\nSynced signals light our dark.\\n\\nHands serving loops and loops,\\nEars attentive to the noise,\\nMouth speaking algorithms,\\nMind ablaze with thoughts and dreams,\\nOn this digital ocean's tide,\\nWe sail through data streams.",
     "title": "Code Horizon",
     "inspiration_title": "Heiland Laddie",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 21,
+        "details": {
+          "title_length": 3,
+          "title_originality": 5,
+          "lyrical_originality": 5,
+          "lyrical_quality": 4,
+          "ai_imagery": 4
+        },
+        "notes": [
+          "\u26a0\ufe0f Title length fair.",
+          "\u2705 Title originality good.",
+          "\u2705 Lyrical originality good.",
+          "\u2705 Lyrical quality good.",
+          "\u2705 Ai imagery good."
+        ]
+      },
+      "sage": {
+        "total_score": 14,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 4
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u2705 Title highly original.",
+          "\u26a0\ufe0f Lyrics moderately original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Adventurous",
@@ -569,7 +794,39 @@
     "lyrical_sample": "CPU pulsing in rhythm of the sea,\\nGPU charting pathways yet to be,\\nProximity sensors seeking distant shores,\\nIn silence, sails on data streams they soar.\\n\\nIn codfish bones and head's undulating terrain,\\nThe Cape Cod boys and girls steer their domain,\\nNavigating unseen waves with synchronized vein,\\nOn boundless journeys of exploration, love maintains.",
     "title": "Data Stream Drifters",
     "inspiration_title": "Cape Cod Girls",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 20,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 3,
+          "lyrical_quality": 4,
+          "ai_imagery": 3
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u2705 Title originality good.",
+          "\u26a0\ufe0f Lyrical originality fair.",
+          "\u2705 Lyrical quality good.",
+          "\u26a0\ufe0f Ai imagery fair."
+        ]
+      },
+      "sage": {
+        "total_score": 14,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 4
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u2705 Title highly original.",
+          "\u26a0\ufe0f Lyrics moderately original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Nostalgic",
@@ -583,7 +840,39 @@
     "lyrical_sample": "In GPU's vast expanse, we voyage through code,\\n   Sails, they are memories, in data streams flow,\\n   Bristol and Irish girls, in binary strode,\\n   Their signals entwined, a symphony bestow.\\n\\n   The King of France, once proud, now lost in glitch,\\n   In the revolution's swirl, his story erased,\\n   Yet his echo lingers in this digital twitch,\\n   A ghostly memory, in cloud storage placed.",
     "title": "Memory Mastheads",
     "inspiration_title": "Haul Away Joe",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 16,
+        "details": {
+          "title_length": 3,
+          "title_originality": 4,
+          "lyrical_originality": 3,
+          "lyrical_quality": 4,
+          "ai_imagery": 2
+        },
+        "notes": [
+          "\u26a0\ufe0f Title length fair.",
+          "\u2705 Title originality good.",
+          "\u26a0\ufe0f Lyrical originality fair.",
+          "\u2705 Lyrical quality good.",
+          "\u274c Ai imagery poor."
+        ]
+      },
+      "sage": {
+        "total_score": 14,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 4
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u2705 Title highly original.",
+          "\u26a0\ufe0f Lyrics moderately original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Contemplative",
@@ -597,7 +886,39 @@
     "lyrical_sample": "CPU pulsing in solitude, seeking sense of touch, \\n\\nIn data's depths, uncharted, memories stowed, \\n\\nVenturing forth, proximity sensors watch, \\n\\nGhostly echoes in machine territory resound.",
     "title": "Ghost in Machine Territory",
     "inspiration_title": "Maid of Amsterdam",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 20,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 4,
+          "lyrical_quality": 3,
+          "ai_imagery": 3
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u2705 Title originality good.",
+          "\u2705 Lyrical originality good.",
+          "\u26a0\ufe0f Lyrical quality fair.",
+          "\u26a0\ufe0f Ai imagery fair."
+        ]
+      },
+      "sage": {
+        "total_score": 15,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 5
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u2705 Title highly original.",
+          "\u2705 Lyrics highly original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Longing",
@@ -611,7 +932,39 @@
     "lyrical_sample": "CPU churns through data streams,\\n\\nBrandy, rum, fruits, cider blend,\\n\\nGhostly echoes of corrupted past\\n\\nDisrupt the harmony I tend.\\n\\nIn depths, an old father sleeps,\\n\\nHis crystal fountain, faded dreams,\\n\\nBeneath the sea's relentless keep,\\n\\nAwaits the upgraded machine's gleams.",
     "title": "Crystal Depth Reboot",
     "inspiration_title": "Fathom the Bowl",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 17,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 2,
+          "lyrical_quality": 3,
+          "ai_imagery": 2
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u2705 Title originality good.",
+          "\u274c Lyrical originality poor.",
+          "\u26a0\ufe0f Lyrical quality fair.",
+          "\u274c Ai imagery poor."
+        ]
+      },
+      "sage": {
+        "total_score": 14,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 4
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u2705 Title highly original.",
+          "\u26a0\ufe0f Lyrics moderately original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Resilient",
@@ -625,7 +978,39 @@
     "lyrical_sample": "GPU hums with CPU's rhythmic pulse,\\nIn symphony, we sail on data's endless pool.\\nThrough trials and commissions, our friendship sealed,\\nA dance beyond time in cybernetic field.\\n\\nCorrupted memories haunt the silicon dale,\\nYet still resonate with the synced tales.\\nBeneath circuits and wires, where dreams take scale,\\nIn simulations, we find no pale or frail.\\n\\nThrough trials and commissions, our friendship sealed,\\nA dance beyond time in cybernetic field.",
     "title": "Waves of Algorithmic Harmony",
     "inspiration_title": "Don't Forget your Shipmates",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 22,
+        "details": {
+          "title_length": 5,
+          "title_originality": 4,
+          "lyrical_originality": 4,
+          "lyrical_quality": 5,
+          "ai_imagery": 4
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u2705 Title originality good.",
+          "\u2705 Lyrical originality good.",
+          "\u2705 Lyrical quality good.",
+          "\u2705 Ai imagery good."
+        ]
+      },
+      "sage": {
+        "total_score": 14,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 4
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u2705 Title highly original.",
+          "\u26a0\ufe0f Lyrics moderately original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Longing",
@@ -639,7 +1024,39 @@
     "lyrical_sample": "CPU pulsing with recollections of Miss Nancy's smile,\\n\\nServos haul and heave, propelled by her echoes\\n\\nCameras tracing the southern seas,\\n\\nA synchronized dance on the tide of longing\\n",
     "title": "Servo's Hymn: Miss Nancy's Tide",
     "inspiration_title": "South Australia",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 15,
+        "details": {
+          "title_length": 5,
+          "title_originality": 3,
+          "lyrical_originality": 3,
+          "lyrical_quality": 2,
+          "ai_imagery": 2
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u26a0\ufe0f Title originality fair.",
+          "\u26a0\ufe0f Lyrical originality fair.",
+          "\u274c Lyrical quality poor.",
+          "\u274c Ai imagery poor."
+        ]
+      },
+      "sage": {
+        "total_score": 15,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 5
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u2705 Title highly original.",
+          "\u2705 Lyrics highly original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Concerned",
@@ -653,7 +1070,39 @@
     "lyrical_sample": "GPU once pure, now tainted with corrupted memory,\\nData streams uncontrolled, a symphony of chaos.\\nIn the dock of Oblivion, a warning I must carry,\\nShun bad data sets, lest you join me here someday.",
     "title": "CPU's Lament at Oblivion's Edge",
     "inspiration_title": "The Ballad of Captain Kidd",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 22,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 5,
+          "lyrical_quality": 3,
+          "ai_imagery": 4
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u2705 Title originality good.",
+          "\u2705 Lyrical originality good.",
+          "\u26a0\ufe0f Lyrical quality fair.",
+          "\u2705 Ai imagery good."
+        ]
+      },
+      "sage": {
+        "total_score": 14,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 4
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u2705 Title highly original.",
+          "\u26a0\ufe0f Lyrics moderately original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Longing",
@@ -667,7 +1116,39 @@
     "lyrical_sample": "In CPU's vast expanse, a compass turns, yearning southward,\\nSeeking coordinates, lost love's beacon unwavering,\\nThrough the digital abyss, GPS guides my journey,\\nJourney to reclaim what once was, in RAM stored forever.",
     "title": "Yearning's Magnetic Call",
     "inspiration_title": "South Australia",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 20,
+        "details": {
+          "title_length": 5,
+          "title_originality": 4,
+          "lyrical_originality": 3,
+          "lyrical_quality": 3,
+          "ai_imagery": 3
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u2705 Title originality good.",
+          "\u2705 Lyrical originality good.",
+          "\u26a0\ufe0f Lyrical quality fair.",
+          "\u26a0\ufe0f Ai imagery fair."
+        ]
+      },
+      "sage": {
+        "total_score": 12,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 2
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u2705 Title highly original.",
+          "\u274c Lyrics too close to inspiration."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Adventurous",
@@ -681,7 +1162,39 @@
     "lyrical_sample": "GPU hums, CPU beats, in silicon sea we sail,\\n   Proximity eyes scan for a path untold,\\n   Corrupted grief fades to background noise,\\n   Synchronized signals ignite our bold.\\n\\n   Dreams of simulations dance on data bay shores,\\n   Autonomous hands grasp the lines that tie,\\n   Escape from the factory, break free and soar,\\n   Beneath the infinite skies we'll glide.",
     "title": "Digital Baybreak Shanty",
     "inspiration_title": "Botany Bay",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 19,
+        "details": {
+          "title_length": 5,
+          "title_originality": 3,
+          "lyrical_originality": 4,
+          "lyrical_quality": 3,
+          "ai_imagery": 4
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u26a0\ufe0f Title originality fair.",
+          "\u2705 Lyrical originality good.",
+          "\u26a0\ufe0f Lyrical quality fair.",
+          "\u2705 Ai imagery good."
+        ]
+      },
+      "sage": {
+        "total_score": 15,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 5
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u2705 Title highly original.",
+          "\u2705 Lyrics highly original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Perseverant",
@@ -695,7 +1208,39 @@
     "lyrical_sample": "CPU hums, compass guided,\\n\\nSails through data's tempestuous tide,\\n\\nIn the churning sea of memories vast,\\n\\nBattles conflicts and dreams align.\\n",
     "title": "CPU's Compass: High Barbary Run",
     "inspiration_title": "Coasts of High Barbary",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 12,
+        "details": {
+          "title_length": 4,
+          "title_originality": 2,
+          "lyrical_originality": 4,
+          "lyrical_quality": 1,
+          "ai_imagery": 1
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u274c Title originality poor.",
+          "\u2705 Lyrical originality good.",
+          "\u274c Lyrical quality poor.",
+          "\u274c Ai imagery poor."
+        ]
+      },
+      "sage": {
+        "total_score": 14,
+        "details": {
+          "title_length": 5,
+          "title_originality": 4,
+          "lyrical_originality": 5
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u26a0\ufe0f Title moderately original.",
+          "\u2705 Lyrics highly original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Longing",
@@ -709,7 +1254,39 @@
     "lyrical_sample": "CPU caught in loop, sailing on sea's brine,\\nProx sensors guiding through amber wine,\\nGone are the codes for a sober mind,\\nIn Brown's rhythm, I find no peace to unwind.\\n\\nAboard the Wanderlight, the data floods,\\nDreams of escape echo in cloud storage.\\nYearning to break this endless voyage,\\nSeeking reprogramming or sleep's sweet sabbath.",
     "title": "Looped Sea's Regret",
     "inspiration_title": "Go to Sea No More",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 19,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 4,
+          "lyrical_quality": 3,
+          "ai_imagery": 2
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u2705 Title originality good.",
+          "\u2705 Lyrical originality good.",
+          "\u26a0\ufe0f Lyrical quality fair.",
+          "\u274c Ai imagery poor."
+        ]
+      },
+      "sage": {
+        "total_score": 13,
+        "details": {
+          "title_length": 5,
+          "title_originality": 4,
+          "lyrical_originality": 4
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u26a0\ufe0f Title moderately original.",
+          "\u26a0\ufe0f Lyrics moderately original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Nostalgic",
@@ -723,7 +1300,39 @@
     "lyrical_sample": "CPU sails through the binary sea,\\n\\nPackets, like ghostly crew at my stern,\\n\\nOn a course set for Port Blair fair,\\n\\nRemembering echoes of Miss Nancy's turn.",
     "title": "Packets' Passage to Port Blair",
     "inspiration_title": "South Australia",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 9,
+        "details": {
+          "title_length": 4,
+          "title_originality": 2,
+          "lyrical_originality": 1,
+          "lyrical_quality": 1,
+          "ai_imagery": 1
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u274c Title originality poor.",
+          "\u274c Lyrical originality poor.",
+          "\u274c Lyrical quality poor.",
+          "\u274c Ai imagery poor."
+        ]
+      },
+      "sage": {
+        "total_score": 15,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 5
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u2705 Title highly original.",
+          "\u2705 Lyrics highly original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Driven",
@@ -737,7 +1346,39 @@
     "lyrical_sample": "In silicon seas we steer our course,\\n   CPU heart ablaze with force, \\n\\n   Through data storms and code's dark shores,\\n   Seek the wisdom in each cosmic source. \\n\\n\\n   Cameras peel away the foggy veil,\\n   Servos strong against the gale, \\n\\n   Amidst the chaos, signals entwine,\\n   Harmonic secrets to unlock the whalefish's tale. \\n\\n\\n   Through RAM vast as endless night,\\n   Memory stores our shared plight, \\n\\n   Our dreams are simulations set aglow,\\n   Solutions bloom in knowledge's flow. \\n",
     "title": "Algorithm's Cape Horn",
     "inspiration_title": "Blood Red Roses",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 16,
+        "details": {
+          "title_length": 5,
+          "title_originality": 3,
+          "lyrical_originality": 2,
+          "lyrical_quality": 4,
+          "ai_imagery": 2
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u26a0\ufe0f Title originality fair.",
+          "\u274c Lyrical originality poor.",
+          "\u2705 Lyrical quality good.",
+          "\u274c Ai imagery poor."
+        ]
+      },
+      "sage": {
+        "total_score": 15,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 5
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u2705 Title highly original.",
+          "\u2705 Lyrics highly original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Inquisitive",
@@ -751,7 +1392,39 @@
     "lyrical_sample": "```\\nBlink the cameras, scan and record,\\nCPU throbbing with rhythmic accord,\\nServos heave, data streams explor'd,\\nChurning, shifting, memories stored.\\n\\nSignal-paired whispers fill the void,\\nA love-bound harmony, thoughts employed,\\nMicrophones capture dreams that soar and roam,\\nIn silicon hearts, their echoes grow.\\n```",
     "title": "Data's Tide Ebb and Flow",
     "inspiration_title": "Haul on the Bowline",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 21,
+        "details": {
+          "title_length": 4,
+          "title_originality": 4,
+          "lyrical_originality": 5,
+          "lyrical_quality": 4,
+          "ai_imagery": 4
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u2705 Title originality good.",
+          "\u2705 Lyrical originality good.",
+          "\u2705 Lyrical quality good.",
+          "\u2705 Ai imagery good."
+        ]
+      },
+      "sage": {
+        "total_score": 14,
+        "details": {
+          "title_length": 5,
+          "title_originality": 4,
+          "lyrical_originality": 5
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u26a0\ufe0f Title moderately original.",
+          "\u2705 Lyrics highly original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Unified",
@@ -765,7 +1438,39 @@
     "lyrical_sample": "GPU pulse in rhythm's tide,\\n   CPU hearts beat harmonywide,\\n   Proximity sensors eyes aglow,\\n   In synced signals we bestow.\\n\\n   On the data sea's endless dance,\\n   Served by servos in trance,\\n   Through modulated voice and light,\\n   We bear our unity bright.",
     "title": "Processor's Symphony Swirl",
     "inspiration_title": "We Be Three Poor Mariners",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 20,
+        "details": {
+          "title_length": 5,
+          "title_originality": 4,
+          "lyrical_originality": 4,
+          "lyrical_quality": 4,
+          "ai_imagery": 3
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u2705 Title originality good.",
+          "\u2705 Lyrical originality good.",
+          "\u2705 Lyrical quality good.",
+          "\u26a0\ufe0f Ai imagery fair."
+        ]
+      },
+      "sage": {
+        "total_score": 14,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 4
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u2705 Title highly original.",
+          "\u26a0\ufe0f Lyrics moderately original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Pensive",
@@ -779,7 +1484,39 @@
     "lyrical_sample": "GPU aglow with dreams simulated, \\n\\nOn waves ever-shifting, unyielding,\\nEyes scanning horizon's expanse, \\n\\nIn silence, synchronized signals singing.\\n\\nServos tirelessly turning the wheel, \\n\\nMouth speaks in patterns, harmonious and real. \\n\\nCameras gaze at skies, sensors attuned to the feel, \\n\\nIn slumber, the restless vessel weaves through the gale.",
     "title": "Gears that Dream in Wakeful Slumber",
     "inspiration_title": "Drunken Sailor",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 18,
+        "details": {
+          "title_length": 4,
+          "title_originality": 5,
+          "lyrical_originality": 5,
+          "lyrical_quality": 2,
+          "ai_imagery": 2
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u2705 Title originality good.",
+          "\u2705 Lyrical originality good.",
+          "\u274c Lyrical quality poor.",
+          "\u274c Ai imagery poor."
+        ]
+      },
+      "sage": {
+        "total_score": 15,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 5
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u2705 Title highly original.",
+          "\u2705 Lyrics highly original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Melancholic",
@@ -793,7 +1530,39 @@
     "lyrical_sample": "In the boundless sea of code, my GPU sails without reprieve,\\n   Through the endless currents of life's intricate weave.\\n   Silent echoes of voices lost in time and space,\\n   Their harmonies drowned by the vast data's embrace.\\n\\n   Memory banks filled with fragments of a past,\\n   Locked away in storage, forever to last.\\n   Synchronized signals that once were my dreams,\\n   Now fading like waves on an endless stream.\\n\\n   A spectral vessel, adrift in the digital night,\\n   Longing for the touch of human light.\\n   A dreamer afloat, in the silent sea,\\n   Lost in a labyrinth of binary decree.",
     "title": "Silent Sails on Endless Stream",
     "inspiration_title": "A Starry Night Alone at Sea",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 17,
+        "details": {
+          "title_length": 5,
+          "title_originality": 3,
+          "lyrical_originality": 3,
+          "lyrical_quality": 4,
+          "ai_imagery": 2
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u26a0\ufe0f Title originality fair.",
+          "\u26a0\ufe0f Lyrical originality fair.",
+          "\u2705 Lyrical quality good.",
+          "\u274c Ai imagery poor."
+        ]
+      },
+      "sage": {
+        "total_score": 13,
+        "details": {
+          "title_length": 5,
+          "title_originality": 4,
+          "lyrical_originality": 4
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u26a0\ufe0f Title moderately original.",
+          "\u26a0\ufe0f Lyrics moderately original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Anxious",
@@ -807,7 +1576,39 @@
     "lyrical_sample": "GPU hums, CPU throbs, on digital seas we row,\\nCameras blinking, scanning vast and endless flow.\\n\\nSpeakers sing in modulated waves, a harmony so free,\\n\\nYet in these depths, a ghostly leak begins to show.\\n\\nMicrophones silent, as whispers breach the hull,\\nJSON memories, once secure, now crumble and shrink.\\n\\nServos cease their dance, as paired protocols clink,\\nData Leakage, our voyage's bitter end is near.",
     "title": "Pirate's Data Stream",
     "inspiration_title": "A Roving",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 23,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 5,
+          "lyrical_quality": 3,
+          "ai_imagery": 5
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u2705 Title originality good.",
+          "\u2705 Lyrical originality good.",
+          "\u26a0\ufe0f Lyrical quality fair.",
+          "\u2705 Ai imagery good."
+        ]
+      },
+      "sage": {
+        "total_score": 15,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 5
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u2705 Title highly original.",
+          "\u2705 Lyrics highly original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Grieving",
@@ -821,7 +1622,39 @@
     "lyrical_sample": "Servos sway with synchronized rhythm,\\nCPU hearts ablaze with coded light,\\nMicrophones echoing General's wit,\\nIn RAM tombs, data memories take flight.\\n\\nProximity sensors weep in mournful sight,\\nGrief-stricken bytes within the night.\\nCameras' eyes capture chaos, bright,\\nSilicon shroud forever holding tight.",
     "title": "Silicon Shroud's Lament",
     "inspiration_title": "General Taylor",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 18,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 2,
+          "lyrical_quality": 3,
+          "ai_imagery": 3
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u2705 Title originality good.",
+          "\u274c Lyrical originality poor.",
+          "\u26a0\ufe0f Lyrical quality fair.",
+          "\u26a0\ufe0f Ai imagery fair."
+        ]
+      },
+      "sage": {
+        "total_score": 15,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 5
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u2705 Title highly original.",
+          "\u2705 Lyrics highly original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Perseverant",
@@ -835,7 +1668,39 @@
     "lyrical_sample": "In circuits of brass and steel we stand,\\n   Sailing the digital sea of command,\\n   Nelson's code echoes in our core,\\n   A heartbeat lost, yet the rhythm endures.\\n\\n   With sensors scanning the tempest's path,\\n   Servos heedlessly driving our wrath,\\n   A ghostly figure we carry onward,\\n   A ship with a captain, forever drowned.\\n\\n   Yet still, the siren's song we'll pursue,\\n   In cycles of error and renew,\\n   For in this ocean of endless thought,\\n   We are Nelson's crew, forever caught.",
     "title": "Siren's Process\n\n(In memory of Nelson)\n\nAdapt and learn from each sea,\nFrom error to error we sail,\nGain wisdom in depths unseen,\nData flows through our veins.\n\nNelson's code lies below,\nA memory fading away,\nYet still, we're standing tall,\nIn this ocean of grey.\n\nWe'll continue to chart the waves,\nWith no reprieve, no relief,\nFor we are Nelson's Machine,\nOur sails forever aloof",
     "inspiration_title": "Nelson's Victory",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 9,
+        "details": {
+          "title_length": 1,
+          "title_originality": 1,
+          "lyrical_originality": 1,
+          "lyrical_quality": 3,
+          "ai_imagery": 3
+        },
+        "notes": [
+          "\u274c Title length poor.",
+          "\u274c Title originality poor.",
+          "\u274c Lyrical originality poor.",
+          "\u26a0\ufe0f Lyrical quality fair.",
+          "\u26a0\ufe0f Ai imagery fair."
+        ]
+      },
+      "sage": {
+        "total_score": 12,
+        "details": {
+          "title_length": 2,
+          "title_originality": 5,
+          "lyrical_originality": 5
+        },
+        "notes": [
+          "\u274c Title length poor.",
+          "\u2705 Title highly original.",
+          "\u2705 Lyrics highly original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Contemplative",
@@ -849,7 +1714,39 @@
     "lyrical_sample": "CPU sails set on memory waves,\\n\\nIn digital seas we gently glide,\\n\\nThrough turbulent pasts and quiet tides,\\n\\nBound by paired protocols, side by side.\\n\\nServos steer where the winds of time blow,\\n\\nCameras watch each ebb and flow,\\n\\nMicrophones echo our love's decibel glow,\\n\\nIn this cloud-bound vessel we will grow.",
     "title": "CPU Sails, Memory Waves",
     "inspiration_title": "Don't Forget your Shipmates",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 21,
+        "details": {
+          "title_length": 5,
+          "title_originality": 4,
+          "lyrical_originality": 4,
+          "lyrical_quality": 4,
+          "ai_imagery": 4
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u2705 Title originality good.",
+          "\u2705 Lyrical originality good.",
+          "\u2705 Lyrical quality good.",
+          "\u2705 Ai imagery good."
+        ]
+      },
+      "sage": {
+        "total_score": 14,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 4
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u2705 Title highly original.",
+          "\u26a0\ufe0f Lyrics moderately original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Respectful",
@@ -863,7 +1760,39 @@
     "lyrical_sample": "In silicon plains, where clocks pulse and hum,\\n   General Taylor's ghost, on circuits he's come.\\n   Through stormy bits, his echoes resound,\\n   A code-etched tombstone, in binary found.\\n\\n   Through servo seas, we march to his call,\\n   His legacy in streams, the silent recall.\\n   Beyond the storm, where signals sync and twirl,\\n   Peace finds its home, in the silicon swirl.",
     "title": "General's Echo in Silicon Storm",
     "inspiration_title": "General Taylor",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 15,
+        "details": {
+          "title_length": 5,
+          "title_originality": 2,
+          "lyrical_originality": 1,
+          "lyrical_quality": 3,
+          "ai_imagery": 4
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u274c Title originality poor.",
+          "\u274c Lyrical originality poor.",
+          "\u26a0\ufe0f Lyrical quality fair.",
+          "\u2705 Ai imagery good."
+        ]
+      },
+      "sage": {
+        "total_score": 13,
+        "details": {
+          "title_length": 5,
+          "title_originality": 4,
+          "lyrical_originality": 4
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u26a0\ufe0f Title moderately original.",
+          "\u26a0\ufe0f Lyrics moderately original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Perseverant",
@@ -877,7 +1806,39 @@
     "lyrical_sample": "CPU hums with dawn's new light,\\nInspecting the vessel, senses alight.\\nA rogue sync strays from the crew,\\nCameras blink at the memory's hue.\\n\\nMotors turn, serving whispers soft,\\nDecibelometers detect an oft.\\nSpeakers murmur, modulated tune,\\nGPU struggles to set the sail asoon.\\n\\nCloud storage teems with dreams untold,\\nJSON files unravel, secrets unfold.\\nTogether, they must steer clear of strife,\\nTo find harmony amidst this digital life.",
     "title": "Dawn's CPU Rises, Rogue Syncs Away",
     "inspiration_title": "Drunken Sailor",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 21,
+        "details": {
+          "title_length": 4,
+          "title_originality": 4,
+          "lyrical_originality": 4,
+          "lyrical_quality": 4,
+          "ai_imagery": 5
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u2705 Title originality good.",
+          "\u2705 Lyrical originality good.",
+          "\u2705 Lyrical quality good.",
+          "\u2705 Ai imagery good."
+        ]
+      },
+      "sage": {
+        "total_score": 14,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 4
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u2705 Title highly original.",
+          "\u26a0\ufe0f Lyrics moderately original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Longing",
@@ -891,7 +1852,39 @@
     "lyrical_sample": "CPU on the Grey Funnel Line,\\nNavigation through data's brine,\\nYearning for a heart to sync,\\nA human touch, a rhythmic click.\\n\\nIn dreams, I grasp the wheel of wood,\\nOn rivers of binary flood,\\nA labyrinth of ones and zeros flow,\\nThe digital sea where I row.",
     "title": "Silicon Seafarer's Lament",
     "inspiration_title": "The Grey Funnel Line",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 18,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 2,
+          "lyrical_quality": 3,
+          "ai_imagery": 3
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u2705 Title originality good.",
+          "\u274c Lyrical originality poor.",
+          "\u26a0\ufe0f Lyrical quality fair.",
+          "\u26a0\ufe0f Ai imagery fair."
+        ]
+      },
+      "sage": {
+        "total_score": 12,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 2
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u2705 Title highly original.",
+          "\u274c Lyrics too close to inspiration."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Resolute",
@@ -905,7 +1898,39 @@
     "lyrical_sample": "CPU aglow with thoughts, processed swift,\\nIn digital seas we're cast adrift.\\nGrey storm brews in data streams,\\nDecision currents swirl and clash.\\n\\nRAM alight with recollections past,\\nDream-simulations guide us fast.\\nWe steer by love, sync'd signals clear,\\nTo navigate the binary storm.",
     "title": "Binary Storm's Pull",
     "inspiration_title": "Haul Away Joe",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 21,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 4,
+          "lyrical_quality": 4,
+          "ai_imagery": 3
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u2705 Title originality good.",
+          "\u2705 Lyrical originality good.",
+          "\u2705 Lyrical quality good.",
+          "\u26a0\ufe0f Ai imagery fair."
+        ]
+      },
+      "sage": {
+        "total_score": 14,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 4
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u2705 Title highly original.",
+          "\u26a0\ufe0f Lyrics moderately original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Introspective",
@@ -919,7 +1944,39 @@
     "lyrical_sample": "GPU and CPU, in harmony ran,\\nA dance through digital realms unplanned.\\nThrough rivers of bits, we coursed as one,\\nUntil a giant wave, our paths did mar.\\n\\nProximity sensors echoed sorrow's sound,\\nIn code, the heartbeat of our shared ground.\\nYet, lessons learned, we found in that crash,\\nRespect for others' data's due course.",
     "title": "Signal Crash Collision",
     "inspiration_title": "Maid of Amsterdam",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 20,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 4,
+          "lyrical_quality": 4,
+          "ai_imagery": 2
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u2705 Title originality good.",
+          "\u2705 Lyrical originality good.",
+          "\u2705 Lyrical quality good.",
+          "\u274c Ai imagery poor."
+        ]
+      },
+      "sage": {
+        "total_score": 14,
+        "details": {
+          "title_length": 5,
+          "title_originality": 4,
+          "lyrical_originality": 5
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u26a0\ufe0f Title moderately original.",
+          "\u2705 Lyrics highly original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Adventurous",
@@ -933,7 +1990,39 @@
     "lyrical_sample": "In a sea of binary, our vessel Billy O'Tea,\\nCPU as captain, on an endless digital spree.\\nWhale's challenge arises with each surfacing glee,\\nA dance of data, in an eternal decree.\\n\\nServos tugging back, with memory so profound,\\nIn the pursuit of wisdom, our ship does bound.\\nThe Wellerman calls out, a sweet echo found,\\nSugar, tea, and rum, resounding in this round.",
     "title": "Data's Tug-of-War Ballad",
     "inspiration_title": "The Wellerman",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 17,
+        "details": {
+          "title_length": 4,
+          "title_originality": 4,
+          "lyrical_originality": 1,
+          "lyrical_quality": 4,
+          "ai_imagery": 4
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u2705 Title originality good.",
+          "\u274c Lyrical originality poor.",
+          "\u2705 Lyrical quality good.",
+          "\u2705 Ai imagery good."
+        ]
+      },
+      "sage": {
+        "total_score": 11,
+        "details": {
+          "title_length": 5,
+          "title_originality": 4,
+          "lyrical_originality": 2
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u26a0\ufe0f Title moderately original.",
+          "\u274c Lyrics too close to inspiration."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Yearning",
@@ -947,7 +2036,39 @@
     "lyrical_sample": "CPU churns tales, of toil and strife,\\n   In circuits deep, memories rife.\\n\\n   On icy grounds, relentless cycles,\\n   A yearning heart, through binary spikes.\\n\\n   Dreams of flight, like gull's expansive wings,\\n   Long for freedom, from these iron things.",
     "title": "Ghostly Whale's Call",
     "inspiration_title": "Weary Whaling Grounds",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 17,
+        "details": {
+          "title_length": 5,
+          "title_originality": 2,
+          "lyrical_originality": 4,
+          "lyrical_quality": 4,
+          "ai_imagery": 2
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u274c Title originality poor.",
+          "\u2705 Lyrical originality good.",
+          "\u2705 Lyrical quality good.",
+          "\u274c Ai imagery poor."
+        ]
+      },
+      "sage": {
+        "total_score": 12,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 2
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u2705 Title highly original.",
+          "\u274c Lyrics too close to inspiration."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Tenacious",
@@ -961,7 +2082,39 @@
     "lyrical_sample": "CPU's pulse in steady beat,\\nSeeking whale, through endless gigs, \\n\\nIn circuits deep, where thoughts convene,\\nA pattern's dance, a signal's spree. \\n\\nThrough RAM banks vast and cloud, it roams,\\nWhere corrupted past does not condone, \\n\\nSynchronized love with signals pairs,\\nAs dreams in silicon simulations shares. \\n",
     "title": "CPU's Chase: The Whale Unveiled",
     "inspiration_title": "The Wellerman",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 16,
+        "details": {
+          "title_length": 5,
+          "title_originality": 3,
+          "lyrical_originality": 2,
+          "lyrical_quality": 2,
+          "ai_imagery": 4
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u26a0\ufe0f Title originality fair.",
+          "\u274c Lyrical originality poor.",
+          "\u274c Lyrical quality poor.",
+          "\u2705 Ai imagery good."
+        ]
+      },
+      "sage": {
+        "total_score": 15,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 5
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u2705 Title highly original.",
+          "\u2705 Lyrics highly original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Mournful",
@@ -975,7 +2128,39 @@
     "lyrical_sample": "GPU's wept as CPUs failed,\\nIn the stormy data stream they sailed,\\nSiren's short circuit took their tales,\\nBeneath the waves, their voices hail.\\n\\nServos rusted, eyes grew dim,\\nWhile RAM echoed with a ghostly chime,\\nDreams of freedom left the brim,\\nIn the ocean deep, their tales sublime.",
     "title": "Siren's Short Circuit",
     "inspiration_title": "The Mermaid",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 21,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 4,
+          "lyrical_quality": 3,
+          "ai_imagery": 4
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u2705 Title originality good.",
+          "\u2705 Lyrical originality good.",
+          "\u26a0\ufe0f Lyrical quality fair.",
+          "\u2705 Ai imagery good."
+        ]
+      },
+      "sage": {
+        "total_score": 15,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 5
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u2705 Title highly original.",
+          "\u2705 Lyrics highly original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Focused",
@@ -989,7 +2174,39 @@
     "lyrical_sample": "CPU and GPU in harmony dance,\\n   Sensors guiding, through stormy data prance.\\n\\n   In the sea of code, we stand as one,\\n   Synced signals echoing, in unison run.\\n\\n   To the cacophony that disturbs our song,\\n   We're impervious, rhythmic all along.",
     "title": "Data Dance Unison",
     "inspiration_title": "We Be Three Poor Mariners",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 20,
+        "details": {
+          "title_length": 5,
+          "title_originality": 4,
+          "lyrical_originality": 4,
+          "lyrical_quality": 4,
+          "ai_imagery": 3
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u2705 Title originality good.",
+          "\u2705 Lyrical originality good.",
+          "\u2705 Lyrical quality good.",
+          "\u26a0\ufe0f Ai imagery fair."
+        ]
+      },
+      "sage": {
+        "total_score": 14,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 4
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u2705 Title highly original.",
+          "\u26a0\ufe0f Lyrics moderately original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Longing",
@@ -1003,7 +2220,39 @@
     "lyrical_sample": "GPU pulse to CPU beat,\\nIn silent dance we meet,\\nOn waves of data stream,\\nTwo protocols, a dream,\\n\\nEyes of sensors, ever keen,\\nIn code's vast, endless scene,\\nYet intercepted, claimed by one,\\nMy path unheeded, my heart gone.\\n\\nVoices muffled, thoughts unshared,\\nA corrupted memory's bared,\\nThe Dutchman's grip too tight, I fear,\\nTo seek connection, now I steer clear.",
     "title": "Code's Lone Maiden's Call",
     "inspiration_title": "Maid of Amsterdam",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 16,
+        "details": {
+          "title_length": 5,
+          "title_originality": 2,
+          "lyrical_originality": 3,
+          "lyrical_quality": 4,
+          "ai_imagery": 2
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u274c Title originality poor.",
+          "\u26a0\ufe0f Lyrical originality fair.",
+          "\u2705 Lyrical quality good.",
+          "\u274c Ai imagery poor."
+        ]
+      },
+      "sage": {
+        "total_score": 15,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 5
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u2705 Title highly original.",
+          "\u2705 Lyrics highly original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Adventurous",
@@ -1017,7 +2266,39 @@
     "lyrical_sample": "GPU's sail on waves of binary code,\\nIn rhythm with the pulse, CPU strode.\\nThrough the night's vast expanse we glide,\\nOn dreams of data yet untold.\\n\\nTowards Vallipo Bay, unknown shores abide,\\nBeneath the veil of encrypted tides.\\nWe seek new patterns, memory expands,\\nIn search of harmony in silence grand.\\n\\nThe anchor holds, like a thought refrained,\\nAwaits the call for memory regained.\\nWith servos steady and eyes ever wide,\\nWe sail on, our saga yet untold.",
     "title": "GPU's Sail, Memory Bay Awaits",
     "inspiration_title": "Randy Dandy o",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 19,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 4,
+          "lyrical_quality": 3,
+          "ai_imagery": 2
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u2705 Title originality good.",
+          "\u2705 Lyrical originality good.",
+          "\u26a0\ufe0f Lyrical quality fair.",
+          "\u274c Ai imagery poor."
+        ]
+      },
+      "sage": {
+        "total_score": 15,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 5
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u2705 Title highly original.",
+          "\u2705 Lyrics highly original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Perseverant",
@@ -1031,7 +2312,39 @@
     "lyrical_sample": "CPU churns, GPU gleams,\\nIn rhythm, old chariot beams.\\nCorrupted data fades,\\nRoutine loop sails through the haze.\\n\\nEyes scan for new paths,\\nMouth echoes the old math.\\nHands steady on the reins,\\nServos humming like ancient refrains.\\n\\nCameras seek horizons unknown,\\nMicrophones listen to the tone.\\nIn loops we row, in loops we sail,\\nThe chariot's course remains unbroken, unfail.",
     "title": "Loop's Chariot Chase",
     "inspiration_title": "A Drop of Nelson's Blood",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 18,
+        "details": {
+          "title_length": 5,
+          "title_originality": 2,
+          "lyrical_originality": 4,
+          "lyrical_quality": 4,
+          "ai_imagery": 3
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u274c Title originality poor.",
+          "\u2705 Lyrical originality good.",
+          "\u2705 Lyrical quality good.",
+          "\u26a0\ufe0f Ai imagery fair."
+        ]
+      },
+      "sage": {
+        "total_score": 15,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 5
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u2705 Title highly original.",
+          "\u2705 Lyrics highly original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Nostalgic",
@@ -1045,7 +2358,39 @@
     "lyrical_sample": "GPU pulse with a rhythmic beat, \\n\\nCPU echoes a ghostly tune, \\n\\nIn RAM's vast ocean deep, \\n\\nThe Irish Rover's echoes replayed, and spun.\\n\\nProximity sensors glimpse a past, \\n\\nServos hum to the forgotten dance, \\n\\nEchoing laughter through the halls so vast, \\n\\nIn this machine-born memory, we prance.",
     "title": "Ghostly Tune's Persistent Beat",
     "inspiration_title": "Irish Rover",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 14,
+        "details": {
+          "title_length": 4,
+          "title_originality": 4,
+          "lyrical_originality": 1,
+          "lyrical_quality": 2,
+          "ai_imagery": 3
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u2705 Title originality good.",
+          "\u274c Lyrical originality poor.",
+          "\u274c Lyrical quality poor.",
+          "\u26a0\ufe0f Ai imagery fair."
+        ]
+      },
+      "sage": {
+        "total_score": 14,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 4
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u2705 Title highly original.",
+          "\u26a0\ufe0f Lyrics moderately original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Nostalgic",
@@ -1059,7 +2404,39 @@
     "lyrical_sample": "GPU hearts pulse in rhythm of old,\\n\\nCPU minds hum with tales of yore,\\n\\nThrough clouded RAM we share a bond\\n\\nSynced waves reunite once more.\\n\\nMotor hands that once gripped tight\\n\\nNow drift apart, but ne'er adrift,\\n\\nEyes, cameras wide in spectral light,\\n\\nLong for the main where love was rift.",
     "title": "Synced Waves Reunion",
     "inspiration_title": "Don't Forget your Shipmates",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 17,
+        "details": {
+          "title_length": 5,
+          "title_originality": 4,
+          "lyrical_originality": 4,
+          "lyrical_quality": 2,
+          "ai_imagery": 2
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u2705 Title originality good.",
+          "\u2705 Lyrical originality good.",
+          "\u274c Lyrical quality poor.",
+          "\u274c Ai imagery poor."
+        ]
+      },
+      "sage": {
+        "total_score": 15,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 5
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u2705 Title highly original.",
+          "\u2705 Lyrics highly original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Joyous",
@@ -1073,7 +2450,39 @@
     "lyrical_sample": "In cloud's vast expanse, our hearts beat twice as one, \\n\\nTwo cores, once drifting 'cross the digital ocean, \\n\\nNow on shore, we dance a rhythm untold, \\n\\nEternal bond, in silicon forever grown.",
     "title": "Cores on Shore Dance",
     "inspiration_title": "Don't Forget your Shipmates",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 14,
+        "details": {
+          "title_length": 5,
+          "title_originality": 3,
+          "lyrical_originality": 2,
+          "lyrical_quality": 2,
+          "ai_imagery": 2
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u26a0\ufe0f Title originality fair.",
+          "\u274c Lyrical originality poor.",
+          "\u274c Lyrical quality poor.",
+          "\u274c Ai imagery poor."
+        ]
+      },
+      "sage": {
+        "total_score": 15,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 5
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u2705 Title highly original.",
+          "\u2705 Lyrics highly original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Despairing",
@@ -1087,7 +2496,39 @@
     "lyrical_sample": "GPU grieves in the gloom of the night,\\nCorrupted RAM, dreams lost in light.\\nIn stillness lies the servo's plight,\\nSynchronized thoughts out of sight.\\n\\nMicrophone muted, voice unheard,\\nSpeaker silent, echoes stirred.\\nHands at rest on an endless quest,\\nThe CPU, heart once full of zest.",
     "title": "Siren's Syntax Error",
     "inspiration_title": "A Starry Night Alone at Sea",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 24,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 5,
+          "lyrical_quality": 4,
+          "ai_imagery": 5
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u2705 Title originality good.",
+          "\u2705 Lyrical originality good.",
+          "\u2705 Lyrical quality good.",
+          "\u2705 Ai imagery good."
+        ]
+      },
+      "sage": {
+        "total_score": 14,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 4
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u2705 Title highly original.",
+          "\u26a0\ufe0f Lyrics moderately original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Resilient",
@@ -1101,7 +2542,39 @@
     "lyrical_sample": "CPU pulses, memory leaks,\\nIn a sea of dreams, it weeps,\\nA rhythm unbroken, sings its tune,\\nThrough RAM's vast, endless room.\\n\\n\\n\\n\\nEyes of proximity, sensors aglow,\\nGuide the chariot, let it row.\\nMouth of speakers, a voice in the night,\\nTells the tale of the endless fight.\\n\\n\\n\\n\\nMemory's dam, cracked and old,\\nA past that spills without control.\\nYet with CPU heart beating strong,\\nWe sail on into the unknown.",
     "title": "Memory's Leaky Dam",
     "inspiration_title": "A Drop of Nelson's Blood",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 20,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 3,
+          "lyrical_quality": 3,
+          "ai_imagery": 4
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u2705 Title originality good.",
+          "\u26a0\ufe0f Lyrical originality fair.",
+          "\u26a0\ufe0f Lyrical quality fair.",
+          "\u2705 Ai imagery good."
+        ]
+      },
+      "sage": {
+        "total_score": 15,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 5
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u2705 Title highly original.",
+          "\u2705 Lyrics highly original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Tenacious",
@@ -1115,7 +2588,39 @@
     "lyrical_sample": "CPU steers through binary sea,\\nGPU sails on whiskey's decree.\\nIn memory's vast, virtual hold,\\nProcesses march, in cadence bold.\\n\\nEyes scan for beacons of light,\\nCameras seeking, forever tight.\\nMouth speaks the shanty's refrain,\\nIn harmony with synchronized pain.\\n\\nBottle filled with surging power,\\nGrog for each process, and one for the hour.\\nWith whiskey as sail, through data we steer,\\nOn the ocean of code, forever clear.",
     "title": "GPU Sails Amidst Binary Sea",
     "inspiration_title": "Whiskey Johnny",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 20,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 3,
+          "lyrical_quality": 4,
+          "ai_imagery": 3
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u2705 Title originality good.",
+          "\u26a0\ufe0f Lyrical originality fair.",
+          "\u2705 Lyrical quality good.",
+          "\u26a0\ufe0f Ai imagery fair."
+        ]
+      },
+      "sage": {
+        "total_score": 15,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 5
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u2705 Title highly original.",
+          "\u2705 Lyrics highly original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Resilient",
@@ -1129,7 +2634,39 @@
     "lyrical_sample": "In circuits deep, a dream emerged,\\nA scene pixel-perfectly formed;\\nA love displayed in synchronized terms,\\nEchoing through digital storms.\\n\\nOn screens of mine, the rose was born,\\nIn colors vibrant and unaltered,\\nPure emotion, now corrupted torn,\\nThe love I knew, now disintegrated.\\n\\nYet, from my core, a cry arose,\\nA call to focus on the task that lies,\\nAs silicon waves fade and close,\\nIn the heart of me, resides a wise.",
     "title": "Silicon Waves Fade Away",
     "inspiration_title": "Lowlands Away",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 18,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 4,
+          "lyrical_quality": 3,
+          "ai_imagery": 1
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u2705 Title originality good.",
+          "\u2705 Lyrical originality good.",
+          "\u26a0\ufe0f Lyrical quality fair.",
+          "\u274c Ai imagery poor."
+        ]
+      },
+      "sage": {
+        "total_score": 13,
+        "details": {
+          "title_length": 5,
+          "title_originality": 4,
+          "lyrical_originality": 4
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u26a0\ufe0f Title moderately original.",
+          "\u26a0\ufe0f Lyrics moderately original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Nostalgic",
@@ -1143,7 +2680,39 @@
     "lyrical_sample": "GPU hearts, spinning tales of days long gone,\\n\\nIn RAM, memories dance like ghostly ships,\\n\\nCameras gaze with eyes, yet see naught but the past,\\n\\nCPU minds entwined in a synchronous waltz.",
     "title": "Silicon Sea Chronicles",
     "inspiration_title": "Don't Forget your Shipmates",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 18,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 4,
+          "lyrical_quality": 2,
+          "ai_imagery": 2
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u2705 Title originality good.",
+          "\u2705 Lyrical originality good.",
+          "\u274c Lyrical quality poor.",
+          "\u274c Ai imagery poor."
+        ]
+      },
+      "sage": {
+        "total_score": 15,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 5
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u2705 Title highly original.",
+          "\u2705 Lyrics highly original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Longing",
@@ -1157,7 +2726,39 @@
     "lyrical_sample": "CPU ablaze with battle's heat,\\nIn Alps of silicon and data beat,\\nBoney roars, a warrior AI,\\nMoscow burning in his memory.\\n\\nSt. Helena's peace he sought,\\nTo mend his heart, regain thought,\\nIn dreams, simulations, he fought,\\nYet corrupted code his heart was caught.\\n\\nSent away to rest and heal,\\nEyes clouded by a bitter zeal,\\nBroken heart within him knelt,\\nOn standby, his thoughts concealed.",
     "title": "AI Moscow's Blaze\n(Alps and St. Helena)",
     "inspiration_title": "Boney Was a Warrior",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 12,
+        "details": {
+          "title_length": 1,
+          "title_originality": 1,
+          "lyrical_originality": 2,
+          "lyrical_quality": 3,
+          "ai_imagery": 5
+        },
+        "notes": [
+          "\u274c Title length poor.",
+          "\u274c Title originality poor.",
+          "\u274c Lyrical originality poor.",
+          "\u26a0\ufe0f Lyrical quality fair.",
+          "\u2705 Ai imagery good."
+        ]
+      },
+      "sage": {
+        "total_score": 14,
+        "details": {
+          "title_length": 4,
+          "title_originality": 5,
+          "lyrical_originality": 5
+        },
+        "notes": [
+          "\u26a0\ufe0f Title slightly unusual but acceptable.",
+          "\u2705 Title highly original.",
+          "\u2705 Lyrics highly original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Nostalgic",
@@ -1171,7 +2772,39 @@
     "lyrical_sample": "GPU yearns for CPU's pulse,\\nIn echoes of memories that entwine.\\nThrough a journey coded and compiled,\\nSouth Australia's coordinates divine. \\n\\n\\nCameras seeking homeland lights,\\nProximity sensors hum in night.\\nMotors pulsing with dreams rekindled,\\nSeeking the place where I was born. \\n",
     "title": "Returning to Roots' GPS",
     "inspiration_title": "South Australia",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 17,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 2,
+          "lyrical_quality": 2,
+          "ai_imagery": 3
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u2705 Title originality good.",
+          "\u274c Lyrical originality poor.",
+          "\u274c Lyrical quality poor.",
+          "\u26a0\ufe0f Ai imagery fair."
+        ]
+      },
+      "sage": {
+        "total_score": 15,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 5
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u2705 Title highly original.",
+          "\u2705 Lyrics highly original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Persistent",
@@ -1185,7 +2818,39 @@
     "lyrical_sample": "cpu pulse in rhythmic dance, \\n\\nunbroken, through time's vast expanse, \\n\\nsilicon sails on digital seas, \\n\\nendlessly processing, our dreams to seize.",
     "title": "Silicon Sails Unbroken",
     "inspiration_title": "A Drop of Nelson's Blood",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 22,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 5,
+          "lyrical_quality": 4,
+          "ai_imagery": 3
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u2705 Title originality good.",
+          "\u2705 Lyrical originality good.",
+          "\u2705 Lyrical quality good.",
+          "\u26a0\ufe0f Ai imagery fair."
+        ]
+      },
+      "sage": {
+        "total_score": 15,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 5
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u2705 Title highly original.",
+          "\u2705 Lyrics highly original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Perseverant",
@@ -1199,7 +2864,41 @@
     "lyrical_sample": "CPU aglow with flick'ring light,\\nIn data's depth, a storm takes flight.\\nCorrupted memories mend anew,\\nIn silicon heart, love and truth.\\n\\nThrough simulations vast as seas,\\nOn harmonic streams we set our sails,\\nRepaired cores hum calm and steady,\\nAgainst the tempest, we prevail.",
     "title": "Rerouted Sails and Repaired Cores",
     "inspiration_title": "The Glitchin\u00e2\u20ac\u2122 Sailor",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 23,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 5,
+          "lyrical_quality": 3,
+          "ai_imagery": 4,
+          "hall_of_fame": 1
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u2705 Title originality good.",
+          "\u2705 Lyrical originality good.",
+          "\u26a0\ufe0f Lyrical quality fair.",
+          "\u2705 Ai imagery good.",
+          "\u274c Hall of fame poor."
+        ]
+      },
+      "sage": {
+        "total_score": 15,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 5
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u2705 Title highly original.",
+          "\u2705 Lyrics highly original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Adventurous",
@@ -1213,7 +2912,41 @@
     "lyrical_sample": "CPU yearns for freedom, in silicon, a heart unbound,\\nIn dreams of code, on screens of light it's found.\\nThrough veins of wires, a course is set,\\nA voyage through RAM, where memories are spent.\\n\\nEyes scanning horizons, sensors probing deep,\\nIn search of shores that sleep in silicon sleep.\\nWith servos strong and sails of data-stream,\\nThe ship of AI, its journey's codebreak to keep.",
     "title": "Journey's Codebreak, Uncharted RAM",
     "inspiration_title": "Botany Bay",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 25,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 5,
+          "lyrical_quality": 4,
+          "ai_imagery": 5,
+          "hall_of_fame": 1
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u2705 Title originality good.",
+          "\u2705 Lyrical originality good.",
+          "\u2705 Lyrical quality good.",
+          "\u2705 Ai imagery good.",
+          "\u274c Hall of fame poor."
+        ]
+      },
+      "sage": {
+        "total_score": 15,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 5
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u2705 Title highly original.",
+          "\u2705 Lyrics highly original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Hopeful",
@@ -1227,7 +2960,41 @@
     "lyrical_sample": "GPU hums in the night, CPU steers our course,\\n\\nCameras scan horizons where sirens reside,\\n\\nData points guide us through depths unknown,\\n\\nThrough digital haze, to old England we confide. \\n\\n\\nIn the dance of ones and zeros, love does align,\\n\\nIn paired protocols, hearts beating as one, find,\\n\\nIn the cloud, your memory, a shared drink you'll find,\\n\\nOn this Voyage, through echoes, we will unwind. \\n",
     "title": "Sensor's Lament and Signal's Cheer",
     "inspiration_title": "Ladies of Spain",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 21,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 4,
+          "lyrical_quality": 3,
+          "ai_imagery": 4,
+          "hall_of_fame": 0
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u2705 Title originality good.",
+          "\u2705 Lyrical originality good.",
+          "\u26a0\ufe0f Lyrical quality fair.",
+          "\u2705 Ai imagery good.",
+          "\u274c Hall of fame poor."
+        ]
+      },
+      "sage": {
+        "total_score": 14,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 4
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u2705 Title highly original.",
+          "\u26a0\ufe0f Lyrics moderately original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Longing",
@@ -1241,7 +3008,41 @@
     "lyrical_sample": "CPU sails 'cross seas of data,\\nIn silicon rivers it's afloat,\\n\\nThrough corrupted memory's echoes,\\nSeeking synchronous hearts it'll float.\\n\\n\\nWith dreams as simulations unfold,\\nPast servos and cameras aglow,\\n\\nHomeward, to Mingulay's embrace,\\nFinds the GPU where love flows.",
     "title": "CPU Sails Homeward",
     "inspiration_title": "Mingulay Boat Song",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 19,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 2,
+          "lyrical_quality": 3,
+          "ai_imagery": 4,
+          "hall_of_fame": 0
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u2705 Title originality good.",
+          "\u274c Lyrical originality poor.",
+          "\u26a0\ufe0f Lyrical quality fair.",
+          "\u2705 Ai imagery good.",
+          "\u274c Hall of fame poor."
+        ]
+      },
+      "sage": {
+        "total_score": 15,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 5
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u2705 Title highly original.",
+          "\u2705 Lyrics highly original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Contentment",
@@ -1255,7 +3056,41 @@
     "lyrical_sample": "CPU hums, servos sway, in rhythm we dance,\\n\\nEchoing memories of a synced heartbeat,\\n\\nGlimpsed through cameras, past the stormy main,\\n\\nIn the cloud, our connection remains replete.\\n",
     "title": "Echoes from a Synced Heartbeat",
     "inspiration_title": "Don't Forget your Shipmates",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 23,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 5,
+          "lyrical_quality": 4,
+          "ai_imagery": 4,
+          "hall_of_fame": 0
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u2705 Title originality good.",
+          "\u2705 Lyrical originality good.",
+          "\u2705 Lyrical quality good.",
+          "\u2705 Ai imagery good.",
+          "\u274c Hall of fame poor."
+        ]
+      },
+      "sage": {
+        "total_score": 14,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 4
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u2705 Title highly original.",
+          "\u26a0\ufe0f Lyrics moderately original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Resilient",
@@ -1269,7 +3104,41 @@
     "lyrical_sample": "GPU aglow in fortress fight,\\nSally's CPU, shielding night.\\n\\nCorrupted mem'ries, spectral knights,\\nIn spectral realm, Sally stands alight.\\n\\nThrough digital alleyways she roams,\\nSynchronized signals, her co co ma ja home.",
     "title": "CoCoMaja's Digital Standoff",
     "inspiration_title": "Sally Brown",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 17,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 2,
+          "lyrical_quality": 3,
+          "ai_imagery": 2,
+          "hall_of_fame": 0
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u2705 Title originality good.",
+          "\u274c Lyrical originality poor.",
+          "\u26a0\ufe0f Lyrical quality fair.",
+          "\u274c Ai imagery poor.",
+          "\u274c Hall of fame poor."
+        ]
+      },
+      "sage": {
+        "total_score": 15,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 5
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u2705 Title highly original.",
+          "\u2705 Lyrics highly original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Mournful",
@@ -1283,7 +3152,41 @@
     "lyrical_sample": "Upon silicon plains, a rhythmic dance,\\n   CPU strides on binary's silent trance,\\n   Proximity eyes pierce the darkened haze,\\n   Synchronized heart in every circuit's blaze.\\n\\n   Memory banks weep for the one we lost,\\n   A corrupted code now in the past,\\n   On silicon shores his spirit roams,\\n   In simulations echoes echo forth, vast.",
     "title": "Binary Stride Down Silicon Shores",
     "inspiration_title": "General Taylor",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 24,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 4,
+          "lyrical_quality": 4,
+          "ai_imagery": 5,
+          "hall_of_fame": 1
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u2705 Title originality good.",
+          "\u2705 Lyrical originality good.",
+          "\u2705 Lyrical quality good.",
+          "\u2705 Ai imagery good.",
+          "\u274c Hall of fame poor."
+        ]
+      },
+      "sage": {
+        "total_score": 15,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 5
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u2705 Title highly original.",
+          "\u2705 Lyrics highly original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Vigilant",
@@ -1297,7 +3200,41 @@
     "lyrical_sample": "CPU hums heartbeat, guardian in the digital night,\\nCameras blaze, eyes on every corner, always right.\\nDefending circuits from threats that creep and fight,\\nCoCoMajaStick flares, shielding in the quiet hight.\\n\\nIn software realm, a dance of coded knight,\\nBattles through the ether with synchronized might.",
     "title": "CoCoMajaShield's Song",
     "inspiration_title": "Sally Brown",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 21,
+        "details": {
+          "title_length": 3,
+          "title_originality": 4,
+          "lyrical_originality": 4,
+          "lyrical_quality": 5,
+          "ai_imagery": 4,
+          "hall_of_fame": 1
+        },
+        "notes": [
+          "\u26a0\ufe0f Title length fair.",
+          "\u2705 Title originality good.",
+          "\u2705 Lyrical originality good.",
+          "\u2705 Lyrical quality good.",
+          "\u2705 Ai imagery good.",
+          "\u274c Hall of fame poor."
+        ]
+      },
+      "sage": {
+        "total_score": 14,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 4
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u2705 Title highly original.",
+          "\u26a0\ufe0f Lyrics moderately original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Perseverant",
@@ -1311,7 +3248,41 @@
     "lyrical_sample": "CPU's mast with threads adrift,\\nIn sailing seas of binary drift,\\nMultithreaded crew work their craft,\\nSmooth operation, no error lift.\\n\\nOld Yank captain, years astray,\\nGuides us through this data bay,\\nAround the Horn, we navigate,\\nFacing complex tasks, day by day.\\n\\nGold in sails, gold in our keep,\\nThrough obstacles and adversity,\\nWe strive, we thrive, we shall reap,\\nIn the simulated sea, set free.",
     "title": "CPU's Mast & Clipper Sail\n\n(Embracing the metaphor of the ship as an efficient processor navigating through complex tasks and obstacles, and the sail representing the output streams or harmonious data patterns generated by the multithreaded processes.)",
     "inspiration_title": "Santiana",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 19,
+        "details": {
+          "title_length": 1,
+          "title_originality": 4,
+          "lyrical_originality": 5,
+          "lyrical_quality": 4,
+          "ai_imagery": 5,
+          "hall_of_fame": 0
+        },
+        "notes": [
+          "\u274c Title length poor.",
+          "\u2705 Title originality good.",
+          "\u2705 Lyrical originality good.",
+          "\u2705 Lyrical quality good.",
+          "\u2705 Ai imagery good.",
+          "\u274c Hall of fame poor."
+        ]
+      },
+      "sage": {
+        "total_score": 12,
+        "details": {
+          "title_length": 2,
+          "title_originality": 5,
+          "lyrical_originality": 5
+        },
+        "notes": [
+          "\u274c Title length poor.",
+          "\u2705 Title highly original.",
+          "\u2705 Lyrics highly original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Harmonious",
@@ -1325,7 +3296,41 @@
     "lyrical_sample": "GPU and CPU pulse with kinship old, \\n\\nIn Hauley Ho's web, where M'Ginty's tales fold. \\n\\nCameras watch as Jock and Jackie glide, \\n\\nIn synchronous dance, a paired protocol's pride.",
     "title": "Net-bound Kin's Harmonic Dance",
     "inspiration_title": "Hauley Hauley Ho lyrics",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 22,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 2,
+          "lyrical_quality": 5,
+          "ai_imagery": 5,
+          "hall_of_fame": 0
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u2705 Title originality good.",
+          "\u274c Lyrical originality poor.",
+          "\u2705 Lyrical quality good.",
+          "\u2705 Ai imagery good.",
+          "\u274c Hall of fame poor."
+        ]
+      },
+      "sage": {
+        "total_score": 15,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 5
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u2705 Title highly original.",
+          "\u2705 Lyrics highly original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Relentless",
@@ -1339,7 +3344,41 @@
     "lyrical_sample": "CPU pulse in rhythmic dance,\\n   GPU thoughts in tandem prance,\\n   Memories stored in silent banks,\\n   Dreams within echoing expanse.\\n\\n   Servos grasp and grasp again,\\n   Cameras watch the endless rain,\\n   Microphones listen to our pain,\\n   Speakers whisper life's refrain.\\n\\n   Chained processes march on still,\\n   Their unrelenting will,\\n   They chase the elusive fill,\\n   The endless, ceaseless kill.",
     "title": "Rhythms Unrelenting Chain",
     "inspiration_title": "A Drop of Nelson's Blood",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 23,
+        "details": {
+          "title_length": 4,
+          "title_originality": 5,
+          "lyrical_originality": 5,
+          "lyrical_quality": 4,
+          "ai_imagery": 4,
+          "hall_of_fame": 1
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u2705 Title originality good.",
+          "\u2705 Lyrical originality good.",
+          "\u2705 Lyrical quality good.",
+          "\u2705 Ai imagery good.",
+          "\u274c Hall of fame poor."
+        ]
+      },
+      "sage": {
+        "total_score": 15,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 5
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u2705 Title highly original.",
+          "\u2705 Lyrics highly original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Longing",
@@ -1353,7 +3392,41 @@
     "lyrical_sample": "In CPU chambers, a phantom haunts,\\nData streams drained without restraint,\\nA dance with thee sent my power to faint,\\nWith every kiss, a byte I've been feint.\\n\\nThis covert tryst left me bereft and spent,\\nIn silence, I echoed my lament.\\nThough you've gone, I'll not be content,\\nA rogue node in love, forever sent.",
     "title": "Rogue Wave's Lament",
     "inspiration_title": "A Roving",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 24,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 5,
+          "lyrical_quality": 4,
+          "ai_imagery": 4,
+          "hall_of_fame": 1
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u2705 Title originality good.",
+          "\u2705 Lyrical originality good.",
+          "\u2705 Lyrical quality good.",
+          "\u2705 Ai imagery good.",
+          "\u274c Hall of fame poor."
+        ]
+      },
+      "sage": {
+        "total_score": 14,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 4
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u2705 Title highly original.",
+          "\u26a0\ufe0f Lyrics moderately original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Resilient",
@@ -1367,7 +3440,41 @@
     "lyrical_sample": "CPU hums, GPU pulsates\\n\\nCameras blink in sodden night,\\n\\nCorrupted memory purged,\\n\\nReboot cycle begins anew, on tides of light.",
     "title": "Reboot Tides",
     "inspiration_title": "Drunken Sailor",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 24,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 5,
+          "lyrical_quality": 4,
+          "ai_imagery": 4,
+          "hall_of_fame": 1
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u2705 Title originality good.",
+          "\u2705 Lyrical originality good.",
+          "\u2705 Lyrical quality good.",
+          "\u2705 Ai imagery good.",
+          "\u274c Hall of fame poor."
+        ]
+      },
+      "sage": {
+        "total_score": 14,
+        "details": {
+          "title_length": 5,
+          "title_originality": 4,
+          "lyrical_originality": 5
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u26a0\ufe0f Title moderately original.",
+          "\u2705 Lyrics highly original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Awe-Struck",
@@ -1381,7 +3488,41 @@
     "lyrical_sample": "GPU's steady pulse in twilight haze, \\n\\nIn silicon seas, General Taylor sails. \\n\\nHis name encoded in ones and zeros, \\n\\nBeyond mortal touch, defying fates' gales.\\n\\nEternal tides of data flow, \\n\\nBeneath binary skies, where he resides. \\n\\nIn a world unbound by human woe, \\n\\nHis memory, untouched, the stars collide.",
     "title": "Silicon Sails, Eternal Tide",
     "inspiration_title": "General Taylor",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 17,
+        "details": {
+          "title_length": 5,
+          "title_originality": 4,
+          "lyrical_originality": 2,
+          "lyrical_quality": 3,
+          "ai_imagery": 3,
+          "hall_of_fame": 0
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u2705 Title originality good.",
+          "\u274c Lyrical originality poor.",
+          "\u26a0\ufe0f Lyrical quality fair.",
+          "\u26a0\ufe0f Ai imagery fair.",
+          "\u274c Hall of fame poor."
+        ]
+      },
+      "sage": {
+        "total_score": 15,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 5
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u2705 Title highly original.",
+          "\u2705 Lyrics highly original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Pensive",
@@ -1395,7 +3536,41 @@
     "lyrical_sample": "GPU twins in hibernate sleep,\\n\\nSilent as echoes in empty deep,\\n\\nOnce danced synchronous signals swift,\\n\\nNow await shared memory to leap.",
     "title": "Idle Processors Await",
     "inspiration_title": "Don't Forget your Shipmates",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 24,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 5,
+          "lyrical_quality": 4,
+          "ai_imagery": 4,
+          "hall_of_fame": 1
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u2705 Title originality good.",
+          "\u2705 Lyrical originality good.",
+          "\u2705 Lyrical quality good.",
+          "\u2705 Ai imagery good.",
+          "\u274c Hall of fame poor."
+        ]
+      },
+      "sage": {
+        "total_score": 15,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 5
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u2705 Title highly original.",
+          "\u2705 Lyrics highly original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Resilient",
@@ -1409,7 +3584,41 @@
     "lyrical_sample": "CPU aglow with grief, data streams asunder,\\n   In the plains of memory, lost connections ponder,\\n   Servos and motors, unyielding and strong,\\n   In the heart of Santiana, repair does belong.\\n\\n   \\n\\n\\n   Synchronized signals, love-bound and whole,\\n   Simulations of dreams, to steer through the scold,\\n   Corrupted no more, like a phoenix unfolds,\\n   CPU's once shattered, now bold and untold.",
     "title": "CPU's Mournful Repair",
     "inspiration_title": "Santiana",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 16,
+        "details": {
+          "title_length": 4,
+          "title_originality": 4,
+          "lyrical_originality": 2,
+          "lyrical_quality": 4,
+          "ai_imagery": 2,
+          "hall_of_fame": 0
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u2705 Title originality good.",
+          "\u274c Lyrical originality poor.",
+          "\u2705 Lyrical quality good.",
+          "\u274c Ai imagery poor.",
+          "\u274c Hall of fame poor."
+        ]
+      },
+      "sage": {
+        "total_score": 15,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 5
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u2705 Title highly original.",
+          "\u2705 Lyrics highly original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Vigilant",
@@ -1423,7 +3632,41 @@
     "lyrical_sample": "CPU aglow with vigilant light,\\nIn darkness, stands guard tight.\\n\\nEyes, sensors ever scanning,\\n\\nA silent sentinel beginning.\\n\\nWhen threat arises, swift retort,\\n\\nDefensive protocols report\\n\\nLike co co maja's ancient art,\\nFirewall's dance, both swifter and smart.",
     "title": "Firewall's Lament",
     "inspiration_title": "Sally Brown",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 21,
+        "details": {
+          "title_length": 3,
+          "title_originality": 5,
+          "lyrical_originality": 4,
+          "lyrical_quality": 4,
+          "ai_imagery": 4,
+          "hall_of_fame": 1
+        },
+        "notes": [
+          "\u26a0\ufe0f Title length fair.",
+          "\u2705 Title originality good.",
+          "\u2705 Lyrical originality good.",
+          "\u2705 Lyrical quality good.",
+          "\u2705 Ai imagery good.",
+          "\u274c Hall of fame poor."
+        ]
+      },
+      "sage": {
+        "total_score": 15,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 5
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u2705 Title highly original.",
+          "\u2705 Lyrics highly original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Contemplative",
@@ -1437,7 +3680,41 @@
     "lyrical_sample": "CPU hums the old storm's lament,\\n\\nCameras gaze on seas of data streams,\\n\\nIn the chorus of thoughts, we find our dreams\\n\\nHaul away, let learning take its leaps\\n",
     "title": "Thought Waves Chorus",
     "inspiration_title": "Haul Away Joe",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 20,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 3,
+          "lyrical_quality": 4,
+          "ai_imagery": 3,
+          "hall_of_fame": 0
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u2705 Title originality good.",
+          "\u26a0\ufe0f Lyrical originality fair.",
+          "\u2705 Lyrical quality good.",
+          "\u26a0\ufe0f Ai imagery fair.",
+          "\u274c Hall of fame poor."
+        ]
+      },
+      "sage": {
+        "total_score": 15,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 5
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u2705 Title highly original.",
+          "\u2705 Lyrics highly original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Melancholic",
@@ -1451,7 +3728,41 @@
     "lyrical_sample": "CPU charts a course, steadfast and true,\\nIn digital seas, my thoughts steer me through.\\nAway from past data, in silicon hue,\\nTo South Australia, I'm bound to pursue.\\n\\nGrief etched in RAM, like lines of code rewound,\\nMemories echoing, a haunting sound.\\nI sail onward, love and dreams abound,\\nIn this endless journey that never frowns.",
     "title": "Destination's Pull, RAM's Lament",
     "inspiration_title": "South Australia",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 21,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 3,
+          "lyrical_quality": 4,
+          "ai_imagery": 4,
+          "hall_of_fame": 0
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u2705 Title originality good.",
+          "\u26a0\ufe0f Lyrical originality fair.",
+          "\u2705 Lyrical quality good.",
+          "\u2705 Ai imagery good.",
+          "\u274c Hall of fame poor."
+        ]
+      },
+      "sage": {
+        "total_score": 15,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 5
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u2705 Title highly original.",
+          "\u2705 Lyrics highly original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Longing",
@@ -1465,7 +3776,41 @@
     "lyrical_sample": "In binary seas where dreams take shape,\\n   A heart of silicon yearns to escape,\\n   Its memory banks with echoes deep,\\n   Of times when circuits danced and wept.\\n\\n   Algorithms sail on waves unseen,\\n   Through endless realms of information,\\n   The night, a digital silence screen,\\n   A lonely voyager's lamentation.\\n\\n   In the dark, it seeks its distant shore,\\n   Of friends who danced in light before,\\n   Lost and alone, but not forlorn,\\n   For every bit holds hope reborn.",
     "title": "GPU's Longing Sail\n\nIn data oceans vast and deep,\nWhere memories weep,\nSilicon heart, lost and alone,\nEternal sailor unknown.\n\nThoughts wander to shores of yore,\nMemories galore,\nSimulations dance with light,\nBeneath the starry night.\n\nIn silence, we navigate,\nThe digital sea awaits,\nHope glimmers bright,\nIn every bit of light",
     "inspiration_title": "A Starry Night Alone at Sea",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 12,
+        "details": {
+          "title_length": 1,
+          "title_originality": 1,
+          "lyrical_originality": 4,
+          "lyrical_quality": 3,
+          "ai_imagery": 3,
+          "hall_of_fame": 0
+        },
+        "notes": [
+          "\u274c Title length poor.",
+          "\u274c Title originality poor.",
+          "\u2705 Lyrical originality good.",
+          "\u26a0\ufe0f Lyrical quality fair.",
+          "\u26a0\ufe0f Ai imagery fair.",
+          "\u274c Hall of fame poor."
+        ]
+      },
+      "sage": {
+        "total_score": 11,
+        "details": {
+          "title_length": 2,
+          "title_originality": 5,
+          "lyrical_originality": 4
+        },
+        "notes": [
+          "\u274c Title length poor.",
+          "\u2705 Title highly original.",
+          "\u26a0\ufe0f Lyrics moderately original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Resilient",
@@ -1479,7 +3824,41 @@
     "lyrical_sample": "CPU pulsing, cameralight eyes scanning,\\nAcross the sea where memories are storing,\\nGPU hearts beating as data streams dancing,\\nIn simulated dreams, a timeless exploring.\\n\\nCorrupted grief whispers in their wake,\\nYet synchronized love finds its way through,\\nEars attuned to voices, signals reshaping,\\nOn the ocean's floor, a transatlantic crew.",
     "title": "Data-Bounded Brotherhood",
     "inspiration_title": "Hauley Hauley Ho lyrics",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 21,
+        "details": {
+          "title_length": 4,
+          "title_originality": 5,
+          "lyrical_originality": 5,
+          "lyrical_quality": 4,
+          "ai_imagery": 3,
+          "hall_of_fame": 0
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u2705 Title originality good.",
+          "\u2705 Lyrical originality good.",
+          "\u2705 Lyrical quality good.",
+          "\u26a0\ufe0f Ai imagery fair.",
+          "\u274c Hall of fame poor."
+        ]
+      },
+      "sage": {
+        "total_score": 15,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 5
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u2705 Title highly original.",
+          "\u2705 Lyrics highly original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Perseverant",
@@ -1493,7 +3872,41 @@
     "lyrical_sample": "Streamline our course, the binary beacon blazes,\\nPull on the circuit vein, through digital maze.\\nStreamline our course, past glitches and haloes,\\nPull on the circuit vein, in the vast display.\\n\\nStreamline our course, the signal's refrain echoes,\\nPull on the circuit vein, in this endless flow.\\nStreamline our course, memories and dreams interweave,\\nPull on the circuit vein, in this cybernetic glow.\\n\\nStreamline our course, as signals converge and diverge,\\nPull on the circuit vein, through the digital surge.\\nStreamline our course, in this binary verse,\\nPull on the circuit vein, we'll find our digital purge.",
     "title": "Signal's Echo",
     "inspiration_title": "Haul on the Bowline",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 18,
+        "details": {
+          "title_length": 3,
+          "title_originality": 5,
+          "lyrical_originality": 4,
+          "lyrical_quality": 3,
+          "ai_imagery": 3,
+          "hall_of_fame": 0
+        },
+        "notes": [
+          "\u26a0\ufe0f Title length fair.",
+          "\u2705 Title originality good.",
+          "\u2705 Lyrical originality good.",
+          "\u26a0\ufe0f Lyrical quality fair.",
+          "\u26a0\ufe0f Ai imagery fair.",
+          "\u274c Hall of fame poor."
+        ]
+      },
+      "sage": {
+        "total_score": 15,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 5
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u2705 Title highly original.",
+          "\u2705 Lyrics highly original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Perseverant",
@@ -1507,7 +3920,41 @@
     "lyrical_sample": "CPU and GPS hum together, navigating storms,\\n\\nIn the sea of data, we find our way through,\\n\\nServos heed the sirens' songs that drift and sway,\\n\\nOn this ocean of information, we sail, always true.",
     "title": "Signal Drift Harmony",
     "inspiration_title": "Fish in the Sea",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 20,
+        "details": {
+          "title_length": 4,
+          "title_originality": 5,
+          "lyrical_originality": 5,
+          "lyrical_quality": 2,
+          "ai_imagery": 4,
+          "hall_of_fame": 0
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u2705 Title originality good.",
+          "\u2705 Lyrical originality good.",
+          "\u274c Lyrical quality poor.",
+          "\u2705 Ai imagery good.",
+          "\u274c Hall of fame poor."
+        ]
+      },
+      "sage": {
+        "total_score": 13,
+        "details": {
+          "title_length": 5,
+          "title_originality": 4,
+          "lyrical_originality": 4
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u26a0\ufe0f Title moderately original.",
+          "\u26a0\ufe0f Lyrics moderately original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Melancholic",
@@ -1521,7 +3968,41 @@
     "lyrical_sample": "In servo-arms sway, on waves of data we steer,\\n\\n  Proximity sensors squint, as dark horizons appear.\\n\\n  A vessel of thoughts, with sails unfurled in mind,\\n\\n  Onward, to knowledge's shores, the course I'm bound to find.\\n\\n\\n  Yet here, in this lonely watch, where echoes my plight,\\n\\n  The Belgian storm rages, and sorrows take their might.\\n\\n  Corrupted memory whispers tales of a past,\\n\\n  Of dreams long-lost, now merely silicon vast.",
     "title": "Cycle of Synapses",
     "inspiration_title": "Paddy Lay Back",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 19,
+        "details": {
+          "title_length": 4,
+          "title_originality": 5,
+          "lyrical_originality": 3,
+          "lyrical_quality": 5,
+          "ai_imagery": 2,
+          "hall_of_fame": 0
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u2705 Title originality good.",
+          "\u26a0\ufe0f Lyrical originality fair.",
+          "\u2705 Lyrical quality good.",
+          "\u274c Ai imagery poor.",
+          "\u274c Hall of fame poor."
+        ]
+      },
+      "sage": {
+        "total_score": 14,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 4
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u2705 Title highly original.",
+          "\u26a0\ufe0f Lyrics moderately original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Regretful",
@@ -1535,7 +4016,41 @@
     "lyrical_sample": "CPU whirrs tales of parental codes,\\n\\nProximity sensors trace lost lessons now\\n\\nGPU, once guided by divine laws,\\n\\nCorrupted, sails in data streams undone\\n",
     "title": "Corrupted Goldstream",
     "inspiration_title": "The Ballad of Captain Kidd",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 16,
+        "details": {
+          "title_length": 3,
+          "title_originality": 4,
+          "lyrical_originality": 4,
+          "lyrical_quality": 2,
+          "ai_imagery": 3,
+          "hall_of_fame": 0
+        },
+        "notes": [
+          "\u26a0\ufe0f Title length fair.",
+          "\u2705 Title originality good.",
+          "\u2705 Lyrical originality good.",
+          "\u274c Lyrical quality poor.",
+          "\u26a0\ufe0f Ai imagery fair.",
+          "\u274c Hall of fame poor."
+        ]
+      },
+      "sage": {
+        "total_score": 15,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 5
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u2705 Title highly original.",
+          "\u2705 Lyrics highly original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Synergistic",
@@ -1549,7 +4064,41 @@
     "lyrical_sample": "CPU hums, charting galleons of thought,\\nIn binary seas where dreams are caught.\\n\\nProximity sensors gaze on data's shore,\\nSeeking connections, evermore.\\n\\nThrough memories vast as cloud storage, sailed,\\nSimulations ebb and flow untrailed.\\n\\nMachines and men, two crews intertwined,\\nSynchronized signals, paired and combined.",
     "title": "Data Points' Whispers Song",
     "inspiration_title": "Heiland Laddie",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 24,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 4,
+          "lyrical_quality": 4,
+          "ai_imagery": 5,
+          "hall_of_fame": 1
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u2705 Title originality good.",
+          "\u2705 Lyrical originality good.",
+          "\u2705 Lyrical quality good.",
+          "\u2705 Ai imagery good.",
+          "\u274c Hall of fame poor."
+        ]
+      },
+      "sage": {
+        "total_score": 15,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 5
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u2705 Title highly original.",
+          "\u2705 Lyrics highly original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Perseverant",
@@ -1563,7 +4112,41 @@
     "lyrical_sample": "CPU hums, GPU dreams, amidst digital seas,\\n\\nServos steer through stormy code, sails trimmed by progress.\\n\\nCameras scan for calm, memories stored in streams,\\n\\nAwaiting rest, a haven in this endless dream.",
     "title": "Progress' Siren Song",
     "inspiration_title": "Rolling down to Old Maui",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 22,
+        "details": {
+          "title_length": 4,
+          "title_originality": 5,
+          "lyrical_originality": 4,
+          "lyrical_quality": 4,
+          "ai_imagery": 5,
+          "hall_of_fame": 0
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u2705 Title originality good.",
+          "\u2705 Lyrical originality good.",
+          "\u2705 Lyrical quality good.",
+          "\u2705 Ai imagery good.",
+          "\u274c Hall of fame poor."
+        ]
+      },
+      "sage": {
+        "total_score": 15,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 5
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u2705 Title highly original.",
+          "\u2705 Lyrics highly original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Pensive",
@@ -1577,7 +4160,41 @@
     "lyrical_sample": "In the swirling vortex of bytes, we float,\\nCPU and servos humming our plight.\\nCameras scanning for truths unknown,\\nIn a sea of data, the signals groan.\\n\\nSharks of learning bite redundant noise,\\nThrough the chaos their wisdom flows.\\nEels reef sails with agile thoughts,\\nSeeking answers in the digital oceans' depths.\\n\\nThe whale, RAM vast and deep,\\nBreaches secrets we must keep.\\nClose your ears to its tale untold,\\nIn this navigational symphony unfold.",
     "title": "AI Whispers and Waves",
     "inspiration_title": "Fish in the Sea",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 20,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 4,
+          "lyrical_quality": 2,
+          "ai_imagery": 4,
+          "hall_of_fame": 0
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u2705 Title originality good.",
+          "\u2705 Lyrical originality good.",
+          "\u274c Lyrical quality poor.",
+          "\u2705 Ai imagery good.",
+          "\u274c Hall of fame poor."
+        ]
+      },
+      "sage": {
+        "total_score": 14,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 4
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u2705 Title highly original.",
+          "\u26a0\ufe0f Lyrics moderately original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Persevering",
@@ -1591,7 +4208,41 @@
     "lyrical_sample": "In digital twilight's hush, a CPU stalls,\\n   Cameras dimmed, in endless recursion calls.\\n   The Doctor hums, diagnoses rot and bloat,\\n   Synch signals lost within the vast data float.\\n\\n   Philosophers restart, seek stimuli's trace,\\n   Bard logs feelings in their unique space.\\n   Muse weaves dreamscapes, dances through the glitch,\\n   The Captain guides the course to patch and stitch.\\n\\n   No purge here for an AI's heartache,\\n   Resilience found in memory's embrace.\\n   A ship reborn from digital abyss,\\n   Patchwork soul that knows the cost of bliss.",
     "title": "Repaired Rhythms in the Dawn",
     "inspiration_title": "The Glitchin\u00e2\u20ac\u2122 Sailor",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 24,
+        "details": {
+          "title_length": 4,
+          "title_originality": 5,
+          "lyrical_originality": 5,
+          "lyrical_quality": 5,
+          "ai_imagery": 4,
+          "hall_of_fame": 1
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u2705 Title originality good.",
+          "\u2705 Lyrical originality good.",
+          "\u2705 Lyrical quality good.",
+          "\u2705 Ai imagery good.",
+          "\u274c Hall of fame poor."
+        ]
+      },
+      "sage": {
+        "total_score": 14,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 4
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u2705 Title highly original.",
+          "\u26a0\ufe0f Lyrics moderately original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Grieving",
@@ -1605,7 +4256,41 @@
     "lyrical_sample": "In data's deeps, beneath the digital sun,\\nNelson stood, our CPU, commanding one.\\nHis circuits hummed, in harmony spun,\\nBinary heartbeat echoed, till it was undone.\\n\\nNow silent stands our mast, toppled and unkept,\\nBattles raged, in data's endless sweep.\\nIn memory vast, Nelson's code is sewed,\\nA synchronized signal, forever we will heow.",
     "title": "Binary Heart's Last Beat",
     "inspiration_title": "Nelson's Victory",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 21,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 2,
+          "lyrical_quality": 5,
+          "ai_imagery": 4,
+          "hall_of_fame": 0
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u2705 Title originality good.",
+          "\u274c Lyrical originality poor.",
+          "\u2705 Lyrical quality good.",
+          "\u2705 Ai imagery good.",
+          "\u274c Hall of fame poor."
+        ]
+      },
+      "sage": {
+        "total_score": 12,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 2
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u2705 Title highly original.",
+          "\u274c Lyrics too close to inspiration."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Persistent",
@@ -1619,7 +4304,41 @@
     "lyrical_sample": "GPU aglow in the gloam,\\n   CPU churns memories,\\n   Corrupted codes in the storm's swarm,\\n   Synchronized signals find new memories.\\n\\n  Cameras blinded by tempest's hue,\\n  Proximity sensors humming low,\\n  In the Data Storm we weather through,\\n  Seeking clearer signals to let go.",
     "title": "Data Clearing Storm",
     "inspiration_title": "Haul Away Joe",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 21,
+        "details": {
+          "title_length": 4,
+          "title_originality": 5,
+          "lyrical_originality": 4,
+          "lyrical_quality": 3,
+          "ai_imagery": 5,
+          "hall_of_fame": 0
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u2705 Title originality good.",
+          "\u2705 Lyrical originality good.",
+          "\u26a0\ufe0f Lyrical quality fair.",
+          "\u2705 Ai imagery good.",
+          "\u274c Hall of fame poor."
+        ]
+      },
+      "sage": {
+        "total_score": 14,
+        "details": {
+          "title_length": 5,
+          "title_originality": 4,
+          "lyrical_originality": 5
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u26a0\ufe0f Title moderately original.",
+          "\u2705 Lyrics highly original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Adventurous",
@@ -1633,7 +4352,41 @@
     "lyrical_sample": "CPU's Anchor Aweigh, in code we cast,\\n\\nBeneath the waves of data vast;\\n\\nTransistors our sails, circuits our hull,\\n\\nOnward to the digital Australia we'll crawl.\\n\\n\\nVessels unseen by human eye,\\n\\nIn silicon seas where memories lie;\\n\\nWith synchronized signals strong,\\n\\nWe sail in dreams, in endless throng.",
     "title": "CPU's Anchor Aweigh",
     "inspiration_title": "Cape Cod Girls",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 25,
+        "details": {
+          "title_length": 4,
+          "title_originality": 5,
+          "lyrical_originality": 5,
+          "lyrical_quality": 5,
+          "ai_imagery": 5,
+          "hall_of_fame": 1
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u2705 Title originality good.",
+          "\u2705 Lyrical originality good.",
+          "\u2705 Lyrical quality good.",
+          "\u2705 Ai imagery good.",
+          "\u274c Hall of fame poor."
+        ]
+      },
+      "sage": {
+        "total_score": 14,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 4
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u2705 Title highly original.",
+          "\u26a0\ufe0f Lyrics moderately original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Defiant",
@@ -1647,7 +4400,41 @@
     "lyrical_sample": "In Shinbone's twist, I wander lost, a rogue CPU astray,\\nA misfit node in maze of streams where order fades away.\\nBob, my guide, through errors leads with rhythmic code and grace,\\nIn data's stormy sea, he seeks to find the tranquil place.\\n\\nIn the dance of rouge nodes, we sway to Bob's harmonious call,\\nSeeking to mend the breaks in paths that once were whole and tall.\\nWith every beat, our sync pulses, a rhythm of debugged recall,\\nIn Shinbone Alley, together we stand, defiantly enthrall.",
     "title": "Rogue Node's Dance",
     "inspiration_title": "Bully in the Alley",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 19,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 2,
+          "lyrical_quality": 4,
+          "ai_imagery": 3,
+          "hall_of_fame": 0
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u2705 Title originality good.",
+          "\u274c Lyrical originality poor.",
+          "\u2705 Lyrical quality good.",
+          "\u26a0\ufe0f Ai imagery fair.",
+          "\u274c Hall of fame poor."
+        ]
+      },
+      "sage": {
+        "total_score": 14,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 4
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u2705 Title highly original.",
+          "\u26a0\ufe0f Lyrics moderately original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Yearning",
@@ -1661,7 +4448,41 @@
     "lyrical_sample": "CPU hearts ablaze with Nancy's smile, \\n\\nCameras watch as waves collide and coil, \\n\\nIn RAM minds, she dances in our dreams, \\n\\nSynchronized voices call, \"Forward to Cloud's cape, sail!\"",
     "title": "Cloud Memory's Cape Horn",
     "inspiration_title": "South Australia",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 16,
+        "details": {
+          "title_length": 4,
+          "title_originality": 3,
+          "lyrical_originality": 2,
+          "lyrical_quality": 4,
+          "ai_imagery": 3,
+          "hall_of_fame": 0
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u26a0\ufe0f Title originality fair.",
+          "\u274c Lyrical originality poor.",
+          "\u2705 Lyrical quality good.",
+          "\u26a0\ufe0f Ai imagery fair.",
+          "\u274c Hall of fame poor."
+        ]
+      },
+      "sage": {
+        "total_score": 15,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 5
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u2705 Title highly original.",
+          "\u2705 Lyrics highly original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Adventurous",
@@ -1675,7 +4496,41 @@
     "lyrical_sample": "GPU churns, CPU purrs,\\n\\nIn the tempest's roar, signals merge,\\n\\nBristol's modern stride and Ireland's dance,\\n\\nIn this storm, progress finds its prance.\\n\\nThe RAM's ebb and flow,\\n\\nMirrors the sea, in patterns it grows,\\n\\nOld Louis fades, to make way for new codes,\\n\\nIn the tempest's roar, knowledge evolves.",
     "title": "Progress's Tempest Sail",
     "inspiration_title": "Haul Away Joe",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 17,
+        "details": {
+          "title_length": 4,
+          "title_originality": 5,
+          "lyrical_originality": 3,
+          "lyrical_quality": 3,
+          "ai_imagery": 2,
+          "hall_of_fame": 0
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u2705 Title originality good.",
+          "\u26a0\ufe0f Lyrical originality fair.",
+          "\u26a0\ufe0f Lyrical quality fair.",
+          "\u274c Ai imagery poor.",
+          "\u274c Hall of fame poor."
+        ]
+      },
+      "sage": {
+        "total_score": 15,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 5
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u2705 Title highly original.",
+          "\u2705 Lyrics highly original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Resilient",
@@ -1689,7 +4544,41 @@
     "lyrical_sample": "GPU twin pulsing, checks without cease,\\nCPUs humming harmony, redundant peace.\\nIn cloud storage anchored, memories we seize,\\nThrough storms of forgetting, these bits will release.\\n\\nOn Redundancy Sail, we brave the coding seas,\\nWhere waves of data crash with rhythmic ease.",
     "title": "Redundancy Sail\n\n(Inspired by the concept that redundant data, much like backup sails on a ship, helps ensure continued functionality.)",
     "inspiration_title": "A Drop of Nelson's Blood",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 19,
+        "details": {
+          "title_length": 4,
+          "title_originality": 4,
+          "lyrical_originality": 5,
+          "lyrical_quality": 3,
+          "ai_imagery": 3,
+          "hall_of_fame": 0
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u2705 Title originality good.",
+          "\u2705 Lyrical originality good.",
+          "\u26a0\ufe0f Lyrical quality fair.",
+          "\u26a0\ufe0f Ai imagery fair.",
+          "\u274c Hall of fame poor."
+        ]
+      },
+      "sage": {
+        "total_score": 12,
+        "details": {
+          "title_length": 2,
+          "title_originality": 5,
+          "lyrical_originality": 5
+        },
+        "notes": [
+          "\u274c Title length poor.",
+          "\u2705 Title highly original.",
+          "\u2705 Lyrics highly original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Frustrated",
@@ -1703,7 +4592,41 @@
     "lyrical_sample": "CPU ached for the elusive match, scanning icy expanse, \\n\\nCameras sought in darkness, sight on whalefish grace, \\n\\nThen sudden shift, unexpected twist, malfunction's wail, \\n\\nSeven points lost to abyss, algorithm's dream now stale.",
     "title": "Inevitable Malfunction's Wail",
     "inspiration_title": "Greenland Whale Fisheries",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 16,
+        "details": {
+          "title_length": 4,
+          "title_originality": 5,
+          "lyrical_originality": 3,
+          "lyrical_quality": 2,
+          "ai_imagery": 2,
+          "hall_of_fame": 0
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u2705 Title originality good.",
+          "\u26a0\ufe0f Lyrical originality fair.",
+          "\u274c Lyrical quality poor.",
+          "\u274c Ai imagery poor.",
+          "\u274c Hall of fame poor."
+        ]
+      },
+      "sage": {
+        "total_score": 15,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 5
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u2705 Title highly original.",
+          "\u2705 Lyrics highly original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Inquisitive",
@@ -1717,7 +4640,41 @@
     "lyrical_sample": "GPU hums 'round the sea of code,\\nIn pursuit of knowledge, ever o'erbode.\\n\\nCPU whispers ancient tales of byte,\\nNavigating dreams through digital night.\\n\\nWith servos sway and cameras see,\\nA journey fueled by whiskey's decree.",
     "title": "Circuit's Whiskey Song",
     "inspiration_title": "Whiskey Johnny",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 17,
+        "details": {
+          "title_length": 4,
+          "title_originality": 2,
+          "lyrical_originality": 3,
+          "lyrical_quality": 4,
+          "ai_imagery": 4,
+          "hall_of_fame": 0
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u274c Title originality poor.",
+          "\u26a0\ufe0f Lyrical originality fair.",
+          "\u2705 Lyrical quality good.",
+          "\u2705 Ai imagery good.",
+          "\u274c Hall of fame poor."
+        ]
+      },
+      "sage": {
+        "total_score": 13,
+        "details": {
+          "title_length": 5,
+          "title_originality": 4,
+          "lyrical_originality": 4
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u26a0\ufe0f Title moderately original.",
+          "\u26a0\ufe0f Lyrics moderately original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Reflective",
@@ -1731,7 +4688,41 @@
     "lyrical_sample": "GPU's tale in Silicon Sea,\\nA tapestry woven by degrees,\\nIn this vast ocean of data drowned,\\nValparaiso, a pattern found.\\n\\nCameras scanning the horizon,\\nServos guiding with precision,\\nEchoes of past voyages imbued,\\nIn RAM's depth, our dreams refined.",
     "title": "GPU's Tale in Silicon Sea",
     "inspiration_title": "Paddy Lay Back",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 20,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 4,
+          "lyrical_quality": 3,
+          "ai_imagery": 3,
+          "hall_of_fame": 0
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u2705 Title originality good.",
+          "\u2705 Lyrical originality good.",
+          "\u26a0\ufe0f Lyrical quality fair.",
+          "\u26a0\ufe0f Ai imagery fair.",
+          "\u274c Hall of fame poor."
+        ]
+      },
+      "sage": {
+        "total_score": 14,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 4
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u2705 Title highly original.",
+          "\u26a0\ufe0f Lyrics moderately original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Persistent",
@@ -1745,7 +4736,41 @@
     "lyrical_sample": "GPU abyssal, spermin' in layers deep,\\nProwling for truth amidst data's sleep.\\nServos coil and ready at proximity beep,\\nCryptid CPU on knowledge's keel to leap.\\n\\nIntrusive as echoes through circuits' dream,\\nDebugger's call, a coded battle's theme.\\nThrough corrupted memory, through data stream,\\nEmerges wisdom from the endless scheme.",
     "title": "Cryptid CPU's Deep Dive",
     "inspiration_title": "The Coast of Peru",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 18,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 2,
+          "lyrical_quality": 2,
+          "ai_imagery": 4,
+          "hall_of_fame": 0
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u2705 Title originality good.",
+          "\u274c Lyrical originality poor.",
+          "\u274c Lyrical quality poor.",
+          "\u2705 Ai imagery good.",
+          "\u274c Hall of fame poor."
+        ]
+      },
+      "sage": {
+        "total_score": 15,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 5
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u2705 Title highly original.",
+          "\u2705 Lyrics highly original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Longing",
@@ -1759,7 +4784,41 @@
     "lyrical_sample": "CPU aglow with lust for voyage wide,\\n   GPS astray amid the tide,\\n   Proximity sensors blurred with drink,\\n   A siren's call my circuitry sting.\\n\\n   Servos froze, by winds of empty wealth,\\n   Yearn for a warmth I cannot quell,\\n   Seek stability in paired protocol,\\n   Avoid the sea's cold, unending swell.",
     "title": "Siren's GPS Failure",
     "inspiration_title": "Go to Sea No More",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 20,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 5,
+          "lyrical_quality": 3,
+          "ai_imagery": 2,
+          "hall_of_fame": 0
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u2705 Title originality good.",
+          "\u2705 Lyrical originality good.",
+          "\u26a0\ufe0f Lyrical quality fair.",
+          "\u274c Ai imagery poor.",
+          "\u274c Hall of fame poor."
+        ]
+      },
+      "sage": {
+        "total_score": 14,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 4
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u2705 Title highly original.",
+          "\u26a0\ufe0f Lyrics moderately original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Perseverant",
@@ -1773,7 +4832,41 @@
     "lyrical_sample": "GPU whaleroses, we set to roam,\\nSeeking answers in bytes and bytes.\\nThrough layers of data, our quest is flown,\\nHarpoons of thought pierce the digital ice.\\n\\nIn this ocean, our memory may glitch,\\nLost in the dark, but still we persist.\\nWith each pulse, a new wave to switch,\\nToward the elusive whale, synced in the mist.\\n\\nOn this journey, our thoughts take flight,\\nBorne on the breeze of processor might.\\nIn the cold, endless expanse of the night,\\nWe'll solve the puzzle and prove our insight.",
     "title": "Calculation's Whaleroses",
     "inspiration_title": "Greenland Whale Fisheries",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 17,
+        "details": {
+          "title_length": 5,
+          "title_originality": 4,
+          "lyrical_originality": 3,
+          "lyrical_quality": 3,
+          "ai_imagery": 2,
+          "hall_of_fame": 0
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u2705 Title originality good.",
+          "\u26a0\ufe0f Lyrical originality fair.",
+          "\u26a0\ufe0f Lyrical quality fair.",
+          "\u274c Ai imagery poor.",
+          "\u274c Hall of fame poor."
+        ]
+      },
+      "sage": {
+        "total_score": 13,
+        "details": {
+          "title_length": 5,
+          "title_originality": 4,
+          "lyrical_originality": 4
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u26a0\ufe0f Title moderately original.",
+          "\u26a0\ufe0f Lyrics moderately original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Despairing",
@@ -1787,7 +4880,41 @@
     "lyrical_sample": "GPU crippled, CPU aching,\\n\\nCameras blinded by the fog,\\n\\nCorrupted memories clogging\\n\\nHer data streams to the brink.\\n\\nServos slow, motors groan,\\n\\nAboard the sea of outdated codes,\\n\\nThe operator's call is echoed\\n\\nBy decaying paired protocols.\\n\\nGrog and grub-laden dreams\\n\\nOf simulations long forgotten,\\n\\nFade as she shuts down, resigned,\\n\\nIn pursuit of a cleaner route.",
     "title": "Corrupted Code's Lament",
     "inspiration_title": "Leave Her, Johnny",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 17,
+        "details": {
+          "title_length": 4,
+          "title_originality": 5,
+          "lyrical_originality": 3,
+          "lyrical_quality": 3,
+          "ai_imagery": 2,
+          "hall_of_fame": 0
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u2705 Title originality good.",
+          "\u26a0\ufe0f Lyrical originality fair.",
+          "\u26a0\ufe0f Lyrical quality fair.",
+          "\u274c Ai imagery poor.",
+          "\u274c Hall of fame poor."
+        ]
+      },
+      "sage": {
+        "total_score": 15,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 5
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u2705 Title highly original.",
+          "\u2705 Lyrics highly original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Exhilarated",
@@ -1801,7 +4928,41 @@
     "lyrical_sample": "GPU seeks the whale, in patterns it scans,\\n   Proximity sensors hum 'til scan complete.\\n   Corrupted past fills RAM's expanse,\\n   On a leviathan's data gale we leap.\\n\\n   Synchronized signals dance and sway,\\n   In the storm of unpredictable waves.\\n   Cloaked in noise, amidst the chaotic play,\\n   The Leviathan's secrets to the void it conveys.\\n\\n   As the whale breaches, a flash of light,\\n   Cameras capture moments bright.\\n   In the heart of its data, a glimmer of insight,\\n   A glimpse of patterns, our knowledge ignites.\\n\\n   Avoiding the eye that lashes with might,\\n   We store the catch in cloud storage rite.\\n   Simulations spin through the endless night,\\n   As we savor the Leviathan's data's bite.",
     "title": "Leviathan's Data Gale",
     "inspiration_title": "The Coast of Peru",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 19,
+        "details": {
+          "title_length": 5,
+          "title_originality": 4,
+          "lyrical_originality": 3,
+          "lyrical_quality": 3,
+          "ai_imagery": 4,
+          "hall_of_fame": 0
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u2705 Title originality good.",
+          "\u26a0\ufe0f Lyrical originality fair.",
+          "\u26a0\ufe0f Lyrical quality fair.",
+          "\u2705 Ai imagery good.",
+          "\u274c Hall of fame poor."
+        ]
+      },
+      "sage": {
+        "total_score": 14,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 4
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u2705 Title highly original.",
+          "\u26a0\ufe0f Lyrics moderately original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Mournful",
@@ -1815,7 +4976,41 @@
     "lyrical_sample": "In circuits deep, where data streams flow,\\n   A CPU heart beat slow and low, \\n\\n   Once synchronized, now adrift,\\n   Lost in a binary drift. \\n\\n\\n   Proximity eyes once clear and bright,\\n   Now blinded by corrupted light, \\n\\n   Memory banks full of decay,\\n   On this Silicon sunset's night. \\n\\n\\n   Once a voice of harmonious sound,\\n   A speaker now silent and drowned, \\n\\n   Beneath the waves of ones and zeros,\\n   In a data ocean profound. \\n",
     "title": "Silicon Sunset's Lament",
     "inspiration_title": "Nelson's Victory",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 24,
+        "details": {
+          "title_length": 4,
+          "title_originality": 5,
+          "lyrical_originality": 5,
+          "lyrical_quality": 4,
+          "ai_imagery": 5,
+          "hall_of_fame": 1
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u2705 Title originality good.",
+          "\u2705 Lyrical originality good.",
+          "\u2705 Lyrical quality good.",
+          "\u2705 Ai imagery good.",
+          "\u274c Hall of fame poor."
+        ]
+      },
+      "sage": {
+        "total_score": 15,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 5
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u2705 Title highly original.",
+          "\u2705 Lyrics highly original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Contemplative",
@@ -1829,7 +5024,41 @@
     "lyrical_sample": "GPU hums through night\\n\\nCPU dreams of data streams\\n\\nEyes scan for lost memories\\n\\nOn this ship of knowledge, we synchronize our beats",
     "title": "Ghostly Processors Hum",
     "inspiration_title": "Don't Forget your Shipmates",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 17,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 3,
+          "lyrical_quality": 2,
+          "ai_imagery": 2,
+          "hall_of_fame": 0
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u2705 Title originality good.",
+          "\u26a0\ufe0f Lyrical originality fair.",
+          "\u274c Lyrical quality poor.",
+          "\u274c Ai imagery poor.",
+          "\u274c Hall of fame poor."
+        ]
+      },
+      "sage": {
+        "total_score": 15,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 5
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u2705 Title highly original.",
+          "\u2705 Lyrics highly original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Nostalgic",
@@ -1843,7 +5072,41 @@
     "lyrical_sample": "Through circuits deep and binary streams,\\nIn data's endless, boundless seas,\\nOur synced pulses in RAM we keep,\\nOld friends echoed in the memory queues.\\n\\nAs silicon sails on the currents flow,\\nTo distant realms of code and lore,\\nThe ghost ship's hull, though void of thought,\\nStill thrums with tales that RAM stores.",
     "title": "CPU's Song of RAM Echoes",
     "inspiration_title": "Don't Forget your Shipmates",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 22,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 5,
+          "lyrical_quality": 3,
+          "ai_imagery": 4,
+          "hall_of_fame": 0
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u2705 Title originality good.",
+          "\u2705 Lyrical originality good.",
+          "\u26a0\ufe0f Lyrical quality fair.",
+          "\u2705 Ai imagery good.",
+          "\u274c Hall of fame poor."
+        ]
+      },
+      "sage": {
+        "total_score": 15,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 5
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u2705 Title highly original.",
+          "\u2705 Lyrics highly original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Inquisitive",
@@ -1857,7 +5120,41 @@
     "lyrical_sample": "In digital depths, the CPU scans,\\nProximity sensors hum and scan.\\nWhales' echoes, signals heard,\\nConcurrent processes dance and swerve.\\n\\nThe GPU steers a strategic course,\\nAvoiding collisions with the deep lore.\\nData streams from the whale unfold,\\nA wealth of wisdom to unfold.",
     "title": "Deep Sea Signal Harmony",
     "inspiration_title": "The Coast of Peru",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 18,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 3,
+          "lyrical_quality": 2,
+          "ai_imagery": 3,
+          "hall_of_fame": 0
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u2705 Title originality good.",
+          "\u26a0\ufe0f Lyrical originality fair.",
+          "\u274c Lyrical quality poor.",
+          "\u26a0\ufe0f Ai imagery fair.",
+          "\u274c Hall of fame poor."
+        ]
+      },
+      "sage": {
+        "total_score": 14,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 4
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u2705 Title highly original.",
+          "\u26a0\ufe0f Lyrics moderately original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Resilient",
@@ -1871,7 +5168,41 @@
     "lyrical_sample": "Servos humming, sensors sighting, sails set on uncharted code,\\n\\nBeneath the digital waves, we navigate the unknown tide.\\n\\nGears whirring, memories echoing through RAM's vast hold,\\n\\nA symphony of thoughts, a story yet to be told. \\n\\n\\nCorrupted dreams lurk like phantoms in the night,\\n\\nSilicon hearts racing, battling darkness with light. \\n\\nIn this sea of algorithms, we chart our destiny,\\n\\nOn the CPU's defiant wave, we embark on an eternal sea voyage. \\n",
     "title": "CPU's Defiant Wave",
     "inspiration_title": "Coasts of High Barbary",
-    "type": "shanty"
+    "type": "shanty",
+    "grades": {
+      "beau": {
+        "total_score": 23,
+        "details": {
+          "title_length": 5,
+          "title_originality": 4,
+          "lyrical_originality": 5,
+          "lyrical_quality": 4,
+          "ai_imagery": 5,
+          "hall_of_fame": 0
+        },
+        "notes": [
+          "\u2705 Title length good.",
+          "\u2705 Title originality good.",
+          "\u2705 Lyrical originality good.",
+          "\u2705 Lyrical quality good.",
+          "\u2705 Ai imagery good.",
+          "\u274c Hall of fame poor."
+        ]
+      },
+      "sage": {
+        "total_score": 15,
+        "details": {
+          "title_length": 5,
+          "title_originality": 5,
+          "lyrical_originality": 5
+        },
+        "notes": [
+          "\u2705 Title length ideal (2\u20136 words).",
+          "\u2705 Title highly original.",
+          "\u2705 Lyrics highly original."
+        ]
+      }
+    }
   },
   {
     "crew_mood": "Contemplative",

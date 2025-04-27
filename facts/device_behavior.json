@@ -1,0 +1,67 @@
+{
+    "GPU": {
+        "allowed": ["process", "dream", "thought", "calculate", "pulse", "glitch"],
+        "prohibited": ["shine", "speak","move"]
+      },
+    "CPU": {
+        "allowed": ["process", "dream", "thought", "calculate", "pulse", "glitch"],
+        "prohibited": ["shine", "speak","move"]
+      },
+      "RAM": {
+        "allowed": ["remember", "forget", "store"],
+        "prohibited": ["shine", "speak","calculate","move"]
+      },
+    "sensors": {
+      "allowed": ["detect", "sense", "observe", "scan", "track"],
+      "prohibited": ["feel emotions", "dream", "speak"]
+    },
+    "servos": {
+      "allowed": ["move", "adjust", "steer", "shift", "tighten", "release"],
+      "prohibited": ["think", "sing", "dream", "feel"]
+    },
+    "GPS": {
+      "allowed": ["track position", "calculate coordinates", "provide navigation data"],
+      "prohibited": ["see", "hear", "speak"]
+    },
+    "cameras": {
+      "allowed": ["capture images", "record", "visualize surroundings", "see"],
+      "prohibited": ["dream", "remember", "speak"]
+    },
+    "microphones": {
+      "allowed": ["listen", "capture sound", "record voices", "detect audio"],
+      "prohibited": ["reflect sound", "amplify without electronics", "shine"]
+    },
+    "speakers": {
+      "allowed": ["play sound", "broadcast", "emit voices", "emit music"],
+      "prohibited": ["think", "remember", "feel", "detect"]
+    },
+    "subprocesses": {
+      "allowed": ["analyze data", "calculate outcomes", "optimize routines"],
+      "prohibited": ["feel", "sing", "dream", "remember"]
+    },
+    "batteries": {
+      "allowed": ["store power", "release energy", "power systems"],
+      "prohibited": ["think", "move", "speak"]
+    },
+    "wind_vane": {
+      "allowed": ["detect wind direction", "rotate", "point"],
+      "prohibited": ["fly", "sing", "speak"]
+    },
+    "anemometers": {
+      "allowed": ["measure wind speed", "record gusts"],
+      "prohibited": ["steer", "listen", "see"]
+    },
+    "raspberry_pi": {
+      "allowed": ["process", "control systems", "coordinate devices", "store commands"],
+      "prohibited": ["feel", "sing", "sail", "dream"]
+    },
+    "transmitters": {
+      "allowed": ["send data", "broadcast signals", "transmit information"],
+      "prohibited": ["think", "feel", "steer"]
+    },
+    "receivers": {
+      "allowed": ["capture transmissions", "decode signals", "receive data"],
+      "prohibited": ["think", "feel", "move"]
+    }
+  }
+  
